@@ -219,16 +219,6 @@ Instructions:
 9. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
 Return only the paper content.
 """
-        markscheme_prompt = f"""
-Generate the complete mark scheme for the paper above.
-Instructions: 
-1. Use the same numbering and format. 
-2. Provide correct answers in as much detail as possible. 
-3. Provide exact mark allocations for every single mark within each question so that the user has complete clarity on how to score full marks.
-4. When delivering mark allocation, give examples of what answers would score that mark for each mark for the question. 
-5. ALWAYS deliver the mark scheme for ALL questions in the question paper. Every single question must be dealt with in the mark scheme without fail. 
-6. Do NOT write any text that is not directly related to the mark scheme, including intros or warning messages.
-"""
     else:
         paper_prompt = f"""
 You are an experienced IGCSE examiner.
@@ -247,17 +237,8 @@ Instructions:
 8. Do NOT split the questions up into 'sections'. 
 9. State the total number of marks available for the paper at the start of it. 
 10. Do NOT write more questions than you have the scope to provide a mark scheme for. 
-11. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
+11. Do NOT write any text that is not directly related to the paper, including intros or warning messages etc.
 Return only the questions.
-"""
-        markscheme_prompt = f"""
-Generate the complete mark scheme for the paper above.
-Instructions: 
-1. Begin by stating the question number and restating the question.
-2. Below that, give the answer. Include any definitiions, examples or rough explanations expected. 
-3. Below that, state the mark allocation. For example, if the question is worth 3 marks, state where each mark is allocated. 
-4. ALWAYS deliver the mark scheme for ALL questions in the question paper. Every single question must be dealt with in the mark scheme without fail. 
-5. Do NOT write any text that is not directly related to the mark scheme, including intros or warning messages.
 """
 
     def stream_paper():
@@ -270,6 +251,42 @@ Instructions:
             yield chunk.choices[0].delta.content or ""
 
     return Response(stream_with_context(stream_paper()), mimetype="text/plain")
+
+@app.route("/generate_markscheme", methods=["POST"])
+def generate_markscheme():
+    data = request.get_json()
+    paper_text = data.get("paper_text")
+
+    if not paper_text:
+        return jsonify({"error": "Missing paper content"}), 400
+
+    prompt = f"""
+Generate the complete mark scheme for the paper below.
+
+Paper:
+---
+{paper_text}
+---
+
+Instructions: 
+1. Use the same numbering and format. 
+2. Provide correct answers in as much detail as possible. 
+3. Provide exact mark allocations for every single mark within each question so that the user has complete clarity on how to score full marks.
+4. When delivering mark allocation, give examples of what answers would score that mark for each mark for the question. 
+5. ALWAYS deliver the mark scheme for ALL questions in the question paper. Every single question must be dealt with in the mark scheme without fail. 
+6. Do NOT write any text that is not directly related to the mark scheme, including intros or warning messages.
+"""
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.5,
+            max_tokens=3000
+        )
+        return jsonify({"markscheme": response.choices[0].message.content.strip()})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 @app.route("/chat_refine_notes", methods=["POST"])
 def chat_refine_notes():
