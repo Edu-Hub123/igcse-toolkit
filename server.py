@@ -168,7 +168,7 @@ Rules:
             stream=True
         )
         for chunk in response:
-            yield chunk.choices[0].delta.get("content", "")
+            yield chunk.choices[0].delta.content or ""
 
     return Response(stream_with_context(stream_notes()), mimetype="text/plain")
 
@@ -267,7 +267,7 @@ Instructions:
             stream=True
         )
         for chunk in response:
-            yield chunk.choices[0].delta.get("content", "")
+            yield chunk.choices[0].delta.content or ""
 
     return Response(stream_with_context(stream_paper()), mimetype="text/plain")
 
