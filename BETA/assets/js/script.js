@@ -1,4 +1,4 @@
-// script.js (Updated to stream /generate_notes and /generate_paper as plain text)
+// script.js (Updated to stream /generate_notes and /generate_paper and fetch markscheme afterward)
 document.addEventListener("DOMContentLoaded", () => {
   const BASE_URL = window.location.hostname === "localhost"
     ? "http://127.0.0.1:5000"
@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const generatePaperBtn = document.getElementById("generate-paper-btn");
 
   let currentNotes = "";
+  let currentPaperText = "";
 
   function showTab(name) {
     Object.keys(tabs).forEach(key => {
@@ -325,7 +326,17 @@ document.addEventListener("DOMContentLoaded", () => {
       function read() {
         reader.read().then(({ done, value }) => {
           if (done) {
-            paperOutput.innerHTML = `<h4>Paper</h4><pre>${result}</pre>`;
+            currentPaperText = result;
+            paperOutput.innerHTML = `<h4>Paper</h4><pre>${currentPaperText}</pre>`;
+            fetch(`${BASE_URL}/generate_markscheme`, {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ paper_text: currentPaperText })
+            })
+            .then(res => res.json())
+            .then(data => {
+              markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
+            });
             return;
           }
           result += decoder.decode(value, { stream: true });
