@@ -1,0 +1,3582 @@
+Syllabus
+Cambridge IGCSE™ (9–1)
+Chemistry 0971
+Use this syllabus for exams in 2023, 2024 and 2025.
+Exams are available in the June and November series.
+Version 2
+Please check the syllabus page at www.cambridgeinternational.org/0971  
+to see if this syllabus is available in your administrative zone.
+Why choose Cambridge International?
+Cambridge International prepares school students for life, helping them develop an informed curiosity and a lasting 
+passion for learning. We are part of the University of Cambridge.
+Our Cambridge Pathway gives students a clear path for educational success from age 5 to 19. Schools can shape 
+the curriculum around how they want students to learn – with a wide range of subjects and flexible ways to offer 
+them. It helps students discover new abilities and a wider world, and gives them the skills they need for life, so they 
+can achieve at school, university and work.
+Our programmes and qualifications set the global standard for international education. They are created by subject 
+experts, rooted in academic rigour and reflect the latest educational research. They provide a strong platform for 
+learners to progress from one stage to the next, and are well supported by teaching and learning resources.
+Our mission is to provide educational benefit through provision of international programmes and qualifications for 
+school education and to be the world leader in this field. Together with schools, we develop Cambridge learners 
+who are confident, responsible, reflective, innovative and engaged – equipped for success in the modern world.
+Every year, nearly a million Cambridge students from 10 000 schools in 160 countries prepare for their future with 
+the Cambridge Pathway. 
+‘We think the Cambridge curriculum is superb preparation for university.’
+Christoph Guttentag, Dean of Undergraduate Admissions, Duke University, USA
+Quality management
+Cambridge International is committed to providing exceptional quality. In line with this commitment, our 
+quality management system for the provision of international qualifications and education programmes  
+for students aged 5 to 19 is independently certified as meeting the internationally recognised standard,  
+ISO 9001:2015. Learn more at www.cambridgeinternational.org/ISO9001
+Copyright © UCLES September 2020
+Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of 
+the University of Cambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. 
+UCLES retains the copyright on all its publications. Registered centres are permitted to copy material from this booklet for their own 
+internal use. However, we cannot give permission to centres to photocopy any material that is acknowledged to a third party even for 
+internal use within a centre.
+Contents
+1  Why choose this syllabus? .....................................................................................................2
+2  Syllabus overview ....................................................................................................................5
+Aims		
+5
+Content overview	
+6
+Assessment overview	
+7
+Assessment objectives	
+8
+3  Subject content .......................................................................................................................10
+4  Details of the assessment ................................................................................................... 38
+Core assessment	
+38
+Extended assessment	
+38
+Practical assessment	
+39
+Apparatus and reagents	
+41
+Safety in the laboratory	
+44
+Notes for use in qualitative analysis	
+45
+The Periodic Table of Elements	
+47
+Mathematical requirements	
+48
+Presentation of data	
+49
+Conventions (e.g. signs, symbols, terminology and nomenclature)	
+50
+Command words	
+51
+5  What else you need to know ...............................................................................................52
+Before you start	
+52
+Making entries	
+53
+After the exam	
+54
+How students and teachers can use the grades	
+54
+Grade descriptions	
+54
+Changes to this syllabus for 2023, 2024 and 2025	
+55
+Important: Changes to this syllabus
+For information about changes to this syllabus for 2023, 2024 and 2025, go to page 55.
+The latest syllabus is version 2, published December 2022.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025. 
+2
+www.cambridgeinternational.org/igcse
+Back to contents page
+1  Why choose this syllabus? 
+Key benefits
+Cambridge IGCSE is the world’s most popular international 
+qualification for 14 to 16 year olds, although it can be taken by 
+students of other ages. It is tried, tested and trusted. 
+Students can choose from 70 subjects in any combination – it is 
+taught by over 4800 schools in over 150 countries.
+Our programmes balance a thorough knowledge and understanding 
+of a subject and help to develop the skills learners need for their 
+next steps in education or employment. 
+Cambridge IGCSE (9–1) Chemistry develops a set of transferable 
+skills including handling data, practical problem-solving and applying 
+the scientific method. Learners develop relevant attitudes, such as 
+concern for accuracy and precision, objectivity, integrity, enquiry, initiative and inventiveness. They acquire the 
+essential scientific skills required for progression to further studies or employment. 
+Our approach in Cambridge IGCSE (9–1) Chemistry encourages learners to be:
+confident, interested in learning about science, questioning ideas and using scientific language to communicate 
+their views and opinions
+responsible, working methodically and safely when working alone or collaboratively with others
+reflective, learning from their experiences and interested in scientific issues that affect the individual, the 
+community and the environment
+innovative, solving unfamiliar problems confidently and creatively
+engaged, keen to develop scientific skills, curious about scientific principles and their application in the world.
+‘The strength of Cambridge IGCSE qualifications is internationally recognised and has provided 
+an international pathway for our students to continue their studies around the world.’
+Gary Tan, Head of Schools and CEO, Raffles International Group of Schools, Indonesia
+Cambridge
+learner
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Why choose this syllabus? 
+3
+www.cambridgeinternational.org/igcse
+Back to contents page
+International recognition and acceptance
+Our expertise in curriculum, teaching and learning, and assessment is the basis for the recognition of our 
+programmes and qualifications around the world. The combination of knowledge and skills in Cambridge  
+IGCSE (9–1) Chemistry gives learners a solid foundation for further study. Candidates who achieve grades 9 to 4  
+are well prepared to follow a wide range of courses including Cambridge International AS & A Level Chemistry.
+Cambridge IGCSEs are accepted and valued by leading universities and employers around the world as evidence of  
+academic achievement. Many universities require a combination of Cambridge International AS & A Levels and 
+Cambridge IGCSEs or equivalent to meet their entry requirements.
+UK NARIC, the national agency in the UK for the recognition and comparison of international qualifications and 
+skills, has carried out an independent benchmarking study of Cambridge IGCSE and found it to be comparable to 
+the standard of the reformed GCSE in the UK. This means students can be confident that their Cambridge IGCSE 
+qualifications are accepted as equivalent to UK GCSEs by leading universities worldwide.
+Learn more at www.cambridgeinternational.org/recognition
+‘Cambridge IGCSE is one of the most sought-after and recognised qualifications in the world. It 
+is very popular in Egypt because it provides the perfect preparation for success at advanced level 
+programmes.’
+Managing Director of British School in Egypt BSE
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Why choose this syllabus? 
+4
+www.cambridgeinternational.org/igcse
+Back to contents page
+Supporting teachers
+We provide a wide range of resources, detailed guidance and innovative training and professional development so 
+that you can give your students the best possible preparation for Cambridge IGCSE. To find out which resources are 
+available for each syllabus go to our School Support Hub. 
+The School Support Hub is our secure online site for Cambridge teachers where you can find the resources you need 
+to deliver our programmes. You can also keep up to date with your subject and the global Cambridge community 
+through our online discussion forums.  
+Find out more at www.cambridgeinternational.org/support
+Teaching and assessment
+•  Endorsed resources
+•  Online forums
+•  Support for coursework and speaking tests
+  Results
+•  Candidate Results Service
+•  Principal examiner reports for teachers
+•  Results Analysis
+Learning and revision
+•  Example candidate responses
+•  Learner guides
+•  Past papers and mark schemes
+•  Specimen paper answers
+Planning and preparation
+•  Next step guides
+•  Schemes of work
+•  Specimen papers
+•  Syllabuses
+•  Teacher guides
+Support 
+for Cambridge 
+IGCSE
+Sign up for email notifications about changes to syllabuses, including new and revised products and services at 
+www.cambridgeinternational.org/syllabusupdates
+Professional development
+We support teachers through:
+	•
+Introductory Training – face-to-face or online
+	•
+Extension Training – face-to-face or online
+	•
+Enrichment Professional Development – face-to-face or online
+Find out more at www.cambridgeinternational.org/events
+	•
+Cambridge Professional Development Qualifications
+Find out more at www.cambridgeinternational.org/profdev
+Supporting exams officers
+We provide comprehensive support and guidance for all Cambridge exams officers. Find out more at: 
+www.cambridgeinternational.org/eoguide
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.
+5
+www.cambridgeinternational.org/igcse
+Back to contents page
+2  Syllabus overview 
+Aims
+The aims describe the purposes of a course based on this syllabus. 
+You can deliver some of the aims using suitable local, international or historical examples and applications, or 
+through collaborative practical work.
+The aims are to enable students to:
+	•
+acquire scientific knowledge and understanding of scientific theories and practice
+	•
+develop a range of experimental skills, including handling variables and working safely
+	•
+use scientific data and evidence to solve problems and discuss the limitations of scientific methods 
+	•
+communicate effectively and clearly, using scientific terminology, notation and conventions
+	•
+understand that the application of scientific knowledge can benefit people and the environment
+	•
+enjoy science and develop an informed interest in scientific matters which support further study.
+Cambridge Assessment International Education is an education organisation and politically neutral.  
+The contents of this syllabus, examination papers and associated materials do not endorse any political  
+view. We endeavour to treat all aspects of the exam process neutrally.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Syllabus overview  
+6
+www.cambridgeinternational.org/igcse
+Back to contents page
+Content overview
+Candidates study the following topics:
+1	
+States of matter
+2	
+Atoms, elements and compounds
+3	
+Stoichiometry
+4	
+Electrochemistry
+5	
+Chemical energetics
+6	
+Chemical reactions
+7	
+Acids, bases and salts
+8	
+The Periodic Table
+9	
+Metals
+10	 Chemistry of the environment
+11	 Organic chemistry
+12	 Experimental techniques and chemical analysis
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Syllabus overview 
+7
+www.cambridgeinternational.org/igcse
+Back to contents page
+Assessment overview
+All candidates take three papers. 
+Candidates who have studied the Core syllabus content, or who are expected to achieve a grade 3 or below, should 
+be entered for Paper 1, Paper 3 and either Paper 5 or Paper 6. These candidates will be eligible for grades 5 to 1, 
+where 5 is the highest grade. 
+Candidates who have studied the Extended syllabus content (Core and Supplement), and who are expected to 
+achieve a grade 4 or above, should be entered for Paper 2, Paper 4 and either Paper 5 or Paper 6. These candidates 
+will be eligible for grades 9 to 1, where 9 is the highest grade.
+Core assessment
+Core candidates take Paper 1 and Paper 3. The questions are based on the Core subject content only.
+Paper 1: Multiple Choice (Core)
+Paper 3: Theory (Core)
+45 minutes 
+40 marks	
+30%
+40 four-option multiple-choice questions 
+Externally assessed
+1 hour 15 minutes 
+80 marks	
+50%
+Short-answer and structured questions 
+Externally assessed
+Extended assessment
+Extended candidates take Paper 2 and Paper 4. The questions are based on the Core and Supplement subject 
+content.
+Paper 2: Multiple Choice (Extended)
+Paper 4: Theory (Extended)
+45 minutes 
+40 marks	
+30%
+40 four-option multiple-choice questions 
+Externally assessed
+1 hour 15 minutes 
+80 marks	
+50%
+Short-answer and structured questions 
+Externally assessed
+Practical assessment
+All candidates take one practical paper from a choice of two.
+Paper 5: Practical Test
+Paper 6: Alternative to Practical
+1 hour 15 minutes 
+40 marks	
+20%
+Questions will be based on the experimental skills 
+in Section 4
+Externally assessed
+1 hour 
+40 marks	
+20%
+Questions will be based on the experimental skills 
+in Section 4
+Externally assessed
+Information on availability is in the Before you start section. 
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Syllabus overview  
+8
+www.cambridgeinternational.org/igcse
+Back to contents page
+Assessment objectives
+The assessment objectives (AOs) are:
+AO1 Knowledge with understanding
+Candidates should be able to demonstrate knowledge and understanding of:
+	•
+scientific phenomena, facts, laws, definitions, concepts and theories
+	•
+scientific vocabulary, terminology and conventions (including symbols, quantities and units)
+	•
+scientific instruments and apparatus, including techniques of operation and aspects of safety
+	•
+scientific and technological applications with their social, economic and environmental implications. 
+Subject content defines the factual material that candidates may be required to recall and explain. 
+Candidates will also be asked questions which require them to apply this material to unfamiliar contexts and to 
+apply knowledge from one area of the syllabus to another.
+AO2 Handling information and problem-solving
+Candidates should be able, in words or using other written forms of presentation (i.e. symbolic, graphical and 
+numerical), to: 
+	•
+locate, select, organise and present information from a variety of sources 
+	•
+translate information from one form to another 
+	•
+manipulate numerical and other data 
+	•
+use information to identify patterns, report trends and form conclusions
+	•
+present reasoned explanations for phenomena, patterns and relationships 
+	•
+make predictions based on relationships and patterns
+	•
+solve problems, including some of a quantitative nature. 
+Questions testing these skills may be based on information that is unfamiliar to candidates, requiring them to apply 
+the principles and concepts from the syllabus to a new situation, in a logical, deductive way.
+AO3 Experimental skills and investigations
+Candidates should be able to: 
+	•
+demonstrate knowledge of how to select and safely use techniques, apparatus and materials (including 
+following a sequence of instructions where appropriate)
+	•
+plan experiments and investigations
+	•
+make and record observations, measurements and estimates 
+	•
+interpret and evaluate experimental observations and data 
+	•
+evaluate methods and suggest possible improvements.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Syllabus overview 
+9
+www.cambridgeinternational.org/igcse
+Back to contents page
+Weighting for assessment objectives
+The approximate weightings allocated to each of the assessment objectives (AOs) are summarised below.
+Assessment objectives as a percentage of the qualification
+Assessment objective
+Weighting in IGCSE %
+AO1 Knowledge with understanding
+50
+AO2 Handling information and problem-solving
+30
+AO3 Experimental skills and investigations
+20
+Total
+100
+Assessment objectives as a percentage of each component
+Assessment objective
+Weighting in components %
+Papers 1 and 2
+Papers 3 and 4
+Papers 5 and 6
+AO1 Knowledge with understanding
+63
+63
+–
+AO2 Handling information and problem-solving
+37
+37
+–
+AO3 Experimental skills and investigations
+–
+–
+100
+Total
+100
+100
+100
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025. 
+10
+www.cambridgeinternational.org/igcse
+Back to contents page
+3  Subject content 
+This syllabus gives you the flexibility to design a course that will interest, challenge and engage your learners. 
+Where appropriate you are responsible for selecting resources and examples to support your learners’ study. These 
+should be appropriate for the learners’ age, cultural background and learning context as well as complying with 
+your school policies and local legal requirements.
+All candidates should be taught the Core subject content. Candidates who are only taught the Core subject content 
+can achieve a maximum of grade 5. Candidates aiming for grades 9 to 4 should be taught the Extended subject 
+content. The Extended subject content includes both the Core and the Supplement. 
+Scientific subjects are, by their nature, experimental. Learners should pursue a fully integrated course which allows 
+them to develop their experimental skills by doing practical work and investigations. 
+Practical work helps students to:
+	•
+use equipment and materials accurately and safely 
+	•
+develop observational and problem-solving skills
+	•
+develop a deeper understanding of the syllabus topics and the scientific approach
+	•
+appreciate how scientific theories are developed and tested
+	•
+transfer the experimental skills acquired to unfamiliar contexts
+	•
+develop positive scientific attitudes such as objectivity, integrity, cooperation, enquiry and inventiveness
+	•
+develop an interest and enjoyment in science.
+1	
+States of matter
+1.1	 Solids, liquids and gases
+Core
+1	
+State the distinguishing properties of solids, 
+liquids and gases
+2	
+Describe the structures of solids, liquids 
+and gases in terms of particle separation, 
+arrangement and motion
+3	
+Describe changes of state in terms of melting, 
+boiling, evaporating, freezing and condensing 
+4	
+Describe the effects of temperature and pressure 
+on the volume of a gas
+Supplement
+5	
+Explain changes of state in terms of kinetic 
+particle theory, including the interpretation of 
+heating and cooling curves
+6	
+Explain, in terms of kinetic particle theory, the 
+effects of temperature and pressure on the 
+volume of a gas
+1.2	 Diffusion
+Core
+1	
+Describe and explain diffusion in terms of kinetic 
+particle theory
+Supplement
+2	
+Describe and explain the effect of relative 
+molecular mass on the rate of diffusion of gases
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+11
+www.cambridgeinternational.org/igcse
+Back to contents page
+2	
+Atoms, elements and compounds
+2.1	 Elements, compounds and mixtures
+Core
+1	
+Describe the differences between elements, 
+compounds and mixtures
+Supplement
+2.2	 Atomic structure and the Periodic Table
+Core
+1	
+Describe the structure of the atom as a central 
+nucleus containing neutrons and protons 
+surrounded by electrons in shells
+2	
+State the relative charges and relative masses of 
+a proton, a neutron and an electron
+3	
+Define proton number / atomic number as the 
+number of protons in the nucleus of an atom
+4	
+Define mass number / nucleon number as the 
+total number of protons and neutrons in the 
+nucleus of an atom
+5	
+Determine the electronic configuration of 
+elements and their ions with proton number 1 to 
+20, e.g. 2,8,3
+6	
+State that:
+(a)	 Group VIII noble gases have a full outer shell 
+(b)	 the number of outer shell electrons is equal 
+to the group number in Groups I to VII
+(c)	 the number of occupied electron shells is 
+equal to the period number
+Supplement
+2.3	 Isotopes
+Core
+1	
+Define isotopes as different atoms of the same 
+element that have the same number of protons 
+but different numbers of neutrons
+2	
+Interpret and use symbols for atoms, e.g. 12
+6C, and 
+ions, e.g. 35
+17Cl  –
+Supplement
+3	
+State that isotopes of the same element have 
+the same chemical properties because they have 
+the same number of electrons and therefore the 
+same electronic configuration
+4	
+Calculate the relative atomic mass of an element 
+from the relative masses and abundances of its 
+isotopes
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+12
+www.cambridgeinternational.org/igcse
+Back to contents page
+2.4	 Ions and ionic bonds
+Core
+1	
+Describe the formation of positive ions, known as 
+cations, and negative ions, known as anions
+2	
+State that an ionic bond is a strong electrostatic 
+attraction between oppositely charged ions
+3	
+Describe the formation of ionic bonds between 
+elements from Group I and Group VII, including 
+the use of dot-and-cross diagrams
+4	
+Describe the properties of ionic compounds:
+(a)	 high melting points and boiling points
+(b)	 good electrical conductivity when aqueous or 
+molten and poor when solid
+Supplement
+5	
+Describe the giant lattice structure of ionic 
+compounds as a regular arrangement of 
+alternating positive and negative ions 
+6	
+Describe the formation of ionic bonds between 
+ions of metallic and non-metallic elements, 
+including the use of dot-and-cross diagrams
+7	
+Explain in terms of structure and bonding the 
+properties of ionic compounds:
+(a)	 high melting points and boiling points
+(b)	 good electrical conductivity when aqueous or 
+molten and poor when solid
+2.5	 Simple molecules and covalent bonds
+Core
+1	
+State that a covalent bond is formed when a pair 
+of electrons is shared between two atoms leading 
+to noble gas electronic configurations
+2	
+Describe the formation of covalent bonds in 
+simple molecules, including H2, Cl 2, H2O, CH4, 
+NH3 and HCl. Use dot-and-cross diagrams to 
+show the electronic configurations in these and 
+similar molecules
+3	
+Describe in terms of structure and bonding the 
+properties of simple molecular compounds:
+(a)	 low melting points and boiling points
+(b)	 poor electrical conductivity
+Supplement
+4	
+Describe the formation of covalent bonds in 
+simple molecules, including CH3OH, C2H4, O2, 
+CO2 and N2. Use dot-and-cross diagrams to show 
+the electronic configurations in these and similar 
+molecules
+5	
+Explain in terms of structure and bonding the 
+properties of simple molecular compounds:
+(a)	 low melting points and boiling points in 
+terms of weak intermolecular forces (specific 
+types of intermolecular forces are not 
+required)
+(b)	 poor electrical conductivity
+2.6	 Giant covalent structures
+Core
+1	
+Describe the giant covalent structures of graphite 
+and diamond
+2	
+Relate the structures and bonding of graphite and 
+diamond to their uses, limited to:
+(a)	 graphite as a lubricant and as an electrode
+(b)	 diamond in cutting tools
+Supplement
+3	
+Describe the giant covalent structure of 
+silicon(IV) oxide, SiO2
+4	
+Describe the similarity in properties between 
+diamond and silicon(IV) oxide, related to their 
+structures
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+13
+www.cambridgeinternational.org/igcse
+Back to contents page
+2.7	 Metallic bonding
+Core
+Supplement
+1	
+Describe metallic bonding as the electrostatic 
+attraction between the positive ions in a giant 
+metallic lattice and a ‘sea’ of delocalised 
+electrons
+2	
+Explain in terms of structure and bonding the 
+properties of metals:
+(a)	 good electrical conductivity
+(b)	 malleability and ductility
+3	
+Stoichiometry
+3.1	 Formulae
+Core
+1	
+State the formulae of the elements and 
+compounds named in the subject content
+2	
+Define the molecular formula of a compound as 
+the number and type of different atoms in one 
+molecule
+3	
+Deduce the formula of a simple compound from 
+the relative numbers of atoms present in a model 
+or a diagrammatic representation 
+4	
+Construct word equations and symbol equations 
+to show how reactants form products, including 
+state symbols
+Supplement
+5	
+Define the empirical formula of a compound as 
+the simplest whole number ratio of the different 
+atoms or ions in a compound
+6	
+Deduce the formula of an ionic compound from 
+the relative numbers of the ions present in a 
+model or a diagrammatic representation or from 
+the charges on the ions
+7	
+Construct symbol equations with state symbols, 
+including ionic equations
+8	
+Deduce the symbol equation with state 
+symbols for a chemical reaction, given relevant 
+information
+3.2	 Relative masses of atoms and molecules
+Core
+1	
+Describe relative atomic mass, Ar, as the average 
+mass of the isotopes of an element compared to 
+1/12th of the mass of an atom of 12C
+2	
+Define relative molecular mass, Mr, as the sum 
+of the relative atomic masses. Relative formula 
+mass, Mr, will be used for ionic compounds
+3	
+Calculate reacting masses in simple proportions. 
+Calculations will not involve the mole concept
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+14
+www.cambridgeinternational.org/igcse
+Back to contents page
+3.3	 The mole and the Avogadro constant
+Core
+1	
+State that concentration can be measured in 
+g / dm3 or mol / dm3
+Supplement
+2	
+State that the mole, mol, is the unit of amount of 
+substance and that one mole contains  
+6.02 × 1023 particles, e.g. atoms, ions, molecules; 
+this number is the Avogadro constant
+3	
+Use the relationship
+	
+amount of substance (mol) = 
+mass (g)
+molar mass (g / mol)
+	
+to calculate:
+	
+(a)	 amount of substance
+	
+(b)	 mass
+	
+(c)	 molar mass
+	
+(d)	 relative atomic mass or relative 
+molecular / formula mass 
+	
+(e)	 number of particles, using the value of the 
+Avogadro constant
+4	
+Use the molar gas volume, taken as 24 dm3 
+at room temperature and pressure, r.t.p., in 
+calculations involving gases
+5	
+Calculate stoichiometric reacting masses, limiting 
+reactants, volumes of gases at r.t.p., volumes 
+of solutions and concentrations of solutions 
+expressed in g / dm3 and mol / dm3, including 
+conversion between cm3 and dm3
+6	
+Use experimental data from a titration 
+to calculate the moles of solute, or the 
+concentration or volume of a solution
+7	
+Calculate empirical formulae and molecular 
+formulae, given appropriate data
+8	
+Calculate percentage yield, percentage 
+composition by mass and percentage purity, 
+given appropriate data
+4	
+Electrochemistry
+4.1	 Electrolysis
+Core
+1	
+Define electrolysis as the decomposition of an 
+ionic compound, when molten or in aqueous 
+solution, by the passage of an electric current
+2	
+Identify in simple electrolytic cells:
+(a)	 the anode as the positive electrode
+(b)	 the cathode as the negative electrode
+(c)	 the electrolyte as the molten or aqueous 
+substance that undergoes electrolysis
+Supplement
+8	
+Describe the transfer of charge during electrolysis 
+to include:
+(a)	 the movement of electrons in the external 
+circuit
+(b)	 the loss or gain of electrons at the electrodes
+(c)	 the movement of ions in the electrolyte
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+15
+www.cambridgeinternational.org/igcse
+Back to contents page
+4.1	 Electrolysis continued
+Core
+3	
+Identify the products formed at the electrodes 
+and describe the observations made during the 
+electrolysis of:
+(a)	 molten lead(II) bromide
+(b)	 concentrated aqueous sodium chloride
+(c)	 dilute sulfuric acid
+	
+using inert electrodes made of platinum or 
+carbon / graphite
+4	
+State that metals or hydrogen are formed at 
+the cathode and that non-metals (other than 
+hydrogen) are formed at the anode
+5	
+Predict the identity of the products at each 
+electrode for the electrolysis of a binary 
+compound in the molten state
+6	
+State that metal objects are electroplated to 
+improve their appearance and resistance to 
+corrosion
+7	
+Describe how metals are electroplated
+Supplement
+9	
+Identify the products formed at the electrodes 
+and describe the observations made during the 
+electrolysis of aqueous copper(II) sulfate using 
+inert carbon / graphite electrodes and when using 
+copper electrodes
+10	 Predict the identity of the products at each 
+electrode for the electrolysis of a halide 
+compound in dilute or concentrated aqueous 
+solution
+11	 Construct ionic half-equations for reactions 
+at the anode (to show oxidation) and at the 
+cathode (to show reduction)
+4.2	 Hydrogen–oxygen fuel cells
+Core
+1	
+State that a hydrogen–oxygen fuel cell uses 
+hydrogen and oxygen to produce electricity with 
+water as the only chemical product
+Supplement
+2	
+Describe the advantages and disadvantages of 
+using hydrogen–oxygen fuel cells in comparison 
+with gasoline / petrol engines in vehicles
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+16
+www.cambridgeinternational.org/igcse
+Back to contents page
+5	
+Chemical energetics
+5.1	 Exothermic and endothermic reactions
+Core
+1	
+State that an exothermic reaction transfers 
+thermal energy to the surroundings leading to an 
+increase in the temperature of the surroundings
+2	
+State that an endothermic reaction takes in 
+thermal energy from the surroundings leading 
+to a decrease in the temperature of the 
+surroundings
+3	
+Interpret reaction pathway diagrams showing 
+exothermic and endothermic reactions
+Supplement
+4	
+State that the transfer of thermal energy during a 
+reaction is called the enthalpy change, ∆H, of the 
+reaction. ∆H is negative for exothermic reactions 
+and positive for endothermic reactions
+5	
+Define activation energy, Ea, as the minimum 
+energy that colliding particles must have to react
+6	
+Draw and label reaction pathway diagrams for 
+exothermic and endothermic reactions using 
+information provided, to include:
+(a)	 reactants
+(b)	 products
+(c)	 enthalpy change of the reaction, ∆H
+(d)	 activation energy, Ea
+7	
+State that bond breaking is an endothermic 
+process and bond making is an exothermic 
+process and explain the enthalpy change of a 
+reaction in terms of bond breaking and bond 
+making
+8	
+Calculate the enthalpy change of a reaction using 
+bond energies
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+17
+www.cambridgeinternational.org/igcse
+Back to contents page
+6	
+Chemical reactions
+6.1	 Physical and chemical changes
+Core
+1	
+Identify physical and chemical changes, and 
+describe the differences between them
+Supplement
+6.2	 Rate of reaction
+Core
+1	
+Describe the effect on the rate of reaction of: 
+	
+(a)	 changing the concentration of solutions
+	
+(b)	 changing the pressure of gases 
+	
+(c)	 changing the surface area of solids
+	
+(d)	 changing the temperature
+	
+(e)	 adding or removing a catalyst, including 
+enzymes 
+2	
+State that a catalyst increases the rate of a 
+reaction and is unchanged at the end of a 
+reaction
+3	
+Describe practical methods for investigating the 
+rate of a reaction including change in mass of a 
+reactant or a product and the formation of a gas
+4	
+Interpret data, including graphs, from rate of 
+reaction experiments
+Supplement
+5	
+Describe collision theory in terms of:
+	
+(a)	 number of particles per unit volume
+	
+(b)	 frequency of collisions between particles
+	
+(c)	 kinetic energy of particles
+	
+(d)	 activation energy, Ea
+6	
+Describe and explain the effect on the rate of 
+reaction of: 
+	
+(a)	 changing the concentration of solutions
+	
+(b)	 changing the pressure of gases 
+	
+(c)	 changing the surface area of solids
+	
+(d)	 changing the temperature
+	
+(e)	 adding or removing a catalyst, including 
+enzymes 
+	
+using collision theory
+7	
+State that a catalyst decreases the activation 
+energy, Ea, of a reaction 
+8	
+Evaluate practical methods for investigating the 
+rate of a reaction including change in mass of a 
+reactant or a product and the formation of a gas
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+18
+www.cambridgeinternational.org/igcse
+Back to contents page
+6.3	 Reversible reactions and equilibrium
+Core
+1	
+State that some chemical reactions are reversible 
+as shown by the symbol ⇌
+2	
+Describe how changing the conditions can 
+change the direction of a reversible reaction for:
+(a)	 the effect of heat on hydrated compounds 
+(b)	 the addition of water to anhydrous 
+compounds 
+limited to copper(II) sulfate and  
+cobalt(II) chloride
+Supplement
+3	
+State that a reversible reaction in a closed system 
+is at equilibrium when:
+(a)	 the rate of the forward reaction is equal to 
+the rate of the reverse reaction 
+(b)	 the concentrations of reactants and products 
+are no longer changing
+4	
+Predict and explain, for a reversible reaction, how 
+the position of equilibrium is affected by:
+(a)	 changing temperature 
+(b)	 changing pressure 
+(c)	 changing concentration
+(d)	 using a catalyst
+	
+using information provided
+5	
+State the symbol equation for the production of 
+ammonia in the Haber process,  
+N2(g) + 3H2(g) ⇌ 2NH3(g)
+6	
+State the sources of the hydrogen (methane) and 
+nitrogen (air) in the Haber process
+7	
+State the typical conditions in the Haber process 
+as 450 °C, 20 000 kPa / 200 atm and an iron 
+catalyst
+8	
+State the symbol equation for the conversion of 
+sulfur dioxide to sulfur trioxide in the Contact 
+process, 2SO2(g) + O2(g) ⇌ 2SO3(g)
+9	
+State the sources of the sulfur dioxide (burning 
+sulfur or roasting sulfide ores) and oxygen (air) in 
+the Contact process
+10	 State the typical conditions for the conversion 
+of sulfur dioxide to sulfur trioxide in the Contact 
+process as 450 °C, 200 kPa / 2 atm and a 
+vanadium(V) oxide catalyst 
+11	 Explain, in terms of rate of reaction and position 
+of equilibrium, why the typical conditions stated 
+are used in the Haber process and in the Contact 
+process, including safety considerations and 
+economics
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+19
+www.cambridgeinternational.org/igcse
+Back to contents page
+6.4	 Redox
+Core
+1	
+Use a Roman numeral to indicate the oxidation 
+number of an element in a compound
+2	
+Define redox reactions as involving simultaneous 
+oxidation and reduction
+3	
+Define oxidation as gain of oxygen and reduction 
+as loss of oxygen
+4	
+Identify redox reactions as reactions involving 
+gain and loss of oxygen 
+5	
+Identify oxidation and reduction in redox 
+reactions
+Supplement
+6	
+Define oxidation in terms of:
+	
+(a)	 loss of electrons 
+	
+(b)	 an increase in oxidation number 
+7	
+Define reduction in terms of:
+	
+(a)	 gain of electrons 
+	
+(b)	 a decrease in oxidation number
+8	
+Identify redox reactions as reactions involving 
+gain and loss of electrons
+9	
+Identify redox reactions by changes in oxidation 
+number using:
+(a)	 the oxidation number of elements in their 
+uncombined state is zero
+(b)	 the oxidation number of a monatomic ion is 
+the same as the charge on the ion
+(c)	 the sum of the oxidation numbers in a 
+compound is zero
+(d)	 the sum of the oxidation numbers in an ion is 
+equal to the charge on the ion
+10	 Identify redox reactions by the colour changes 
+involved when using acidified aqueous potassium 
+manganate(VII) or aqueous potassium iodide
+11	 Define an oxidising agent as a substance that 
+oxidises another substance and is itself reduced
+12	 Define a reducing agent as a substance that 
+reduces another substance and is itself oxidised
+13	 Identify oxidising agents and reducing agents in 
+redox reactions
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+20
+www.cambridgeinternational.org/igcse
+Back to contents page
+7	
+Acids, bases and salts
+7.1	 The characteristic properties of acids and bases
+Core
+1	
+Describe the characteristic properties of acids in 
+terms of their reactions with:
+(a)	 metals
+(b)	 bases
+(c)	 carbonates
+2	
+Describe acids in terms of their effect on:
+(a)	 litmus
+(b)	 thymolphthalein
+(c)	 methyl orange
+3	
+State that bases are oxides or hydroxides of 
+metals and that alkalis are soluble bases
+4	
+Describe the characteristic properties of bases in 
+terms of their reactions with:
+(a)	 acids
+(b)	 ammonium salts
+5	
+Describe alkalis in terms of their effect on:
+(a)	 litmus
+(b)	 thymolphthalein
+(c)	 methyl orange
+6	
+State that aqueous solutions of acids contain H+ 
+ions and aqueous solutions of alkalis contain OH– 
+ions
+7	
+Describe how to compare hydrogen ion 
+concentration, neutrality, relative acidity and 
+relative alkalinity in terms of colour and pH using 
+universal indicator paper
+8	
+Describe the neutralisation reaction between an 
+acid and an alkali to produce water, 
+H+ (aq) + OH– (aq) → H2O (l )
+Supplement
+9	
+Define acids as proton donors and bases as 
+proton acceptors
+10	 Define a strong acid as an acid that is completely 
+dissociated in aqueous solution and a weak acid 
+as an acid that is partially dissociated in aqueous 
+solution
+11	 State that hydrochloric acid is a strong acid,  
+as shown by the symbol equation,  
+HCl (aq) → H+(aq) + Cl –(aq)
+12	 State that ethanoic acid is a weak acid,  
+as shown by the symbol equation,  
+CH3COOH(aq) ⇌ H+(aq) + CH3COO–(aq)
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+21
+www.cambridgeinternational.org/igcse
+Back to contents page
+7.2	 Oxides
+Core
+1	
+Classify oxides as acidic, including SO2 and CO2, 
+or basic, including CuO and CaO, related to 
+metallic and non-metallic character
+Supplement
+2	
+Describe amphoteric oxides as oxides that react 
+with acids and with bases to produce a salt and 
+water
+3	
+Classify Al 2O3 and ZnO as amphoteric oxides
+7.3	 Preparation of salts
+Core
+1	
+Describe the preparation, separation and 
+purification of soluble salts by reaction of an acid 
+with:
+(a)	 an alkali by titration
+(b)	 excess metal
+(c)	 excess insoluble base
+(d)	 excess insoluble carbonate
+2	
+Describe the general solubility rules for salts:
+(a)	 sodium, potassium and ammonium salts are 
+soluble
+(b)	 nitrates are soluble
+(c)	 chlorides are soluble, except lead and silver
+(d)	 sulfates are soluble, except barium, calcium 
+and lead
+(e)	 carbonates are insoluble, except sodium, 
+potassium and ammonium
+(f)	 hydroxides are insoluble, except sodium, 
+potassium, ammonium and  
+calcium (partially) 
+3	
+Define a hydrated substance as a substance 
+that is chemically combined with water and an 
+anhydrous substance as a substance containing 
+no water
+Supplement
+4	
+Describe the preparation of insoluble salts by 
+precipitation
+5	
+Define the term water of crystallisation as the 
+water molecules present in hydrated crystals, 
+including CuSO4•5H2O and CoCl 2•6H2O
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+22
+www.cambridgeinternational.org/igcse
+Back to contents page
+8	
+The Periodic Table
+8.1	 Arrangement of elements
+Core
+1	
+Describe the Periodic Table as an arrangement of 
+elements in periods and groups and in order of 
+increasing proton number / atomic number
+2	
+Describe the change from metallic to  
+non-metallic character across a period
+3	
+Describe the relationship between group number 
+and the charge of the ions formed from elements 
+in that group
+4	
+Explain similarities in the chemical properties of 
+elements in the same group of the Periodic Table 
+in terms of their electronic configuration
+5	
+Explain how the position of an element in 
+the Periodic Table can be used to predict its 
+properties
+Supplement
+6	
+Identify trends in groups, given information 
+about the elements
+8.2	 Group I properties
+Core
+1	
+Describe the Group I alkali metals, lithium, 
+sodium and potassium, as relatively soft metals 
+with general trends down the group, limited to:
+(a)	 decreasing melting point
+(b)	 increasing density 
+(c)	 increasing reactivity
+2	
+Predict the properties of other elements in  
+Group I, given information about the elements
+Supplement
+8.3	 Group VII properties
+Core
+1	
+Describe the Group VII halogens, chlorine, 
+bromine and iodine, as diatomic non-metals with 
+general trends down the group, limited to:
+(a)	 increasing density 
+(b)	 decreasing reactivity
+2	
+State the appearance of the halogens at r.t.p. as:
+(a)	 chlorine, a pale yellow-green gas
+(b)	 bromine, a red-brown liquid
+(c)	 iodine, a grey-black solid
+3	
+Describe and explain the displacement reactions 
+of halogens with other halide ions
+4	
+Predict the properties of other elements in  
+Group VII, given information about the elements
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+23
+www.cambridgeinternational.org/igcse
+Back to contents page
+8.4	 Transition elements
+Core
+1	
+Describe the transition elements as metals that:
+(a)	 have high densities 
+(b)	 have high melting points 
+(c)	 form coloured compounds 
+(d)	 often act as catalysts as elements and in 
+compounds
+Supplement
+2	
+Describe transition elements as having ions with 
+variable oxidation numbers, including iron(II) and 
+iron(III)
+8.5	 Noble gases
+Core
+1	
+Describe the Group VIII noble gases as 
+unreactive, monatomic gases and explain this in 
+terms of electronic configuration
+Supplement
+9	
+Metals
+9.1	 Properties of metals
+Core
+1	
+Compare the general physical properties of 
+metals and non-metals, including:
+(a)	 thermal conductivity 
+(b)	 electrical conductivity 
+(c)	 malleability and ductility
+(d)	 melting points and boiling points
+2	
+Describe the general chemical properties of 
+metals, limited to their reactions with:
+(a)	 dilute acids 
+(b)	 cold water and steam 
+(c)	 oxygen
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+24
+www.cambridgeinternational.org/igcse
+Back to contents page
+9.2	 Uses of metals
+Core
+1	
+Describe the uses of metals in terms of their 
+physical properties, including:
+(a)	 aluminium in the manufacture of aircraft 
+because of its low density
+(b)	 aluminium in the manufacture of overhead 
+electrical cables because of its low density 
+and good electrical conductivity
+(c)	 aluminium in food containers because of its 
+resistance to corrosion
+(d)	 copper in electrical wiring because of its good 
+electrical conductivity and ductility
+Supplement
+9.3	 Alloys and their properties
+Core
+1	
+Describe an alloy as a mixture of a metal with 
+other elements, including:
+(a)	 brass as a mixture of copper and zinc
+(b)	 stainless steel as a mixture of iron and other 
+elements such as chromium, nickel and 
+carbon
+2	
+State that alloys can be harder and stronger than 
+the pure metals and are more useful 
+3	
+Describe the uses of alloys in terms of their 
+physical properties, including stainless steel in 
+cutlery because of its hardness and resistance to 
+rusting
+4	
+Identify representations of alloys from diagrams 
+of structure
+Supplement
+5	
+Explain in terms of structure how alloys can 
+be harder and stronger than the pure metals 
+because the different sized atoms in alloys mean 
+the layers can no longer slide over each other
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+25
+www.cambridgeinternational.org/igcse
+Back to contents page
+9.4	 Reactivity series
+Core
+1	
+State the order of the reactivity series as: 
+potassium, sodium, calcium, magnesium, 
+aluminium, carbon, zinc, iron, hydrogen, copper, 
+silver, gold
+2	
+Describe the reactions, if any, of:
+(a)	 potassium, sodium and calcium with  
+cold water
+(b)	 magnesium with steam
+(c)	 magnesium, zinc, iron, copper, silver and gold 
+with dilute hydrochloric acid
+and explain these reactions in terms of the 
+position of the metals in the reactivity series 
+3	
+Deduce an order of reactivity from a given set of 
+experimental results
+Supplement
+4	
+Describe the relative reactivities of metals in 
+terms of their tendency to form positive ions, by 
+displacement reactions, if any, with the aqueous 
+ions of magnesium, zinc, iron, copper and silver
+5	
+Explain the apparent unreactivity of aluminium in 
+terms of its oxide layer
+9.5	 Corrosion of metals
+Core
+1	
+State the conditions required for the rusting of 
+iron and steel to form hydrated iron(III) oxide
+2	
+State some common barrier methods, including 
+painting, greasing and coating with plastic
+3	
+Describe how barrier methods prevent rusting by 
+excluding oxygen or water
+Supplement
+4	
+Describe the use of zinc in galvanising as an 
+example of a barrier method and sacrificial 
+protection
+5	
+Explain sacrificial protection in terms of the 
+reactivity series and in terms of electron loss
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+26
+www.cambridgeinternational.org/igcse
+Back to contents page
+9.6	 Extraction of metals
+Core
+1	
+Describe the ease in obtaining metals from their 
+ores, related to the position of the metal in the 
+reactivity series
+2	
+Describe the extraction of iron from hematite in 
+the blast furnace, limited to:
+(a)	 the burning of carbon (coke) to provide heat 
+and produce carbon dioxide
+(b)	 the reduction of carbon dioxide to carbon 
+monoxide 
+(c)	 the reduction of iron(III) oxide by carbon 
+monoxide
+(d)	 the thermal decomposition of calcium 
+carbonate / limestone to produce calcium 
+oxide
+(e)	 the formation of slag
+Symbol equations are not required
+3	
+State that the main ore of aluminium is bauxite 
+and that aluminium is extracted by electrolysis
+Supplement
+4	
+State the symbol equations for the extraction of 
+iron from hematite
+(a)	 C + O2 → CO2
+(b)	 C + CO2 → 2CO
+(c)	 Fe2O3 + 3CO → 2Fe + 3CO2
+(d)	 CaCO3 → CaO + CO2
+(e)	 CaO + SiO2 → CaSiO3
+5	
+Describe the extraction of aluminium from 
+purified bauxite / aluminium oxide, including: 
+(a)	 the role of cryolite
+(b)	 why the carbon anodes need to be regularly 
+replaced 
+(c)	 the reactions at the electrodes, including 
+ionic half-equations
+Details of the purification of bauxite are not 
+required
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+27
+www.cambridgeinternational.org/igcse
+Back to contents page
+10	 Chemistry of the environment
+10.1	 Water
+Core
+1	
+Describe chemical tests for the presence of 
+water using anhydrous cobalt(II) chloride and 
+anhydrous copper(II) sulfate
+2	
+Describe how to test for the purity of water using 
+melting point and boiling point
+3	
+Explain that distilled water is used in practical 
+chemistry rather than tap water because it 
+contains fewer chemical impurities
+4	
+State that water from natural sources may 
+contain substances, including:
+	
+(a)	 dissolved oxygen
+	
+(b)	 metal compounds
+	
+(c)	 plastics
+	
+(d)	 sewage
+	
+(e)	 harmful microbes
+	
+(f)	 nitrates from fertilisers
+	
+(g)	 phosphates from fertilisers and detergents
+5	
+State that some of these substances are 
+beneficial, including: 
+	
+(a)	 dissolved oxygen for aquatic life
+	
+(b)	 some metal compounds provide essential 
+minerals for life
+6	
+State that some of these substances are 
+potentially harmful, including:
+	
+(a)	 some metal compounds are toxic
+	
+(b)	 some plastics harm aquatic life
+	
+(c)	 sewage contains harmful microbes which 
+cause disease
+	
+(d)	 nitrates and phosphates lead to  
+deoxygenation of water and damage to 
+aquatic life
+	
+Details of the eutrophication process are not 
+required
+7	
+Describe the treatment of the domestic water 
+supply in terms of:
+	
+(a)	 sedimentation and filtration to remove solids
+	
+(b)	 use of carbon to remove tastes and odours
+	
+(c)	 chlorination to kill microbes
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+28
+www.cambridgeinternational.org/igcse
+Back to contents page
+10.2	Fertilisers
+Core
+1	
+State that ammonium salts and nitrates are used 
+as fertilisers
+2	
+Describe the use of NPK fertilisers to provide the 
+elements nitrogen, phosphorus and potassium 
+for improved plant growth
+Supplement
+10.3	Air quality and climate
+Core
+1	
+State the composition of clean, dry air as 
+approximately 78% nitrogen, N2, 21% oxygen, O2 
+and the remainder as a mixture of noble gases 
+and carbon dioxide, CO2
+2	
+State the source of each of these air pollutants, 
+limited to:
+(a)	 carbon dioxide from the complete 
+combustion of carbon-containing fuels
+(b)	 carbon monoxide and particulates from the 
+incomplete combustion of carbon-containing 
+fuels
+(c)	 methane from the decomposition of 
+vegetation and waste gases from digestion in 
+animals
+(d)	 oxides of nitrogen from car engines
+(e)	 sulfur dioxide from the combustion of fossil 
+fuels which contain sulfur compounds
+3	
+State the adverse effect of these air pollutants, 
+limited to:
+(a)	 carbon dioxide: higher levels of carbon 
+dioxide leading to increased global warming, 
+which leads to climate change
+(b)	 carbon monoxide: toxic gas
+(c)	 particulates: increased risk of respiratory 
+problems and cancer
+(d)	 methane: higher levels of methane leading 
+to increased global warming, which leads to 
+climate change
+(e)	 oxides of nitrogen: acid rain, photochemical 
+smog and respiratory problems
+(f)	 sulfur dioxide: acid rain
+Supplement
+7	
+Describe how the greenhouse gases carbon 
+dioxide and methane cause global warming, 
+limited to:
+(a)	 the absorption, reflection and emission of 
+thermal energy
+(b)	 reducing thermal energy loss to space
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+29
+www.cambridgeinternational.org/igcse
+Back to contents page
+10.3	Air quality and climate continued
+Core
+4	
+State and explain strategies to reduce the effects 
+of these environmental issues, limited to:
+(a)	 climate change: planting trees, reduction 
+in livestock farming, decreasing use of 
+fossil fuels, increasing use of hydrogen and 
+renewable energy, e.g. wind, solar
+(b)	 acid rain: use of catalytic converters in 
+vehicles, reducing emissions of sulfur dioxide 
+by using low-sulfur fuels and flue gas 
+desulfurisation with calcium oxide
+5	
+Describe photosynthesis as the reaction between 
+carbon dioxide and water to produce glucose and 
+oxygen in the presence of chlorophyll and using 
+energy from light
+6	
+State the word equation for photosynthesis, 
+carbon dioxide + water → glucose + oxygen
+Supplement
+8	
+Explain how oxides of nitrogen form in car 
+engines and describe their removal by catalytic 
+converters, e.g. 2CO + 2NO → 2CO2 + N2
+9	
+State the symbol equation for photosynthesis, 
+6CO2 + 6H2O → C6H12O6 + 6O2
+11	 Organic chemistry
+11.1	 Formulae, functional groups and terminology
+Core
+1	
+Draw and interpret the displayed formula of a 
+molecule to show all the atoms and all the bonds
+2	
+Write and interpret general formulae of 
+compounds in the same homologous series, 
+limited to:
+(a)	 alkanes, CnH2n+2
+(b)	 alkenes, CnH2n
+(c)	 alcohols, CnH2n+1OH
+(d)	 carboxylic acids, CnH2n+1COOH 
+3	
+Identify a functional group as an atom or group 
+of atoms that determine the chemical properties 
+of a homologous series
+Supplement
+7	
+State that a structural formula is an 
+unambiguous description of the way the atoms 
+in a molecule are arranged, including CH2=CH2, 
+CH3CH2OH, CH3COOCH3
+8	
+Define structural isomers as compounds with the 
+same molecular formula, but different structural 
+formulae, including C4H10 as CH3CH2CH2CH3 and 
+CH3CH(CH3)CH3 and C4H8 as CH3CH2CH=CH2 
+and CH3CH=CHCH3
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+30
+www.cambridgeinternational.org/igcse
+Back to contents page
+11.1	 Formulae, functional groups and terminology continued
+Core
+4	
+State that a homologous series is a family 
+of similar compounds with similar chemical 
+properties due to the presence of the same 
+functional group
+5	
+State that a saturated compound has molecules 
+in which all carbon–carbon bonds are single 
+bonds
+6	
+State that an unsaturated compound has 
+molecules in which one or more carbon–carbon 
+bonds are not single bonds
+Supplement
+9	
+Describe the general characteristics of a 
+homologous series as:
+(a)	 having the same functional group
+(b)	 having the same general formula
+(c)	 differing from one member to the next by  
+a –CH2– unit
+(d)	 displaying a trend in physical properties
+(e)	 sharing similar chemical properties
+11.2	 Naming organic compounds
+Core
+1	
+Name and draw the displayed formulae of:
+(a)	 methane and ethane
+(b)	 ethene
+(c)	 ethanol 
+(d)	 ethanoic acid
+(e)	 the products of the reactions stated in 
+sections 11.4–11.7
+2	
+State the type of compound present, given a 
+chemical name ending in -ane,  -ene, -ol, or  
+-oic acid or from a molecular formula or  
+displayed formula
+Supplement
+3	
+Name and draw the structural and displayed 
+formulae of unbranched:
+(a)	 alkanes
+(b)	 alkenes, including  
+but-1-ene and but-2-ene
+(c)	 alcohols, including  
+propan-1-ol, propan-2-ol, butan-1-ol and  
+butan-2-ol
+(d)	 carboxylic acids 
+containing up to four carbon atoms per molecule
+4	
+Name and draw the displayed formulae of the 
+unbranched esters which can be made from 
+unbranched alcohols and carboxylic acids, each 
+containing up to four carbon atoms
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+31
+www.cambridgeinternational.org/igcse
+Back to contents page
+11.3	 Fuels
+Core
+1	
+Name the fossil fuels: coal, natural gas and 
+petroleum
+2	
+Name methane as the main constituent of 
+natural gas
+3	
+State that hydrocarbons are compounds that 
+contain hydrogen and carbon only
+4	
+State that petroleum is a mixture of 
+hydrocarbons
+5	
+Describe the separation of petroleum into useful 
+fractions by fractional distillation
+6	
+Describe how the properties of fractions obtained 
+from petroleum change from the bottom to the 
+top of the fractionating column, limited to:
+(a)	 decreasing chain length
+(b)	 higher volatility
+(c)	 lower boiling points
+(d)	 lower viscosity
+7	
+Name the uses of the fractions as:
+(a)	 refinery gas fraction for gas used in heating 
+and cooking
+(b)	 gasoline / petrol fraction for fuel used in cars
+(c)	 naphtha fraction as a chemical feedstock
+(d)	 kerosene / paraffin fraction for jet fuel
+(e)	 diesel oil / gas oil fraction for fuel used in 
+diesel engines
+(f)	 fuel oil fraction for fuel used in ships and 
+home heating systems
+(g)	 lubricating oil fraction for lubricants, waxes 
+and polishes
+(h)	 bitumen fraction for making roads
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+32
+www.cambridgeinternational.org/igcse
+Back to contents page
+11.4	 Alkanes
+Core
+1	
+State that the bonding in alkanes is single 
+covalent and that alkanes are saturated 
+hydrocarbons
+2	
+Describe the properties of alkanes as being 
+generally unreactive, except in terms of 
+combustion and substitution by chlorine
+Supplement
+3	
+State that in a substitution reaction one atom or 
+group of atoms is replaced by another atom or 
+group of atoms
+4	
+Describe the substitution reaction of alkanes 
+with chlorine as a photochemical reaction, with 
+ultraviolet light providing the activation energy, 
+Ea, and draw the structural or displayed formulae 
+of the products, limited to monosubstitution
+11.5	 Alkenes
+Core
+1	
+State that the bonding in alkenes includes a 
+double carbon–carbon covalent bond and that 
+alkenes are unsaturated hydrocarbons
+2	
+Describe the manufacture of alkenes and 
+hydrogen by the cracking of larger alkane 
+molecules using a high temperature and a 
+catalyst
+3	
+Describe the reasons for the cracking of larger 
+alkane molecules 
+4	
+Describe the test to distinguish between 
+saturated and unsaturated hydrocarbons by their 
+reaction with aqueous bromine
+Supplement
+5	
+State that in an addition reaction only one 
+product is formed
+6	
+Describe the properties of alkenes in terms of 
+addition reactions with:
+(a)	 bromine or aqueous bromine
+(b)	 hydrogen in the presence of a nickel catalyst
+(c)	 steam in the presence of an acid catalyst
+	
+and draw the structural or displayed formulae of 
+the products
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+33
+www.cambridgeinternational.org/igcse
+Back to contents page
+11.6	 Alcohols
+Core
+1	
+Describe the manufacture of ethanol by:
+(a)	 fermentation of aqueous glucose at 25–35 °C 
+in the presence of yeast and in the absence of 
+oxygen
+(b)	 catalytic addition of steam to ethene 
+at 300 °C and 6000 kPa / 60 atm in the 
+presence of an acid catalyst
+2	
+Describe the combustion of ethanol
+3	
+State the uses of ethanol as:
+(a)	 a solvent 
+(b)	 a fuel
+Supplement
+4	
+Describe the advantages and disadvantages of 
+the manufacture of ethanol by:
+(a)	 fermentation 
+(b)	 catalytic addition of steam to ethene
+11.7	 Carboxylic acids
+Core
+1	
+Describe the reaction of ethanoic acid with:
+(a)	 metals
+(b)	 bases
+(c)	 carbonates
+including names and formulae of the salts 
+produced
+Supplement
+2	
+Describe the formation of ethanoic acid by the 
+oxidation of ethanol:
+(a)	 with acidified aqueous potassium 
+manganate(VII)
+(b)	 by bacterial oxidation during vinegar 
+production
+3	
+Describe the reaction of a carboxylic acid with an 
+alcohol using an acid catalyst to form an ester
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+34
+www.cambridgeinternational.org/igcse
+Back to contents page
+11.8	 Polymers
+Core
+1	
+Define polymers as large molecules built up from 
+many smaller molecules called monomers
+2	
+Describe the formation of poly(ethene) as an 
+example of addition polymerisation using ethene 
+monomers
+3	
+State that plastics are made from polymers
+4	
+Describe how the properties of plastics have 
+implications for their disposal
+5	
+Describe the environmental challenges caused by 
+plastics, limited to:
+(a)	 disposal in land fill sites
+(b)	 accumulation in oceans
+(c)	 formation of toxic gases from burning
+Supplement
+6	
+Identify the repeat units and / or linkages in 
+addition polymers and in condensation polymers
+7	
+Deduce the structure or repeat unit of an 
+addition polymer from a given alkene and vice 
+versa 
+8	
+Deduce the structure or repeat unit of a 
+condensation polymer from given monomers and 
+vice versa, limited to:
+(a)	 polyamides from a dicarboxylic acid and a 
+diamine 
+(b)	 polyesters from a dicarboxylic acid and a diol
+9	
+Describe the differences between addition and 
+condensation polymerisation
+10	 Describe and draw the structure of:
+(a)	 nylon, a polyamide
+C
+O
+C
+O
+C
+C
+O
+O
+N
+H
+N
+H
+N
+H
+N
+H
+C
+O
+(b) 	PET, a polyester
+C
+O
+C
+O
+C
+C
+O
+O
+O
+O
+O
+O
+	
+The full name for PET, polyethylene 
+terephthalate, is not required
+11	 State that PET can be converted back into 
+monomers and re-polymerised
+12	 Describe proteins as natural polyamides and that 
+they are formed from amino acid monomers with 
+the general structure:
+	
+H
+O
+H
+O
+H
+N
+H
+C
+C
+R
+	
+where R represents different types of side chain
+13	 Describe and draw the structure of proteins as:
+N
+H
+C
+O
+N
+H
+C
+O
+N
+H
+C
+O
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+35
+www.cambridgeinternational.org/igcse
+Back to contents page
+12	 Experimental techniques and chemical analysis
+12.1	 Experimental design
+Core
+1	
+Name appropriate apparatus for the 
+measurement of time, temperature, mass and 
+volume, including:
+(a)	 stopwatches 
+(b)	 thermometers 
+(c)	 balances 
+(d)	 burettes 
+(e)	 volumetric pipettes 
+(f)	 measuring cylinders 
+(g)	 gas syringes
+2	
+Suggest advantages and disadvantages of 
+experimental methods and apparatus
+3	
+Describe a:
+(a)	 solvent as a substance that dissolves a solute
+(b)	 solute as a substance that is dissolved in a 
+solvent
+(c)	 solution as a mixture of one or more solutes 
+dissolved in a solvent
+(d)	 saturated solution as a solution containing 
+the maximum concentration of a solute 
+dissolved in the solvent at a specified 
+temperature
+(e)	 residue as a substance that remains after 
+evaporation, distillation, filtration or any 
+similar process
+(f)	 filtrate as a liquid or solution that has passed 
+through a filter
+Supplement
+12.2	 Acid–base titrations
+Core
+1	
+Describe an acid–base titration to include the use 
+of a:
+(a)	 burette
+(b)	 volumetric pipette
+(c)	 suitable indicator
+2	
+Describe how to identify the end-point of a 
+titration using an indicator
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+36
+www.cambridgeinternational.org/igcse
+Back to contents page
+12.3	Chromatography
+Core
+1	
+Describe how paper chromatography is used to 
+separate mixtures of soluble coloured substances, 
+using a suitable solvent 
+2	
+Interpret simple chromatograms to identify:
+(a)	 unknown substances by comparison with 
+known substances
+(b)	 pure and impure substances
+Supplement
+3	
+Describe how paper chromatography is used 
+to separate mixtures of soluble colourless 
+substances, using a suitable solvent and a 
+locating agent 
+	
+Knowledge of specific locating agents is not 
+required
+4	
+State and use the equation for Rf:
+Rf = distance travelled by substance
+distance travelled by solvent
+12.4	Separation and purification
+Core
+1	
+Describe and explain methods of separation and 
+purification using:
+(a)	 a suitable solvent
+(b)	 filtration
+(c)	 crystallisation
+(d)	 simple distillation
+(e)	 fractional distillation
+2	
+Suggest suitable separation and purification 
+techniques, given information about the 
+substances involved
+3	
+Identify substances and assess their purity using 
+melting point and boiling point information
+Supplement
+12.5	 Identification of ions and gases
+Core
+1	
+Describe tests to identify the anions:
+(a)	 carbonate, CO3
+2–, by reaction with dilute acid 
+and then testing for carbon dioxide gas
+(b)	 chloride, Cl  –, bromide, Br –, and iodide, I –, by 
+acidifying with dilute nitric acid then adding 
+aqueous silver nitrate
+(c)	 nitrate, NO3
+–, reduction with aluminium foil 
+and aqueous sodium hydroxide and then 
+testing for ammonia gas
+(d)	 sulfate, SO4
+2–, by acidifying with dilute nitric 
+acid and then adding aqueous barium nitrate
+(e)	 sulfite, SO3
+2–, by reaction with acidified 
+aqueous potassium manganate(VII)
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Subject content 
+37
+www.cambridgeinternational.org/igcse
+Back to contents page
+12.5	 Identification of ions and gases continued
+Core
+2	
+Describe tests using aqueous sodium hydroxide 
+and aqueous ammonia to identify the aqueous 
+cations:
+(a)	 aluminium, Al 3+ 
+(b)	 ammonium, NH4
++
+(c)	 calcium, Ca2+
+(d)	 chromium(III), Cr3+
+(e)	 copper(II), Cu2+
+(f)	 iron(II), Fe2+
+(g)	 iron(III), Fe3+
+	
+(h)	 zinc, Zn2+
+3	
+Describe tests to identify the gases:
+(a)	 ammonia, NH3, using damp red litmus paper 
+(b)	 carbon dioxide, CO2, using limewater
+(c)	 chlorine, Cl 2, using damp litmus paper
+(d)	 hydrogen, H2, using a lighted splint 
+(e)	 oxygen, O2, using a glowing splint
+(f)	 sulfur dioxide, SO2, using acidified aqueous 
+potassium manganate(VII)
+4	
+Describe the use of a flame test to identify the 
+cations:
+(a)	 lithium, Li+
+(b)	 sodium, Na+
+(c)	 potassium, K+
+(d)	 calcium, Ca2+
+(e)	 barium, Ba2+
+(f)	 copper(II), Cu2+
+Supplement
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025. 
+38
+www.cambridgeinternational.org/igcse
+Back to contents page
+4  Details of the assessment 
+All candidates take three papers. 
+Candidates who have studied the Core subject content, or who are expected to achieve a grade 3 or below should 
+be entered for Paper 1, Paper 3 and either Paper 5 or Paper 6. These candidates will be eligible for grades 5 to 1, 
+where 5 is the highest grade. 
+Candidates who have studied the Extended subject content (Core and Supplement), and who are expected to 
+achieve a grade 4 or above should be entered for Paper 2, Paper 4 and either Paper 5 or Paper 6. These candidates 
+will be eligible for grades 9 to 1, where 9 is the highest grade.
+Core assessment
+Core candidates take the following papers. The questions are based on the Core subject content only. 
+Paper 1: Multiple Choice (Core)
+Paper 3: Theory (Core)
+45 minutes
+40 marks
+40 compulsory multiple-choice items of the four-
+choice type
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 5 to 1
+Externally assessed
+AND
+1 hour 15 minutes
+80 marks
+Compulsory short-answer and structured 
+questions
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 5 to 1
+Externally assessed
+Extended assessment
+Extended candidates take the following papers. The questions are based on the Core and Supplement subject 
+content. 
+Paper 2: Multiple Choice (Extended)
+Paper 4: Theory (Extended)
+45 minutes
+40 marks
+40 compulsory multiple-choice items of the four-
+choice type
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 9 to 1
+Externally assessed
+AND
+1 hour 15 minutes
+80 marks
+Compulsory short-answer and structured 
+questions
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 9 to 1
+Externally assessed
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+39
+www.cambridgeinternational.org/igcse
+Back to contents page
+Practical assessment
+All candidates take one practical paper from a choice of two.  
+Paper 5: Practical Test
+Paper 6: Alternative to Practical
+1 hour 15 minutes
+40 marks
+All items are compulsory
+This paper tests assessment objective AO3 
+Candidates will be required to do experiments in a 
+laboratory as part of this test
+Externally assessed
+OR
+1 hour
+40 marks
+All items are compulsory
+This paper tests assessment objective AO3 
+Candidates will not be required to do experiments 
+as part of this test
+Externally assessed
+Questions in the practical papers are structured to assess performance across the full grade range.
+Notes for use in qualitative analysis are provided for both Paper 5 and Paper 6.
+The Practical Test and Alternative to Practical: 
+	•
+require the same experimental skills to be developed and learned
+	•
+require an understanding of the same experimental contexts
+	•
+test the same assessment objective, AO3. 
+Candidates are expected to be familiar with and may be asked questions on the following experimental contexts:
+	•
+simple quantitative experiments, including the measurement of: 
+–	
+volumes of gases or solutions / liquids
+–	
+masses
+–	
+temperatures
+–	
+times
+–	
+lengths
+	•
+rates of reaction
+	•
+salt preparation
+	•
+separation and purification techniques, including:
+–	
+filtration
+–	
+crystallisation
+–	
+simple distillation
+–	
+fractional distillation
+–	
+chromatography
+	•
+electrolysis
+	•
+identification of metal ions, non-metal ions and gases
+	•
+chemical tests for water
+	•
+test-tube reactions of dilute acids, including ethanoic acid
+	•
+tests for oxidising and reducing agents
+	•
+heating and cooling curves
+	•
+titrations
+	•
+solubility
+	•
+melting points and boiling points
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+40
+www.cambridgeinternational.org/igcse
+Back to contents page
+	•
+displacement reactions of metals and halogens
+	•
+temperature changes during reactions 
+	•
+conditions under which iron rusts or other metals corrode
+	•
+procedures using simple apparatus, in situations where the method may not be familiar to the candidate
+Candidates may be required to do the following:
+	•
+demonstrate knowledge of how to select and safely use techniques, apparatus and materials (including 
+following a sequence of instructions where appropriate):
+–	
+identify apparatus from diagrams or descriptions
+–	
+draw, complete or label diagrams of apparatus
+–	
+use, or explain the use of, common techniques, apparatus and materials
+–	
+select the most appropriate apparatus or method for the task and justify the choice made
+–	
+describe tests (qualitative, gas tests, other tests)
+–	
+describe and explain hazards and identify safety precautions
+–	
+describe and explain techniques used to ensure the accuracy of observations and data
+	•
+plan experiments and investigations: 
+–	
+identify the independent variable and dependent variable
+–	
+describe how and explain why variables should be controlled
+–	
+suggest an appropriate number and range of values for the independent variable 
+–	
+suggest the most appropriate apparatus or technique and justify the choice made
+–	
+describe experimental procedures
+–	
+identify risks and suggest safety precautions
+–	
+describe how to record the results of an experiment 
+–	
+describe how to process the results of an experiment to form a conclusion or to evaluate a prediction
+–	
+make reasoned predictions of expected results
+	•
+make and record observations, measurements and estimates: 
+–	
+take readings from apparatus (analogue and digital) or from diagrams of apparatus
+–	
+take readings with appropriate precision, reading to the nearest half-scale division where required 
+–	
+make observations, measurements or estimates that are in agreement with expected results or values
+–	
+take sufficient observations or measurements, including repeats where appropriate
+–	
+record qualitative observations from chemical tests and other tests
+–	
+record observations and measurements systematically, for example in a suitable table, to an appropriate 
+degree of precision and using appropriate units
+	•
+interpret and evaluate experimental observations and data: 
+–	
+process data, including for use in further calculations or for graph plotting, using a calculator as appropriate
+–	
+present data graphically, including the use of best-fit lines where appropriate
+–	
+analyse and interpret observations and data, including data presented graphically
+–	
+use interpolation and extrapolation graphically to determine a gradient or intercept
+–	
+form conclusions justified by reference to observations and data and with appropriate explanation
+–	
+evaluate the quality of observations and data, identifying any anomalous results and taking appropriate 
+action
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+41
+www.cambridgeinternational.org/igcse
+Back to contents page
+	•
+evaluate methods and suggest possible improvements, including:
+–	
+evaluate experimental arrangements, methods and techniques, including the control of variables
+–	
+identify sources of error
+–	
+suggest possible improvements to the apparatus, experimental arrangements, methods or techniques 
+Apparatus and reagents
+This list gives items that candidates should be familiar with using, whether they are taking the Practical Test or the 
+Alternative to Practical.
+These items should be available for use in the Practical Test. This list is not exhaustive and we may also require 
+other items to be sourced for specific examinations. The Confidential Instructions we send before the Practical Test 
+will give the detailed requirements for the examination. 
+Every effort is made to minimise the cost to and resources required by centres. Experiments will be designed around 
+basic apparatus and materials which should be available in most school laboratories are easily obtainable. 
+Hazard codes are used where relevant and in accordance with information provided by CLEAPSS 
+(www.cleapss.org.uk). Students should be familiar with the meanings of these codes and terms but will  
+not be assessed on them. 
+C 	
+corrosive	
+MH 	 moderate hazard
+HH	 health hazard 	
+T	
+acutely toxic
+F	
+flammable	
+O	
+oxidising
+N	
+hazardous to the aquatic environment	
+The attention of centres is also drawn to any national and local regulations relating to safety, first aid and disposal 
+of chemicals. ‘Hazard data sheets’ should be available from your chemical supplier.
+Appropriate safety equipment must be provided to students and should at least include eye protection.
+	•
+aluminium foil
+	•
+balances to measure up to 500 g, with precision of at least 0.1 g 
+	•
+beakers or cups made of an insulating material such as polystyrene, approximate capacity 150 cm3
+	•
+beakers, squat form with lip, 1 dm3, 250 cm3 and 100 cm3
+	•
+boiling tubes, approximately 150 mm × 25 mm
+	•
+Bunsen burners
+	•
+burettes, 50 cm3 (ISO385 or grade B)
+	•
+conical flasks, within the range 50 cm3 to 250 cm3
+	•
+delivery tubes
+	•
+filter funnels and filter papers
+	•
+flame test wires or alternative apparatus
+	•
+measuring cylinders, 100 cm3, 50 cm3, 25 cm3, 10 cm3 (ISO6706 or ISO4788 or grade B)
+	•
+pens for labelling glassware
+	•
+pipette fillers
+	•
+racks for test-tubes and boiling tubes
+	•
+red and blue litmus paper
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+42
+www.cambridgeinternational.org/igcse
+Back to contents page
+	•
+retort stands, bosses and clamps
+	•
+small droppers or teat pipettes
+	•
+small funnels for filling burettes
+	•
+spatulas
+	•
+stirring rods
+	•
+stirring thermometers, –10 °C to + 110 °C, with 1 °C graduations
+	•
+stoppers for test-tubes and boiling tubes
+	•
+stopwatches to measure to an accuracy of 1 s
+	•
+test-tube holders (to hold test-tubes or boiling tubes)
+	•
+test-tubes (Pyrex or hard glass), approximately 125 mm × 16 mm
+	•
+tripods
+	•
+universal indicator paper
+	•
+volumetric pipettes, 25 cm3 (ISO648 or grade B)
+	•
+wash bottles
+	•
+white tiles
+Preparation of reagents
+Detailed guidance on preparing the standard bench reagents and indicators listed here will not be given in the 
+Confidential Instructions. The Confidential Instructions will refer supervisors to the preparations in this list.
+Candidates are not expected to be familiar with the preparation of these reagents.
+Please note, hazard symbols were accurate at the time of publication and may change.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+43
+www.cambridgeinternational.org/igcse
+Back to contents page
+Hazard
+Label
+Identify
+Instructions
+dilute hydrochloric 
+acid
+1.0 mol / dm3 HCl
+Dilute 85 cm3 of concentrated (35–37%; 
+approximately 11 mol / dm3) HCl [C] [MH] to 
+1 dm3.
+[C]
+dilute nitric acid
+1.0 mol / dm3 HNO3
+Dilute 64 cm3 of concentrated (70%) HNO3 [C] 
+[O] to 1 dm3.
+[MH]
+dilute sulfuric acid
+0.5 mol / dm3 H2SO4
+Cautiously pour 28 cm3 of concentrated (98%) 
+H2SO4 [C] into 500 cm3 of distilled water with 
+continuous stirring.
+Make the solution up to 1 dm3 with distilled 
+water.
+Care: concentrated H2SO4 is very corrosive.
+[MH] [N]
+aqueous ammonia
+1.0 mol / dm3 NH3
+Dilute 66 cm3 of concentrated (35%) NH3 [C] 
+[MH] [N] to 1 dm3.
+[C]
+aqueous sodium 
+hydroxide
+1.0 mol / dm3 NaOH
+Dissolve 40.0 g of NaOH [C] in each dm3 of 
+solution.
+Care: the process of solution is exothermic and 
+any concentrated solution is very corrosive.
+aqueous barium nitrate
+0.1 mol / dm3 Ba(NO3)2
+Dissolve 26.1 g of Ba(NO3)2 [MH] [O] in each 
+dm3 of solution.
+aqueous silver nitrate
+0.05 mol / dm3 AgNO3
+Dissolve 8.5 g of AgNO3 [C] [N] [O] in each dm3 
+of solution.
+[MH]
+limewater
+saturated aqueous calcium 
+hydroxide, Ca(OH)2
+Prepare fresh limewater by leaving distilled water 
+to stand over solid Ca(OH)2 [C] [MH] for several 
+days, shaking occasionally. Decant or filter the 
+solution.
+aqueous potassium 
+iodide
+0.1 mol / dm3 KI
+Dissolve 16.6 g of KI in each dm3 of solution.
+aqueous potassium 
+manganate(VII)
+0.02 mol / dm3 KMnO4
+Dissolve 3.16 g of KMnO4 [HH] [O] [MH] [N] in 
+each dm3 of solution.
+[MH]	
+acidified aqueous 
+potassium 
+manganate(VII)
+0.01 mol / dm3 KMnO4 
+0.5 mol / dm3 H2SO4
+Mix equal volumes of 0.02 mol / dm3 KMnO4 and 
+1.0 mol / dm3 H2SO4 [MH].
+[C] [F] [HH] 
+[MH] [N] [T]
+methyl orange 
+indicator
+methyl orange indicator  
+(pH range 3.1–4.4)
+Use commercially produced solution or dissolve 
+0.4 g of solid methyl orange indicator [C] [HH] 
+[MH] [N] [T] in 200 cm3 of 95% ethanol [F] [HH] 
+[MH] and make up to 1 dm3 with distilled water.
+[C] [HH] [MH] 
+[N] [T]
+screened methyl 
+orange indicator
+screened methyl orange 
+indicator (pH range 
+3.2–4.2)
+Use commercially produced solution or dissolve 
+1 g of solid methyl orange indicator [C] [HH] 
+[MH] [N] [T] and 2.6 g of xylene cyanol [HH] 
+[MH] [N] in 1 dm3 of water.
+[F] [HH] [MH]
+thymolphthalein 
+indicator
+thymolphthalein indicator  
+(pH range 9.3–10.5)
+Use commercially produced solution or dissolve 
+2 g of solid thymolphthalein indicator in 1 dm3 of 
+95% ethanol [F] [HH] [MH].
+starch indicator
+Freshly prepared 
+aqueous starch indicator 
+(approximately 2% 
+solution)
+Mix 2 g of soluble starch with a little cold water 
+until a smooth paste is obtained.
+Add 100 cm3 boiling water and stir. Boil until a 
+clear solution is obtained (about 5 minutes).
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+44
+www.cambridgeinternational.org/igcse
+Back to contents page
+Safety in the laboratory
+Teachers should make sure that they do not contravene any school, education authority or government regulations. 
+Responsibility for safety matters rests with centres. 
+Further information can be found from the following UK associations, publications and regulations. 
+Associations 
+CLEAPSS is an advisory service providing support in practical science and technology.  
+www.cleapss.org.uk 
+Publications 
+CLEAPSS Laboratory Handbook, updated 2015 (available to CLEAPSS members only) 
+CLEAPSS Hazcards, 2019 update of 2016 edition (available to CLEAPSS members only) 
+UK regulations 
+Control of Substances Hazardous to Health Regulations (COSHH) 2002 and subsequent amendment in 2004 
+www.legislation.gov.uk/uksi/2002/2677/contents/made 
+www.legislation.gov.uk/uksi/2004/3386/contents/made 
+A brief guide may be found at  
+www.hse.gov.uk/pubns/indg136.pdf
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+45
+www.cambridgeinternational.org/igcse
+Back to contents page
+Notes for use in qualitative analysis
+Tests for anions
+anion
+test
+test result
+carbonate, CO3
+2−
+add dilute acid, then test for carbon dioxide 
+gas
+effervescence, carbon dioxide produced
+chloride, Cl  −  
+[in solution]
+acidify with dilute nitric acid, then add 
+aqueous silver nitrate
+white ppt.
+bromide, Br −  
+[in solution]
+acidify with dilute nitric acid, then add 
+aqueous silver nitrate
+cream ppt.
+iodide, I−
+[in solution]
+acidify with dilute nitric acid, then add 
+aqueous silver nitrate
+yellow ppt.
+nitrate, NO3
+–  
+[in solution]
+add aqueous sodium hydroxide, then 
+aluminium foil; warm carefully
+ammonia produced
+sulfate, SO4
+2−  
+[in solution]
+acidify with dilute nitric acid, then add 
+aqueous barium nitrate
+white ppt.
+sulfite, SO3
+2−
+add a small volume of acidified aqueous 
+potassium manganate(VII)
+the acidified aqueous  
+potassium manganate (VII) changes  
+colour from purple to colourless
+Tests for aqueous cations
+cation
+effect of aqueous sodium hydroxide
+effect of aqueous ammonia
+aluminium, Al 3+
+white ppt., soluble in excess, giving a 
+colourless solution
+white ppt., insoluble in excess
+ammonium, NH4
++
+ammonia produced on warming
+—
+calcium, Ca2+
+white ppt., insoluble in excess
+no ppt. or very slight white ppt.
+chromium(III), Cr3+
+green ppt., soluble in excess
+green ppt., insoluble in excess
+copper(II), Cu2+
+light blue ppt., insoluble in excess
+light blue ppt., soluble in excess, giving a 
+dark blue solution
+iron(II), Fe2+
+green ppt., insoluble in excess, ppt. turns 
+brown near surface on standing
+green ppt., insoluble in excess, ppt. turns 
+brown near surface on standing
+iron(III), Fe3+
+red-brown ppt., insoluble in excess
+red-brown ppt., insoluble in excess
+zinc, Zn2+
+white ppt., soluble in excess, giving a 
+colourless solution
+white ppt., soluble in excess, giving a 
+colourless solution
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+46
+www.cambridgeinternational.org/igcse
+Back to contents page
+Tests for gases
+gas
+test and test result
+ammonia, NH3
+turns damp red litmus paper blue
+carbon dioxide, CO2
+turns limewater milky
+chlorine, Cl 2
+bleaches damp litmus paper
+hydrogen, H2
+‘pops’ with a lighted splint
+oxygen, O2
+relights a glowing splint
+sulfur dioxide, SO2
+turns acidified aqueous potassium manganate(VII) from purple to colourless
+Flame tests for metal ions
+metal ion
+flame colour
+lithium, Li+
+red
+sodium, Na+
+yellow
+potassium, K+
+lilac
+calcium, Ca2+
+orange-red
+barium, Ba2+
+light green
+copper(II), Cu2+
+blue-green
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+47
+www.cambridgeinternational.org/igcse
+Back to contents page
+The Periodic Table of Elements
+Group
+The Periodic Table of Elements
+1
+H
+hydrogen
+1
+2
+He
+helium
+4
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+3
+Li
+lithium
+7
+4
+Be
+beryllium
+9
+atomic number
+atomic symbol
+Key
+name
+relative atomic mass
+11
+Na
+sodium
+23
+12
+Mg
+magnesium
+24
+19
+K
+potassium
+39
+20
+Ca
+calcium
+40
+37
+Rb
+rubidium
+85
+38
+Sr
+strontium
+88
+55
+Cs
+caesium
+133
+56
+Ba
+barium
+137
+87
+Fr
+francium
+–
+88
+Ra
+radium
+–
+5
+B
+boron
+11
+13
+Al
+aluminium
+27
+31
+Ga
+gallium
+70
+49
+In
+indium
+115
+81
+Tl
+thallium
+204
+113
+Nh
+nihonium
+–
+6
+C
+carbon
+12
+14
+Si
+silicon
+28
+32
+Ge
+germanium
+73
+50
+Sn
+tin
+119
+82
+Pb
+lead
+207
+22
+Ti
+titanium
+48
+40
+Zr
+zirconium
+91
+72
+Hf
+hafnium
+178
+104
+Rf
+rutherfordium
+–
+23
+V
+vanadium
+51
+41
+Nb
+niobium
+93
+73
+Ta
+tantalum
+181
+105
+Db
+dubnium
+–
+24
+Cr
+chromium
+52
+42
+Mo
+molybdenum
+96
+74
+W
+tungsten
+184
+106
+Sg
+seaborgium
+–
+25
+Mn
+manganese
+55
+43
+Tc
+technetium
+–
+75
+Re
+rhenium
+186
+107
+Bh
+bohrium
+–
+26
+Fe
+iron
+56
+44
+Ru
+ruthenium
+101
+76
+Os
+osmium
+190
+108
+Hs
+hassium
+–
+27
+Co
+cobalt
+59
+45
+Rh
+rhodium
+103
+77
+Ir
+iridium
+192
+109
+Mt
+meitnerium
+–
+28
+Ni
+nickel
+59
+46
+Pd
+palladium
+106
+78
+Pt
+platinum
+195
+110
+Ds
+darmstadtium
+–
+29
+Cu
+copper
+64
+47
+Ag
+silver
+108
+79
+Au
+gold
+197
+111
+Rg
+roentgenium
+–
+30
+Zn
+zinc
+65
+48
+Cd
+cadmium
+112
+80
+Hg
+mercury
+201
+112
+Cn
+copernicium
+–
+114
+Fl
+flerovium
+–
+116
+Lv
+livermorium
+–
+7
+N
+nitrogen
+14
+15
+P
+phosphorus
+31
+33
+As
+arsenic
+75
+51
+Sb
+antimony
+122
+83
+Bi
+bismuth
+209
+115
+Mc
+moscovium
+–
+8
+O
+oxygen
+16
+16
+S
+sulfur
+32
+34
+Se
+selenium
+79
+52
+Te
+tellurium
+128
+84
+Po
+polonium
+–
+9
+F
+fluorine
+19
+17
+Cl
+chlorine
+35.5
+35
+Br
+bromine
+80
+53
+I
+iodine
+127
+85
+At
+astatine
+–
+117
+Ts
+tennessine
+–
+10
+Ne
+neon
+20
+18
+Ar
+argon
+40
+36
+Kr
+krypton
+84
+54
+Xe
+xenon
+131
+86
+Rn
+radon
+–
+118
+Og
+oganesson
+–
+21
+Sc
+scandium
+45
+39
+Y
+yttrium
+89
+57–71
+lanthanoids
+89–103
+actinoids
+57
+La
+lanthanum
+139
+89
+Ac
+lanthanoids
+actinoids
+The volume of one mole of any gas is 24 dm3 at room temperature and pressure (r.t.p.).
+actinium
+–
+58
+Ce
+cerium
+140
+90
+Th
+thorium
+232
+59
+Pr
+praseodymium
+141
+91
+Pa
+protactinium
+231
+60
+Nd
+neodymium
+144
+92
+U
+uranium
+238
+61
+Pm
+promethium
+–
+93
+Np
+neptunium
+–
+62
+Sm
+samarium
+150
+94
+Pu
+plutonium
+–
+63
+Eu
+europium
+152
+95
+Am
+americium
+–
+64
+Gd
+gadolinium
+157
+96
+Cm
+curium
+–
+65
+Tb
+terbium
+159
+97
+Bk
+berkelium
+–
+66
+Dy
+dysprosium
+163
+98
+Cf
+californium
+–
+67
+Ho
+holmium
+165
+99
+Es
+einsteinium
+–
+68
+Er
+erbium
+167
+100
+Fm
+fermium
+–
+69
+Tm
+thulium
+169
+101
+Md
+mendelevium
+–
+70
+Yb
+ytterbium
+173
+102
+No
+nobelium
+–
+71
+Lu
+lutetium
+175
+103
+Lr
+lawrencium
+–
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+48
+www.cambridgeinternational.org/igcse
+Back to contents page
+Mathematical requirements
+It is expected that these requirements will be covered as part of a mathematics curriculum at this level of study.
+Calculators may be used in all parts of the examination.
+Number
+	•
+add, subtract, multiply and divide
+	•
+use decimals, fractions, percentages, ratios and reciprocals
+	•
+use standard form
+	•
+understand that only the final answer in a calculation is rounded
+	•
+use decimal places and significant figures appropriately
+Algebra
+	•
+use positive, whole number indices in algebraic expressions
+	•
+substitute values of quantities into equations, using consistent units
+	•
+solve simple algebraic equations for any one term when the other terms are known
+	•
+recognise and use direct and inverse proportion
+Geometry and measurements
+	•
+understand the meaning of angle, curve, circle, radius, diameter, circumference, square, rectangle and diagonal
+	•
+select and use the most appropriate units for recording data and the results of calculations
+	•
+convert between units, including cm3 and dm3; mg, g and kg; J and kJ; Pa and kPa
+Graphs, charts and statistics
+	•
+draw graphs and charts from data
+	•
+interpret graphs and charts, including interpolation and extrapolation of data
+	•
+determine the gradient (slope) of a line on a graph, including* by drawing a tangent to a curve
+	•
+determine the intercept of the line on a graph, extending the line graphically (extrapolating) where appropriate
+	•
+select suitable scales and axes for graphs
+	•
+recognise direct proportionality from a graph
+	•
+calculate and use the average (mean) for a set of data
+* Extended candidates only
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+49
+www.cambridgeinternational.org/igcse
+Back to contents page
+Presentation of data
+Taking readings
+	•
+Data values should be read from an instrument to an accuracy of one half of one of the smallest divisions on 
+the scale.
+	•
+Interpolation between scale divisions should be to an accuracy of one half of a division. That is, where a reading 
+occurs between two scale marks, it should be interpolated to the nearest half division.
+Recording readings
+	•
+Data should be recorded so as to reflect the precision of the measuring instrument, i.e. the smallest difference 
+that can be detected on the measuring scale should be reflected by the number of decimal places and unit 
+given in the measurement.
+	•
+A measurement or calculated quantity must be accompanied by a correct unit, where appropriate.
+	•
+Each column of a table should be headed with the name or symbol of the measured or calculated quantity and 
+the appropriate unit, e.g. time / s. The solidus (/) is to be used for separating the quantity and the unit in tables, 
+graphs and charts.
+	•
+Each reading should be repeated, where appropriate and recorded.
+	•
+Units should not be included with data in the body of a table.
+	•
+The number of significant figures given for measured quantities should be appropriate to the measuring 
+instrument used.
+	•
+The number of significant figures given for calculated quantities should be the same as the least number of 
+significant figures in the raw data used in that specific calculation.
+	•
+A ratio should be expressed as x : y.
+Graphs
+	•
+The column headings of a table can be directly transferred to the axes of a constructed graph.
+	•
+A graph should be drawn with a sharp pencil.
+	•
+The axes should be labelled with the name or symbol of the measured or calculated quantity and the 
+appropriate unit, e.g. time / s.
+	•
+Unless instructed otherwise, the independent variable should be plotted on the x-axis (horizontal axis) and the 
+dependent variable plotted on the y-axis (vertical axis).
+	•
+Unless instructed otherwise, the scales for the axes should allow more than half of the graph grid to be used in 
+both directions, and be based on sensible ratios, e.g. 2 cm on the graph grid representing 1, 2 or 5 units of the 
+variable (or 10, 20 or 50, etc.).
+	•
+Points on the graph should be clearly marked as crosses (×) or encircled dots (ʘ) of appropriate size. 
+	•
+Each data point should be plotted to an accuracy of one half of one of the smallest squares on the grid.
+	•
+A best-fit line (trend line) should be a single, thin, smooth straight-line or curve. Mathematical or least-squares 
+methods of obtaining a best-fit line are not required. The line does not need to coincide exactly with any of the 
+points; where there is scatter evident in the data, examiners would expect a roughly even distribution of points 
+either side of the line over its entire length. Points that are clearly anomalous should be ignored when drawing 
+the best-fit line.
+	•
+Candidates should be able to take readings from the graph by extrapolation or interpolation.
+	•
+Data values should be read from a line on a graph to an accuracy of one half of one of the smallest squares on 
+the grid. The same accuracy should be used in reading off an intercept.
+	•
+The gradient of a straight line should be taken using a triangle whose hypotenuse extends over at least half the 
+length of the candidate’s best-fit line, and this triangle should be marked on the graph.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+50
+www.cambridgeinternational.org/igcse
+Back to contents page
+Further guidance can be found in the following publications:
+ASE, The Language of Mathematics in Science: A Guide for Teachers of 11–16 Science (2016).
+ASE, The Language of Mathematics in Science: Teaching Approaches (2016).
+www.ase.org.uk/mathsinscience 
+Conventions (e.g. signs, symbols, terminology and nomenclature)
+Candidates are expected to be familar with the nomenclature in the syllabus.
+The syllabuses and question papers conform with generally accepted international practice. In particular, the 
+following document, produced by the Association for Science Education (ASE), should be used as a guideline. 
+Signs, Symbols and Systematics: The ASE Companion to 16–19 Science (2000).
+The traditional names sulfate, sulfite, nitrate, nitrite, sulfuric acid and nitric acid will be used in question papers. 
+Candidates will be credited for traditional or systematic names in their answers, except when specifically asked to 
+use oxidation numbers to deduce or understand systematic names. 
+Decimal markers 
+In accordance with current ASE convention, decimal markers in examination papers will be a single dot on the line. 
+Candidates are expected to follow this convention in their answers. 
+Numbers 
+Numbers from 1000 to 9999 will be printed without commas or spaces. Numbers greater than or equal to 10 000 
+will be printed without commas. A space will be left between each group of three digits, e.g. 4 256 789.
+Variables
+Independent variables are the variables that are changed in a scientific experiment by the scientist. Changing an 
+independent variable may cause a change in the dependent variable.
+Dependent variables are the variables that are observed or measured in a scientific experiment. Dependent 
+variables may change based on changes made to the independent variables.
+Units 
+To avoid any confusion concerning the symbol for litre, the equivalent quantity, the cubic decimetre (dm3) will be 
+used in place of l or litre.
+In practical work, candidates will be expected to use SI units or, where approriate, units approved by the BPIM 
+for use with the SI (e.g. minute). A list of SI units and units approved for use with the SI may be found at 
+www.bipm.org 
+The use of imperial / customary units such as the inch and degree Fahrenheit are not acceptable and should be 
+discouraged. In all examinations, where data is supplied for use in questions, candidates will be expected to use 
+units that are consistent with the units supplied, and should not attempt conversion to other systems of units 
+unless this is a requirement of the question.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+51
+www.cambridgeinternational.org/igcse
+Back to contents page
+Command words
+Command words and their meanings help candidates know what is expected from them in the exams. The table 
+below includes command words used in the assessment for this syllabus. The use of the command word will relate 
+to the subject context. 
+Command word
+What it means
+Analyse
+examine in detail to show meaning, identify elements and the relationship between them
+Calculate
+work out from given facts, figures or information
+Compare
+identify/comment on similarities and/or differences
+Consider
+review and respond to given information
+Contrast
+identify/comment on differences
+Deduce
+conclude from available information
+Define
+give precise meaning
+Demonstrate
+show how or give an example
+Describe
+state the points of a topic / give characteristics and main features
+Determine
+establish an answer using the information available
+Discuss
+write about issue(s) or topic(s) in depth in a structured way
+Evaluate
+judge or calculate the quality, importance, amount, or value of something
+Examine
+investigate closely, in detail
+Explain
+set out purposes or reasons / make the relationships between things evident / provide why 
+and/or how and support with relevant evidence
+Give
+produce an answer from a given source or recall/memory
+Identify
+name / select / recognise
+Justify
+support a case with evidence/argument
+Predict
+suggest what may happen based on available information
+Show (that)
+provide structured evidence that leads to a given result
+Sketch
+make a simple freehand drawing showing the key features, taking care over proportions
+State
+express in clear terms
+Suggest
+apply knowledge and understanding to situations where there are a range of valid 
+responses in order to make proposals / put forward considerations
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025. 
+52
+www.cambridgeinternational.org/igcse
+Back to contents page
+5  What else you need to know 
+This section is an overview of other information you need to know about this syllabus. It will help to share the 
+administrative information with your exams officer so they know when you will need their support. Find more 
+information about our administrative processes at www.cambridgeinternational.org/eoguide
+Before you start
+Previous study
+We recommend that learners starting this course should have studied a science curriculum such as the Cambridge 
+Lower Secondary programme or equivalent national educational framework.
+Guided learning hours
+We design Cambridge IGCSE syllabuses based on learners having about 130 guided learning hours for each subject 
+during the course but this is for guidance only. The number of hours a learner needs to achieve the qualification 
+may vary according to local practice and their previous experience of the subject.
+Availability and timetables 
+All Cambridge schools are allocated to one of six administrative zones. Each zone has a specific timetable. 
+This syllabus is not available in all administrative zones. To find out about availability check the syllabus page at 
+www.cambridgeinternational.org/0971
+You can view the timetable for your administrative zone at www.cambridgeinternational.org/timetables
+You can enter candidates in the June and November exam series.
+Check you are using the syllabus for the year the candidate is taking the exam. 
+Private candidates can enter for this syllabus. For more information, please refer to the Cambridge Guide to Making 
+Entries. 
+Combining with other syllabuses
+Candidates can take this syllabus alongside other Cambridge International syllabuses in a single exam series. The 
+only exceptions are:
+	•
+Cambridge IGCSE Chemistry (0620)
+	•
+Cambridge IGCSE Physical Science (0652)
+	•
+Cambridge IGCSE Combined Science (0653)
+	•
+Cambridge IGCSE Co-ordinated Sciences (Double Award) (0654)
+	•
+Cambridge IGCSE (9–1) Co-ordinated Sciences (Double Award) (0973)
+	•
+Cambridge O Level Chemistry (5070)
+	•
+Cambridge O Level Combined Science (5129)
+	•
+syllabuses with the same title at the same level.
+Cambridge IGCSE, Cambridge IGCSE (9–1) and Cambridge O Level syllabuses are at the same level.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  What else you need to know 
+53
+www.cambridgeinternational.org/igcse
+Back to contents page
+Making entries
+Exams officers are responsible for submitting entries to Cambridge International. We encourage them to work 
+closely with you to make sure they enter the right number of candidates for the right combination of syllabus 
+components. Entry option codes and instructions for submitting entries are in the Cambridge Guide to Making 
+Entries. Your exams officer has a copy of this guide.
+Exam administration
+To keep our exams secure, we produce question papers for different areas of the world, known as administrative 
+zones. We allocate all Cambridge schools to one administrative zone determined by their location. Each zone has 
+a specific timetable. Some of our syllabuses offer candidates different assessment options. An entry option code 
+is used to identify the components the candidate will take relevant to the administrative zone and the available 
+assessment options.
+Support for exams officers
+We know how important exams officers are to the successful running of exams. We provide them with the support 
+they need to make your entries on time. Your exams officer will find this support, and guidance for all other phases 
+of the Cambridge Exams Cycle, at www.cambridgeinternational.org/eoguide
+Retakes
+Candidates can retake the whole qualification as many times as they want to. Information on retake entries is at 
+www.cambridgeinternational.org/entries 
+Equality and inclusion
+We have taken great care to avoid bias of any kind in the preparation of this syllabus and related assessment 
+materials. In our effort to comply with the UK Equality Act (2010) we have taken all reasonable steps to avoid any 
+direct and indirect discrimination.
+The standard assessment arrangements may present barriers for candidates with impairments. Where a candidate 
+is eligible, we may be able to make arrangements to enable that candidate to access assessments and receive 
+recognition of their attainment. We do not agree access arrangements if they give candidates an unfair advantage 
+over others or if they compromise the standards being assessed.
+Candidates who cannot access the assessment of any component may be able to receive an award based on the 
+parts of the assessment they have completed.
+Information on access arrangements is in the Cambridge Handbook at www.cambridgeinternational.org/eoguide 
+Language
+This syllabus and the related assessment materials are available in English only.
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  What else you need to know  
+54
+www.cambridgeinternational.org/igcse
+Back to contents page
+After the exam
+Grading and reporting
+Grades 9, 8, 7, 6, 5, 4, 3, 2 or 1 indicate the standard a candidate achieved at Cambridge IGCSE (9–1). 
+9 is the highest and 1 is the lowest. ‘Ungraded’ means that the candidate’s performance did not meet the standard 
+required for grade 1. ‘Ungraded’ is reported on the statement of results but not on the certificate. 
+In specific circumstances your candidates may see one of the following letters on their statement of results:
+	•
+Q (PENDING)
+	•
+X (NO RESULT).
+These letters do not appear on the certificate.
+On the statement of results and certificates, Cambridge IGCSE is shown as INTERNATIONAL GENERAL 
+CERTIFICATE OF SECONDARY EDUCATION (IGCSE).
+How students and teachers can use the grades
+Assessment at Cambridge IGCSE has two purposes:
+	•
+to measure learning and achievement
+	
+The assessment:
+–	
+confirms achievement and performance in relation to the knowledge, understanding and skills specified in 
+the syllabus, to the levels described in the grade descriptions.
+	•
+to show likely future success 
+	
+The outcomes:
+–	
+help predict which students are well prepared for a particular course or career and/or which students are 
+more likely to be successful
+–	
+help students choose the most suitable course or career.
+Grade descriptions
+Grade descriptions are provided to give an indication of the standards of achievement candidates awarded 
+particular grades are likely to show. Weakness in one aspect of the examination may be balanced by a better 
+performance in some other aspect.
+Grade descriptions for Cambridge IGCSE (9–1) Chemistry will be published after the first assessment of the syllabus 
+in 2023. Find more information at www.cambridgeinternational.org/0971
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  What else you need to know 
+55
+www.cambridgeinternational.org/igcse
+Back to contents page
+Changes to this syllabus for 2023, 2024 and 2025
+The syllabus has been reviewed and revised for first examination in 2023.
+This is version 2 of the syllabus, published December 2022.
+You must read the whole syllabus before planning your teaching programme.
+Changes to version 2 of the syllabus, published December 2022.
+Changes to syllabus content
+	•
+The list of syllabus content that has been removed on page 55 has 
+been updated.
+	•
+There is no change to the subject content itself: only the summary list 
+on page 55 has been updated. 
+Changes to version 1 of the syllabus, published September 2020.
+Changes to syllabus content
+	•
+The learner attributes have been updated. 
+	•
+The structure of the subject content has changed to ensure a coherent 
+topic structure.  
+	•
+The wording in the learning objectives has been updated to provide 
+clarity to what depth each topic should be taught. Although the 
+wording will look different in many places, the content to teach 
+remains largely the same. 
+	•
+Subject content removed:
+–	
+Brownian motion
+–	
+Carbon cycle
+–	
+Carbohydrates
+–	
+Hydrolysis of carbohydrates and proteins
+–	
+Radioactive isotopes as energy sources
+–	
+Soil acidity
+–	
+Sulfur sources and uses of sulfur dioxide
+–	
+Silver salts in photography
+–	
+Extraction of zinc
+–	
+Production of electrical energy from simple cells
+	•
+Subject content added:
+–	
+Chemistry of the environment
+–	
+Cooling curves
+–	
+Hydrogen–oxygen fuel cells
+–	
+Oxidation numbers
+–	
+Plastics
+–	
+Thymolphthalein as an indicator
+	•
+The teaching time still falls within the recommended guided learning 
+hours
+	•
+The learning objectives have been numbered, rather than listed by 
+bullet points. 
+continued
+Cambridge IGCSE (9–1) Chemistry 0971 syllabus for 2023, 2024 and 2025.  What else you need to know  
+56
+www.cambridgeinternational.org/igcse
+Back to contents page
+Changes to syllabus content 
+continued
+	•
+The Details of the assessment section has been updated and 
+further explanation has been provided. This includes revisions to the 
+apparatus list, mathematical requirements and the presentation of 
+data. 
+	•
+A table has been provided which provides detailed notes for the 
+preparation of some common laboratory reagents. 
+	•
+A list of command words used in the assessments has been provided 
+and replaces the previous glossary of terms used in science papers.
+Changes to assessment 
+(including changes to specimen 
+papers)
+	•
+The syllabus aims have been updated to improve the clarity of 
+wording and the consistency between Cambridge IGCSE (9–1) Biology, 
+Chemistry and Physics.  
+	•
+The wording of the assessment objectives (AOs) has been updated 
+to maintain consistency across Cambridge IGCSE (9–1) Biology, 
+Chemistry and Physics. The assessment objectives still test the same 
+knowledge and skills as previously.  
+	•
+The Notes for use in qualitative analysis will be provided in Paper 5 
+and Paper 6.
+In addition to reading the syllabus, you should refer to the updated specimen assessment materials. The specimen 
+papers will help your students become familiar with exam requirements and command words in questions. The 
+specimen mark schemes explain how students should answer questions to meet the assessment objectives.
+Any textbooks endorsed to support the syllabus for examination from 2023 are suitable for use with 
+this syllabus.   
+Cambridge Assessment International Education
+The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA, United Kingdom
+Tel: +44 (0)1223 553554  Fax: +44 (0)1223 553558
+Email: info@cambridgeinternational.org    www.cambridgeinternational.org
+Copyright © UCLES September 2020
+‘While studying Cambridge IGCSE and Cambridge International A Levels, students broaden their horizons 
+through a global perspective and develop a lasting passion for learning.’
+Zhai Xiaoning, Deputy Principal, The High School Affiliated to Renmin University of China

@@ -1,0 +1,2083 @@
+INTERNATIONAL 
+GCSE
+Mathematics (Speciﬁ cation B) (9-1)
+SPECIFICATION
+Pearson Edexcel International GCSE in Mathematics (Speciﬁ cation B) (4MB1)
+For ﬁ rst teaching September 2016
+First examination June 2018
+ 
+ 
+INTERNATIONAL GCSE 
+Mathematics (Specification B) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SPECIFICATION 
+Pearson Edexcel International GCSE in Mathematics (Specification B) 
+(4MB1) 
+ 
+ 
+For first teaching in September 2016 
+First examination June 2018 
+ 
+ 
+ 
+Edexcel, BTEC and LCCI qualifications  
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest awarding 
+body offering academic and vocational qualifications that are globally recognised and 
+benchmarked. For further information, please visit our qualification websites at 
+qualifications.pearson.com. Alternatively, you can get in touch with us using the details on 
+our contact us page at qualifications.pearson.com/contactus  
+About Pearson  
+Pearson is the world's leading learning company, with 40,000 employees in more than 70 
+countries working to help people of all ages to make measurable progress in their lives 
+through learning. We put the learner at the centre of everything we do, because wherever 
+learning flourishes, so do people. Find out more about how we can help you and your 
+learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements 
+This specification has been produced by Pearson on the basis of consultation with teachers, 
+examiners, consultants and other interested parties. Pearson would like to thank all those 
+who contributed their time and expertise to the specification’s development. 
+ 
+ 
+References to third party material made in this specification are made in good faith. Pearson 
+does not endorse, approve or accept responsibility for the content of materials, which may 
+be subject to change, or any opinions expressed therein. (Material may include textbooks, 
+journals, magazines and other publications and websites.) 
+ 
+All information in this specification is correct at time of going to publication. 
+ 
+ISBN 978 1 446 93111 0 
+All the material in this publication is copyright 
+© Pearson Education Limited 2016 
+ 
+ 
+ 
+Contents 
+1 
+About this specification 
+1 
+Specification updates 
+1 
+Using this specification 
+1 
+Qualification aims and objectives 
+1 
+Why choose Edexcel qualifications? 
+2 
+Why choose Pearson Edexcel International GCSE in 
+Mathematics (Specification B)? 
+2 
+Supporting you in planning and implementing this qualification 
+3 
+Qualification at a glance 
+5 
+Paper overview 
+5 
+2 
+Mathematics (Specification B) content 
+7 
+3 
+Assessment information 
+23 
+Assessment requirements 
+23 
+Calculators 
+24 
+Assessment objectives and weightings 
+25 
+Relationship of assessment objectives to units 
+25 
+4 
+Administration and general information 
+27 
+Entries 
+27 
+Access arrangements, reasonable adjustments, special 
+consideration and malpractice 
+27 
+Language of assessment 
+27 
+Access arrangements 
+27 
+Reasonable adjustments 
+28 
+Special consideration 
+28 
+Further information 
+28 
+Malpractice 
+28 
+Candidate malpractice 
+28 
+Staff/centre malpractice 
+29 
+Awarding and reporting 
+29 
+Student recruitment and progression 
+29 
+Prior learning and other requirements 
+29 
+Progression 
+29 
+ 
+ 
+Appendices 
+31 
+Appendix 1: Codes 
+33 
+Appendix 2: Pearson World Class Qualification Design Principles 
+35 
+Appendix 3: Transferable skills 
+37 
+Appendix 4: Formulae sheet 
+39 
+Appendix 5: Notation 
+41 
+Appendix 6: Glossary 
+43 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+1 
+1 About this specification 
+The Pearson Edexcel International GCSE in Mathematics (Specification B) is part of a 
+suite of International GCSE qualifications offered by Pearson. 
+This qualification is not accredited or regulated by any UK regulatory body. 
+This specification includes the following key features. 
+Structure: the Pearson Edexcel International GCSE in Mathematics (Specification B) is a 
+linear qualification. It consists of two examinations available at Higher Tier only (targeted at 
+grades 9–4, with 3 allowed). Both examinations must be taken in the same series at the end 
+of the course of study. 
+Content: relevant, engaging and of equivalent standard to the Higher Tier content of 
+Pearson’s regulated GCSE in Mathematics. 
+Assessment: designed to be accessible to students from grades 9–4 using varying  
+question-style approaches with short- and long-type questions. 
+Approach: a solid basis for students wishing to progress to Edexcel AS and Advanced  
+GCE Level, or equivalent qualifications. 
+Specification updates 
+This specification is Issue 1 and is valid for the Pearson Edexcel International GCSE in 
+Mathematics (Specification B) examination from 2018. If there are any significant changes to 
+the specification Pearson will inform centres to let them know. Changes will also be posted 
+on our website. 
+For more information please visit qualifications.pearson.com 
+Using this specification 
+This specification has been designed to give guidance to teachers and encourage effective 
+delivery of the qualification. The following information will help you get the most out of the 
+content and guidance. 
+Compulsory content: arranged according to topic headings, as summarised in  
+Section 2: Mathematics (Specification B) content.  
+Examples: we have included examples to exemplify content statements to support teaching 
+and learning. It is important to note that these examples are for illustrative purposes only 
+and centres can use other examples. We have included examples that are easily understood 
+and recognised by international centres. 
+Qualification aims and objectives 
+The Pearson Edexcel International GCSE in Mathematics (Specification B) qualification 
+enables students to: 
+• 
+develop their knowledge and understanding of mathematical concepts and techniques 
+• 
+acquire a foundation of mathematical skills for further study in the subject or related 
+areas 
+• 
+enjoy using and applying mathematical techniques and concepts, and become confident 
+in using mathematics to solve problems 
+• 
+appreciate the importance of mathematics in society, employment and study. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+2
+Why choose Edexcel qualifications? 
+Pearson – the world’s largest education company  
+Edexcel academic qualifications are from Pearson, the UK’s largest awarding organisation. 
+With over 3.4 million students studying our academic and vocational qualifications 
+worldwide, we offer internationally recognised qualifications to schools, colleges and 
+employers globally.  
+Pearson is recognised as the world’s largest education company, allowing us to drive 
+innovation and provide comprehensive support for Edexcel students to acquire the 
+knowledge and skills they need for progression in study, work and life.  
+A heritage you can trust 
+The background to Pearson becoming the UK’s largest awarding organisation began in 1836, 
+when a royal charter gave the University of London its first powers to conduct exams and 
+confer degrees on its students. With over 150 years of international education experience, 
+Edexcel qualifications have firm academic foundations, built on the traditions and rigour 
+associated with Britain’s educational system. 
+Results you can trust 
+Pearson’s leading online marking technology has been shown to produce exceptionally 
+reliable results, demonstrating that at every stage, Edexcel qualifications maintain the 
+highest standards. 
+Developed to Pearson’s world-class qualifications standards 
+Pearson’s world-class standards mean that all Edexcel qualifications are developed to be 
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of 
+educational thought-leaders and assessment experts, to ensure that Edexcel qualifications 
+are globally relevant, represent world-class best practice and maintain a consistent 
+standard. 
+For more information on the World Class Qualifications process and principles please go to 
+Appendix 2 or visit our website: uk.pearson.com/world-class-qualifications  
+Why choose Pearson Edexcel International GCSE in 
+Mathematics (Specification B)? 
+We’ve listened to feedback from all parts of the International school and UK Independent 
+school subject community, including a large number of teachers. We’ve made changes that 
+will engage students and develop their skills to progress to further study of Mathematics and 
+a wide range of other subjects. Our content and assessment approach has been designed to 
+meet students’ needs and sits within our wider subject offer for Mathematics.  
+At Edexcel we offer both Specification A and Specification B International GCSE qualifications 
+for Mathematics – these have been designed to meet different student needs. The content 
+and assessment approach for this Specification B qualification has been designed to meet 
+student needs in the following ways, and sits within our wider subject offer for Mathematics. 
+Clear and straightforward question papers – Our question papers are clear and 
+designed specifically to target the higher tier (grades 9–4 with grade 3 allowed) making 
+them accessible for students in this ability range. Our mark schemes are straightforward, so 
+that the assessment requirements are clear.  
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+3 
+Broaden and deepen students’ skills – We have designed the International GCSE to 
+extend students’ knowledge by broadening and deepening skills, for example: 
+• 
+students develop problem-solving skills by translating problems in mathematical or  
+non-mathematical contexts 
+• 
+students will develop reasoning skills through exercises such as presenting arguments 
+and proofs, and making deductions and drawing conclusions from mathematical 
+information.  
+Comparable to GCSE – We have designed our International GCSE qualification to be of 
+equivalent standard to Pearson’s regulated GCSE qualification. This ensures that 
+International GCSEs are recognised globally and provide learners with the same progression 
+routes.  
+Supports progression to A Level – Our qualifications enable successful progression to  
+A Level and beyond. Through our world-class qualification development process, we have 
+consulted with International A Level and GCE A Level teachers, as well as university 
+professors to validate the appropriacy of this qualification including the content, skills and 
+assessment structure.  
+Centres wishing to teach mathematics using a different approach to meet their students’ 
+needs can use our Pearson Edexcel International GCSE in Mathematics (Specification A) or 
+extend students’ study with Pearson Edexcel International GCSE in Further Pure 
+Mathematics. More information about all of our qualifications can be found on our Edexcel 
+International GCSE pages at: qualifications.pearson.com  
+Supporting you in planning and implementing this 
+qualification  
+Planning 
+• 
+Our Getting Started Guide gives you an overview of the Pearson Edexcel International 
+GCSE in Mathematics (Specification B) to help you understand the changes to content 
+and assessment, and to help you understand what these changes mean for you and your 
+students.  
+• 
+We will provide you with a course planner and editable schemes of work.  
+• 
+Our mapping documents highlight key differences between the new and 2009 legacy 
+qualification.  
+Teaching and learning 
+• 
+Our skills maps will highlight skills areas that are naturally developed through the study 
+of mathematics, showing connections between areas and opportunities for further 
+development. 
+• 
+Print and digital learning and teaching resources – promotes any time, any place learning 
+to improve student motivation and encourage new ways of working.  
+Preparing for exams 
+We will also provide a range of resources to help you prepare your students for the 
+assessments, including: 
+• 
+specimen papers to support formative assessments and mock exams 
+• 
+examiner commentaries following each examination series. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+4
+ResultsPlus  
+ResultsPlus provides the most detailed analysis available of you students’ exam 
+performance. It can help you identify the topics and skills where further learning would 
+benefit your students.  
+examWizard 
+A free online resource designed to support students and teachers with exam preparation and 
+assessment. 
+Training events  
+In addition to online training, we host a series of training events each year for teachers to 
+deepen their understanding of our qualifications. 
+Get help and support  
+Our subject advisor service will ensure you receive help and guidance from us. You can sign 
+up to receive the Edexcel newsletter to keep up to date with qualification updates and 
+product and service news.  
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+5 
+Qualification at a glance 
+The Pearson Edexcel International GCSE in Mathematics (Specification B) comprises of two 
+externally assessed papers. 
+This specification is offered through a single tier. 
+Questions are targeted at grades in the range 9–4, with 3 allowed. 
+Students whose level of achievement is below the minimum judged by Pearson to be of 
+sufficient standard will receive an unclassified U result. 
+Paper overview 
+Paper 1 
+*Component/paper 
+code 4MB1/01 
+• 
+Externally assessed 
+• 
+Availability: January and June  
+• 
+First assessment: June 2018 
+Paper is 33 3
+1 % of the 
+total International GCSE  
+Content summary 
+• 
+Number and algebra 
+• 
+Geometry and trigonometry 
+• 
+Statistics and probability 
+Assessment 
+• 
+Assessed through a 1 hour and 30 minute examination set and marked by Pearson. 
+• 
+The total number of marks is 100. 
+• 
+The paper will consist of around 26–30 questions with varying mark allocations per 
+question, which will be stated on the paper. 
+• 
+The paper will contain questions from any part of the specification content, and the 
+solution of any questions may require knowledge of more than one section of the 
+specification content. 
+• 
+The paper will have approximately 40% of the marks distributed evenly over grades  
+4 and 5 and approximately 60% of the marks distributed evenly over grades 6, 7, 8  
+and 9. 
+• 
+A calculator may be used in the examination (please see page 24 for further 
+information). 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+6
+ 
+Paper 2 
+*Component/paper 
+code 4MB1/02 
+• 
+Externally assessed 
+• 
+Availability: January and June 
+• 
+First assessment: June 2018 
+Paper is 66 3
+2 % of the 
+total International GCSE  
+Content summary 
+• 
+Number and algebra 
+• 
+Geometry and trigonometry 
+• 
+Statistics and probability 
+Assessment 
+• 
+Assessed through a 2 hour and 30 minute examination set and marked by Pearson. 
+• 
+The total number of marks is 100. 
+• 
+The paper will consist of around 11–12 questions with varying mark allocations per 
+question, which will be stated on the paper. 
+• 
+The paper will contain questions from any part of the specification content, and the 
+solution of any questions may require knowledge of more than one section of the 
+specification content. 
+• 
+The paper will have approximately 40% of the marks distributed evenly over grades  
+4 and 5 and approximately 60% of the marks distributed evenly over grades 6, 7, 8  
+and 9. 
+• 
+Where a question on Paper 2 requires the use of a formula from the formulae sheet 
+(Appendix 4), that formula will be given at the end of the question. 
+• 
+A calculator may be used in the examinations (please see page 24 for further 
+information).  
+ 
+* See Appendix 1 for a description of this code and all the other codes relevant to this 
+qualification. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+7 
+2 Mathematics (Specification B) content 
+ 
+1: Number 
+ 11 
+2: Sets 
+ 13 
+3: Algebra 
+ 14 
+4: Functions 
+ 15 
+5: Matrices 
+ 17 
+6: Geometry 
+ 18 
+7: Mensuration 
+ 19 
+8: Vectors and transformation geometry 
+ 20 
+9: Trigonometry 
+ 21 
+10: Statistics and probability 
+ 22 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+8
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+9 
+Content 
+Externally assessed 
+Description 
+The Pearson Edexcel International GCSE in Mathematics (Specification B) requires students 
+to demonstrate application and understanding of the following. 
+ 
+Number and algebra 
+• 
+Use numerical skills in a purely mathematical way and in real-life situations. 
+• 
+Set theory and notation. 
+• 
+Use letters as equivalent to numbers and as variables. 
+• 
+Understand the distinction between expressions, equations and formulae. 
+• 
+Use algebra to set up and solve problems. 
+• 
+Demonstrate techniques of algebraic manipulation. 
+• 
+Use functions of one variable. 
+• 
+Construct and interpret graphs. 
+• 
+Use matrices. 
+ 
+Geometry and trigonometry 
+• 
+Use properties of angles. 
+• 
+Understand a range of transformations in a plane. 
+• 
+Apply the metric system to real-life problems. 
+• 
+Understand ideas of space and shape. 
+• 
+Use rulers, compasses and protractors appropriately to construct shapes. 
+• 
+Use vectors and vector notation. 
+• 
+Use trigonometry in two– and three–dimensional problems. 
+ 
+Statistics and probability 
+• 
+Understand the basic ideas of statistical techniques. 
+• 
+Use basic ideas of probability. 
+ 
+Students should be able to demonstrate problem-solving skills by translating problems  
+in mathematical or non-mathematical contexts into a process or a series of mathematical 
+processes. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+10 
+ 
+Students should be able to demonstrate mathematical reasoning skills by: 
+• 
+making deductions and drawing conclusions from mathematical information 
+• 
+constructing chains of reasoning 
+• 
+presenting arguments and proofs 
+interpreting and communicating information accurately. 
+Assessment information 
+Two written papers assessed through a 1 hour and 30 minute examination (Paper 1) and a  
+2 hour and 30 minute examination (Paper 2), set and marked by Pearson. 
+The total number of marks for each paper is 100. 
+Paper 1 will consist of around 26–30 questions and Paper 2 will consist of around 11–12 
+questions with varying mark allocations per question, which will be stated on each paper. 
+Both papers will contain questions from any part of the specification content, and the 
+solution of any questions may require knowledge of more than one section of the 
+specification content. 
+Each paper will have approximately 40% of the marks distributed evenly over grades  
+4 and 5 and approximately 60% of the marks distributed evenly over grades 6, 7, 8 and 9. 
+Diagrams will not necessarily be drawn to scale and measurements should not be taken from 
+diagrams unless instructions to this effect are given. 
+Each student may be required to use mathematical instruments, e.g. pair of compasses, 
+ruler, protractor. 
+Where a question on Paper 2 requires the use of a formula from the formulae sheet 
+(Appendix 4), that formula will be given at the end of the question. 
+Tracing paper may be used in the examinations.  
+A calculator may be used in the examinations (please see page 24 for further information).  
+Questions will be set in SI units (international system of units). 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+11 
+1 
+Number 
+ 
+What students need to learn 
+Notes 
+A The ordinary processes of number 
+manipulation 
+The ‘four operations’ and combination of 
+them by use of brackets 
+B Prime numbers, factors, multiples 
+To include finding HCF and LCM in 
+simple cases  
+C Indices, powers and roots 
+Use index notation and index laws for 
+multiplication and division involving 
+integer, fractional and negative powers 
+D Simple manipulation of surds 
+Students should understand what surds 
+represent and their use for exact 
+answers 
+Manipulation will be simple  
+For example: 
+5 3
+2 3
+7 3
+48
+4 3
+1
+10
+2 5
+5
++
+=
+=
+×
+=
+ 
+E Rationalising the denominator 
+15
+7
+2
+−
+ 
+F Natural numbers, integers and rational and 
+irrational numbers 
+Recognitions of these sets   
+Proofs of irrationality will not be 
+required 
+G Weights, measures and money 
+Carry out calculations using standard 
+units of mass, length, area, volume and 
+capacity, time and average speed 
+Metric and SI units only 
+Carry out calculations using money, 
+including converting between currencies 
+(where conversion is required, the rate 
+of conversion will always be given) 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+12 
+ 
+What students need to learn 
+Notes 
+H Fractions, decimals, ratio, proportion and 
+percentage 
+ 
+Students will be expected to interchange 
+any of these methods of fractional 
+representation and to select the most 
+appropriate to given situations 
+Ratios and proportions are required in, 
+at most, three proportions, i.e. 
+a : b or a : b : c 
+Students will be expected to use the 
+four operations with fractions and 
+decimals, and use percentages, ratio 
+and/or proportion in problems 
+I 
+Expressing numbers to a given degree of 
+accuracy 
+Correction to a given number of decimal 
+places or significant figures 
+ 
+J 
+Solve problems using upper and lower 
+bounds where values are given to a degree 
+of accuracy 
+ 
+K Numbers in standard form 
+10 ,
+n
+a ×
+where n is an integer and  
+1  a < 10 
+Solve problems involving standard form 
+Questions may involve the application of 
+any of the techniques listed in 1 to 
+problems of everyday personal, 
+domestic or community life 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+13 
+2 
+Sets 
+ 
+What students need to learn 
+Notes 
+A The idea of a set 
+ 
+B Set language and notation 
+Questions may be set involving these 
+ideas in the abstract or derived from 
+practical situations 
+C Union and intersection of sets 
+Understand sets defined in algebraic 
+terms 
+D Number of elements in a set 
+Use the notation n(A) 
+E Complementary sets 
+Use the notation A′ 
+F Subsets 
+ 
+G Universal set, null set 
+ 
+H Venn diagrams and their use in simple 
+logical problems 
+ 
+I 
+Use of symbols to represent sets 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+14 
+3 
+Algebra 
+ 
+What students need to learn 
+Notes 
+A The basic processes of algebra 
+Collecting like terms, using the four 
+operations, the rules of indices, with 
+integers and fractional powers 
+B The construction, interpretation and use of 
+formulae and their manipulation 
+To include change of subject of a 
+formula and substitution 
+C The factorisation of simple algebraic 
+expressions 
+ 
+D Use of the factor theorem 
+Including application to cubics and 
+factors of the form (ax + b) or (ax – b) 
+E Algebraic division of a cubic by a linear 
+factor  
+ 
+F The manipulation of simple algebraic 
+fractions, the denominators being 
+numerical, linear or quadratic 
+Simple cases involving sum, difference, 
+product and quotient of algebraic 
+fractions 
+G Solution of equations of 1st, 2nd and 3rd 
+degree containing one unknown quantity 
+Solution of quadratics to include solution 
+by factorisation, by graph, by 
+completing the square or by formula 
+Problems that result in the solution of 
+such equations may also be set 
+H Solution of linear simultaneous equations in 
+two unknowns 
+Simple questions may be set requiring 
+the graphical solution of simultaneous 
+linear equations 
+I 
+Solve simultaneous equations in two 
+unknowns, one equation being linear and 
+the other being quadratic 
+ 
+J 
+Solution of linear inequalities, and the 
+representations of solutions on the number 
+line and two-dimensional space 
+Simple questions may be set requiring 
+the graphical solution of simultaneous 
+linear inequalities 
+No questions will be set on linear 
+programming 
+K Solve quadratic inequalities in one unknown 
+and represent the solution set on a number 
+line 
+ 
+L 
+The idea of a sequence 
+Being able to recognise sequences with 
+a common difference or common integer 
+sequences, and to continue a given 
+sequence 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+15 
+4 
+Functions 
+ 
+What students need to learn 
+Notes 
+A The idea of a function of a variable 
+ 
+B Function as a mapping or as a 
+correspondence between the elements of 
+two sets 
+ 
+C Use functional notations of the form  
+f(x) =… and f: x … 
+ 
+D Domain and range of a function 
+Questions will not be set on continuity, 
+but students will be expected to 
+recognise when parts of the domain 
+need to be excluded (e.g. x = 0 must be 
+excluded from the domain of the 
+function f where f(x) = 1
+x
+) 
+E Composite functions 
+‘fg’ will mean ‘do g first then f’ 
+F Inverse functions 
+Finding the inverse of a function 
+G Variation, direct and indirect proportion 
+To include only the following: 
+2
+2
+3
+3
+1
+,
+1
+,
+1
+,
+1
+,
+y
+x y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x y
+x
+∝
+∝
+∝
+∝
+∝
+∝
+∝
+∝
+ 
+H Rectangular Cartesian co-ordinates 
+ 
+I 
+Recognise that equations of the form  
+y = mx + c are straight–line graphs with 
+gradient m and intercept on the y-axis at 
+the point (0, c) 
+ 
+J 
+Graphs and graphical treatment of the 
+equation: 
+ 
+3
+2
+2
+E
+F
+y
+Ax
+Bx
+Cx
+D
+x
+x
+=
++
++
++
++
++
+ 
+ 
+in which the constants are numerical and at 
+least three of them are zero 
+Students will be expected to draw and 
+interpret graphs from given equations 
+Use of the intersection of two curves 
+(graphs) to solve equations 
+K The gradients of graphs above by drawing 
+Students will be expected to draw a 
+reasonable tangent to the graph at a 
+named point and to construct an 
+appropriate right-angled triangle from 
+which to calculate the gradient 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+16 
+ 
+What students need to learn 
+Notes 
+L 
+Differentiation of integer powers of x 
+Use of d
+d
+y
+x
+ notation 
+M Determination of gradients, rates of change, 
+maxima and minima, stationary points and 
+turning points 
+Students will either be required to 
+differentiate or use graphical methods to 
+arrive at solutions and relate their 
+calculations to their graphs and vice 
+versa 
+N Applications to linear kinematics and to 
+other simple practical problems 
+This includes the drawing and 
+interpretation of distance/time and 
+speed/time graphs, and other graphs of 
+a similar nature 
+Students need to be able to understand 
+the relationship between displacement 
+or distance, velocity and speed, and 
+acceleration, for example: 
+d
+d
+s
+v
+t =
+ and d
+d
+v
+a
+t =
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+17 
+5 
+Matrices 
+ 
+What students need to learn 
+Notes 
+A Representation of data by a matrix 
+ 
+B Addition and multiplication of matrices 
+An understanding of ideas of how to 
+perform row and column multiplication, 
+of order not more than 3 × 3, for these 
+operations will be expected 
+C Multiplication of a matrix by a scalar 
+ 
+D Unit (identity) matrix and zero (null) matrix 
+Of order not more than 3 × 3 
+E Determinants and inverses of non-singular  
+2 × 2 matrices 
+Knowledge of singular matrices is not 
+required 
+F Transformations of the plane associated 
+with 2 × 2 matrices 
+Transformations include: 
+Reflections in 
+0,
+0
+x
+y
+=
+=
+ and y
+x
+= ±
+ 
+Rotations about the origin 
+Enlargements with centre at the origin 
+G Combination of transformations 
+The matrix AB represents the 
+transformation represented by B 
+followed by the transformation 
+represented by A 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+18 
+6 
+Geometry 
+ 
+What students need to learn 
+Notes 
+A Geometrical properties of Euclidean space, 
+as listed below 
+In solving any problem or rider, 
+students may use any knowledge they 
+possess 
+Solutions may be by traditional methods 
+(e.g. congruent triangles), vectors, the 
+use of transformations such as 
+translation, reflection, rotation and 
+enlargement, or a mixture of these 
+Formal proofs of theorems will not be 
+required 
+B Geometrical reasoning 
+ 
+C Angle properties of parallel lines, triangles 
+and polygons, including regular polygons 
+Angles on a straight line, angles around 
+a point 
+Angles measured anticlockwise will be 
+taken as positive; clockwise as negative 
+D Properties of the parallelogram, rectangle, 
+square, rhombus, trapezium and kite 
+ 
+E Symmetry about a point, line or plane 
+Recognise line and rotational symmetry 
+Complete shapes with a given axis 
+ofsymmetry and order of rotational 
+symmetry 
+F Use of Pythagoras’ theorem in 2D and 3D 
+Including its use in any acute–angled 
+triangle where an altitude is given or 
+constructed 
+The angle bisector theorems are 
+excluded 
+G Similarity: areas and volumes of similar 
+figures 
+Understanding how scale factors are 
+related to area and volume 
+H Prove the similarity of two triangles 
+ 
+I 
+Congruent shapes 
+ 
+J 
+Understand and use SSS, SAS, ASA and 
+RHS conditions to prove the congruence of 
+triangles 
+ 
+K Chord, angle and tangent properties of 
+circles 
+To include knowledge of the intersecting 
+chord properties (both internal and 
+external) and the alternate segment 
+theorem 
+L 
+Properties of a cyclic quadrilateral 
+ 
+M Loci in two dimensions 
+‘Tracing paper’ methods will not be 
+acceptable 
+N Constructions of bisector of an angle and of 
+perpendicular bisector (mediator) of a 
+straight line 
+Constructions using only ruler and 
+compasses 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+19 
+7 
+Mensuration 
+ 
+What students need to learn 
+Notes 
+A Length, area, and volume 
+ 
+B Mensuration of two-dimensional shapes, 
+rectangle, parallelogram, trapezium, 
+triangle, circle 
+Straightforward calculations, where 
+appropriate, of areas of the shapes 
+mentioned and also of  
+two-dimensional shapes that can be 
+divided into a collection of such shapes 
+(e.g. trapezia, polygons) 
+C Mensuration of three-dimensional shapes, 
+right circular cylinder, right circular cone 
+and sphere, cuboid, pyramid, prism 
+Straightforward calculations, where 
+appropriate, of volumes of the shapes 
+mentioned and also of  
+three-dimensional shapes which can be 
+divided into a collection of such shapes 
+(e.g. cone, hemisphere) 
+D Length of an arc, area of a sector of a  circle 
+Radian measure is excluded 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+20 
+8 
+Vectors and transformation geometry 
+ 
+What students need to learn 
+Notes 
+A Scalar and vector quantities 
+Vectors will be in two dimensions only 
+B Understand and use vector notation 
+The notations OA
+
+and a will be used, as 
+will column vectors 
+C Representation of a vector by a directed line 
+segment 
+ 
+D Parallel vectors, unit vectors and position 
+vectors 
+ 
+E Sum and difference of two vectors 
+ 
+F Modulus (magnitude) of a vector 
+ 
+G Multiplication of a vector by a scalar 
+ 
+H Find the resultant of two or more vectors 
+ 
+I 
+Apply vector methods to simple geometrical 
+problems 
+The problems may involve colinearity, 
+parallel lines and concurrency 
+J 
+Transformations of the plane 
+Reflections in any line 
+Rotations about any point  
+Translations  
+Enlargements 
+K Combination of transformations 
+ 
+L 
+Multiplication of a vector by a matrix 
+To include the finding of a matrix for a 
+given transformation of the plane, using  
+1
+0
+0
+1
+
+
+
+
+
+
+and
+ 
+These transformations will be those for 
+which the origin is unchanged 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+21 
+9 
+Trigonometry 
+ 
+What students need to learn 
+Notes 
+A Use of sine, cosine and tangent of angles 
+ 
+up to 180° 
+Angles will be measured in degrees 
+and decimals of a degree 
+B Solution of problems in two and three 
+ 
+dimensions by calculation and by drawing 
+Use of the sine and cosine rule 
+Area of a triangle 
+1
+sin
+2 ab
+C
+=
+ 
+Questions on latitude and longitude 
+will not be set 
+Calculations of the angle between two 
+planes, or of the angle between a 
+straight line and a plane will not be set 
+C Angles of elevation and depression 
+Angles will be given in degrees and 
+decimals of a degree  
+D Bearings 
+The normal convention of bearings 
+being measured clockwise will be 
+adopted 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+22 
+10 Statistics and probability 
+ 
+What students need to learn 
+Notes 
+A Graphical representation of numerical data 
+To include bar charts, pie charts and 
+histograms 
+Cumulative frequency graphs are 
+excluded 
+B Determination of the mean, median and 
+mode for a discrete data set 
+ 
+C Calculation of an estimate of the mean of  a 
+larger number of quantities given in 
+grouped frequencies 
+Questions involving weighted or moving 
+means will not be set 
+D Determination of a modal class and the 
+class containing the median for grouped 
+data 
+ 
+E Understand the language and basic 
+concepts of probability 
+To include the probability scale, sample 
+spaces, relative frequency, probabilities 
+and complements 
+F Use of addition rule for two or more 
+mutually exclusive events 
+Knowing that when A and B are 
+mutually exclusive events, 
+P(A or B) = P(A) + P(B) 
+G Use of product rule for two or more 
+independent events 
+Knowing that when A and B are 
+independent events, 
+P(A and B) = P(A) × P(B) 
+H Determination of the probability of two or 
+more independent events 
+The use of tree diagrams will be 
+expected 
+I 
+Using simple conditional probability for 
+combined events 
+ 
+J 
+Finding very simple conditional probability  
+The notation P(A|B) will not be used 
+K Understand and use the term ‘expected 
+frequency’ 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+23 
+3 Assessment information 
+Assessment requirements 
+Paper number  
+Level 
+Assessment information 
+Number of marks 
+allocated in the 
+paper 
+Paper 1 
+Higher 
+Assessed through a 1 hour 
+and 30 minute examination set 
+and marked by Pearson. 
+The paper is weighted at  
+33 3
+1 % of the qualification, 
+targeted at grades 9–4 with  
+3 allowed. 
+100 
+Paper 2 
+Higher 
+Assessed through a 2 hour 
+and 30 minute examination set 
+and marked by Pearson. 
+The paper is weighted at 
+66 3
+2 % of the qualification, 
+targeted at grades 9–4 with 
+3 allowed. 
+100 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+24 
+Calculators 
+Students will be expected to have access to a suitable electronic calculator for all 
+examination papers. The electronic calculator to be used should have these functions as a 
+minimum: 
+• 
+2
+, , , ,
+,
+,
+x
+x
++ −× ÷
+memory, brackets, 
+1
+,
+, ,
+,
+,
+y
+y
+x
+x
+x
+x
+fx
+∑
+∑
+standard form, sine, cosine, tangent 
+and their inverses 
+ 
+Prohibitions 
+Calculators with any of the following facilities are prohibited in all examinations: 
+• 
+databanks 
+• 
+retrieval of text or formulae 
+• 
+QWERTY keyboards 
+• 
+built-in symbolic algebra manipulations 
+• 
+symbolic differentiation or integration. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+25 
+Assessment objectives and weightings 
+ 
+ 
+% in 
+International 
+GCSE 
+AO1 
+Demonstrate knowledge, understanding and skills in number 
+and algebra: 
+• 
+numbers and the numbering system 
+• 
+calculations 
+• 
+solving numerical problems 
+• 
+equations, formulae and identities 
+• 
+sequences, functions and graphs 
+• 
+matrices. 
+57–63% 
+AO2 
+Demonstrate knowledge, understanding and skills in shape, 
+space and measures: 
+• 
+geometry and trigonometry 
+• 
+vectors and transformation geometry. 
+27–33% 
+AO3 
+Demonstrate knowledge, understanding and skills in 
+handling data: 
+• 
+statistics 
+• 
+probability. 
+7–13% 
+ 
+TOTAL 
+100% 
+Relationship of assessment objectives to units 
+Unit number 
+Assessment objective 
+AO1 
+AO2 
+AO3 
+Papers 1 
+19–21% 
+9–11% 
+2.33–4.33% 
+Papers 2 
+38–42% 
+18–22% 
+4.67–8.67% 
+Total for 
+International GCSE 
+57–63% 
+27–33% 
+7–13% 
+ 
+All components will be available for assessment from June 2018. 
+ 
+Relationship of problem-solving and mathematical reasoning skills to papers. 
+ 
+ 
+Problem 
+solving 
+Mathematical 
+Reasoning 
+Paper 1 
+30% 
+20% 
+Paper 2 
+30% 
+20% 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+26 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+27 
+4 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our International Information Manual. A copy is made available to all examinations officers 
+and is available on our website. 
+Students should be advised that, if they take two qualifications in the same subject, 
+colleges, universities and employers are very likely to take the view that they have achieved 
+only one of the two GCSEs/International GCSEs. Students or their advisers who have any 
+doubts about subject combinations should check with the institution to which they wish to 
+progress before embarking on their programmes. 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+• 
+students with a protected characteristic (as defined by the UK Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+• 
+all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will only be available in English. All student work must be in 
+English. 
+We recommend that students are able to read and write in English at level B2 of the 
+Common European Framework of Reference for Languages.  
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to:  
+• 
+access the assessment 
+• 
+show what they know and can do without changing the demands of the assessment.  
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under 
+the UK Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+28 
+Reasonable adjustments 
+The UK Equality Act 2010 requires an awarding organisation to make reasonable 
+adjustments where a student with a disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is required to take reasonable steps 
+to overcome that disadvantage. 
+A reasonable adjustment for a particular student may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+• 
+the needs of the student with the disability 
+• 
+the effectiveness of the adjustment 
+• 
+the cost of the adjustment; and 
+• 
+the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, time frames or affects the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the examination/ 
+assessment, which has had, or is reasonably likely to have had, a material effect on a 
+candidate’s ability to take an assessment or demonstrate their level of attainment in an 
+assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration please refer to the JCQ website: www.jcq.org.uk 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or that undermines the integrity of the qualifications 
+or the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 
+190 High Holborn, London, WC1V 7BH. Please provide as much information and supporting 
+documentation as possible. Note that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice constitutes staff or centre malpractice. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+29 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment or that undermines the 
+integrity of the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on  
+a JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice).  
+The form, supporting documentation and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,  
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding  
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the latest version of the document 
+JCQ General and vocational qualifications: Suspected Malpractice in Examinations and 
+Assessments, available at www.jcq.org.uk/exams-office/malpractice 
+Awarding and reporting 
+The International GCSE qualification will be graded and certificated on a six-grade scale from 
+9 to 4, with 3 allowed using the total subject mark where 9 is the highest grade. Individual 
+components are not graded. The first certification opportunity for the Pearson Edexcel 
+International GCSE in Mathematics (Specification B) will be in June 2018. Students whose 
+level of achievement is below the minimum judged by Pearson to be of sufficient standard to 
+be recorded on a certificate will receive an unclassified U result.  
+Student recruitment and progression  
+Pearson’s policy concerning recruitment to our qualifications is that:  
+• 
+they must be available to anyone who is capable of reaching the required standard  
+• 
+they must be free from barriers that restrict access and progression 
+• 
+equal opportunities exist for all students. 
+Prior learning and other requirements  
+The qualification builds on the content, knowledge and skills developed in the Key Stage 3 
+Programme of Study (ages 11–14) or international equivalences for Mathematics. 
+Progression  
+Students can progress from this qualification to:  
+• 
+the Pearson Edexcel International GCSE in Further Pure Mathematics  
+• 
+the GCE Advanced Subsidiary (AS) and Advanced Level in Mathematics, Further 
+Mathematics and Pure Mathematics 
+• 
+the International Advanced Subsidiary (AS) and Advanced Level in Mathematics, Further 
+Mathematics and Pure Mathematics 
+• 
+other equivalent, Level 3 Mathematics qualifications 
+• 
+further study in other areas where mathematics is required 
+• 
+other further training or employment where numerate skills and knowledge are required. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+30 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+31 
+Appendices 
+Appendix 1: Codes 
+33 
+Appendix 2: Pearson World Class Qualification Design Principles 
+35 
+Appendix 3: Transferable skills 
+37 
+Appendix 4: Formulae sheet 
+39 
+Appendix 5: Notation 
+41 
+Appendix 6: Glossary 
+43 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+32 
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+33 
+Appendix 1: Codes 
+ 
+Type of code 
+Use of code 
+Code 
+Subject codes 
+The subject code is used by centres to 
+enter students for a qualification.  
+Pearson Edexcel 
+International GCSE 
+Mathematics 
+(Specification B): 4MB1 
+Paper codes 
+These codes are provided for 
+information. Students need to be 
+entered for individual papers. 
+Paper 1: 4MB1/01 
+Paper 2: 4MB1/02 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+34 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+35 
+Appendix 2: Pearson World Class Qualification 
+Design Principles 
+Pearson’s world-class qualification design principles mean that all Edexcel qualifications are 
+developed to be rigorous, demanding, inclusive and empowering.  
+ 
+ 
+ 
+We work collaboratively to gain approval from an external panel of educational thought-
+leaders and assessment experts from across the globe. This is to ensure that Edexcel 
+qualifications are globally relevant, represent world-class best practice in qualification and 
+assessment design, maintain a consistent standard and support learner progression in 
+today’s fast changing world.  
+Pearson’s Expert Panel for World-class Qualifications is chaired by Sir Michael Barber, a 
+leading authority on education systems and reform. He is joined by a wide range of key 
+influencers with expertise in education and employability. 
+“I’m excited to be in a position to work with the global leaders in curriculum and assessment 
+to take a fresh look at what young people need to know and be able to do in the 21st 
+century, and to consider how we can give them the opportunity to access that sort of 
+education.” Sir Michael Barber. 
+Endorsement from Pearson’s Expert Panel for World-class Qualifications for 
+International GCSE development processes 
+“We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe.  
+We have guided Pearson through what we judge to be a rigorous world-class qualification 
+development process that has included:  
+• 
+Extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world  
+• 
+Benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand  
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+36 
+• 
+Establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications  
+Importantly, we have worked to ensure that the content and learning is future oriented, and 
+that the design has been guided by Pearson’s Efficacy Framework. This is a structured, 
+evidence-based process which means that learner outcomes have been at the heart of this 
+development throughout.  
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education but as a result of our work as a panel we are confident that we have 
+supported the development of Edexcel International GCSE qualifications that are outstanding 
+for their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.” 
+ 
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Sing Kong Lee 
+Professor, National Institute of Education in 
+Singapore 
+Dr Peter Hill 
+Former Chief Executive ACARA 
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+Dame Sally Coates 
+Director of Academies (South), United 
+Learning Trust 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, 
+Switzerland 
+Professor Bob Schwartz  
+Harvard Graduate School of Education 
+Professor Janice Kay  
+Provost, University of Exeter 
+Jane Beine 
+Head of Partner Development, John Lewis 
+Partnership 
+Jason Holt 
+CEO, Holts Group 
+ 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+37 
+Appendix 3: Transferable skills  
+The need for transferable skills 
+In recent years, higher education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned 
+and that enable individuals to successfully and consistently perform an activity or task and 
+can be built upon and extended through learning.’[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework [2] as the most evidence-based 
+and robust skills framework, and have used this as a basis for our adapted skills framework.  
+The framework includes cognitive, intrapersonal skills and interpersonal skills. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The skills have been interpreted for this specification to ensure they are appropriate for the 
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or 
+assessment of the qualification. Some skills are directly assessed. Pearson materials will 
+support you in identifying these skills and developing these skills in students. 
+The table overleaf sets out the framework and gives an indication of the skills that can be 
+found in the Pearson Edexcel International GCSE in Mathematics (Specification B) and 
+indicates the interpretation of the skill in this area. A full subject interpretation of each skill, 
+with mapping to show opportunities for students’ development is provided on the subject 
+pages of our website: qualifications.pearson.com  
+                                           
+ 
+1 OECD (2012), Better Skills, Better Jobs, Better Lives (2012): 
+http://skills.oecd.org/documents/OECDSkillsStrategyFINALENG.pdf  
+2 Koenig, J. A. (2011) Assessing 21st Century Skills: Summary of a Workshop, National Research Council 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+38 
+ 
+Cognitive skills 
+Cognitive processes 
+and strategies: 
+• Critical thinking 
+• Problem solving 
+• Analysis 
+• Reasoning 
+• Interpretation 
+• Decision making 
+• Adaptive learning 
+• Executive function 
+Creativity:  
+• Creativity 
+• Innovation 
+Intrapersonal skills 
+Intellectual 
+openness: 
+• Adaptability 
+• Personal and social 
+responsibility 
+• Continuous learning 
+• Intellectual interest 
+and curiosity 
+Work ethic/ 
+conscientiousness: 
+• Initiative 
+• Self-direction 
+• Responsibility 
+• Perseverance 
+• Productivity 
+• Self-regulation 
+(metacognition, 
+forethought, 
+reflection) 
+• Ethics 
+• Integrity 
+Positive core self 
+evaluation: 
+• Self-monitoring/self-
+evaluation/self-
+reinforcement 
+Interpersonal skills 
+Teamwork and 
+collaboration: 
+• Communication 
+• Collaboration 
+• Teamwork 
+• Co-operation 
+• Interpersonal skills 
+Leadership: 
+• Leadership 
+• Responsibility 
+• Assertive 
+communication 
+• Self-presentation 
+Problem solving for 
+translating problems in 
+mathematical or non-
+mathematical contexts 
+into a process or a 
+series of mathematical 
+processes and solving 
+them. 
+Initiative for using 
+mathematical 
+knowledge, 
+independently (without 
+guided learning), to 
+further own 
+understanding. 
+Communication to 
+communicate a 
+mathematical process 
+or technique (verbally 
+or written) to peers and 
+teachers and answer 
+questions from others. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+39 
+Appendix 4: Formulae sheet 
+Sum of interior angles of polygon 
+(2
+4)
+n −
+right angles 
+Area of trapezium = 1
+2 (
+)
+a
+b h
++
+ 
+                 
+ 
+ 
+The quadratic equation 
+ 
+The solutions of 
+2
+0
+ax
+bx
+c
++
++
+=
+where 
+0
+a ≠
+are given by: 
+ 
+2
+4
+2
+b
+b
+ac
+x
+a
+−±
+−
+=
+ 
+Trigonometry 
+ 
+ 
+ 
+      
+     In any triangle ABC 
+ 
+ 
+   Sine Rule    sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+ 
+   Cosine Rule    
+2
+2
+2
+2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+   Area of triangle = 1
+2
+sin
+ab
+C  
+ 
+Volume of cone = 
+2
+1
+3 r h
+π
+ 
+Curved surface area of cone = rl
+π
+ 
+ 
+ 
+Volume of pyramid  
+= 1
+3 × base area × height 
+ 
+Determinant of matrix  
+ 
+a
+b
+ad
+bc
+c
+d
+
+
+
+
+
+
+=
+−
+ 
+ 
+ 
+Inverse of matrix 
+ 
+1
+a
+b
+d
+b
+ad
+bc
+c
+d
+c
+a
+
+
+
+
+
+
+
+
+
+
+
+
+−
+=
+−
+−
+ 
+ 
+Volume of cylinder = 
+2r h
+π
+ 
+Curved surface area of cylinder = 2 rh
+π
+ 
+ 
+ 
+Volume of sphere = 
+3
+4
+3 r
+π
+ 
+Surface area of sphere = 
+2
+4 r
+π
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C 
+B 
+A 
+a 
+b 
+c 
+r 
+. 
+h 
+a 
+b 
+h 
+ 
+r 
+h 
+l 
+ . 
+r 
+. 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+40 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+41 
+Appendix 5: Notation 
+Notation used in the examination include the following: 
+ 
+{   } 
+the set of 
+n(A) 
+the number of elements in the set A 
+{ x :   } 
+the set of all x such that 
+∈ 
+is an element of 
+∉ 
+is not an element of 
+∅ 
+the empty (null) set 
+E 
+the universal set 
+∪ 
+union 
+∩ 
+intersection 
+⊂ 
+is a subset of 
+A′ 
+the complement of the set A 
+PQ 
+operation Q followed by P 
+f: A→B 
+is a function under which each element of set A has an image in set B 
+f: x y 
+f is a function under which x is mapped to y 
+f(x) 
+the image of x under the function f 
+f -1 
+the inverse relation of the function f 
+fg 
+the function g followed by function f, i.e. f(g(x)) 
+ 
+ 
+open interval on the number line 
+ 
+ 
+closed interval on the number line 
+a 
+the vector a 
+AB
+
+ 
+the vector represented in magnitude and direction by AB
+
+ 
+the vector from point A to point B 
+a  
+the magnitude of vector a 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+42 
+ 
+Pearson Edexcel International GCSE in Mathematics (Specification B) –  
+Specification – Issue 1 – January 2016  © Pearson Education Limited 2016 
+43 
+Appendix 6: Glossary 
+ 
+Term 
+Definition 
+Assessment 
+objectives 
+The requirements that students need to meet to succeed in the 
+qualification. Each assessment objective has a unique focus which 
+is then targeted in examinations or coursework. Assessment 
+objectives may be assessed individually or in combination.  
+External 
+assessment 
+An examination that is held at the same time and place in a global 
+region.  
+JCQ 
+Joint Council for Qualifications. This is a group of UK exam boards 
+that develop policy related to the administration of examinations.  
+Linear 
+Qualifications that are linear have all assessments at the end of a 
+course of study. It is not possible to take one assessment earlier in 
+the course of study. 
+Unit 
+A modular qualification will be divided into a number of units. Each 
+unit will have its own assessment. 
+ 
+ 
+Db260216Z:\LT\PD\INTERNATIONAL GCSES\9781446931110_INT_GCSE_MATHS_B\9781446931110_INT_GCSE_MATHS_B.DOC.1–48/2 
+For information about Edexcel, BTEC or LCCI qualiﬁ cations 
+visit qualiﬁ cations.pearson.com
+Edexcel is a registered trademark of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828
+Registered Oﬃ  ce: 80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121
+Getty Images: Alex Belmonlinsky

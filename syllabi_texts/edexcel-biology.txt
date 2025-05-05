@@ -1,0 +1,2074 @@
+International GCSE
+Biology (9–1)
+Specification
+Pearson Edexcel International GCSE in Biology (4BI1)
+First teaching September 2017 
+First examination June 2019
+Issue 3
+ 
+ 
+About Pearson  
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.)  
+ 
+All information in this specification is correct at time of publication. 
+ 
+ISBN 978 1 446 93115 8 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+ 
+Summary of Pearson Edexcel International GCSE in 
+Biology (4BI1) specification  
+Issue 3 changes 
+ 
+Summary of changes made between previous issue and this 
+current issue 
+Page 
+number 
+Qualification at a glance 
+Availability of series amended to November and June  
+7, 8 
+Administration and general information  
+Modular International GCSEs added to forbidden combinations 
+31 
+Appendix 5: Command word taxonomy 
+“Which” added to the command word taxonomy 
+46 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+ 
+Contents 
+1 
+About this specification 
+1 
+Specification updates 
+1 
+Using this specification 
+1 
+Course introduction 
+2 
+Qualification aims and objectives 
+3 
+Why choose Edexcel qualifications? 
+4 
+Why choose Pearson Edexcel International GCSE in Biology? 
+5 
+Supporting you in planning and implementing this qualification 
+6 
+Qualification at a glance 
+7 
+Paper overview 
+7 
+2 
+Biology content 
+9 
+3 
+Assessment information 
+27 
+Assessment requirements 
+27 
+Sample assessment materials 
+28 
+Experimental skills 
+28 
+Calculators 
+28 
+Assessment objectives and weightings 
+29 
+Relationship of assessment objectives to units 
+29 
+4 
+Administration and general information 
+31 
+Entries 
+31 
+Forbidden combinations 
+31 
+Access arrangements, reasonable adjustments, special 
+consideration and malpractice 
+31 
+Language of assessment 
+31 
+Access arrangements 
+32 
+Reasonable adjustments 
+32 
+Special consideration 
+32 
+Further information 
+32 
+Candidate malpractice 
+33 
+Staff/centre malpractice 
+33 
+Awarding and reporting 
+33 
+Student recruitment and progression 
+34 
+Prior learning and other requirements 
+34 
+Progression 
+34 
+ 
+ 
+Appendices 
+35 
+Appendix 1: Codes 
+37 
+Appendix 2: Pearson World Class Qualification design principles 39 
+Appendix 3: Transferable skills 
+41 
+Appendix 4: Mathematical skills 
+43 
+Appendix 5: Command word taxonomy 
+45 
+Appendix 6: Suggested practical investigations 
+47 
+Appendix 7: Glossary 
+49 
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+1
+1 About this specification 
+The Pearson Edexcel International GCSE in Biology is part of a suite of International GCSE 
+qualifications offered by Pearson. 
+This qualification is not accredited or regulated by any UK regulatory body. 
+This specification includes the following key features. 
+Structure: the Pearson Edexcel International GCSE in Biology is a linear qualification.  
+Two written examinations must be taken in the same series at the end of the course of 
+study. 
+Content: relevant, engaging, up to date and of equivalent standard to Pearson’s regulated 
+GCSE in Biology. 
+Assessment: untiered, written examinations with questions designed to be accessible to 
+students of all abilities. 
+Approach: a solid basis for students wishing to progress to the Pearson Edexcel AS and 
+Advanced GCE level or equivalent qualifications, focusing on key biology theory. 
+Specification updates 
+This specification is Issue 3 and is valid for the Pearson Edexcel International GCSE in 
+Biology examined from 2019. If there are any significant changes to the specification, 
+Pearson will inform centres. Changes will also be posted on our website. 
+For more information, please visit qualifications.pearson.com 
+Using this specification 
+This specification has been designed to give guidance to teachers and encourage effective 
+delivery of the qualification. The following information will help you get the most out of the 
+content and guidance. 
+Content: this is arranged as five topics in 2: Biology content. A summary of  
+sub-topics is included at the start of each topic. As a minimum, all the bullet points in the 
+content must be taught. The word ‘including’ in the content helps specify the detail of what 
+must be covered.  
+Examples: throughout the content we have included examples of what could be covered or 
+what might support teaching and learning. It is important to note that examples are for 
+illustrative purposes only and that centres can use other examples. We have included 
+examples that are easily understood and recognised by international centres. 
+Practical investigations: these are included in 2: Biology content as specification points in 
+italics. Students will develop knowledge and understanding of experimental skills through 
+the context of the biology they are learning. Experimental skills are assessed through written 
+examinations. 
+Referencing: specification statements that are in bold with a ‘B’ reference relate to content 
+that is only in the International GCSE in Biology and is not found in the International GCSE 
+in Science (Double Award). 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+2 
+Course introduction 
+The Pearson Edexcel International GCSE in Biology is designed for use in schools and 
+colleges. It is part of a suite of International GCSE qualifications offered by Pearson. 
+The course gives students the opportunity to experience biology within the context of their 
+general education. 
+How assessment relates to the qualifications available is shown below. 
+ 
+Biology Paper 1 
+Untiered 
++ 
+Biology Paper 2 
+Untiered 
+ 
+International 
+GCSE in Biology 
++ 
+ 
+ 
+ 
+ 
+Chemistry Paper 1 
+Untiered 
++ 
+Chemistry Paper 2 
+Untiered 
+ 
+International 
+GCSE in 
+Chemistry 
++ 
+ 
+ 
+ 
+ 
+Physics Paper 1 
+Untiered 
++ 
+Physics Paper 2 
+Untiered 
+ 
+International 
+GCSE in Physics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International 
+GCSE in Science 
+(Double Award) 
+ 
+ 
+ 
+ 
+ 
+A Pearson Edexcel International GCSE in Science (Single Award) qualification is also 
+available. This will cover approximately 50% of the Pearson Edexcel International GCSE in 
+Science (Double Award) specification, while still having a comparable level of rigour and 
+demand.  
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+3
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to: 
+• learn about unifying patterns and themes in biology and use them in new and changing 
+situations 
+• acquire knowledge and understanding of biological facts, terminology, concepts, principles 
+and practical techniques 
+• apply the principles and concepts of biology, including those related to the applications of 
+biology, to different contexts 
+• evaluate biological information, making judgements on the basis of this information 
+• appreciate the practical nature of biology, developing experimental and investigative skills 
+based on correct and safe laboratory techniques 
+• analyse, interpret and evaluate data and experimental methods, drawing conclusions that 
+are consistent with evidence from experimental activities and suggesting possible 
+improvements and further investigations 
+• recognise the importance of accurate experimental work and reporting scientific methods 
+in biology 
+• select, organise and present relevant information clearly and logically using appropriate 
+vocabulary, definitions and conventions 
+• develop a logical approach to problem solving in a wider context 
+• select and apply appropriate areas of mathematics relevant to biology as set out under 
+each topic 
+• prepare for more advanced courses in biology and for other courses that require 
+knowledge of biology. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+4 
+Why choose Edexcel qualifications? 
+Pearson – the world’s largest education company  
+Edexcel academic qualifications are from Pearson, the UK’s largest awarding organisation. 
+With over 3.4 million students studying our academic and vocational qualifications 
+worldwide, we offer internationally recognised qualifications to schools, colleges and 
+employers globally.  
+Pearson is recognised as the world’s largest education company, allowing us to drive 
+innovation and provide comprehensive support for Edexcel students to acquire the 
+knowledge and skills they need for progression in study, work and life.  
+A heritage you can trust 
+The background to Pearson becoming the UK’s largest awarding organisation began in 1836, 
+when a royal charter gave the University of London its first powers to conduct exams and 
+confer degrees on its students. With over 150 years of international education experience, 
+Edexcel qualifications have firm academic foundations, built on the traditions and rigour 
+associated with Britain’s education system. 
+Results you can trust 
+Pearson’s leading online marking technology has been shown to produce exceptionally 
+reliable results, demonstrating that, at every stage, Edexcel qualifications maintain the 
+highest standards. 
+Developed to Pearson’s world class qualifications standards 
+Pearson’s world-class standards mean that all Edexcel qualifications are developed to be 
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of 
+education thought leaders and assessment experts to ensure that Edexcel qualifications are 
+globally relevant, represent world-class best practice and maintain a consistent standard. 
+For more information on the world class qualification process and principles, please go to 
+Appendix 2: Pearson World Class Qualification design principles or visit our website: 
+uk.pearson.com/about-us/news-and-policy/reports-and-campaigns/world-class-
+qualifications/design-principles.html 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+5
+Why choose Pearson Edexcel International GCSE in 
+Biology? 
+We’ve listened to feedback from all parts of the International and UK school subject 
+community, including a large number of teachers. We’ve made changes that will engage 
+students and give them skills that will support progression to further study in biology and a 
+range of other subjects, in biological sciences and elsewhere. Our content and assessment 
+approach has been designed to meet students’ needs and be consistent with our approach 
+across the sciences. 
+At Pearson we offer separate science qualifications in Biology, Human Biology, Chemistry and 
+Physics, as well as Double Award and Single Award Science qualifications – these have been 
+designed to meet different students’ needs. The content and assessment approach in all our 
+science qualifications has been designed to meet students’ needs in the following ways. 
+• Content that is interesting and engaging for students but is also designed to ensure good 
+preparation, both for those continuing to further study and for those wishing to work in a 
+biology-related field. 
+• There are opportunities to ‘localise’ the content to make it more relevant for students in 
+their own country. 
+• Question papers are clear and straightforward – our question papers are clear and 
+accessible for all students of all ability ranges and learning styles. Our mark schemes are 
+straightforward, so that the assessment requirements are clear. 
+• Students’ skills are broadly developed – we have designed the International GCSE to 
+extend students’ knowledge by broadening and deepening skills, for example: 
+– 
+developing students’ practical skills by including a number of practicals in the 
+specification content. These can be supplemented with other suggested practicals.  
+The skills developed will be assessed through questions in written examinations  
+– 
+improving students’ analytical and logic skills by applying understanding of scientific 
+concepts and principles to a range of situations. This will include some examination 
+questions that are more problem solving in style 
+– 
+addressing the need for mathematical skills to complement students’ biology skills  
+by covering a range of mathematical areas. 
+Progression to A Level – International GCSEs enable successful progression to A Level and 
+beyond. Through our World Class Qualification development process we have consulted with 
+International Advanced Level and GCE A Level teachers as well as higher education 
+professors to validate the appropriateness of the qualification, including its content, skills 
+development and assessment structure. 
+Courses to suit your students’ needs and interests – teachers of biology have a choice 
+of International GCSE courses to deliver, each giving different levels of depth to meet 
+students’ needs. As well as the Pearson Edexcel International GCSE in Biology, students can 
+also be taught our International GCSE in Science (Double Award) or our International GCSE 
+in Science (Single Award). The latter two courses offer a reduced amount of content, but are 
+assessed to the same standard. Progression routes for these courses may vary slightly from 
+those for the Pearson Edexcel International GCSE in Biology.  
+More information about all our qualifications can be found on our Edexcel International GCSE 
+pages at qualifications.pearson.com 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+6 
+Supporting you in planning and implementing this 
+qualification  
+Planning 
+• We will give you a course planner and editable schemes of work. 
+• Our mapping documents highlight key differences between the new and the 2011 legacy 
+qualifications. 
+Teaching and learning 
+• Our Getting Started Guide gives you an overview of the Pearson Edexcel International 
+GCSE in Biology to help you understand the changes to content and assessment, and 
+what these changes mean for you and your students. 
+• Print and digital learning and teaching resources promote any time, any place learning to 
+improve student motivation and encourage new ways of working.  
+Preparing for exams 
+We will also give you a range of resources to help you prepare your students for the 
+assessments, including: 
+• specimen papers to support formative assessments and mock exams 
+• examiner commentaries following each examination series. 
+ResultsPlus 
+ResultsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you to identify the topics and skills where further learning would 
+benefit your students.  
+examWizard 
+This is a free online data bank of past exam questions designed to support students and 
+teachers with exam preparation and assessment. 
+Training events  
+In addition to online training, we host a series of training events each year (both online and 
+face-to-face) that give teachers a deeper understanding of our qualifications. 
+Get help and support  
+Our subject advisor service ensures that you receive help and guidance from us. You can 
+sign up to receive the Edexcel newsletter to keep up to date with our qualifications and 
+receive product and service news. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+7
+Qualification at a glance 
+The Pearson Edexcel International GCSE in Biology comprises two externally-assessed 
+papers: 
+• Biology Paper 1 
+• Biology Paper 2. 
+Paper overview 
+Biology Paper 1 
+*Paper code 4BI1/1B 
+and 4SD0/1B 
+• Externally assessed 
+• Availability: November and June 
+• First assessment: June 2019 
+61.1% of the total 
+International GCSE 
+Content summary 
+Assesses core content that is not in bold and does not have a ‘B’ reference. Questions may 
+come from any topic area across the specification.  
+1 The nature and variety of living organisms 
+2 Structures and functions in living organisms 
+3 Reproduction and inheritance 
+4 Ecology and the environment 
+5 Use of biological resources 
+Assessment 
+• The paper is assessed through a 2-hour written examination paper set and marked by 
+Pearson. 
+• The total number of marks is 110. 
+• A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations and extended open-response questions. 
+• A calculator may be used in the examinations.  
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+8 
+ 
+Biology Paper 2 
+*Paper code 4BI1/2B 
+• Externally assessed 
+• Availability: November and June 
+• First assessment: June 2019 
+38.9% of the total 
+International GCSE 
+Content summary 
+Assesses all the content, including content that is in bold and has a ‘B’ reference. 
+Questions may come from any topic area across the specification.  
+Bold statements cover some sub-topics in greater depth. 
+1 The nature and variety of living organisms 
+2 Structures and functions in living organisms 
+3 Reproduction and inheritance 
+4 Ecology and the environment 
+5 Use of biological resources 
+Assessment 
+• The paper is assessed through a 1-hour and 15-minute written examination paper set 
+and marked by Pearson. 
+• The total number of marks is 70. 
+• A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations and extended open-response questions. 
+• A calculator may be used in the examinations. 
+ 
+* See Appendix 1: Codes for a description of this code and all the other codes relevant to 
+this qualification. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+9
+2 Biology content 
+1 
+The nature and variety of living organisms 
+11 
+2 
+Structure and functions in living organisms 
+13 
+3 
+Reproduction and inheritance 
+20 
+4 
+Ecology and the environment 
+23 
+5 
+Use of biological resources 
+25 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+10
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+11
+1 
+The nature and variety of living organisms 
+The following sub-topics are covered in this section. 
+(a) 
+Characteristics of living organisms 
+(b) 
+Variety of living organisms 
+ 
+(a) 
+Characteristics of living organisms 
+Students should: 
+1.1 
+understand how living organisms share the following characteristics: 
+• 
+they require nutrition 
+• 
+they respire 
+• 
+they excrete their waste 
+• 
+they respond to their surroundings 
+• 
+they move 
+• 
+they control their internal conditions 
+• 
+they reproduce 
+• 
+they grow and develop. 
+ 
+(b) 
+Variety of living organisms 
+Students should: 
+1.2 
+describe the common features shown by eukaryotic organisms: plants, animals, fungi 
+and protoctists 
+ 
+Plants: these are multicellular organisms; their cells contain chloroplasts and are able 
+to carry out photosynthesis; their cells have cellulose cell walls; they store 
+carbohydrates as starch or sucrose. Examples include flowering plants, such as a 
+cereal (for example, maize), and a herbaceous legume (for example, peas or beans). 
+ 
+Animals: these are multicellular organisms; their cells do not contain chloroplasts and 
+are not able to carry out photosynthesis; they have no cell walls; they usually have 
+nervous co-ordination and are able to move from one place to another; they often 
+store carbohydrate as glycogen. Examples include mammals (for example, humans) 
+and insects (for example, housefly and mosquito). 
+ 
+Fungi: these are organisms that are not able to carry out photosynthesis; their body 
+is usually organised into a mycelium made from thread-like structures called hyphae, 
+which contain many nuclei; some examples are single-celled; their cells have walls 
+made of chitin; they feed by extracellular secretion of digestive enzymes onto food 
+material and absorption of the organic products; this is known as saprotrophic 
+nutrition; they may store carbohydrate as glycogen. Examples include Mucor, which 
+has the typical fungal hyphal structure, and yeast, which is single-celled. 
+ 
+Protoctists: these are microscopic single-celled organisms. Some, like  Amoeba, that 
+live in pond water, have features like an animal cell, while others, like  Chlorella, have 
+chloroplasts and are more like plants. A pathogenic example is Plasmodium, 
+responsible for causing malaria. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+12
+ 
+Students should: 
+1.3 
+describe the common features shown by prokaryotic organisms such as bacteria 
+ 
+Bacteria: these are microscopic single-celled organisms; they have a cell wall, cell 
+membrane, cytoplasm and plasmids; they lack a nucleus but contain a circular 
+chromosome of DNA; some bacteria can carry out photosynthesis but most feed off 
+other living or dead organisms. Examples include Lactobacillus bulgaricus, a  
+rod-shaped bacterium used in the production of yoghurt from milk, and 
+Pneumococcus, a spherical bacterium that acts as the pathogen causing pneumonia. 
+1.4 
+understand the term pathogen and know that pathogens may include fungi, bacteria, 
+protoctists or viruses 
+ 
+Viruses: these are not living organisms. They are small particles, smaller than 
+bacteria; they are parasitic and can reproduce only inside living cells; they infect 
+every type of living organism. They have a wide variety of shapes and sizes; they 
+have no cellular structure but have a protein coat and contain one type of nucleic 
+acid, either DNA or RNA. Examples include the tobacco mosaic virus that causes 
+discolouring of the leaves of tobacco plants by preventing the formation of 
+chloroplasts, the influenza virus that causes ‘flu’ and the HIV virus that causes AIDS. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+13
+2 
+Structure and functions in living organisms 
+The following sub-topics are covered in this section. 
+(a) 
+Level of organisation 
+(b) 
+Cell structure 
+(c) 
+Biological molecules 
+(d) 
+Movement of substances into and out of cells 
+(e) 
+Nutrition 
+(f) 
+Respiration 
+(g) 
+Gas exchange 
+(h) 
+Transport 
+(i) 
+Excretion 
+(j) 
+Co-ordination and response 
+ 
+(a) 
+Level of organisation 
+Students should: 
+2.1 
+describe the levels of organisation in organisms: organelles, cells, tissues, organs and 
+systems 
+ 
+(b) 
+Cell structure 
+Students should: 
+2.2 
+describe cell structures, including the nucleus, cytoplasm, cell membrane, cell wall, 
+mitochondria, chloroplasts, ribosomes and vacuole 
+2.3 
+describe the functions of the nucleus, cytoplasm, cell membrane, cell wall, 
+mitochondria, chloroplasts, ribosomes and vacuole 
+2.4 
+know the similarities and differences in the structure of plant and animal cells 
+2.5B explain the importance of cell differentiation in the development of 
+specialised cells 
+2.6B understand the advantages and disadvantages of using stem cells in 
+medicine 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+14
+ 
+(c) 
+Biological molecules 
+Students should: 
+2.7 
+identify the chemical elements present in carbohydrates, proteins and lipids  
+(fats and oils) 
+2.8 
+describe the structure of carbohydrates, proteins and lipids as large molecules made 
+up from smaller basic units: starch and glycogen from simple sugars, protein from 
+amino acids, and lipid from fatty acids and glycerol 
+2.9 
+practical: investigate food samples for the presence of glucose, starch, protein and fat 
+2.10 
+understand the role of enzymes as biological catalysts in metabolic reactions 
+2.11 
+understand how temperature changes can affect enzyme function, including changes 
+to the shape of active site 
+2.12 
+practical: investigate how enzyme activity can be affected by changes in temperature 
+2.13 
+understand how enzyme function can be affected by changes in pH altering the active 
+site  
+2.14B practical: investigate how enzyme activity can be affected by changes in pH 
+ 
+(d) 
+Movement of substances into and out of cells 
+Students should: 
+2.15 
+understand the processes of diffusion, osmosis and active transport by which 
+substances move into and out of cells 
+2.16 
+understand how factors affect the rate of movement of substances into and out of 
+cells, including the effects of surface area to volume ratio, distance, temperature and 
+concentration gradient 
+2.17 
+practical: investigate diffusion and osmosis using living and non-living systems 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+15
+ 
+(e) 
+Nutrition 
+Students should: 
+Flowering plants 
+2.18 
+understand the process of photosynthesis and its importance in the conversion of 
+light energy to chemical energy 
+2.19 
+know the word equation and the balanced chemical symbol equation for 
+photosynthesis 
+2.20 
+understand how varying carbon dioxide concentration, light intensity and temperature 
+affect the rate of photosynthesis 
+2.21 
+describe the structure of the leaf and explain how it is adapted for photosynthesis 
+2.22 
+understand that plants require mineral ions for growth, and that magnesium ions are 
+needed for chlorophyll and nitrate ions are needed for amino acids 
+2.23 
+practical: investigate photosynthesis, showing the evolution of oxygen from a water 
+plant, the production of starch and the requirements of light, carbon dioxide and 
+chlorophyll 
+Humans 
+2.24 
+understand that a balanced diet should include appropriate proportions of 
+carbohydrate, protein, lipid, vitamins, minerals, water and dietary fibre 
+2.25 
+identify the sources and describe the functions of carbohydrate, protein, lipid  
+(fats and oils), vitamins A, C and D, the mineral ions calcium and iron, water and 
+dietary fibre as components of the diet 
+2.26 
+understand how energy requirements vary with activity levels, age and pregnancy 
+2.27 
+describe the structure and function of the human alimentary canal, including the 
+mouth, oesophagus, stomach, small intestine (duodenum and ileum), large intestine 
+(colon and rectum) and pancreas 
+2.28 
+understand how food is moved through the gut by peristalsis 
+2.29 
+understand the role of digestive enzymes, including the digestion of starch to glucose 
+by amylase and maltase, the digestion of proteins to amino acids by proteases and 
+the digestion of lipids to fatty acids and glycerol by lipases 
+2.30 
+understand that bile is produced by the liver and stored in the gall bladder 
+2.31 
+understand the role of bile in neutralising stomach acid and emulsifying lipids 
+2.32 
+understand how the small intestine is adapted for absorption, including the structure 
+of a villus 
+2.33B practical: investigate the energy content in a food sample 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+16
+ 
+(f) 
+Respiration 
+Students should: 
+2.34 
+understand how the process of respiration produces ATP in living organisms 
+2.35 
+know that ATP provides energy for cells 
+2.36 
+describe the differences between aerobic and anaerobic respiration 
+2.37 
+know the word equation and the balanced chemical symbol equation for aerobic 
+respiration in living organisms 
+2.38 
+know the word equation for anaerobic respiration in plants and in animals 
+2.39 
+practical: investigate the evolution of carbon dioxide and heat from respiring seeds or 
+other suitable living organisms 
+ 
+(g) 
+Gas exchange 
+Students should: 
+Flowering plants 
+2.40B understand the role of diffusion in gas exchange 
+2.41B understand gas exchange (of carbon dioxide and oxygen) in relation to 
+respiration and photosynthesis 
+2.42B understand how the structure of the leaf is adapted for gas exchange 
+2.43B describe the role of stomata in gas exchange  
+2.44B understand how respiration continues during the day and night, but that the 
+net exchange of carbon dioxide and oxygen depends on the intensity of light 
+2.45B practical: investigate the effect of light on net gas exchange from a leaf, 
+using hydrogen-carbonate indicator 
+Humans 
+2.46 
+describe the structure of the thorax, including the ribs, intercostal muscles, 
+diaphragm, trachea, bronchi, bronchioles, alveoli and pleural membranes 
+2.47 
+understand the role of the intercostal muscles and the diaphragm in ventilation 
+2.48 
+explain how alveoli are adapted for gas exchange by diffusion between air in the 
+lungs and blood in capillaries 
+2.49 
+understand the biological consequences of smoking in relation to the lungs and the 
+circulatory system, including coronary heart disease 
+2.50 
+practical: investigate breathing in humans, including the release of carbon dioxide 
+and the effect of exercise 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+17
+ 
+(h) 
+Transport 
+Students should: 
+2.51 
+understand why simple, unicellular organisms can rely on diffusion for movement of 
+substances in and out of the cell 
+2.52 
+understand the need for a transport system in multicellular organisms 
+Flowering plants  
+2.53 
+describe the role of phloem in transporting sucrose and amino acids between the 
+leaves and other parts of the plant 
+2.54 
+describe the role of xylem in transporting water and mineral ions from the roots to 
+other parts of the plant 
+2.55B understand how water is absorbed by root hair cells 
+2.56B understand that transpiration is the evaporation of water from the surface of 
+a plant 
+2.57B understand how the rate of transpiration is affected by changes in humidity, 
+wind speed, temperature and light intensity 
+2.58B practical: investigate the role of environmental factors in determining the 
+rate of transpiration from a leafy shoot 
+Humans 
+2.59 
+describe the composition of the blood: red blood cells, white blood cells, platelets and 
+plasma 
+2.60 
+understand the role of plasma in the transport of carbon dioxide, digested food, urea, 
+hormones and heat energy 
+2.61 
+understand how adaptations of red blood cells make them suitable for the transport of 
+oxygen, including shape, the absence of a nucleus and the presence of haemoglobin 
+2.62 
+understand how the immune system responds to disease using white blood cells, 
+illustrated by phagocytes ingesting pathogens and lymphocytes releasing antibodies 
+specific to the pathogen 
+2.63B understand how vaccination results in the manufacture of memory cells, 
+which enable future antibody production to the pathogen to occur sooner, 
+faster and in greater quantity 
+2.64B understand how platelets are involved in blood clotting, which prevents 
+blood loss and the entry of micro-organisms 
+2.65 
+describe the structure of the heart and how it functions 
+2.66 
+explain how the heart rate changes during exercise and under the influence of 
+adrenaline 
+2.67 
+understand how factors may increase the risk of developing coronary heart disease  
+2.68 
+understand how the structure of arteries, veins and capillaries relate to their function 
+2.69 
+understand the general structure of the circulation system, including the blood 
+vessels to and from the heart and lungs, liver and kidneys 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+18
+ 
+(i) 
+Excretion 
+Students should: 
+Flowering plants  
+2.70 
+understand the origin of carbon dioxide and oxygen as waste products of metabolism 
+and their loss from the stomata of a leaf 
+Humans 
+2.71 
+know the excretory products of the lungs, kidneys and skin (organs of excretion) 
+2.72B understand how the kidney carries out its roles of excretion and 
+osmoregulation 
+2.73B describe the structure of the urinary system, including the kidneys, ureters, 
+bladder and urethra 
+2.74B describe the structure of a nephron, including the Bowman’s capsule and 
+glomerulus, convoluted tubules, loop of Henle and collecting duct 
+2.75B describe ultrafiltration in the Bowman’s capsule and the composition of the 
+glomerular filtrate 
+2.76B understand how water is reabsorbed into the blood from the collecting duct 
+2.77B understand why selective reabsorption of glucose occurs at the proximal 
+convoluted tubule 
+2.78B describe the role of ADH in regulating the water content of the blood 
+2.79B understand that urine contains water, urea and ions 
+ 
+(j) 
+Co-ordination and response 
+Students should: 
+2.80 
+understand how organisms are able to respond to changes in their environment 
+2.81 
+understand that homeostasis is the maintenance of a constant internal environment, 
+and that body water content and body temperature are both examples of homeostasis 
+2.82 
+understand that a co-ordinated response requires a stimulus, a receptor and an 
+effector 
+Flowering plants 
+2.83 
+understand that plants respond to stimuli 
+2.84 
+describe the geotropic and phototropic responses of roots and stems 
+2.85 
+understand the role of auxin in the phototropic response of stems 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+19
+ 
+Students should: 
+Humans 
+2.86 
+describe how nervous and hormonal communication control responses and 
+understand the differences between the two systems 
+2.87 
+understand that the central nervous system consists of the brain and spinal cord and 
+is linked to sense organs by nerves 
+2.88 
+understand that stimulation of receptors in the sense organs sends electrical impulses 
+along nerves into and out of the central nervous system, resulting in rapid responses 
+2.89 
+understand the role of neurotransmitters at synapses  
+2.90 
+describe the structure and functioning of a simple reflex arc illustrated by the 
+withdrawal of a finger from a hot object 
+2.91 
+describe the structure and function of the eye as a receptor 
+2.92 
+understand the function of the eye in focusing on near and distant objects, and in 
+responding to changes in light intensity 
+2.93 
+describe the role of the skin in temperature regulation, with reference to sweating, 
+vasoconstriction and vasodilation 
+2.94 
+understand the sources, roles and effects of the following hormones: adrenaline, 
+insulin, testosterone, progesterone and oestrogen 
+2.95B understand the sources, roles and effects of the following hormones: ADH, 
+FSH and LH 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+20
+3 
+Reproduction and inheritance 
+The following sub-topics are covered in this section. 
+(a) 
+Reproduction 
+(b) 
+Inheritance 
+ 
+(a) 
+Reproduction 
+Students should: 
+3.1 
+understand the differences between sexual and asexual reproduction 
+3.2 
+understand that fertilisation involves the fusion of a male and female gamete to 
+produce a zygote that undergoes cell division and develops into an embryo 
+Flowering plants 
+3.3 
+describe the structures of an insect-pollinated and a wind-pollinated flower and 
+explain how each is adapted for pollination 
+3.4 
+understand that the growth of the pollen tube followed by fertilisation leads to seed 
+and fruit formation 
+3.5 
+practical: investigate the conditions needed for seed germination 
+3.6 
+understand how germinating seeds utilise food reserves until the seedling can carry 
+out photosynthesis 
+3.7 
+understand that plants can reproduce asexually by natural methods  
+(illustrated by runners) and by artificial methods (illustrated by cuttings) 
+Humans 
+3.8 
+understand how the structure of the male and female reproductive systems are 
+adapted for their functions 
+3.9 
+understand the roles of oestrogen and progesterone in the menstrual cycle 
+3.10B understand the roles of FSH and LH in the menstrual cycle 
+3.11 
+describe the role of the placenta in the nutrition of the developing embryo 
+3.12 
+understand how the developing embryo is protected by amniotic fluid 
+3.13 
+understand the roles of oestrogen and testosterone in the development of secondary 
+sexual characteristics 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+21
+ 
+(b) 
+Inheritance 
+Students should: 
+3.14 
+understand that the genome is the entire DNA of an organism and that a gene is a 
+section of a molecule of DNA that codes for a specific protein 
+3.15 
+understand that the nucleus of a cell contains chromosomes on which genes are 
+located 
+3.16B describe a DNA molecule as two strands coiled to form a double helix, the 
+strands being linked by a series of paired bases: adenine (A) with thymine 
+(T), and cytosine (C) with guanine (G) 
+3.17B understand that an RNA molecule is single stranded and contains uracil (U) 
+instead of thymine (T) 
+3.18B describe the stages of protein synthesis including transcription and 
+translation, including the role of mRNA, ribosomes, tRNA, codons and 
+anticodons 
+3.19 
+understand how genes exist in alternative forms called alleles which give rise to 
+differences in inherited characteristics 
+3.20 
+understand the meaning of the terms: dominant, recessive, homozygous, 
+heterozygous, phenotype, and genotype  
+3.21B understand the meaning of the term codominance 
+3.22 
+understand that most phenotypic features are the result of polygenic inheritance 
+rather than single genes 
+3.23 
+describe patterns of monohybrid inheritance using a genetic diagram 
+3.24 
+understand how to interpret family pedigrees 
+3.25 
+predict probabilities of outcomes from monohybrid crosses 
+3.26 
+understand how the sex of a person is controlled by one pair of chromosomes, XX in a 
+female and XY in a male 
+3.27 
+describe the determination of the sex of offspring at fertilisation, using a genetic 
+diagram 
+3.28 
+understand how division of a diploid cell by mitosis produces two cells that contain 
+identical sets of chromosomes 
+3.29 
+understand that mitosis occurs during growth, repair, cloning and asexual 
+reproduction 
+3.30 
+understand how division of a cell by meiosis produces four cells, each with half the 
+number of chromosomes, and that this results in the formation of genetically different 
+haploid gametes 
+3.31 
+understand how random fertilisation produces genetic variation of offspring 
+3.32 
+know that in human cells the diploid number of chromosomes is 46 and the haploid 
+number is 23 
+3.33 
+understand that variation within a species can be genetic, environmental, or a 
+combination of both 
+3.34 
+understand that mutation is a rare, random change in genetic material that can be 
+inherited 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+22
+ 
+Students should: 
+3.35B understand how a change in DNA can affect the phenotype by altering the 
+sequence of amino acids in a protein 
+3.36B understand how most genetic mutations have no effect on the phenotype, 
+some have a small effect and rarely do they have a significant effect  
+3.37B understand that the incidence of mutations can be increased by exposure to 
+ionising radiation (for example, gamma rays, x-rays and ultraviolet rays) 
+and some chemical mutagens (for example, chemicals in tobacco) 
+3.38 
+explain Darwin’s theory of evolution by natural selection 
+3.39 
+understand how resistance to antibiotics can increase in bacterial populations, and 
+appreciate how such an increase can lead to infections being difficult to control 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+23
+4 
+Ecology and the environment 
+The following sub-topics are covered in this section. 
+(a) 
+The organism in the environment 
+(b) 
+Feeding relationships 
+(c) 
+Cycles within ecosystems 
+(d) 
+Human influences on the environment 
+ 
+(a) 
+The organism in the environment 
+Students should: 
+4.1 
+understand the terms population, community, habitat and ecosystem 
+4.2 
+practical: investigate the population size of an organism in two different areas using 
+quadrats 
+4.3B understand the term biodiversity 
+4.4B practical: investigate the distribution of organisms in their habitats and 
+measure biodiversity using quadrats 
+4.5 
+understand how abiotic and biotic factors affect the population size and distribution of 
+organisms 
+ 
+(b) 
+Feeding relationships 
+Students should: 
+4.6 
+understand the names given to different trophic levels, including producers, primary, 
+secondary and tertiary consumers and decomposers 
+4.7 
+understand the concepts of food chains, food webs, pyramids of number, pyramids of 
+biomass and pyramids of energy transfer 
+4.8 
+understand the transfer of substances and energy along a food chain 
+4.9 
+understand why only about 10% of energy is transferred from one trophic level to the 
+next 
+ 
+(c) 
+Cycles within ecosystems 
+Students should: 
+4.10 
+describe the stages in the carbon cycle, including respiration, photosynthesis, 
+decomposition and combustion 
+4.11B describe the stages in the nitrogen cycle, including the roles of nitrogen 
+fixing bacteria, decomposers, nitrifying bacteria and denitrifying bacteria 
+(specific names of bacteria are not required) 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+24
+ 
+(d) 
+Human influences on the environment 
+Students should: 
+4.12 
+understand the biological consequences of pollution of air by sulfur dioxide and 
+carbon monoxide 
+4.13 
+understand that water vapour, carbon dioxide, nitrous oxide, methane and CFCs are 
+greenhouse gases 
+4.14 
+understand how human activities contribute to greenhouse gases 
+4.15 
+understand how an increase in greenhouse gases results in an enhanced greenhouse 
+effect and that this may lead to global warming and its consequences 
+4.16 
+understand the biological consequences of pollution of water by sewage 
+4.17 
+understand the biological consequences of eutrophication caused by leached minerals 
+from fertiliser 
+4.18B understand the effects of deforestation, including leaching, soil erosion, 
+disturbance of evapotranspiration and the carbon cycle, and the balance of 
+atmospheric gases 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+25
+5 
+Use of biological resources 
+The following sub-topics are covered in this section. 
+(a) 
+Food production 
+(b) 
+Selective breeding 
+(c) 
+Genetic modification (genetic engineering) 
+(d) 
+Cloning 
+ 
+(a) 
+Food production 
+Students should: 
+Crop plants 
+5.1 
+describe how glasshouses and polythene tunnels can be used to increase the yield of 
+certain crops 
+5.2 
+understand the effects on crop yield of increased carbon dioxide and increased 
+temperature in glasshouses 
+5.3 
+understand how the use of fertiliser can increase crop yield 
+5.4 
+understand the reasons for pest control and the advantages and disadvantages of 
+using pesticides and biological control with crop plants 
+Micro-organisms 
+5.5 
+understand the role of yeast in the production of food including bread 
+5.6 
+practical: investigate the role of anaerobic respiration by yeast in different conditions 
+5.7 
+understand the role of bacteria (Lactobacillus) in the production of yoghurt 
+5.8 
+understand the use of an industrial fermenter and explain the need to provide 
+suitable conditions in the fermenter, including aseptic precautions, nutrients, 
+optimum temperature and pH, oxygenation and agitation, for the growth of micro-
+organisms 
+Fish farming 
+5.9B understand the methods used to farm large numbers of fish to provide a 
+source of protein, including maintaining water quality, controlling 
+intraspecific and interspecific predation, controlling disease, removing waste 
+products, controlling the quality and frequency of feeding, and selective 
+breeding 
+ 
+(b) 
+Selective breeding 
+Students should: 
+5.10 
+understand how selective breeding can develop plants with desired characteristics  
+5.11 
+understand how selective breeding can develop animals with desired characteristics  
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+26
+ 
+(c) 
+Genetic modification (genetic engineering) 
+Students should: 
+5.12 
+understand how restriction enzymes are used to cut DNA at specific sites and ligase 
+enzymes are used to join pieces of DNA together 
+5.13 
+understand how plasmids and viruses can act as vectors, which take up pieces of 
+DNA, and then insert this recombinant DNA into other cells 
+5.14 
+understand how large amounts of human insulin can be manufactured from 
+genetically modified bacteria that are grown in a fermenter 
+5.15 
+understand how genetically modified plants can be used to improve food production  
+5.16 
+understand that the term transgenic means the transfer of genetic material from one 
+species to a different species 
+ 
+(d) 
+Cloning 
+Students should: 
+5.17B describe the process of micropropagation (tissue culture) in which explants 
+are grown in vitro  
+5.18B understand how micropropagation can be used to produce commercial 
+quantities of genetically identical plants with desirable characteristics 
+5.19B describe the stages in the production of cloned mammals involving the 
+introduction of a diploid nucleus from a mature cell into an enucleated egg 
+cell, illustrated by Dolly the sheep 
+5.20B understand how cloned transgenic animals can be used to produce human 
+proteins 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+27
+3 Assessment information 
+Assessment requirements 
+Paper number  
+Level Assessment information 
+Number of marks 
+allocated in the 
+paper 
+Paper 1B 
+1/2 
+Assessed through a 2-hour written 
+examination set and marked by 
+Pearson. 
+The paper is weighted at 61.1% of 
+the qualification. 
+A mixture of different question 
+styles, including multiple-choice 
+questions, short-answer questions, 
+calculations and extended  
+open-response questions. 
+Assesses the content that is not in 
+bold and does not have a ‘B’ 
+reference. Questions may come 
+from any topic area across the 
+specification. 
+110  
+Paper 2B 
+1/2 
+Assessed through a 1-hour and  
+15-minute written examination set 
+and marked by Pearson. 
+The paper is weighted at 38.9% of 
+the qualification. 
+A mixture of different question 
+styles, including multiple-choice 
+questions, short-answer questions, 
+calculations and extended  
+open-response questions. 
+Assesses all the content, including 
+content that is in bold and has a ‘B’ 
+reference. Questions may come 
+from any topic area across the 
+specification. 
+Bold statements cover some  
+sub-topics in greater depth. 
+70 
+ 
+The total number of marks for this qualification is 180. This total is obtained by adding the 
+mark for Paper 1B (out of 110 marks) to the mark for Paper 2B (out of 70 marks). The 
+marks for the papers are not scaled.  
+Based on the overall mark, students will be awarded a grade. The grades available range 
+from 9 to 1, where 9 is the highest grade. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+28
+Sample assessment materials 
+Sample papers and mark schemes can be found in the Pearson Edexcel International GCSE 
+in Biology Sample Assessment Materials (SAMs) document. 
+Experimental skills 
+The best way to develop experimental skills is to embed practical investigations in teaching 
+or theory. The development of knowledge and experimental skills can then happen together, 
+leading to secure acquisition of both knowledge and skills. 
+Our practical investigations are embedded within 2: Biology content as specification points in 
+italics. The skills developed through these and other practicals will be assessed through 
+written examinations. 
+In the assessment of experimental skills, students may be tested on their ability to: 
+• solve problems set in a practical context 
+• apply scientific knowledge and understanding in questions with a practical context 
+• devise and plan investigations, using scientific knowledge and understanding when 
+selecting appropriate techniques 
+• demonstrate or describe appropriate experimental and investigative methods, including 
+safe and skilful practical techniques 
+• make observations and measurements with appropriate precision, record these 
+methodically and present them in appropriate ways 
+• identify independent, dependent and control variables 
+• use scientific knowledge and understanding to analyse and interpret data to draw 
+conclusions from experimental activities that are consistent with the evidence 
+• communicate the findings from experimental activities, using appropriate technical 
+language, relevant calculations and graphs 
+• assess the reliability of an experimental activity 
+• evaluate data and methods taking into account factors that affect accuracy and validity. 
+Calculators 
+Students will be expected to have access to a suitable electronic calculator for all 
+examination papers. Calculators that allow for the retrieval of text or formulae or  
+QWERTY keyboards will not be allowed for use in examinations.  
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+29
+Assessment objectives and weightings 
+ 
+ 
+International 
+GCSE 
+AO1 
+Knowledge and understanding of biology 
+38–42% 
+AO2 
+Application of knowledge and understanding, analysis and 
+evaluation of biology 
+38–42% 
+AO3 
+Experimental skills, analysis and evaluation of data and 
+methods in biology 
+19–21% 
+ 
+ 
+100% 
+Relationship of assessment objectives to units 
+ 
+Unit number 
+Assessment objective 
+AO1 
+AO2 
+AO3 
+Biology Paper 1 
+23.2–25.7% 
+23.2–25.7% 
+11.6–12.8% 
+Biology Paper 2 
+14.8–16.3% 
+14.8–16.3% 
+7.4–8.2% 
+Total for 
+International GCSE 
+38–42% 
+38–42% 
+19–21% 
+ 
+All components will be available for assessment from June 2019. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+30
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+31
+4 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our International information manual. A copy is made available to all examinations officers 
+and is also available on our website. 
+Students should be advised that if they take two qualifications in the same subject, colleges, 
+universities and employers are very likely to take the view that they have achieved only one 
+of the two GCSEs/International GCSEs. Students or their advisers, who have any doubts 
+about subject combinations should check with the institution to which they wish to progress 
+before embarking on their programmes. 
+Students may take the Pearson Edexcel International GCSE in Biology alongside the Pearson 
+Edexcel International GCSE in Human Biology. 
+Forbidden combinations  
+This qualification may not be taken alongside: 
+• Pearson Edexcel International GCSE in Science (Double Award) (Linear) (4SD0) 
+• Pearson Edexcel International GCSE in Biology (Modular) (4XBI1) 
+• Pearson Edexcel International GCSE in Science (Double Award) (Modular) (4XSD1) 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 
+Equality and fairness are central to our work. Our Equality Policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+• students with a protected characteristic (as defined by the UK Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+• all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will only be available in English. All student work must be in 
+English.  
+We recommend that students are able to read and write in English at Level B2 of the 
+Common European Framework of Reference for Languages. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+32
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to:  
+• access the assessment 
+• show what they know and can do without changing the demands of the assessment.  
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under 
+the UK Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The UK Equality Act 2010 requires an awarding organisation to make reasonable 
+adjustments where a student with a disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is required to take reasonable steps 
+to overcome that disadvantage. 
+A reasonable adjustment for a particular student may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+• the needs of the student with the disability 
+• the effectiveness of the adjustment 
+• the cost of the adjustment 
+• the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation or unreasonable timeframes or if it affects the security or integrity of the 
+assessment. This is because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the  
+examination/assessment, which has had, or is reasonably likely to have had, a material 
+effect on a candidate’s ability to take an assessment or demonstrate their level of attainment 
+in an assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration, please refer to the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+33
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment, or undermines the integrity of the qualifications or 
+the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 190 High 
+Holborn, London, WC1V 7BH. Please provide as much information and supporting 
+documentation as possible. Note that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice constitutes staff or centre malpractice. 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment, or undermines the 
+integrity of the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on  
+a JCQ Form M2 (available at www.jcq.org.uk/exams-office/malpractice).  
+The form, supporting documentation and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,  
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding  
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the latest version of the document 
+General and Vocational Qualifications Suspected Malpractice in Examinations and 
+Assessments, available at www.jcq.org.uk/exams-office/malpractice 
+Awarding and reporting 
+The International GCSE qualification will be graded and certificated on a nine-grade scale 
+from 9 to 1 using the total subject mark where 9 is the highest grade. Individual papers are 
+not graded. The first certification opportunity for the Pearson Edexcel International GCSE in 
+Biology will be in June 2019. Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be recorded on a certificate will receive an 
+unclassified U result. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+34
+Student recruitment and progression  
+Pearson’s policy concerning recruitment to our qualifications is that:  
+• they must be available to anyone who is capable of reaching the required standard  
+• they must be free from barriers that restrict access and progression 
+• equal opportunities exist for all students. 
+Prior learning and other requirements  
+The qualification builds on the content, knowledge and skills developed in the Key Stage 3 
+Programme of Study (ages 11–14) or international equivalences for science.  
+Progression 
+Students can progress from this qualification to:  
+• International Advanced Subsidiary, for example in Biology  
+• International Advanced Level, for example in Biology 
+• GCE Advanced Subsidiary, for example in Biology 
+• GCE Advanced Level, for example in Biology 
+• Level 3 vocational qualifications in science, for example BTEC Level 3 in Applied Science 
+• other comparable, Level 3 qualifications, such as the International Baccalaureate 
+• employment, for example in a science-based industry where an apprenticeship may be 
+available. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+35
+Appendices 
+Appendix 1: Codes 
+37 
+Appendix 2: Pearson World Class Qualification design principles 39 
+Appendix 3: Transferable skills 
+41 
+Appendix 4: Mathematical skills 
+43 
+Appendix 5: Command word taxonomy 
+45 
+Appendix 6: Suggested practical investigations 
+47 
+Appendix 7: Glossary 
+49 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+36
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+37
+Appendix 1: Codes 
+ 
+Type of code 
+Use of code 
+Code 
+Subject codes 
+The subject code is used by centres to 
+enter students for a qualification. 
+Pearson Edexcel 
+International GCSE in 
+Biology – 4BI1 
+Pearson Edexcel 
+International GCSE in 
+Science (Double Award) 
+– 4SD0 
+Paper codes 
+These codes are provided for 
+information. Students may need to be 
+entered for individual papers. 
+Biology Paper 1: 
+4BI1/1B, 4SD0/1B 
+Biology Paper 2: 
+4BI1/2B 
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+38
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+39
+Appendix 2: Pearson World Class Qualification 
+design principles 
+Pearson’s World Class Qualification design principles mean that all Edexcel qualifications are 
+developed to be rigorous, demanding, inclusive and empowering. 
+ 
+ 
+ 
+We work collaboratively to gain approval from an external panel of educational thought 
+leaders and assessment experts from across the globe. This is to ensure that Edexcel 
+qualifications are globally relevant, represent world-class best practice in qualification and 
+assessment design, maintain a consistent standard and support learner progression in 
+today’s fast-changing world. 
+Pearson’s Expert Panel for World-class Qualifications is chaired by Sir Michael Barber, a 
+leading authority on education systems and reform. He is joined by a wide range of key 
+influencers with expertise in education and employability. 
+‘I’m excited to be in a position to work with the global leaders in curriculum and assessment 
+to take a fresh look at what young people need to know and be able to do in the 21st 
+century, and to consider how we can give them the opportunity to access that sort of 
+education.’ Sir Michael Barber. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+40
+Endorsement from Pearson’s Expert Panel for World Class 
+Qualifications for the International GCSE development process 
+December 2015 
+“We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe.  
+We have guided Pearson through what we judge to be a rigorous world class qualification 
+development process that has included, where appropriate: 
+• extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world 
+• benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand 
+• establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications. 
+Importantly, we have worked to ensure that the content and learning is future oriented, and 
+that the design has been guided by Pearson’s Efficacy Framework. This is a structured, 
+evidenced process which means that learner outcomes have been at the heart of this 
+development throughout. 
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education but as a result of our work as a panel we are confident that we have 
+supported the development of Edexcel International GCSE qualifications that are outstanding 
+for their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.” 
+ 
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Dean and Managing Director, National 
+Institute of Education International, 
+Singapore  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+Dame Sally Coates 
+Director of Academies (South), United 
+Learning Trust 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, Switzerland 
+Professor Bob Schwartz  
+Harvard Graduate School of Education 
+Professor Janice Kay  
+Provost, University of Exeter 
+Jane Beine 
+Head of Partner Development, John Lewis 
+Partnership 
+Jason Holt 
+CEO, Holts Group 
+ 
+ 
+All titles correct as at December 2015 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+41
+Appendix 3: Transferable skills  
+The need for transferable skills 
+In recent years, higher-education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned 
+and that enable individuals to successfully and consistently perform an activity or task and 
+can be built upon and extended through learning.’[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework [2] as the most evidence-based 
+and robust skills framework, and have used this as a basis for our adapted skills framework. 
+The framework includes cognitive, intrapersonal skills and interpersonal skills. 
+ 
+ 
+ 
+The skills have been interpreted for this specification to ensure they are appropriate for the 
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or 
+assessment of the qualification. Some skills are directly assessed. Pearson materials will 
+support you in identifying these skills and developing these skills in students. 
+The table on the next page sets out the framework and gives an indication of the skills that 
+can be found in biology and indicates the interpretation of the skill in this area. A full subject 
+interpretation of each skill, with mapping to show opportunities for students’ development is 
+provided on the subject pages of our website: qualifications.pearson.com 
+ 
+ 
+ 
+1 OECD – Better Skills, Better Jobs, Better Lives: A Strategic Approach to Skills Policies (OECD Publishing, 2012)  
+2 Koenig, J. A. (2011) – Assessing 21st Century Skills: Summary of a Workshop (National Academies Press, 2011) 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+42
+ 
+Cognitive skills 
+Cognitive 
+processes and 
+strategies 
+• 
+Critical thinking 
+• 
+Problem solving 
+• 
+Analysis 
+• 
+Reasoning 
+• 
+Interpretation 
+• 
+Decision making 
+• 
+Adaptive learning 
+• 
+Executive function 
+Creativity 
+• 
+Creativity 
+• 
+Innovation 
+Intrapersonal skills 
+Intellectual 
+openness 
+• 
+Adaptability 
+• 
+Personal and social responsibility 
+• 
+Continuous learning 
+• 
+Intellectual interest and curiosity 
+Work ethic/ 
+conscientiousness 
+• 
+Initiative 
+• 
+Self-direction 
+• 
+Responsibility 
+• 
+Perseverance 
+• 
+Productivity 
+• 
+Self-regulation (metacognition, 
+forethought, reflection) 
+• 
+Ethics 
+• 
+Integrity 
+Positive core 
+self-evaluation 
+• 
+Self-monitoring/self-
+evaluation/self-reinforcement 
+Interpersonal skills 
+Teamwork and 
+collaboration 
+• 
+Communication 
+• 
+Collaboration 
+• 
+Teamwork 
+• 
+Cooperation 
+• 
+Interpersonal skills 
+Leadership 
+• 
+Leadership 
+• 
+Responsibility 
+• 
+Assertive communication 
+• 
+Self-presentation 
+ 
+Problem solving in the 
+application of unifying patterns 
+and themes in biology and using 
+them in new and changing 
+situations. 
+Initiative when using knowledge 
+of biology, independently  
+(without guided learning), to 
+further own understanding. 
+Communication to convey a 
+biological process or technique 
+(verbally or written) to peers and 
+teachers and answer questions 
+from others. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+43
+Appendix 4: Mathematical skills 
+The table below identifies the mathematical skills that will be developed and assessed 
+throughout this qualification. These are not explicitly referenced in the content. Details of 
+the mathematical skills in other science subjects are given for reference. 
+ 
+ 
+B C P 
+1 
+Arithmetic and numerical computation 
+A 
+Recognise and use numbers in decimal form 
+   
+B 
+Recognise and use numbers in standard form 
+   
+C 
+Use ratios, fractions, percentages, powers and roots 
+   
+D Make estimates of the results of simple calculations, without using a calculator   
+ 
+E 
+Use calculators to handle sin x and sin-1 x, where x is expressed in degrees 
+ 
+ 
+ 
+2 
+Handling data 
+A 
+Use an appropriate number of significant figures 
+   
+B 
+Understand and find the arithmetic mean (average) 
+   
+C 
+Construct and interpret bar charts 
+   
+D Construct and interpret frequency tables, diagrams and histograms 
+  
+ 
+E 
+Understand the principles of sampling as applied to scientific data 
+  
+ 
+F 
+Understand simple probability 
+   
+G Understand the terms mode and median 
+  
+ 
+H Use a scatter diagram to identify a pattern or trend between two variables 
+   
+I 
+Make order of magnitude calculations 
+   
+3 
+Algebra 
+A 
+Understand and use the symbols <, >, ∝, ~ 
+ 
+  
+B 
+Change the subject of an equation 
+   
+C 
+Substitute numerical values into algebraic equations using appropriate units 
+for physical quantities 
+   
+D Solve simple algebraic equations 
+   
+4 
+Graphs 
+A 
+Translate information between graphical and numerical form 
+   
+B 
+Understand that y = mx + c represents a linear relationship 
+ 
+  
+C 
+Plot two variables (discrete and continuous) from experimental or other data 
+   
+D Determine the slope and intercept of a linear graph 
+   
+E 
+Understand, draw and use the slope of a tangent to a curve as a measure of 
+rate of change 
+ 
+  
+F 
+Understand the physical significance of area between a curve and the x-axis, 
+and measure it by counting squares as appropriate 
+ 
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+44
+ 
+ 
+B C P 
+5 Geometry and trigonometry 
+A Use angular measures in degrees 
+ 
+ 
+ 
+B Visualise and represent 2D and 3D objects, including two dimensional 
+representations of 3D objects 
+ 
+ 
+ 
+C Calculate areas of triangles and rectangles, surface areas and volumes of 
+cubes 
+  
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+45
+Appendix 5: Command word taxonomy 
+The following table lists the command words used in the external assessments. 
+ 
+Command word  
+Definition 
+Add/Label 
+Requires the addition or labelling of a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Calculate 
+Obtain a numerical answer, showing relevant working.  
+Comment on 
+Requires the synthesis of a number of variables from 
+data/information to form a judgement.  
+Complete 
+Requires the completion of a table/diagram. 
+Deduce 
+Draw/reach conclusion(s) from the information provided. 
+Describe 
+To give an account of something. Statements in the response 
+need to be developed, as they are often linked but do not 
+need to include a justification or reason. 
+Determine 
+The answer must have an element that is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. To gain maximum marks, there must 
+be a quantitative element to the answer. 
+Design 
+Plan or invent a procedure from existing principles/ideas. 
+Discuss 
+• 
+Identify the issue/situation/problem/argument that is 
+being assessed within the question. 
+• 
+Explore all aspects of an 
+issue/situation/problem/argument. 
+• 
+Investigate the issue/situation etc. by reasoning or 
+argument. 
+Draw 
+Produce a diagram either using a ruler or freehand. 
+Estimate 
+Find an approximate value, number or quantity from a 
+diagram/given data or through a calculation. 
+Evaluate 
+Review information (e.g. data, methods) then bring it 
+together to form a conclusion, drawing on evidence including 
+strengths, weaknesses, alternative actions, relevant data or 
+information. Come to a supported judgement of a subject’s 
+quality and relate it to its context. 
+Explain 
+An explanation requires a justification/exemplification of a 
+point. The answer must contain some element of 
+reasoning/justification – this can include mathematical 
+explanations. 
+Give/State/Name 
+All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a reason/reasons 
+When a statement has been made and the requirement is 
+only to give the reason(s) why. 
+Identify 
+Usually requires some key information to be selected from a 
+given stimulus/resource. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+46
+ 
+Command word  
+Definition 
+Justify 
+Give evidence to support (either the statement given in the 
+question or an earlier answer). 
+Plot 
+Produce a graph by marking points accurately on a grid from 
+data that is provided and then draw a line of best fit through 
+these points. A suitable scale and appropriately labelled axes 
+must be included if these are not provided in the question. 
+Predict 
+Give an expected result. 
+Show that 
+Verify the statement given in the question. 
+Sketch 
+Produce a freehand drawing. For a graph, this would need a 
+line and labelled axes with important features indicated.  
+The axes are not scaled. 
+State what is meant by 
+When the meaning of a term is expected but there are 
+different ways for how these can be described. 
+Suggest 
+Use your knowledge to propose a solution to a problem in a 
+novel context. 
+Verb preceding a command word 
+Analyse the data/graph 
+to explain 
+Examine the data/graph in detail to provide an explanation.  
+Multiple choice questions 
+What, Why, Which 
+Direct command words used for multiple-choice questions. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+47
+Appendix 6: Suggested practical investigations 
+The following suggestions are additional practical investigations that exemplify the scientific 
+process. They can be used to supplement students’ understanding of biology in addition to 
+the practical investigations found within the main body of the content.  
+• Investigate human responses to external stimuli. 
+• Investigate reaction times. 
+• Investigate the effect of pollutants on plant germination and plant growth. 
+• Investigate inheritance using suitable organisms or models. 
+• Investigate the speed of transmission of electrical impulses in the nervous system. 
+• Investigate the presence of glucose in simulated urine/body fluids. 
+• Investigate the effect of light and/or gravity on plant growth. 
+• Investigate the effect of exercise on heart rate. 
+• Investigate the relationship between organisms and their environment using fieldwork 
+techniques. 
+• Investigate the distribution of organisms in an ecosystem, using sampling techniques 
+including: 
+– 
+pooters 
+– 
+sweep nets/pond nets 
+– 
+pitfall traps and measure environmental factors including: 
+o 
+temperature 
+o 
+light intensity 
+o 
+pH. 
+• Investigate plant and animal cells with a light microscope. 
+• Investigate the effect of glucose concentration on rate of anaerobic respiration in yeast. 
+• Investigate how the structure of the leaf is adapted for photosynthesis. 
+• Investigate the effect of different factors on yoghurt making. 
+• Investigate the use of enzymes in washing powders. 
+• Investigate temperature loss in beakers of hot water of different sizes. 
+Safety is an overriding requirement for all practical work. Centres are responsible for 
+ensuring that whenever their students complete practical work appropriate safety 
+procedures are followed. 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+48
+ 
+ 
+Pearson Edexcel International GCSE in Biology 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+49
+Appendix 7: Glossary 
+ 
+Term 
+Definition 
+Assessment 
+objectives 
+The requirements that students need to meet to succeed in the 
+qualification. Each assessment objective has a unique focus, which 
+is then targeted in examinations or coursework. Assessment 
+objectives may be assessed individually or in combination.  
+External 
+assessment 
+An examination that is held at the same time and place in a global 
+region.  
+JCQ 
+Joint Council for Qualifications. This is a group of UK exam boards 
+that develop policy related to the administration of examinations.  
+Linear 
+Linear qualifications have all assessments at the end of a course of 
+study. It is not possible to take one assessment earlier in the 
+course of study. 
+ 
+ 
+Db040924 9781446931158_INT_GCSE_BIOLOGY_ISS3.DOC.1–56/0 
+For information about Pearson Qualifications, including Pearson Edexcel,
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828
+Registered Office: 80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121
+Getty Images: Alex Belmonlinsky

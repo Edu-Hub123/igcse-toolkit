@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+<head>
+  <script>
+    const now = new Date();
+    const endDate = new Date("2025-05-12T23:59:00Z");
+
+    if (now > endDate) {
+      document.write(`
+        <div style="margin: 3rem; text-align: center;">
+          <h2>Access Expired</h2>
+          <p>This testing link is no longer active.</p>
+        </div>
+      `);
+      throw new Error("Access expired");
+    }
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>IGCSE Toolkit</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+    .mermaid svg {
+      background: #f3f3ff;
+      border-radius: 10px;
+      padding: 10px;
+    }
+  </style>
+
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.4.0/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({ startOnLoad: false });
+  </script>
+</head>
+
+<body>
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">IGCSE Toolkit</a>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item"><button id="tab-home" class="btn btn-link nav-link active">Home</button></li>
+          <li class="nav-item"><button id="tab-notes" class="btn btn-link nav-link">IGCSE Notes Generator</button></li>
+          <li class="nav-item"><button id="tab-paper" class="btn btn-link nav-link">IGCSE Paper Generator</button></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="container py-4">
+    <!-- Home Tab -->
+    <div id="home-tab">
+      <h1 class="text-center">Welcome to the IGCSE Toolkit</h1>
+      <p class="text-center">Select a tool from the navigation above:</p>
+      <ul>
+        <li><strong>IGCSE Notes Generator</strong>: Generate detailed or visual revision notes.</li>
+        <li><strong>IGCSE Paper Generator</strong>: Create practice questions or full papers with mark schemes.</li>
+      </ul>
+    </div>
+
+    <!-- Notes Generator -->
+    <div id="notes-tab" style="display: none;">
+      <h2>IGCSE Notes Generator</h2>
+      <form id="notes-form">
+        <div class="mb-3">
+          <label for="exam-board" class="form-label">Select Exam Board:</label>
+          <select id="exam-board" class="form-select">
+            <option value="">-- Select Exam Board --</option>
+            <option value="Cambridge">Cambridge</option>
+            <option value="Edexcel">Edexcel</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="subject" class="form-label">Select Subject:</label>
+          <select id="subject" class="form-select">
+            <option value="">-- Select Subject --</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="topic" class="form-label">Select Topic:</label>
+          <select id="topic" class="form-select">
+            <option value="">-- Select Topic --</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="subtopic" class="form-label">Select Subtopic:</label>
+          <select id="subtopic" class="form-select">
+            <option value="">-- Select Subtopic --</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="learner-type" class="form-label">Select Learner Type:</label>
+          <select id="learner-type" class="form-select">
+            <option value="">-- Select Learner Type --</option>
+            <option value="visual" disabled>Visual (Coming Soon)</option>
+            <option value="reading_and_writing">Reading and Writing</option>
+          </select>
+        </div>        
+        <button id="generate-btn" class="btn btn-primary w-100" disabled>Generate Notes</button>
+      </form>
+      <div id="notes-output" class="mt-4">
+        <div id="flowchart-container" class="mermaid"></div>
+      </div>
+    </div>
+
+    <!-- Paper Generator -->
+    <div id="paper-tab" style="display: none;">
+      <h2>IGCSE Paper Generator</h2>
+      <form id="paper-form">
+        <div class="mb-3">
+          <label for="paper-board" class="form-label">Select Exam Board:</label>
+          <select id="paper-board" class="form-select">
+            <option value="">-- Select Exam Board --</option>
+            <option value="Cambridge">Cambridge</option>
+            <option value="Edexcel">Edexcel</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="paper-subject" class="form-label">Select Subject:</label>
+          <select id="paper-subject" class="form-select">
+            <option value="">-- Select Subject --</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <label for="paper-topic" class="form-label">Select Topic:</label>
+          <select id="paper-topic" class="form-select">
+            <option value="">-- Select Topic --</option>
+            <option value="all">All Topics</option>
+          </select>
+        </div>
+        <!-- ✅ NEW: Subtopic Selector -->
+        <div class="mb-3">
+          <label for="paper-subtopic" class="form-label">Select Subtopic:</label>
+          <select id="paper-subtopic" class="form-select">
+            <option value="">-- Select Subtopic --</option>
+          </select>
+        </div>
+        <button id="generate-paper-btn" class="btn btn-success w-100" disabled>Generate Paper</button>
+      </form>
+      <div id="paper-output" class="mt-4"></div>
+      <div id="markscheme-output" class="mt-3"></div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script type="module">
+    import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+    window.mermaid = mermaid;
+    mermaid.initialize({ startOnLoad: false });
+  </script>
+
+  <!-- Chatbot Container -->
+  <div id="chatbot-container" class="container mt-5" style="display: none;">
+    <h4>Customise Your Notes</h4>
+    <form id="chat-form">
+      <div class="mb-3">
+        <label for="chat-input" class="form-label">Ask a question or request a change:</label>
+        <textarea id="chat-input" class="form-control" rows="3" placeholder="E.g., Can you add more examples to point 3?"></textarea>
+      </div>
+      <button type="submit" class="btn btn-secondary">Send</button>
+    </form>
+    <div id="chat-response" class="mt-3" style="white-space: pre-wrap;"></div>
+  </div>
+  <script src="assets/js/script.js?v=1"></script>
+</body>
+</html>

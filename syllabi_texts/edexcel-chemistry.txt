@@ -1,0 +1,2233 @@
+International GCSE
+Chemistry (9–1)
+Specification
+Pearson Edexcel International GCSE in Chemistry (4CH1)
+First teaching September 2017 
+First examination June 2019
+Issue 3
+ 
+ 
+About Pearson  
+We are the world’s leading learning company operating in countries all around the 
+world. We provide content, assessment and digital services to learners, educational 
+institutions, employers, governments and other partners globally. We are 
+committed to helping equip learners with the skills they need to enhance their 
+employability prospects and to succeed in the changing world of work. We believe 
+that wherever learning flourishes so do people. 
+References to third party materials made in this specification are made in good 
+faith. Pearson does not endorse, approve or accept responsibility for the content of 
+materials, which may be subject to change, or any opinions expressed therein. 
+(Materials may include textbooks, journals, magazines and other publications and 
+websites.)  
+ 
+All information in this specification is correct at time of publication. 
+ 
+ISBN 978 1 446 93117 2 
+All the material in this publication is copyright 
+© Pearson Education Limited 2024 
+ 
+ 
+ 
+Summary of Pearson Edexcel International GCSE in 
+Chemistry (4CH1) specification  
+Issue 3 changes 
+ 
+Summary of changes made between previous issue and this 
+current issue 
+Page 
+number 
+Qualification at a glance 
+Availability of series amended to November and June  
+7, 8 
+Administration and general information  
+Modular International GCSEs added to forbidden combinations 
+31 
+Appendix 5: Command word taxonomy 
+“Which” added to the command word taxonomy 
+46 
+ 
+If you need further information on these changes or what they mean, contact us via 
+our website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+ 
+Contents 
+1 
+About this specification 
+1 
+Specification updates 
+1 
+Using this specification 
+1 
+Course introduction 
+2 
+Qualification aims and objectives 
+3 
+Why choose Edexcel qualifications? 
+4 
+Why choose Pearson Edexcel International GCSE in Chemistry? 
+5 
+Supporting you in planning and implementing this qualification 
+6 
+Qualification at a glance 
+7 
+Paper overview 
+7 
+2 
+Chemistry content 
+9 
+3 
+Assessment information 
+27 
+Assessment requirements 
+27 
+Sample assessment materials 
+28 
+Experimental skills 
+28 
+Calculators 
+28 
+Assessment objectives and weightings 
+29 
+Relationship of assessment objectives to units 
+29 
+4 
+Administration and general information 
+31 
+Entries 
+31 
+Forbidden combinations 
+31 
+Access arrangements, reasonable adjustments, special 
+consideration and malpractice 
+31 
+Language of assessment 
+31 
+Access arrangements 
+32 
+Reasonable adjustments 
+32 
+Special consideration 
+32 
+Further information 
+32 
+Candidate malpractice 
+33 
+Staff/centre malpractice 
+33 
+Awarding and reporting 
+33 
+Student recruitment and progression 
+34 
+Prior learning and other requirements 
+34 
+Progression 
+34 
+ 
+ 
+Appendices 
+35 
+Appendix 1: Codes 
+37 
+Appendix 2: Pearson World Class Qualification design principles 39 
+Appendix 3: Transferable skills 
+41 
+Appendix 4: Mathematical skills 
+43 
+Appendix 5: Command word taxonomy 
+45 
+Appendix 6: Suggested practical investigations 
+47 
+Appendix 7: The Periodic Table 
+49 
+Appendix 8: Glossary 
+51 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+1
+1 About this specification 
+The Pearson Edexcel International GCSE in Chemistry is part of a suite of International GCSE 
+qualifications offered by Pearson. 
+This qualification is not accredited or regulated by any UK regulatory body. 
+This specification includes the following key features. 
+Structure: the Pearson Edexcel International GCSE in Chemistry is a linear qualification. 
+Two written examinations must be taken in the same series at the end of the course of 
+study. 
+Content: relevant, engaging, up to date and of equivalent standard to Pearson’s regulated 
+GCSE in Chemistry. 
+Assessment: untiered, written examinations with questions designed to be accessible to 
+students of all abilities. 
+Approach: a solid basis for students wishing to progress to the Pearson Edexcel AS and 
+Advanced GCE Level or equivalent qualifications, focusing on key chemistry theory. 
+Specification updates 
+This specification is Issue 2 and is valid for the Pearson Edexcel International GCSE in 
+Chemistry examined from 2019. If there are any significant changes to the specification 
+Pearson will inform centres. Changes will also be posted on our website. 
+For more information please visit qualifications.pearson.com 
+Using this specification 
+This specification has been designed to give guidance to teachers and encourage effective 
+delivery of the qualification. The following information will help you get the most out of the 
+content and guidance. 
+Content: this is arranged as four topics in 2: Chemistry content. A summary of  
+sub-topics is included at the start of each topic. As a minimum, all the bullet points in the 
+content must be taught. The word ‘including’ in the content helps specify the detail of what 
+must be covered. 
+Examples: throughout the content, we have included examples of what could be covered or 
+what might support teaching and learning. It is important to note that examples are for 
+illustrative purposes only and centres can use other examples. We have included examples 
+that are easily understood and recognised by international centres. 
+Practical investigations: these are included within 2: Chemistry content as specification 
+points in italics. Students will develop knowledge and understanding of experimental skills 
+through the context of the chemistry they are learning. Experimental skills are assessed 
+through written examinations. 
+Referencing: specification statements that are in bold with a ‘C’ reference relate to content 
+that is only in the International GCSE in Chemistry and is not found in the International 
+GCSE in Science (Double Award). 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+2 
+Course introduction 
+The Pearson Edexcel International GCSE in Chemistry is designed for use in schools and 
+colleges. It is part of a suite of International GCSE qualifications offered by Pearson. 
+The course gives students the opportunity to experience chemistry within the context of 
+their general education.  
+How assessment relates to the qualifications available is shown below. 
+ 
+Biology Paper 1 
+Untiered 
++ 
+Biology Paper 2 
+Untiered 
+ 
+International 
+GCSE in Biology 
++ 
+ 
+ 
+ 
+ 
+Chemistry Paper 1 
+Untiered 
++ 
+Chemistry Paper 2 
+Untiered 
+ 
+International 
+GCSE in 
+Chemistry 
++ 
+ 
+ 
+ 
+ 
+Physics Paper 1 
+Untiered 
++ 
+Physics Paper 2 
+Untiered 
+ 
+International 
+GCSE in Physics 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International 
+GCSE in Science 
+(Double Award) 
+ 
+ 
+ 
+ 
+ 
+A Pearson Edexcel International GCSE in Science (Single Award) qualification is also 
+available. This will cover approximately 50% of the Pearson Edexcel International GCSE in 
+Science (Double Award) specification, while still having a comparable level of rigour and 
+demand.  
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+3
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to:  
+• learn about unifying patterns and themes in chemistry and use them in new and changing 
+situations 
+• acquire knowledge and understanding of chemical facts, terminology, concepts, principles 
+and practical techniques  
+• apply the principles and concepts of chemistry, including those related to the applications 
+of chemistry, to different contexts 
+• evaluate chemical information, making judgements on the basis of this information 
+• appreciate the practical nature of chemistry, developing experimental and investigative 
+skills based on correct and safe laboratory techniques 
+• analyse, interpret and evaluate data and experimental methods, drawing conclusions that 
+are consistent with evidence from experimental activities and suggesting possible 
+improvements and further investigations 
+• recognise the importance of accurate experimental work and reporting scientific methods 
+in chemistry 
+• select, organise and present relevant information clearly and logically using appropriate 
+vocabulary, definitions and conventions 
+• develop a logical approach to problem solving in a wider context. 
+• select and apply appropriate areas of mathematics relevant to chemistry as set out under 
+each topic 
+• prepare for more advanced courses in chemistry and for other courses that require 
+knowledge of chemistry. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+4 
+Why choose Edexcel qualifications? 
+Pearson – the world’s largest education company  
+Edexcel academic qualifications are from Pearson, the UK’s largest awarding organisation. 
+With over 3.4 million students studying our academic and vocational qualifications 
+worldwide, we offer internationally recognised qualifications to schools, colleges and 
+employers globally.  
+Pearson is recognised as the world’s largest education company, allowing us to drive 
+innovation and provide comprehensive support for Edexcel students to acquire the 
+knowledge and skills they need for progression in study, work and life.  
+A heritage you can trust 
+The background to Pearson becoming the UK’s largest awarding organisation began in 1836, 
+when a royal charter gave the University of London its first powers to conduct exams and 
+confer degrees on its students. With over 150 years of international education experience, 
+Edexcel qualifications have firm academic foundations, built on the traditions and rigour 
+associated with Britain’s education system. 
+Results you can trust 
+Pearson’s leading online marking technology has been shown to produce exceptionally 
+reliable results, demonstrating that, at every stage, Edexcel qualifications maintain the 
+highest standards. 
+Developed to Pearson’s world class qualifications standards 
+Pearson’s world-class standards mean that all Edexcel qualifications are developed to be 
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of 
+education thought leaders and assessment experts to ensure that Edexcel qualifications are 
+globally relevant, represent world-class best practice and maintain a consistent standard. 
+For more information on the world class qualification process and principles, please go to 
+Appendix 2: Pearson World Class Qualification design principles or visit our website: 
+uk.pearson.com/about-us/news-and-policy/reports-and-campaigns/world-class-
+qualifications/design-principles.html 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+5
+Why choose Pearson Edexcel International GCSE in 
+Chemistry? 
+We’ve listened to feedback from all parts of the International and UK school subject 
+community, including a large number of teachers. We’ve made changes that will engage 
+students and give them skills that will support progression to further study in chemistry and 
+a range of other subjects, in chemical sciences and elsewhere. Our content and assessment 
+approach has been designed to meet students’ needs and be consistent with our approach 
+across the sciences. 
+At Pearson we offer separate science qualifications in Biology, Human Biology, Chemistry and 
+Physics, as well as Double Award and Single Award Science qualifications – these have been 
+designed to meet different students’ needs. The content and assessment approach in all our 
+science qualifications has been designed to meet students’ needs in the following ways. 
+• Content that is interesting and engaging for students but is also designed to ensure good 
+preparation, both for those continuing to further study and for those who wish to work in 
+a chemistry-related field. 
+• There are opportunities to ‘localise’ the content to make it more relevant for students in 
+their own country. 
+• Question papers are clear and straightforward – our question papers are clear and 
+accessible for all students of all ability ranges and learning styles. Our mark schemes are 
+straightforward, so that the assessment requirements are clear. 
+• Students’ skills are broadly developed – we have designed the International GCSE to 
+extend students’ knowledge by broadening and deepening skills, for example: 
+– 
+developing students’ practical skills by including a number of practicals in the 
+specification content. These can be supplemented with other suggested practicals.  
+The skills developed will be assessed through questions in written examinations  
+– 
+improving students’ analytical and logic skills by applying understanding of scientific 
+concepts and principles to a range of situations. This will include some examination 
+questions that are more problem solving in style 
+– 
+addressing the need for mathematical skills to complement students’  
+chemistry skills by covering a range of mathematical areas. 
+Progression to A Level – International GCSEs enable successful progression to A Level and 
+beyond. Through our World Class Qualification development process we have consulted with 
+International Advanced Level and GCE A Level teachers as well as higher education 
+professors to validate the appropriateness of the qualification, including its content, skills 
+development and assessment structure. 
+Courses to suit your students’ needs and interests – teachers of chemistry have a 
+choice of International GCSE courses to deliver, each giving different levels of depth to meet 
+students’ needs. As well as the Pearson Edexcel International GCSE in Chemistry, students 
+can also be taught our International GCSE in Science (Double Award) or our International 
+GCSE in Science (Single Award). These courses offer a reduced amount of content, but are 
+assessed to the same standard. Progression routes for these courses may vary slightly from 
+those for the Pearson Edexcel International GCSE in Chemistry.  
+More information about all our qualifications can be found on our Edexcel International GCSE 
+pages at qualifications.pearson.com 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+6 
+Supporting you in planning and implementing this 
+qualification  
+Planning 
+• We will give you a course planner and editable schemes of work. 
+• Our mapping documents highlight key differences between the new and the 2011 legacy 
+qualifications. 
+Teaching and learning 
+• Our Getting Started Guide gives you an overview of the Pearson Edexcel International 
+GCSE in Chemistry to help you understand the changes to content and assessment, and 
+what these changes mean for you and your students. 
+• Print and digital learning and teaching resources promote any time, any place learning to 
+improve student motivation and encourage new ways of working.  
+Preparing for exams 
+We will also give you a range of resources to help you prepare your students for the 
+assessments, including: 
+• specimen papers to support formative assessments and mock exams 
+• examiner commentaries following each examination series. 
+ResultsPlus 
+ResultsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you to identify the topics and skills where further learning would 
+benefit your students.  
+examWizard 
+This is a free online data bank of past exam questions designed to support students and 
+teachers with exam preparation and assessment. 
+Training events  
+In addition to online training, we host a series of training events each year (both online and 
+face-to-face) that give teachers a deeper understanding of our qualifications. 
+Get help and support  
+Our subject advisor service ensures that you receive help and guidance from us. You can 
+sign up to receive the Edexcel newsletter to keep up to date with our qualifications and 
+receive product and service news. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+7
+Qualification at a glance 
+The Pearson Edexcel International GCSE in Chemistry comprises two externally-assessed 
+papers: 
+• 
+Chemistry Paper 1 
+• 
+Chemistry Paper 2. 
+Paper overview 
+Chemistry Paper 1 
+*Paper code 4CH1/1C 
+and 4SD0/1C 
+• Externally assessed 
+• Availability: November and June 
+• First assessment: June 2019 
+61.1% of the total 
+International GCSE 
+Content summary 
+Assesses core content that is not in bold and does not have a ‘C’ reference. Questions may 
+come from any topic area across the specification.  
+1 Principles of chemistry 
+2 Inorganic chemistry 
+3 Physical chemistry 
+4 Organic chemistry 
+Assessment 
+• The paper is assessed through a 2-hour written examination paper set and marked by 
+Pearson. 
+• The total number of marks is 110. 
+• A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations and extended open-response questions. 
+• A calculator may be used in the examinations. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+8 
+ 
+Chemistry Paper 2 
+*Paper code 4CH1/2C 
+• Externally assessed 
+• Availability: November and June 
+• First assessment: June 2019 
+38.9% of the total 
+International GCSE 
+Content summary 
+Assesses all the content, including content that is in bold and has a ‘C’ reference. 
+Questions may come from any topic area across the specification.  
+Bold statements cover some sub-topics in greater depth. 
+1 Principles of chemistry 
+2 Inorganic chemistry 
+3 Physical chemistry 
+4 Organic chemistry 
+Assessment 
+• The paper is assessed through a 1-hour and 15-minute written examination paper set 
+and marked by Pearson. 
+• The total number of marks is 70. 
+• A mixture of different question styles, including multiple-choice questions, short-answer 
+questions, calculations and extended open-response questions. 
+• A calculator may be used in the examinations. 
+ 
+* See Appendix 1: Codes for a description of this code and all the other codes relevant to 
+this qualification. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+9
+2 Chemistry content 
+1 
+Principles of chemistry 
+11 
+2 
+Inorganic chemistry 
+16 
+3 
+Physical chemistry 
+21 
+4 
+Organic chemistry 
+23 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+10
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+11
+1 
+Principles of chemistry 
+The following sub-topics are covered in this section. 
+(a) 
+States of matter 
+(b) 
+Elements, compounds and mixtures 
+(c) 
+Atomic structure 
+(d) 
+The Periodic Table 
+(e) 
+Chemical formulae, equations and calculations 
+(f) 
+Ionic bonding 
+(g) 
+Covalent bonding 
+(h) 
+Metallic bonding 
+(i) 
+Electrolysis 
+ 
+(a) 
+States of matter 
+Students should: 
+1.1 
+understand the three states of matter in terms of the arrangement, movement and 
+energy of the particles 
+1.2 
+understand the interconversions between the three states of matter in terms of: 
+• 
+the names of the interconversions 
+• 
+how they are achieved 
+• 
+the changes in arrangement, movement and energy of the particles. 
+1.3 
+understand how the results of experiments involving the dilution of coloured solutions 
+and diffusion of gases can be explained 
+1.4 
+know what is meant by the terms: 
+• 
+solvent 
+• 
+solute 
+• 
+solution 
+• 
+saturated solution. 
+1.5C know what is meant by the term solubility in the units g per 100 g of solvent 
+1.6C understand how to plot and interpret solubility curves 
+1.7C practical: investigate the solubility of a solid in water at a specific 
+temperature 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+12
+ 
+(b) 
+Elements, compounds and mixtures 
+Students should: 
+1.8 
+understand how to classify a substance as an element, compound or mixture 
+1.9 
+understand that a pure substance has a fixed melting and boiling point, but that a 
+mixture may melt or boil over a range of temperatures 
+1.10 
+describe these experimental techniques for the separation of mixtures: 
+• 
+simple distillation 
+• 
+fractional distillation 
+• 
+filtration 
+• 
+crystallisation 
+• 
+paper chromatography. 
+1.11 
+understand how a chromatogram provides information about the composition of a 
+mixture 
+1.12 
+understand how to use the calculation of Rf values to identify the components of a 
+mixture 
+1.13 
+practical: investigate paper chromatography using inks/food colourings 
+ 
+(c) 
+Atomic structure 
+Students should: 
+1.14 
+know what is meant by the terms atom and molecule 
+1.15 
+know the structure of an atom in terms of the positions, relative masses and relative 
+charges of sub-atomic particles 
+1.16 
+know what is meant by the terms atomic number, mass number, isotopes and relative 
+atomic mass (Ar) 
+1.17 
+be able to calculate the relative atomic mass of an element (Ar) from isotopic 
+abundances 
+ 
+(d) 
+The Periodic Table 
+Students should: 
+1.18 
+understand how elements are arranged in the Periodic Table: 
+• 
+in order of atomic number 
+• 
+in groups and periods. 
+1.19 
+understand how to deduce the electronic configurations of the first 20 elements from 
+their positions in the Periodic Table  
+1.20 
+understand how to use electrical conductivity and the acid-base character of oxides to 
+classify elements as metals or non-metals 
+1.21 
+identify an element as a metal or a non-metal according to its position in the Periodic 
+Table 
+1.22 
+understand how the electronic configuration of a main group element is related to its 
+position in the Periodic Table 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+13
+ 
+Students should: 
+1.23 
+understand why elements in the same group of the Periodic Table have similar 
+chemical properties 
+1.24 
+understand why the noble gases (Group 0) do not readily react 
+ 
+(e) 
+Chemical formulae, equations and calculations 
+Students should: 
+1.25 
+write word equations and balanced chemical equations (including state symbols):  
+• 
+for reactions studied in this specification 
+• 
+for unfamiliar reactions where suitable information is provided. 
+1.26 
+calculate relative formula masses (including relative molecular masses) (Mr) from 
+relative atomic masses (Ar) 
+1.27 
+know that the mole (mol) is the unit for the amount of a substance 
+1.28 
+understand how to carry out calculations involving amount of substance, relative 
+atomic mass (Ar) and relative formula mass (Mr) 
+1.29 
+calculate reacting masses using experimental data and chemical equations 
+1.30 
+calculate percentage yield 
+1.31 
+understand how the formulae of simple compounds can be obtained experimentally, 
+including metal oxides, water and salts containing water of crystallisation 
+1.32 
+know what is meant by the terms empirical formula and molecular formula 
+1.33 
+calculate empirical and molecular formulae from experimental data 
+1.34C understand how to carry out calculations involving amount of substance, 
+volume and concentration (in mol/dm3) of solution 
+1.35C understand how to carry out calculations involving gas volumes and the 
+molar volume of a gas (24 dm3 and 24 000 cm3 at room temperature and 
+pressure (rtp)) 
+1.36 
+practical: know how to determine the formula of a metal oxide by combustion  
+(e.g. magnesium oxide) or by reduction (e.g. copper(II) oxide) 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+14
+ 
+(f) 
+Ionic bonding 
+Students should: 
+1.37 
+understand how ions are formed by electron loss or gain 
+1.38 
+know the charges of these ions: 
+• 
+metals in Groups 1, 2 and 3 
+• 
+non-metals in Groups 5, 6 and 7 
+• 
+Ag+, Cu2+, Fe2+, Fe3+, Pb2+, Zn2+  
+• 
+hydrogen (H+), hydroxide (OH–), ammonium (NH4+), carbonate (CO32–),  
+nitrate (NO3-), sulfate (SO42–). 
+1.39 
+write formulae for compounds formed between the ions listed above 
+1.40 
+draw dot-and-cross diagrams to show the formation of ionic compounds by electron 
+transfer, limited to combinations of elements from Groups 1, 2, 3 and 5, 6, 7  
+ 
+only outer electrons need be shown 
+1.41 
+understand ionic bonding in terms of electrostatic attractions 
+1.42 
+understand why compounds with giant ionic lattices have high melting and boiling 
+points 
+1.43 
+know that ionic compounds do not conduct electricity when solid, but do conduct 
+electricity when molten and in aqueous solution 
+ 
+(g) 
+Covalent bonding 
+Students should: 
+1.44 
+know that a covalent bond is formed between atoms by the sharing of a pair of 
+electrons 
+1.45 
+understand covalent bonds in terms of electrostatic attractions 
+1.46 
+understand how to use dot-and-cross diagrams to represent covalent bonds in: 
+• 
+diatomic molecules, including hydrogen, oxygen, nitrogen, halogens and hydrogen 
+halides 
+• 
+inorganic molecules including water, ammonia and carbon dioxide  
+• 
+organic molecules containing up to two carbon atoms, including methane, ethane, 
+ethene and those containing halogen atoms. 
+1.47 
+explain why substances with a simple molecular structures are gases or liquids, or 
+solids with low melting and boiling points 
+ 
+the term intermolecular forces of attraction can be used to represent all forces 
+between molecules 
+1.48 
+explain why the melting and boiling points of substances with simple molecular 
+structures increase, in general, with increasing relative molecular mass 
+1.49 
+explain why substances with giant covalent structures are solids with high melting and 
+boiling points 
+1.50 
+explain how the structures of diamond, graphite and C60 fullerene influence their 
+physical properties, including electrical conductivity and hardness 
+1.51 
+know that covalent compounds do not usually conduct electricity 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+15
+ 
+(h) 
+Metallic bonding 
+Students should: 
+1.52C know how to represent a metallic lattice by a 2-D diagram 
+1.53C understand metallic bonding in terms of electrostatic attractions 
+1.54C explain typical physical properties of metals, including electrical conductivity 
+and malleability  
+ 
+(i) 
+Electrolysis 
+Students should: 
+1.55C understand why covalent compounds do not conduct electricity 
+1.56C understand why ionic compounds conduct electricity only when molten or in 
+aqueous solution 
+1.57C know that anion and cation are terms used to refer to negative and positive 
+ions respectively 
+1.58C describe experiments to investigate electrolysis, using inert electrodes, of 
+molten compounds (including lead(II) bromide) and aqueous solutions 
+(including sodium chloride, dilute sulfuric acid and copper(II) sulfate) and to 
+predict the products 
+1.59C write ionic half-equations representing the reactions at the electrodes during 
+electrolysis and understand why these reactions are classified as oxidation 
+or reduction 
+1.60C practical: investigate the electrolysis of aqueous solutions 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+16
+2 
+Inorganic chemistry 
+The following sub-topics are covered in this section. 
+(a) 
+Group 1 (alkali metals) – lithium, sodium and potassium 
+(b) 
+Group 7 (halogens) – chlorine, bromine and iodine 
+(c) 
+Gases in the atmosphere 
+(d) 
+Reactivity series 
+(e) 
+Extraction and uses of metals 
+(f) 
+Acids, alkalis and titrations 
+(g) 
+Acids, bases and salt preparations 
+(h) 
+Chemical tests 
+ 
+(a) 
+Group 1 (alkali metals) – lithium, sodium and potassium 
+Students should: 
+2.1 
+understand how the similarities in the reactions of these elements with water provide 
+evidence for their recognition as a family of elements 
+2.2 
+understand how the differences between the reactions of these elements with air and 
+water provide evidence for the trend in reactivity in Group 1 
+2.3 
+use knowledge of trends in Group 1 to predict the properties of other alkali metals 
+2.4C explain the trend in reactivity in Group 1 in terms of electronic 
+configurations 
+ 
+(b) 
+Group 7 (halogens) – chlorine, bromine and iodine 
+Students should: 
+2.5 
+know the colours, physical states (at room temperature) and trends in physical 
+properties of these elements 
+2.6 
+use knowledge of trends in Group 7 to predict the properties of other halogens 
+2.7 
+understand how displacement reactions involving halogens and halides provide 
+evidence for the trend in reactivity in Group 7 
+2.8C explain the trend in reactivity in Group 7 in terms of electronic 
+configurations 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+17
+ 
+(c) 
+Gases in the atmosphere 
+Students should: 
+2.9 
+know the approximate percentages by volume of the four most abundant gases in dry 
+air 
+2.10 
+understand how to determine the percentage by volume of oxygen in air using 
+experiments involving the reactions of metals (e.g. iron) and non-metals 
+(e.g. phosphorus) with air 
+2.11 
+describe the combustion of elements in oxygen, including magnesium, hydrogen and 
+sulfur 
+2.12 
+describe the formation of carbon dioxide from the thermal decomposition of metal 
+carbonates, including copper(II) carbonate 
+2.13 
+know that carbon dioxide is a greenhouse gas and that increasing amounts in the 
+atmosphere may contribute to climate change 
+2.14 
+practical: determine the approximate percentage by volume of oxygen in air using a 
+metal or a non-metal 
+ 
+(d) 
+Reactivity series 
+Students should: 
+2.15 
+understand how metals can be arranged in a reactivity series based on their reactions 
+with: 
+• 
+water 
+• 
+dilute hydrochloric or sulfuric acid. 
+2.16 
+understand how metals can be arranged in a reactivity series based on their 
+displacement reactions between: 
+• 
+metals and metal oxides 
+• 
+metals and aqueous solutions of metal salts. 
+2.17 
+know the order of reactivity of these metals: potassium, sodium, lithium, calcium, 
+magnesium, aluminium, zinc, iron, copper, silver, gold 
+2.18 
+know the conditions under which iron rusts 
+2.19 
+understand how the rusting of iron may be prevented by: 
+• 
+barrier methods 
+• 
+galvanising  
+• 
+sacrificial protection. 
+2.20 
+understand the terms: 
+• 
+oxidation 
+• 
+reduction 
+• 
+redox 
+• 
+oxidising agent 
+• 
+reducing agent 
+ 
+in terms of gain or loss of oxygen and loss or gain of electrons. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+18
+ 
+Students should: 
+2.21 
+practical: investigate reactions between dilute hydrochloric and sulfuric acids and 
+metals (e.g. magnesium, zinc and iron) 
+ 
+(e) 
+Extraction and uses of metals 
+Students should: 
+2.22C know that most metals are extracted from ores found in the Earth’s crust 
+and that unreactive metals are often found as the uncombined element 
+2.23C explain how the method of extraction of a metal is related to its position in 
+the reactivity series, illustrated by carbon extraction for iron and electrolysis 
+for aluminium 
+2.24C be able to comment on a metal extraction process, given appropriate 
+information 
+ 
+detailed knowledge of the processes used in the extraction of a specific 
+metal is not required 
+2.25C explain the uses of aluminium, copper, iron and steel in terms of their 
+properties 
+ 
+the types of steel will be limited to low-carbon (mild), high-carbon and 
+stainless 
+2.26C know that an alloy is a mixture of a metal and one or more elements, usually 
+other metals or carbon 
+2.27C explain why alloys are harder than pure metals 
+ 
+(f) 
+Acids, alkalis and titrations 
+Students should: 
+2.28 
+describe the use of litmus, phenolphthalein and methyl orange to distinguish between 
+acidic and alkaline solutions 
+2.29 
+understand how to use the pH scale, from 0–14, can be used to classify solutions as 
+strongly acidic (0–3), weakly acidic (4–6), neutral (7), weakly alkaline (8–10) and 
+strongly alkaline (11–14) 
+2.30 
+describe the use of universal indicator to measure the approximate pH value of an 
+aqueous solution 
+2.31 
+know that acids in aqueous solution are a source of hydrogen ions and alkalis in a 
+aqueous solution are a source of hydroxide ions 
+2.32 
+know that alkalis can neutralise acids 
+2.33C describe how to carry out an acid-alkali titration 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+19
+ 
+(g) 
+Acids, bases and salt preparations 
+Students should: 
+2.34 
+know the general rules for predicting the solubility of ionic compounds in water: 
+• 
+common sodium, potassium and ammonium compounds are soluble 
+• 
+all nitrates are soluble 
+• 
+common chlorides are soluble, except those of silver and lead(II) 
+• 
+common sulfates are soluble, except for those of barium, calcium and lead(II) 
+• 
+common carbonates are insoluble, except for those of sodium, potassium and 
+ammonium 
+• 
+common hydroxides are insoluble except for those of sodium, potassium and 
+calcium (calcium hydroxide is slightly soluble). 
+2.35 
+understand acids and bases in terms of proton transfer 
+2.36 
+understand that an acid is a proton donor and a base is a proton acceptor 
+2.37 
+describe the reactions of hydrochloric acid, sulfuric acid and nitric acid with metals, 
+bases and metal carbonates (excluding the reactions between nitric acid and metals) 
+to form salts 
+2.38 
+know that metal oxides, metal hydroxides and ammonia can act as bases, and that 
+alkalis are bases that are soluble in water 
+2.39 
+describe an experiment to prepare a pure, dry sample of a soluble salt, starting from 
+an insoluble reactant  
+2.40C describe an experiment to prepare a pure, dry sample of a soluble salt, 
+starting from an acid and alkali 
+2.41C describe an experiment to prepare a pure, dry sample of an insoluble salt, 
+starting from two soluble reactants 
+2.42 
+practical: prepare a sample of pure, dry hydrated copper(II) sulfate crystals starting 
+from copper(II) oxide 
+2.43C practical: prepare a sample of pure, dry lead(II) sulfate 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+20
+ 
+(h) 
+Chemical tests 
+Students should: 
+2.44 
+describe tests for these gases: 
+• 
+hydrogen 
+• 
+oxygen 
+• 
+carbon dioxide 
+• 
+ammonia 
+• 
+chlorine. 
+2.45 
+describe how to carry out a flame test 
+2.46 
+know the colours formed in flame tests for these cations: 
+• 
+Li+ is red  
+• 
+Na+ is yellow 
+• 
+K+ is lilac 
+• 
+Ca2+ is orange-red 
+• 
+Cu2+ is blue-green. 
+2.47 
+describe tests for these cations: 
+• 
+NH4+ using sodium hydroxide solution and identifying the gas evolved 
+• 
+Cu2+, Fe2+ and Fe3+ using sodium hydroxide solution. 
+2.48 
+describe tests for these anions: 
+• 
+Cl–, Br– and I– using acidified silver nitrate solution 
+• 
+SO42– using acidified barium chloride solution 
+• 
+CO32– using hydrochloric acid and identifying the gas evolved. 
+2.49 
+describe a test for the presence of water using anhydrous copper(II) sulfate 
+2.50 
+describe a physical test to show whether a sample of water is pure 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+21
+3 
+Physical chemistry 
+The following sub-topics are covered in this section: 
+(a) 
+Energetics 
+(b) 
+Rates of reaction 
+(c) 
+Reversible reactions and equilibria 
+ 
+(a) 
+Energetics 
+Students should: 
+3.1 
+know that chemical reactions in which heat energy is given out are described as 
+exothermic, and those in which heat energy is taken in are described as endothermic 
+3.2 
+describe simple calorimetry experiments for reactions such as combustion, 
+displacement, dissolving and neutralisation 
+3.3 
+calculate the heat energy change from a measured temperature change using the 
+expression Q = mcΔT    
+3.4 
+calculate the molar enthalpy change (ΔH) from the heat energy change, Q 
+3.5C draw and explain energy level diagrams to represent exothermic and 
+endothermic reactions 
+3.6C know that bond-breaking is an endothermic process and that bond-making is 
+an exothermic process 
+3.7C use bond energies to calculate the enthalpy change during a chemical 
+reaction 
+3.8 
+practical: investigate temperature changes accompanying some of the following types 
+of change: 
+• 
+salts dissolving in water 
+• 
+neutralisation reactions 
+• 
+displacement reactions 
+• 
+combustion reactions. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+22
+ 
+(b) 
+Rates of reaction 
+Students should: 
+3.9 
+describe experiments to investigate the effects of changes in surface area of a solid, 
+concentration of a solution, temperature and the use of a catalyst on the rate of a 
+reaction 
+3.10 
+describe the effects of changes in surface area of a solid, concentration of a solution, 
+pressure of a gas, temperature and the use of a catalyst on the rate of a reaction 
+3.11 
+explain the effects of changes in surface area of a solid, concentration of a solution, 
+pressure of a gas and temperature on the rate of a reaction in terms of particle 
+collision theory 
+3.12 
+know that a catalyst is a substance that increases the rate of a reaction, but is 
+chemically unchanged at the end of the reaction 
+3.13 
+know that a catalyst works by providing an alternative pathway with lower activation 
+energy 
+3.14C draw and explain reaction profile diagrams showing ΔH and activation 
+energy 
+3.15 
+practical: investigate the effect of changing the surface area of marble chips and of 
+changing the concentration of hydrochloric acid on the rate of reaction between 
+marble chips and dilute hydrochloric acid 
+3.16 
+practical: investigate the effect of different solids on the catalytic decomposition of 
+hydrogen peroxide solution 
+ 
+(c) 
+Reversible reactions and equilibria 
+Students should: 
+3.17 
+know that some reactions are reversible and this is indicated by the symbol ⇌ in 
+equations 
+3.18 
+describe reversible reactions such as the dehydration of hydrated copper(II) sulfate 
+and the effect of heat on ammonium chloride 
+3.19C know that a reversible reaction can reach dynamic equilibrium in a sealed 
+container 
+3.20C know that the characteristics of a reaction at dynamic equilibrium are: 
+• 
+the forward and reverse reactions occur at the same rate 
+• 
+the concentrations of reactants and products remain constant. 
+3.21C understand why a catalyst does not affect the position of equilibrium in a 
+reversible reaction 
+3.22C know the effect of changing either temperature or pressure on the position 
+of equilibrium in a reversible reaction: 
+• 
+an increase (or decrease) in temperature shifts the position of 
+equilibrium in the direction of the endothermic (or exothermic) reaction 
+• 
+an increase (or decrease) in pressure shifts the position of equilibrium in 
+the direction that produces fewer (or more) moles of gas 
+ 
+References to Le Chatelier's principle are not required 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+23
+4 
+Organic chemistry 
+The following sub-topics are covered in this section. 
+(a) 
+Introduction 
+(b) 
+Crude oil 
+(c) 
+Alkanes 
+(d) 
+Alkenes 
+(e) 
+Alcohols 
+(f) 
+Carboxylic acids 
+(g) 
+Esters 
+(h) 
+Synthetic polymers 
+ 
+(a) 
+Introduction 
+Students should: 
+4.1 
+know that a hydrocarbon is a compound of hydrogen and carbon only 
+4.2 
+understand how to represent organic molecules using empirical formulae, molecular 
+formulae, general formulae, structural formulae and displayed formulae 
+4.3 
+know what is meant by the terms homologous series, functional group and isomerism 
+4.4 
+understand how to name compounds relevant to this specification using the rules of 
+International Union of Pure and Applied Chemistry (IUPAC) nomenclature 
+ 
+students will be expected to name compounds containing up to six carbon atoms 
+4.5 
+understand how to write the possible structural and displayed formulae of an organic 
+molecule given its molecular formula 
+4.6 
+understand how to classify reactions of organic compounds as substitution, addition 
+and combustion 
+ 
+knowledge of reaction mechanisms is not required 
+ 
+(b) 
+Crude oil 
+Students should: 
+4.7 
+know that crude oil is a mixture of hydrocarbons 
+4.8 
+describe how the industrial process of fractional distillation separates crude oil into 
+fractions 
+4.9 
+know the names and uses of the main fractions obtained from crude oil: 
+refinery gases, gasoline, kerosene, diesel, fuel oil and bitumen 
+4.10 
+know the trend in colour, boiling point and viscosity of the main fractions 
+4.11 
+know that a fuel is a substance that, when burned, releases heat energy 
+4.12 
+know the possible products of complete and incomplete combustion of hydrocarbons 
+with oxygen in the air 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+24
+ 
+Students should: 
+4.13 
+understand why carbon monoxide is poisonous, in terms of its effect on the capacity 
+of blood to transport oxygen 
+ 
+references to haemoglobin are not required 
+4.14 
+know that, in car engines, the temperature reached is high enough to allow nitrogen 
+and oxygen from air to react, forming oxides of nitrogen 
+4.15 
+explain how the combustion of some impurities in hydrocarbon fuels results in the 
+formation of sulfur dioxide 
+4.16 
+understand how sulfur dioxide and oxides of nitrogen contribute to acid rain 
+4.17 
+describe how long-chain alkanes are converted to alkenes and shorter-chain alkanes 
+by catalytic cracking (using silica or alumina as the catalyst and a temperature in the 
+range of 600–700 ºC) 
+4.18 
+explain why cracking is necessary, in terms of the balance between supply and 
+demand for different fractions 
+ 
+(c) 
+Alkanes 
+Students should: 
+4.19 
+know the general formula for alkanes 
+4.20 
+explain why alkanes are classified as saturated hydrocarbons 
+4.21 
+understand how to draw the structural and displayed formulae for alkanes with up to 
+five carbon atoms in the molecule, and to name the unbranched-chain isomers 
+4.22 
+describe the reactions of alkanes with halogens in the presence of ultraviolet 
+radiation, limited to mono-substitution 
+ 
+knowledge of reaction mechanisms is not required 
+ 
+(d) 
+Alkenes 
+Students should: 
+4.23 
+know that alkenes contain the functional group >C=C< 
+4.24 
+know the general formula for alkenes 
+4.25 
+explain why alkenes are classified as unsaturated hydrocarbons 
+4.26 
+understand how to draw the structural and displayed formulae for alkenes with up to 
+four carbon atoms in the molecule, and name the unbranched-chain isomers 
+ 
+knowledge of cis/trans or E/Z notation is not required 
+4.27 
+describe the reactions of alkenes with bromine to produce dibromoalkanes 
+4.28 
+describe how bromine water can be used to distinguish between an alkane and an 
+alkene 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+25
+ 
+(e) 
+Alcohols 
+Students should: 
+4.29C know that alcohols contain the functional group −OH 
+4.30C understand how to draw structural and displayed formulae for methanol, 
+ethanol, propanol (propan-1-ol only) and butanol (butan-1-ol only), and 
+name each compound 
+ 
+the names propanol and butanol are acceptable 
+4.31C know that ethanol can be oxidised by: 
+• 
+burning in air or oxygen (complete combustion)  
+• 
+reaction with oxygen in the air to form ethanoic acid  
+(microbial oxidation) 
+• 
+heating with potassium dichromate(VI) in dilute sulfuric acid to form 
+ethanoic acid 
+4.32C know that ethanol can be manufactured by: 
+• 
+ reacting ethene with steam in the presence of a phosphoric acid catalyst 
+at a temperature of about 300 ºC and a pressure of about 60–70 atm 
+• 
+ the fermentation of glucose, in the absence of air, at an optimum 
+temperature of about 30 ºC and using the enzymes in yeast 
+4.33C understand the reasons for fermentation, in the absence of air, and at an 
+optimum temperature 
+ 
+(f) 
+Carboxylic acids 
+Students should: 
+4.34C know that carboxylic acids contain the functional group  
+ 
+ 
+4.35C understand how to draw structural and displayed formulae for  
+unbranched-chain carboxylic acids with up to four carbon atoms in the 
+molecule, and name each compound 
+4.36C describe the reactions of aqueous solutions of carboxylic acids with metals 
+and metal carbonates 
+4.37C know that vinegar is an aqueous solution containing ethanoic acid 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+26
+ 
+(g) 
+Esters 
+Students should: 
+4.38C know that esters contain the functional group 
+ 
+ 
+4.39C know that ethyl ethanoate is the ester produced when ethanol and ethanoic 
+acid react in the presence of an acid catalyst 
+4.40C understand how to write the structural and displayed formulae of  
+ethyl ethanoate 
+4.41C understand how to write the structural and displayed formulae of an ester, 
+given the name or formula of the alcohol and carboxylic acid from which it is 
+formed and vice versa 
+4.42C know that esters are volatile compounds with distinctive smells and are used 
+as food flavourings and in perfumes 
+4.43C practical: prepare a sample of an ester such as ethyl ethanoate 
+ 
+(h) 
+Synthetic polymers 
+Students should: 
+4.44 
+know that an addition polymer is formed by joining up many small molecules called 
+monomers 
+4.45 
+understand how to draw the repeat unit of an addition polymer, including 
+poly(ethene), poly(propene), poly(chloroethene) and (poly)tetrafluoroethene 
+4.46 
+understand how to deduce the structure of a monomer from the repeat unit of an 
+addition polymer and vice versa 
+4.47 
+explain problems in the disposal of addition polymers, including: 
+• 
+their inertness and inability to biodegrade 
+• 
+the production of toxic gases when they are burned. 
+4.48C know that condensation polymerisation, in which a dicarboxylic acid reacts 
+with a diol, produces a polyester and water 
+4.49C understand how to write the structural and displayed formula of a polyester, 
+showing the repeat unit, given the formulae of the monomers from which it 
+is formed including the reaction of ethanedioic acid and ethanediol: 
+ 
+4.50C know that some polyesters, known as biopolyesters, are biodegradable 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+27
+3 Assessment information 
+Assessment requirements 
+Paper number  
+Level Assessment information 
+Number of marks 
+allocated in the 
+paper 
+Paper 1C 
+1/2 
+Assessed through a 2-hour written 
+examination set and marked by 
+Pearson. 
+The paper is weighted at 61.1% of 
+the qualification. 
+A mixture of different question 
+styles, including multiple-choice 
+questions, short-answer questions, 
+calculations and extended  
+open-response questions. 
+Assesses the content that is not in 
+bold and does not have a ‘C’ 
+reference. Questions may come 
+from any topic area across the 
+specification. 
+110  
+Paper 2C 
+1/2 
+Assessed through a 1-hour and  
+15-minute written examination set 
+and marked by Pearson. 
+The paper is weighted at 38.9% of 
+the qualification. 
+A mixture of different question 
+styles, including multiple-choice 
+questions, short-answer questions, 
+calculations and extended  
+open-response questions. 
+Assesses all the content, including 
+content that is in bold and has a ‘C’ 
+reference. Questions may come 
+from any topic area across the 
+specification. 
+Bold statements cover some  
+sub-topics in greater depth. 
+70 
+ 
+The total number of marks for this qualification is 180. This total is obtained by adding the 
+mark for Paper 1C (out of 110 marks) to the mark for Paper 2C (out of 70 marks). The 
+marks for the papers are not scaled.  
+Based on the overall mark, students will be awarded a grade. The grades available range 
+from 9 to 1, where 9 is the highest grade. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+28
+Sample assessment materials 
+Sample papers and mark schemes can be found in the Pearson Edexcel International GCSE 
+in Chemistry Sample Assessment Materials (SAMs) document. 
+Experimental skills 
+The best way to develop experimental skills is to embed practical investigations in teaching 
+or theory. The development of knowledge and experimental skills can then happen together, 
+leading to secure acquisition of both knowledge and skills. 
+Our practical investigations are embedded within 2: Chemistry content as specification 
+points in italics. The skills developed through these and other practicals will be assessed 
+through written examinations. 
+In the assessment of experimental skills, students may be tested on their ability to: 
+• solve problems set in a practical context 
+• apply scientific knowledge and understanding in questions with a practical context 
+• devise and plan investigations, using scientific knowledge and understanding when 
+selecting appropriate techniques 
+• demonstrate or describe appropriate experimental and investigative methods, including 
+safe and skilful practical techniques 
+• make observations and measurements with appropriate precision, record these 
+methodically and present them in appropriate ways 
+• identify independent, dependent and control variables 
+• use scientific knowledge and understanding to analyse and interpret data to draw 
+conclusions from experimental activities that are consistent with the evidence 
+• communicate the findings from experimental activities, using appropriate technical 
+language, relevant calculations and graphs 
+• assess the reliability of an experimental activity 
+• evaluate data and methods taking into account factors that affect accuracy and validity. 
+Calculators 
+Students will be expected to have access to a suitable electronic calculator for all 
+examination papers. Calculators that allow for the retrieval of text or formulae or  
+QWERTY keyboards will not be allowed for use in examinations.  
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+29
+Assessment objectives and weightings 
+ 
+ 
+International 
+GCSE 
+AO1 
+Knowledge and understanding of chemistry 
+38–42% 
+AO2 
+Application of knowledge and understanding, analysis and 
+evaluation of chemistry 
+38 42% 
+AO3 
+Experimental skills, analysis and evaluation of data and 
+methods in chemistry 
+19–21% 
+ 
+ 
+100% 
+Relationship of assessment objectives to units 
+ 
+Unit number 
+Assessment objective 
+AO1 
+AO2 
+AO3 
+ 
+Chemistry Paper 1 
+23.2–25.7% 
+23.2–25.7% 
+11.6–12.8% 
+Chemistry Paper 2 
+14.8–16.3% 
+14.8–16.3% 
+7.4–8.2% 
+Total for 
+International GCSE 
+38–42% 
+38–42% 
+19–21% 
+ 
+All components will be available for assessment from June 2019. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+30
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+31
+4 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our International information manual. A copy is made available to all examinations officers 
+and is also available on our website. 
+Students should be advised that if they take two qualifications in the same subject, colleges, 
+universities and employers are very likely to take the view that they have achieved only one 
+of the two GCSEs/International GCSEs. Students or their advisers, who have any doubts 
+about subject combinations should check with the institution to which they wish to progress 
+before embarking on their programmes. 
+Forbidden combinations  
+This qualification may not be taken alongside: 
+• Pearson Edexcel International GCSE in Science (Double Award) (Linear) (4SD0) 
+• Pearson Edexcel International GCSE in Chemistry (Modular) (4XCH1) 
+• Pearson Edexcel International GCSE in Science (Double Award) (Modular) (4XSD1) 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 
+Equality and fairness are central to our work. Our Equality Policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+• students with a protected characteristic (as defined by the UK Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+• all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will only be available in English. All student work must be in 
+English.  
+We recommend that students are able to read and write in English at Level B2 of the 
+Common European Framework of Reference for Languages. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+32
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to:  
+• access the assessment 
+• show what they know and can do without changing the demands of the assessment.  
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under 
+the UK Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The UK Equality Act 2010 requires an awarding organisation to make reasonable 
+adjustments where a student with a disability would be at a substantial disadvantage in 
+undertaking an assessment. The awarding organisation is required to take reasonable steps 
+to overcome that disadvantage. 
+A reasonable adjustment for a particular student may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+• the needs of the student with the disability 
+• the effectiveness of the adjustment 
+• the cost of the adjustment 
+• the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation or unreasonable timeframes or if it affects the security or integrity of the 
+assessment. This is because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the  
+examination/assessment, which has had, or is reasonably likely to have had, a material 
+effect on a candidate’s ability to take an assessment or demonstrate their level of attainment 
+in an assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration, please refer to the JCQ website: www.jcq.org.uk 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+33
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment, or undermines the integrity of the qualifications or 
+the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 190 High 
+Holborn, London, WC1V 7BH. Please provide as much information and supporting 
+documentation as possible. Note that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice constitutes staff or centre malpractice. 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment, or undermines the 
+integrity of the qualifications or the validity of results/certificates. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on  
+a JCQ Form M2 (available at www.jcq.org.uk/exams-office/malpractice).  
+The form, supporting documentation and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,  
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding  
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the latest version of the document 
+General and Vocational Qualifications Suspected Malpractice in Examinations and 
+Assessments, available at www.jcq.org.uk/exams-office/malpractice 
+Awarding and reporting 
+This International GCSE qualification will be graded and certificated on a nine-grade scale 
+from 9 to 1 using the total subject mark where 9 is the highest grade. Individual papers are 
+not graded. The first certification opportunity for the Pearson Edexcel International GCSE in 
+Chemistry will be in June 2019. Students whose level of achievement is below the minimum 
+judged by Pearson to be of sufficient standard to be recorded on a certificate will receive an 
+unclassified U result. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+34
+Student recruitment and progression  
+Pearson’s policy concerning recruitment to our qualifications is that:  
+• they must be available to anyone who is capable of reaching the required standard  
+• they must be free from barriers that restrict access and progression 
+• equal opportunities exist for all students. 
+Prior learning and other requirements  
+The qualification builds on the content, knowledge and skills developed in the Key Stage 3 
+Programme of Study (ages 11–14) or international equivalences for science.  
+Progression 
+Students can progress from this qualification to:  
+• International Advanced Subsidiary, for example in Chemistry 
+• International Advanced Level, for example in Chemistry 
+• GCE Advanced Subsidiary, for example in Chemistry 
+• GCE Advanced Level, for example in Chemistry 
+• Level 3 vocational qualifications in science, for example BTEC Level 3 in Applied Science 
+• other comparable, Level 3 qualifications, such as the International Baccalaureate 
+• employment, for example in a science-based industry where an apprenticeship may be 
+available. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+35
+Appendices 
+Appendix 1: Codes 
+37 
+Appendix 2: Pearson World Class Qualification design principles 39 
+Appendix 3: Transferable skills 
+41 
+Appendix 4: Mathematical skills 
+43 
+Appendix 5: Command word taxonomy 
+45 
+Appendix 6: Suggested practical investigations 
+47 
+Appendix 7: The Periodic Table 
+49 
+Appendix 8: Glossary 
+51 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+36
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+37
+Appendix 1: Codes 
+ 
+Type of code 
+Use of code 
+Code 
+Subject codes 
+The subject code is used by centres to 
+enter students for a qualification. 
+Pearson Edexcel 
+International GCSE in 
+Chemistry – 4CH1 
+Pearson Edexcel 
+International GCSE in 
+Science (Double Award) 
+– 4SD0 
+Paper codes 
+These codes are provided for 
+information. Students may need to be 
+entered for individual papers. 
+Chemistry Paper 1: 
+4CH1/1C, 4SD0/1C 
+Chemistry Paper 2: 
+4CH1/2C 
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+38
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+39
+Appendix 2: Pearson World Class Qualification 
+design principles 
+Pearson’s World Class Qualification design principles mean that all Edexcel qualifications are 
+developed to be rigorous, demanding, inclusive and empowering. 
+ 
+ 
+ 
+We work collaboratively to gain approval from an external panel of educational thought 
+leaders and assessment experts from across the globe. This is to ensure that Edexcel 
+qualifications are globally relevant, represent world-class best practice in qualification and 
+assessment design, maintain a consistent standard and support learner progression in 
+today’s fast-changing world. 
+Pearson’s Expert Panel for World-class Qualifications is chaired by Sir Michael Barber, a 
+leading authority on education systems and reform. He is joined by a wide range of key 
+influencers with expertise in education and employability. 
+‘I’m excited to be in a position to work with the global leaders in curriculum and assessment 
+to take a fresh look at what young people need to know and be able to do in the 21st 
+century, and to consider how we can give them the opportunity to access that sort of 
+education.’ Sir Michael Barber. 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+40
+Endorsement from Pearson’s Expert Panel for World Class 
+Qualifications for the International GCSE development process 
+December 2015 
+“We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe.  
+We have guided Pearson through what we judge to be a rigorous world class qualification 
+development process that has included, where appropriate: 
+• extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world 
+• benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand 
+• establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications. 
+Importantly, we have worked to ensure that the content and learning is future oriented, and 
+that the design has been guided by Pearson’s Efficacy Framework. This is a structured, 
+evidenced process which means that learner outcomes have been at the heart of this 
+development throughout. 
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education but as a result of our work as a panel we are confident that we have 
+supported the development of Edexcel International GCSE qualifications that are outstanding 
+for their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.” 
+ 
+Sir Michael Barber (Chair) 
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Dean and Managing Director, National 
+Institute of Education International, 
+Singapore  
+Dr Peter Hill 
+Former Chief Executive ACARA 
+Bahram Bekhradnia 
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne 
+Stanford University 
+Dame Sally Coates 
+Director of Academies (South), United 
+Learning Trust 
+Professor Dr Ursula Renold 
+Federal Institute of Technology, Switzerland 
+Professor Bob Schwartz  
+Harvard Graduate School of Education 
+Professor Janice Kay  
+Provost, University of Exeter 
+Jane Beine 
+Head of Partner Development, John Lewis 
+Partnership 
+Jason Holt 
+CEO, Holts Group 
+ 
+ 
+All titles correct as at December 2015 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+41
+Appendix 3: Transferable skills  
+The need for transferable skills 
+In recent years, higher-education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned 
+and that enable individuals to successfully and consistently perform an activity or task and 
+can be built upon and extended through learning.’[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework [2] as the most evidence-based 
+and robust skills framework, and have used this as a basis for our adapted skills framework. 
+The framework includes cognitive, intrapersonal skills and interpersonal skills. 
+ 
+ 
+ 
+The skills have been interpreted for this specification to ensure they are appropriate for the 
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or 
+assessment of the qualification. Some skills are directly assessed. Pearson materials will 
+support you in identifying these skills and developing these skills in students. 
+The table on the next page sets out the framework and gives an indication of the skills that 
+can be found in chemistry and indicates the interpretation of the skill in this area. A full 
+subject interpretation of each skill, with mapping to show opportunities for students’ 
+development is provided on the subject pages of our website: qualifications.pearson.com 
+ 
+ 
+ 
+1 OECD – Better Skills, Better Jobs, Better Lives: A Strategic Approach to Skills Policies (OECD Publishing, 2012)  
+2 Koenig, J. A. (2011) – Assessing 21st Century Skills: Summary of a Workshop (National Academies Press, 2011) 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+42
+ 
+Cognitive skills 
+Cognitive 
+processes and 
+strategies 
+• 
+Critical thinking 
+• 
+Problem solving 
+• 
+Analysis 
+• 
+Reasoning 
+• 
+Interpretation 
+• 
+Decision making 
+• 
+Adaptive learning 
+• 
+Executive function 
+Creativity 
+• 
+Creativity 
+• 
+Innovation 
+Intrapersonal skills 
+Intellectual 
+openness 
+• 
+Adaptability 
+• 
+Personal and social responsibility 
+• 
+Continuous learning 
+• 
+Intellectual interest and curiosity 
+Work ethic/ 
+conscientiousness 
+• 
+Initiative 
+• 
+Self-direction 
+• 
+Responsibility 
+• 
+Perseverance 
+• 
+Productivity 
+• 
+Self-regulation (metacognition, 
+forethought, reflection) 
+• 
+Ethics 
+• 
+Integrity 
+Positive core 
+self-evaluation 
+• 
+Self-monitoring/self-
+evaluation/self-reinforcement 
+Interpersonal skills 
+Teamwork and 
+collaboration 
+• 
+Communication 
+• 
+Collaboration 
+• 
+Teamwork 
+• 
+Cooperation 
+• 
+Interpersonal skills 
+Leadership 
+• 
+Leadership 
+• 
+Responsibility 
+• 
+Assertive communication 
+• 
+Self-presentation 
+ 
+Initiative when using knowledge 
+of chemistry, independently  
+(without guided learning), to 
+further own understanding. 
+Problem solving in the 
+application of unifying patterns 
+and themes in chemistry and 
+using them in new and changing 
+situations. 
+Communication to convey a 
+chemical process or technique 
+(verbally or written) to peers and 
+teachers and answer questions 
+from others. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+43
+Appendix 4: Mathematical skills 
+The table below identifies the mathematical skills that will be developed and assessed 
+throughout this qualification. These are not explicitly referenced in the content. Details of 
+the mathematical skills in other science subjects are given for reference. 
+ 
+ 
+B C P 
+1 
+Arithmetic and numerical computation 
+A 
+Recognise and use numbers in decimal form 
+   
+B 
+Recognise and use numbers in standard form 
+   
+C 
+Use ratios, fractions, percentages, powers and roots 
+   
+D Make estimates of the results of simple calculations, without using a calculator   
+ 
+E 
+Use calculators to handle sin x and sin-1 x, where x is expressed in degrees 
+ 
+ 
+ 
+2 
+Handling data 
+A 
+Use an appropriate number of significant figures 
+   
+B 
+Understand and find the arithmetic mean (average) 
+   
+C 
+Construct and interpret bar charts 
+   
+D Construct and interpret frequency tables, diagrams and histograms 
+  
+ 
+E 
+Understand the principles of sampling as applied to scientific data 
+  
+ 
+F 
+Understand simple probability 
+   
+G Understand the terms mode and median 
+  
+ 
+H Use a scatter diagram to identify a pattern or trend between two variables 
+   
+I 
+Make order of magnitude calculations 
+   
+3 
+Algebra 
+A 
+Understand and use the symbols <, >, ∝, ~ 
+ 
+  
+B 
+Change the subject of an equation 
+   
+C 
+Substitute numerical values into algebraic equations using appropriate units 
+for physical quantities 
+   
+D Solve simple algebraic equations 
+   
+4 
+Graphs 
+A 
+Translate information between graphical and numerical form 
+   
+B 
+Understand that y = mx + c represents a linear relationship 
+ 
+  
+C 
+Plot two variables (discrete and continuous) from experimental or other data 
+   
+D Determine the slope and intercept of a linear graph 
+   
+E 
+Understand, draw and use the slope of a tangent to a curve as a measure of 
+rate of change 
+ 
+  
+F 
+Understand the physical significance of area between a curve and the x-axis, 
+and measure it by counting squares as appropriate 
+ 
+ 
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+44
+ 
+ 
+B C P 
+5 Geometry and trigonometry 
+A Use angular measures in degrees 
+ 
+ 
+ 
+B Visualise and represent 2D and 3D objects, including two dimensional 
+representations of 3D objects 
+ 
+ 
+ 
+C Calculate areas of triangles and rectangles, surface areas and volumes of 
+cubes 
+  
+ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+45
+Appendix 5: Command word taxonomy 
+The following table lists the command words used in the external assessments. 
+ 
+Command word  
+Definition 
+Add/Label 
+Requires the addition or labelling of a stimulus material given 
+in the question, for example labelling a diagram or adding 
+units to a table. 
+Calculate 
+Obtain a numerical answer, showing relevant working.  
+Comment on 
+Requires the synthesis of a number of variables from 
+data/information to form a judgement.  
+Complete 
+Requires the completion of a table/diagram. 
+Deduce 
+Draw/reach conclusion(s) from the information provided. 
+Describe 
+To give an account of something. Statements in the response 
+need to be developed, as they are often linked but do not 
+need to include a justification or reason. 
+Determine 
+The answer must have an element that is quantitative from 
+the stimulus provided, or must show how the answer can be 
+reached quantitatively. To gain maximum marks, there must 
+be a quantitative element to the answer. 
+Design 
+Plan or invent a procedure from existing principles/ideas. 
+Discuss 
+• Identify the issue/situation/problem/argument that is 
+being assessed within the question. 
+• Explore all aspects of an 
+issue/situation/problem/argument. 
+• Investigate the issue/situation etc. by reasoning or 
+argument. 
+Draw 
+Produce a diagram either using a ruler or freehand. 
+Estimate 
+Find an approximate value, number or quantity from a 
+diagram/given data or through a calculation. 
+Evaluate 
+Review information (e.g. data, methods) then bring it 
+together to form a conclusion, drawing on evidence including 
+strengths, weaknesses, alternative actions, relevant data or 
+information. Come to a supported judgement of a subject’s 
+quality and relate it to its context. 
+Explain 
+An explanation requires a justification/exemplification of a 
+point. The answer must contain some element of 
+reasoning/justification – this can include mathematical 
+explanations. 
+Give/State/Name 
+All of these command words are really synonyms. They 
+generally all require recall of one or more pieces of 
+information. 
+Give a reason/reasons 
+When a statement has been made and the requirement is 
+only to give the reason(s) why. 
+Identify 
+Usually requires some key information to be selected from a 
+given stimulus/resource. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+46
+ 
+Command word  
+Definition 
+Justify 
+Give evidence to support (either the statement given in the 
+question or an earlier answer). 
+Plot 
+Produce a graph by marking points accurately on a grid from 
+data that is provided and then draw a line of best fit through 
+these points. A suitable scale and appropriately labelled axes 
+must be included if these are not provided in the question. 
+Predict 
+Give an expected result. 
+Show that 
+Verify the statement given in the question. 
+Sketch 
+Produce a freehand drawing. For a graph, this would need a 
+line and labelled axes with important features indicated.  
+The axes are not scaled. 
+State what is meant by 
+When the meaning of a term is expected but there are 
+different ways for how these can be described. 
+Suggest 
+Use your knowledge to propose a solution to a problem in a 
+novel context. 
+Verb preceding a command word 
+Analyse the data/graph 
+to explain 
+Examine the data/graph in detail to provide an explanation.  
+Multiple choice questions 
+What, Why, Which 
+Direct command words used for multiple-choice questions. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+47
+Appendix 6: Suggested practical investigations 
+The following suggestions are additional practical investigations that exemplify the scientific 
+process. They can be used to supplement students’ understanding of chemistry in addition to 
+the practical investigations found within the main body of the content.  
+• Investigate the ease of thermal decomposition of carbonates, including calcium carbonate, 
+zinc carbonate and copper carbonate. 
+• Compare the temperature rise produced when the same volume of water is heated by 
+different fuels. 
+• Investigate the volume of air used up and products formed when candles are burned. 
+• Investigate the reactions of calcium compounds: the decomposition of calcium carbonate 
+and the reaction of calcium oxide with water; the reaction of calcium carbonate with acid. 
+• Carry out simple neutralisation reactions of acids, using metal oxides, hydroxides and/or 
+carbonates. 
+• Carry out electrolysis of sea water/acidified water. 
+• Investigate the rusting of iron. 
+• Investigate simple oxidation and reduction reactions, such as burning elements in oxygen 
+or competition reactions between metals and metal oxides. 
+• Investigate the fractional distillation of synthetic crude oil and the ease of ignition and 
+viscosity of the fractions. 
+• Investigate the products produced from the complete combustion of a hydrocarbon. 
+• Investigate the cracking of paraffin oil. 
+• Investigate the properties of a group of elements, e.g. Group 2. 
+• Investigate the properties of typical ionic compounds. 
+• Test predictions of whether a precipitate forms when soluble salts are mixed. 
+• Carry out a series of ion tests to identify unknown compounds.  
+• Build models of simple covalent molecules. 
+• Investigate the typical properties of simple and giant covalent compounds. 
+• Investigate the rate of reactions, such as magnesium and hydrochloric acid; or sodium 
+thiosulfate and hydrochloric acid. 
+• Determine the formula of a hydrated salt such as barium chloride or copper sulfate by 
+heating to drive off water of crystallisation. 
+• Prepare a substance and calculate the % yield, given the theoretical yield. 
+• Evaporate a solution to dryness to determine the mass of solute in a given mass of 
+solution. 
+• Investigate the mass changes at the electrodes during the electrolysis of copper sulfate 
+solution using copper electrodes. 
+• Investigate the migration of ions in, e.g. potassium manganate (VII) solution. 
+• Electroplate a metal object. 
+• Determine the volume of one mole of hydrogen gas by using the reaction of magnesium 
+with hydrochloric acid. 
+• Determine the molar volume by measuring the volume and mass of a gas  
+(e.g. carbon dioxide). 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+48
+• Investigate simple reversible reactions, such as the decomposition of ammonium chloride. 
+Safety is an overriding requirement for all practical work. Centres are responsible for 
+ensuring that whenever their students complete practical work appropriate safety procedures 
+are followed. 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+49
+Appendix 7: The Periodic Table 
++ 
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+50
+ 
+Pearson Edexcel International GCSE in Chemistry 
+Specification – Issue 3 – September 2024 © Pearson Education Limited 2024 
+51
+Appendix 8: Glossary 
+ 
+Term 
+Definition 
+Assessment 
+objectives 
+The requirements that students need to meet to succeed in the 
+qualification. Each assessment objective has a unique focus, which 
+is then targeted in examinations or coursework. Assessment 
+objectives may be assessed individually or in combination.  
+External 
+assessment 
+An examination that is held at the same time and place in a global 
+region.  
+JCQ 
+Joint Council for Qualifications. This is a group of UK exam boards 
+that develop policy related to the administration of examinations.  
+Linear 
+Linear qualifications have all assessments at the end of a course of 
+study. It is not possible to take one assessment earlier in the 
+course of study. 
+ 
+DB040924 9781446931172_INT_GCSE_CHEMISTRY_ISS3.DOC.1–58/0 
+For information about Pearson Qualifications, including Pearson Edexcel,
+BTEC and LCCI qualifications visit qualifications.pearson.com
+Edexcel and BTEC are registered trademarks of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828
+Registered Office: 80 Strand, London WC2R 0RL
+VAT Reg No GB 278 537121
+Getty Images: Alex Belmonlinsky

@@ -1,0 +1,1768 @@
+{
+  "Edexcel": {
+    "Biology": {
+      "1. The nature and variety of living organisms": {
+        "1.1 Characteristics of living organisms": [
+          "a) Understand the characteristics of living organisms: movement, respiration, sensitivity, homeostasis, growth, reproduction, excretion and nutrition"
+        ],
+        "1.2 Variety of living organisms": [
+          "a) Describe the common features shown by eukaryotic organisms: plants, animals, fungi, protoctists",
+          "b) Describe the common features shown by prokaryotic organisms: bacteria",
+          "c) Understand the term pathogen and know that pathogens may include fungi, bacteria, protoctists or viruses"
+        ]
+      },
+      "2. Structures and functions in living organisms": {
+        "2.1 Cell structure": [
+          "a) Know the structures of animal and plant cells as seen under a light microscope: nucleus, cytoplasm, cell membrane, cell wall, mitochondria, ribosomes, chloroplasts and vacuole",
+          "b) Understand the functions of these cell structures",
+          "c) Know the similarities and differences in the structure of plant and animal cells"
+        ],
+        "2.2 Biological molecules": [
+          "a) Understand that living organisms require biological molecules for life processes",
+          "b) Know the elements present in carbohydrates, proteins and lipids (C, H, O and N in proteins)",
+          "c) Describe the structure of carbohydrates, proteins and lipids as large molecules made up from smaller basic units: sugars, amino acids, fatty acids and glycerol",
+          "d) Describe the tests for glucose (Benedict\u2019s), starch (iodine), protein (biuret), and lipids (ethanol)",
+          "e) Understand the role of enzymes as biological catalysts",
+          "f) Understand how temperature and pH affect enzyme activity"
+        ],
+        "2.3 Movement of substances": [
+          "a) Understand the processes of diffusion, osmosis and active transport",
+          "b) Understand the importance of these processes in the life of the cell",
+          "c) Understand the factors that affect the rate of movement of substances"
+        ],
+        "2.4 Nutrition": [
+          "a) Understand photosynthesis and describe the process using the word and balanced equations",
+          "b) Understand how the structure of the leaf is adapted for photosynthesis",
+          "c) Understand the importance of nitrate ions and magnesium ions in plants",
+          "d) Describe the structure of the human alimentary canal",
+          "e) Understand the functions of the organs involved in digestion",
+          "f) Understand the role of enzymes in digestion",
+          "g) Understand the role of bile in digestion",
+          "h) Understand how the small intestine is adapted for absorption"
+        ],
+        "2.5 Respiration": [
+          "a) Understand the process of aerobic respiration and its equation",
+          "b) Understand the process of anaerobic respiration and its equation",
+          "c) Understand why respiration is necessary in living organisms"
+        ],
+        "2.6 Gas exchange": [
+          "a) Understand the structure of the thorax and the mechanism of ventilation",
+          "b) Describe gas exchange in humans and how the alveoli are adapted for this",
+          "c) Understand the biological consequences of smoking"
+        ],
+        "2.7 Transport": [
+          "a) Describe the structure and function of the circulatory system",
+          "b) Understand the role of plasma, red and white blood cells and platelets",
+          "c) Understand how the heart rate changes during exercise and under the influence of adrenaline",
+          "d) Understand how factors may increase the risk of coronary heart disease",
+          "e) Describe the structure of arteries, veins and capillaries",
+          "f) Understand the structure and function of xylem and phloem",
+          "g) Understand water uptake and transpiration in plants"
+        ],
+        "2.8 Excretion": [
+          "a) Understand the origin of carbon dioxide and urea",
+          "b) Describe the structure of the kidney and nephron",
+          "c) Describe the role of the kidney in filtration and reabsorption"
+        ],
+        "2.9 Coordination and response": [
+          "a) Understand how organisms are able to respond to changes in their environment",
+          "b) Understand the role of receptors and effectors",
+          "c) Understand the structure and function of the eye",
+          "d) Understand the role of the central nervous system and the reflex arc",
+          "e) Understand the function of hormones",
+          "f) Understand the control of blood glucose by insulin",
+          "g) Understand the role of adrenaline",
+          "h) Understand the role of auxin in phototropism and gravitropism"
+        ]
+      },
+      "3. Reproduction and inheritance": {
+        "3.1 Reproduction": [
+          "a) Understand the differences between sexual and asexual reproduction",
+          "b) Understand the advantages and disadvantages of each",
+          "c) Understand the process of mitosis and its importance",
+          "d) Understand the process of meiosis and how it leads to genetic variation",
+          "e) Understand the structure and function of the male and female reproductive systems",
+          "f) Understand the roles of oestrogen and progesterone in the menstrual cycle",
+          "g) Understand the role of the placenta"
+        ],
+        "3.2 Inheritance": [
+          "a) Understand that the nucleus of a cell contains chromosomes made of DNA",
+          "b) Understand the structure of DNA and the concept of a gene",
+          "c) Understand how genes control the development of characteristics",
+          "d) Understand monohybrid inheritance and use genetic diagrams",
+          "e) Understand the meanings of dominant, recessive, homozygous and heterozygous",
+          "f) Understand sex determination in humans",
+          "g) Understand how variation is caused by genetic and environmental factors",
+          "h) Understand the process of mutation",
+          "i) Understand how resistance to antibiotics can increase in bacterial populations"
+        ]
+      },
+      "4. Ecology and the environment": {
+        "4.1 The organism in the environment": [
+          "a) Understand the terms population, community, habitat and ecosystem",
+          "b) Understand how abiotic and biotic factors affect the population size and distribution of organisms",
+          "c) Understand the use of quadrats to estimate population size and distribution"
+        ],
+        "4.2 Feeding relationships": [
+          "a) Understand the terms producer, consumer, herbivore, carnivore, decomposer, food chain and food web",
+          "b) Understand how energy is transferred along a food chain and between trophic levels",
+          "c) Understand why only a small percentage of energy is transferred at each level"
+        ],
+        "4.3 Cycles within ecosystems": [
+          "a) Describe the carbon cycle",
+          "b) Describe the water cycle"
+        ],
+        "4.4 Human influences on the environment": [
+          "a) Understand the effects of deforestation",
+          "b) Understand the causes and consequences of pollution (air, water, land)",
+          "c) Understand the impact of greenhouse gases and global warming",
+          "d) Understand how humans can reduce their environmental impact"
+        ]
+      },
+      "5. Use of biological resources": {
+        "5.1 Food production": [
+          "a) Understand how glasshouses and polythene tunnels can be used to increase crop yield",
+          "b) Understand how fertilisers and pest control methods increase yield",
+          "c) Understand the role of selective breeding"
+        ],
+        "5.2 Role of microorganisms": [
+          "a) Describe the role of yeast in the production of beer",
+          "b) Describe the role of bacteria in yoghurt production",
+          "c) Understand the use of fermenters"
+        ],
+        "5.3 Genetic modification (genetic engineering)": [
+          "a) Understand how genetic modification is carried out",
+          "b) Understand how GM is used in agriculture and medicine",
+          "c) Understand the potential advantages and disadvantages of GM organisms"
+        ],
+        "5.4 Cloning": [
+          "a) Understand the process of micropropagation (tissue culture)",
+          "b) Understand how animals can be cloned using embryo transplants and adult cell cloning"
+        ]
+      }
+    },
+    "Business": {
+      "1 \u2013 Business activity and influences on business": {
+        "1.1 Business objectives": [
+          "1.1.1 Businesses can have several objectives: financial aims and objectives (survival, profit, sales, market share, financial security), non-financial aims and objectives (social objectives, personal satisfaction, challenge, independence and control).",
+          "1.1.2 Why business aims and objectives change as businesses evolve: in response to market conditions, technology, performance, legislation, internal reasons."
+        ],
+        "1.2 Types of organisations": [
+          "1.2.1 The main types of business ownership: sole trader, partnerships, limited companies (private and public), public corporations.",
+          "1.2.2 Characteristics relating to size: concepts of risk, ownership and limited liability, public corporations \u2013 reasons for and against public ownership, ownership, control, sources of finance, use of profits, stakeholders and shareholders, appropriateness of different forms of ownership.",
+          "1.2.3 Different forms of business organisation: franchises, social enterprises, multinationals."
+        ],
+        "1.3 Classification of businesses": [
+          "1.3.1 Primary, secondary and tertiary activities: primary sector, secondary sector, tertiary sector."
+        ],
+        "1.4 Decisions on location": [
+          "1.4.1 Factors influencing location decisions: proximity to market, labour, materials and competitors, nature of business activity, impact of the internet, legal controls and trade blocs."
+        ],
+        "1.5 Business and the international economy": [
+          "1.5.1 Globalisation: concept, opportunities and threats.",
+          "1.5.2 Importance and growth of multinationals: benefits and drawbacks to business and host countries.",
+          "1.5.3 Exchange rate calculation.",
+          "1.5.4 Impact of exchange rate changes: competitiveness, importers and exporters."
+        ],
+        "1.6 Government objectives and policies": [
+          "1.6.1 Government spending: public services, taxation and public spending constraints.",
+          "1.6.2 Government influence on business activity: infrastructure, legislation, trade policy.",
+          "1.6.3 Effect of interest rates on businesses and consumers."
+        ],
+        "1.7 External factors": [
+          "1.7.1 External factors affecting business decisions: social, technological, environmental, political."
+        ],
+        "1.8 What makes a business successful?": [
+          "1.8.1 Measuring business success: revenue, market share, customer satisfaction, profit, growth, shareholder and employee satisfaction.",
+          "1.8.2 Reasons for business failure: cash flow/finance issues, competitiveness, market adaptability."
+        ]
+      },
+      "2 \u2013 People in Business": {
+        "2.1 Internal and external communication": [
+          "2.1.1 Importance and problems of communication: methods including IT, their benefits and limitations.",
+          "2.1.2 Barriers to communication: how they arise, their impacts and removal."
+        ],
+        "2.2 Recruitment and selection process": [
+          "2.2.1 Types of employment: full-time, part-time, job share, temporary.",
+          "2.2.2 Recruitment documents: job description, person specification, application form, CV.",
+          "2.2.3 Internal and external recruitment: advertising, shortlisting, interviews.",
+          "2.2.4 Legal controls over employment: equal opportunities, minimum wage laws."
+        ],
+        "2.3 Training": [
+          "2.3.1 Importance of training: types (induction, on-the-job, off-the-job), legal compliance, benefits and limitations."
+        ],
+        "2.4 Motivation and rewards": [
+          "2.4.1 Importance of motivation: attracting, retaining staff, productivity; theories (Herzberg, Maslow, Taylor).",
+          "2.4.2 Motivation methods: financial (remuneration, bonus, commission, promotion, fringe benefits), non-financial (job rotation, enrichment, autonomy)."
+        ],
+        "2.5 Organisation structure and employees": [
+          "2.5.1 Organisational structures: hierarchical vs flat, centralised vs decentralised.",
+          "2.5.2 Employee roles and responsibilities: span of control, chain of command, delegation.",
+          "2.5.3 Functional areas of business: HR, finance, marketing, production."
+        ]
+      },
+      "3 \u2013 Business finance": {
+        "3.1 Business finance \u2013 sources": [
+          "3.1.1 Need for finance: short-term, long-term, startup or expansion.",
+          "3.1.2 Internal sources: personal savings, retained profit, asset sales.",
+          "3.1.3 External sources: overdrafts, loans, share capital, venture capital, crowdfunding."
+        ],
+        "3.2 Cash flow forecasting": [
+          "3.2.1 Importance of cash: paying expenses, avoiding failure, cash vs profit.",
+          "3.2.2 Forecast calculations: inflows, outflows, net cash flow, balances."
+        ],
+        "3.3 Costs and break-even analysis": [
+          "3.3.1 Concepts and calculations: revenue, fixed/variable/total costs, profit/loss.",
+          "3.3.2 Break-even concept and calculation.",
+          "3.3.3 Interpreting break-even charts: changes, limitations."
+        ],
+        "3.4 Financial documents": [
+          "3.4.1 Income statement: components, uses, importance of profit.",
+          "3.4.2 Financial position statement: assets, liabilities, capital employed, interpretation."
+        ],
+        "3.5 Accounts analysis": [
+          "3.5.1 Ratios: gross profit, operating profit, markup, ROCE, current, acid test.",
+          "3.5.2 Liquidity: concept, importance, comparisons.",
+          "3.5.3 Financial documents use: assess performance, inform decisions."
+        ]
+      },
+      "4 \u2013 Marketing": {
+        "4.1 Market research": [
+          "4.1.1 Purpose: understand customers, identify gaps, reduce risk, inform decisions.",
+          "4.1.2 Methods: primary (survey, questionnaire, focus group, observation, test marketing), secondary (internet, reports).",
+          "4.1.3 Data use: qualitative/quantitative, social media, reliability."
+        ],
+        "4.2 The market": [
+          "4.2.1 Importance of marketing: satisfy needs, build loyalty, orientation, market share, niche vs mass.",
+          "4.2.2 Market changes: customer needs, spending, competition.",
+          "4.2.3 Market segmentation: location, demographics, lifestyle, income, age."
+        ],
+        "4.3 The marketing mix": [
+          "4.3.1 Product: development, goods/services, packaging, life cycle, Boston matrix.",
+          "4.3.2 Price: strategies \u2013 cost plus, penetration, competition, skimming, promotional.",
+          "4.3.3 Place: distribution channels \u2013 retailers, e-tailers.",
+          "4.3.4 Promotion: strategies (advertising, sponsorship, offers, branding), techniques (above/below the line), public relations, tech in promotion, brand importance."
+        ]
+      },
+      "5 \u2013 Business operations": {
+        "5.1 Economies and diseconomies of scale": [
+          "5.1.1 Economies of scale: internal, external.",
+          "5.1.2 Diseconomies of scale: growth limits."
+        ],
+        "5.2 Production": [
+          "5.2.1 Processes: job, batch, flow; capital vs labour intensive; productivity.",
+          "5.2.2 Lean production: JIT, Kaizen, resource use.",
+          "5.2.3 Technology impact: robotics, balance cost/productivity/quality/flexibility."
+        ],
+        "5.3 Factors of production": [
+          "5.3.1 Changing relationships: enterprise, capital, land, labour; capital vs labour intensive."
+        ],
+        "5.4 Quality": [
+          "5.4.1 Quality concept: production and service, quality control, TQM, competitive advantage."
+        ]
+      }
+    },
+    "Chemistry": {
+      "1. Principles of chemistry": {
+        "1.1 States of matter": [
+          "Understand the arrangement, movement and energy of particles in solid, liquid and gas states.",
+          "Understand the interconversions between solid, liquid and gas and the names of these interconversions.",
+          "Explain the changes in arrangement, movement and energy of particles during these interconversions."
+        ],
+        "1.2 Elements, compounds and mixtures": [
+          "Understand how to classify a substance as an element, compound or mixture.",
+          "Understand that a pure substance has a fixed melting and boiling point.",
+          "Describe these differences in terms of the arrangements and interactions of the particles present."
+        ],
+        "1.3 Atomic structure": [
+          "Understand the structure of an atom in terms of the positions, relative masses and relative charges of sub-atomic particles.",
+          "Understand the terms atomic number, mass number, isotopes and relative atomic mass (Ar).",
+          "Calculate the relative atomic mass of an element from the relative abundances of its isotopes."
+        ],
+        "1.4 The Periodic Table": [
+          "Understand how elements are arranged in the Periodic Table in order of atomic number.",
+          "Understand how to use the Periodic Table to identify metals and non-metals.",
+          "Identify elements as metals or non-metals according to their position in the Periodic Table.",
+          "Understand how the electronic configuration of a main group element is related to its position in the Periodic Table."
+        ],
+        "1.5 Chemical formulae, equations and calculations": [
+          "Write word equations and balanced chemical equations (including state symbols).",
+          "Calculate relative formula masses (Mr) from relative atomic masses (Ar).",
+          "Calculate the percentage mass of an element in a compound.",
+          "Use the relationship: number of moles = mass / Mr.",
+          "Understand how to carry out calculations involving amount of substance, mass and molar mass."
+        ]
+      },
+      "2. Inorganic chemistry": {
+        "2.1 Group 1 (alkali metals)": [
+          "Describe the reactions of lithium, sodium and potassium with water.",
+          "Describe the trend in reactivity in Group 1.",
+          "Explain the trend in reactivity in Group 1 in terms of electronic configurations."
+        ],
+        "2.2 Group 7 (halogens)": [
+          "Describe the properties of the halogens.",
+          "Describe the trends in physical and chemical properties of the halogens.",
+          "Explain the trends in reactivity in Group 7 in terms of electronic configurations.",
+          "Describe experiments to show that some halogens displace others from solutions of their salts."
+        ],
+        "2.3 Gases in the atmosphere": [
+          "Recall the approximate composition of air.",
+          "Describe how to determine the percentage by volume of oxygen in air.",
+          "Describe the combustion of elements in oxygen, including magnesium, hydrogen and sulfur.",
+          "Describe the reactions of carbon dioxide and sulfur dioxide with water and the formation of acidic solutions.",
+          "Understand the formation of carbon dioxide from the thermal decomposition of metal carbonates."
+        ],
+        "2.4 Reactivity series": [
+          "Understand how metals can be arranged in a reactivity series based on their reactions with water or dilute acid.",
+          "Describe how to determine the approximate position of a metal within the reactivity series using displacement reactions.",
+          "Understand the term redox in terms of electron transfer.",
+          "Identify oxidation and reduction in terms of loss or gain of electrons."
+        ],
+        "2.5 Extraction and uses of metals": [
+          "Understand that most metals are extracted from ores found in the Earth's crust.",
+          "Explain how metals are extracted by reduction with carbon or by electrolysis.",
+          "Be able to comment on the economics of extraction.",
+          "Describe the uses of aluminium and copper and explain their uses based on their properties."
+        ],
+        "2.6 Acids, alkalis and titrations": [
+          "Understand acids in terms of hydrogen ion concentration and alkalis in terms of hydroxide ion concentration.",
+          "Describe the use of indicators to distinguish between acidic and alkaline solutions.",
+          "Understand neutralisation as a reaction in which hydrogen ions react with hydroxide ions to form water.",
+          "Describe how to carry out acid-alkali titrations using a suitable indicator.",
+          "Calculate concentrations of solutions and volumes of reactants."
+        ],
+        "2.7 Acids, bases and salts": [
+          "Describe the preparation of salts from acids and insoluble bases.",
+          "Understand how to prepare soluble and insoluble salts.",
+          "Describe an experiment to prepare a pure, dry sample of a salt.",
+          "Understand how to write ionic equations including state symbols."
+        ]
+      },
+      "3. Physical chemistry": {
+        "3.1 Energetics": [
+          "Understand that chemical reactions involve energy transfers.",
+          "Describe an exothermic and endothermic reaction.",
+          "Draw and interpret energy level diagrams showing exothermic and endothermic reactions.",
+          "Calculate the energy change from bond energies."
+        ],
+        "3.2 Rates of reaction": [
+          "Describe experiments to investigate the effects of changes in temperature, concentration and surface area on rate of reaction.",
+          "Describe the effect of changes in temperature, concentration, surface area and catalyst on rate of reaction.",
+          "Explain the effects in terms of particle collision theory."
+        ],
+        "3.3 Reversible reactions and equilibria": [
+          "Understand the idea of reversible reactions.",
+          "Understand the concept of dynamic equilibrium in a closed system.",
+          "Predict the effects of changing conditions on equilibrium position using Le Chatelier\u2019s principle."
+        ]
+      },
+      "4. Organic chemistry": {
+        "4.1 Introduction to organic chemistry": [
+          "Understand how to represent organic molecules using molecular, empirical, structural and displayed formulae.",
+          "Understand the use of the general formula for a homologous series.",
+          "Understand how to name organic compounds."
+        ],
+        "4.2 Alkanes": [
+          "Know that alkanes are saturated hydrocarbons.",
+          "Know the general formula for alkanes.",
+          "Understand the reactions of alkanes with halogens in the presence of ultraviolet radiation."
+        ],
+        "4.3 Alkenes": [
+          "Know that alkenes are unsaturated hydrocarbons.",
+          "Know the general formula for alkenes.",
+          "Describe the addition reactions of alkenes with bromine, hydrogen and steam.",
+          "Describe how bromine water is used to distinguish between alkanes and alkenes."
+        ],
+        "4.4 Alcohols": [
+          "Know the general formula for alcohols.",
+          "Describe the properties of alcohols (ethanol) and their reactions.",
+          "Describe the manufacture of ethanol by fermentation and by reaction with steam."
+        ],
+        "4.5 Carboxylic acids": [
+          "Know the general formula for carboxylic acids.",
+          "Describe the reactions of aqueous solutions of carboxylic acids with metals and carbonates.",
+          "Describe how to make esters from alcohols and carboxylic acids."
+        ],
+        "4.6 Polymers": [
+          "Understand how addition polymers are formed.",
+          "Understand how to deduce the structure of a monomer from a polymer structure and vice versa."
+        ]
+      }
+    },
+    "Economics": {
+      "1.1 The Market System": {
+        "1.1.1 The Economic Problem": [
+          "a) The problem of scarcity \u2013 unlimited wants and finite resources, leading to the need to make choices.",
+          "b) Opportunity cost and its effect on consumers, producers, and government.",
+          "c) Use of diagrams to show production possibility curves (PPC).",
+          "d) PPC diagram to show: maximum productive potential, full/unemployed resources, opportunity cost, economic growth, possible/unobtainable production.",
+          "e) Causes of positive/negative economic growth."
+        ],
+        "1.1.2 Economic Assumptions": [
+          "a) Assumptions: consumers aim to maximise benefit; businesses aim to maximise profit.",
+          "b) Why consumers may not maximise benefit: calculation difficulty, habits, imitation.",
+          "c) Why producers may not maximise profit: revenue/sales maximisation, customer care, charity."
+        ],
+        "1.1.3 Demand, Supply and Market Equilibrium": [
+          "a) Definition of demand.",
+          "b) Demand curve: price changes (movement), shifts (increase/decrease).",
+          "c) Factors shifting demand: advertising, income, fashion, substitutes, complements, demographics.",
+          "d) Definition of supply.",
+          "e) Supply curve: price changes (movement), shifts (increase/decrease).",
+          "f) Factors shifting supply: costs, technology, taxes, subsidies, natural factors.",
+          "g) Equilibrium price and quantity.",
+          "h) Diagrams: shifts in supply/demand, excess demand/supply.",
+          "i) Define, calculate and draw excess demand and supply.",
+          "j) Use of market forces to remove excess demand or supply."
+        ],
+        "1.1.4 Elasticity": [
+          "a) Definition of price elasticity of demand (PED).",
+          "b) Formula for PED.",
+          "c) Calculate PED from % change in QD and P.",
+          "d) Diagrams of price elastic/inelastic demand.",
+          "e) Interpret PED values: perfect inelasticity, inelasticity, unitary, elasticity, perfect elasticity.",
+          "f) Factors affecting PED: substitutes, necessity, income %, time.",
+          "g) Use of total revenue and PED.",
+          "h) Definition of price elasticity of supply (PES).",
+          "i) Formula for PES.",
+          "j) Calculate PES from % change in QS and P.",
+          "k) Diagrams of price elastic/inelastic supply.",
+          "l) Interpret PES values: perfect inelasticity, inelasticity, unitary, elasticity, perfect elasticity.",
+          "m) Factors affecting PES: production factors, stocks, spare capacity, time.",
+          "n) PES for manufactured vs primary products.",
+          "o) Definition and formula of income elasticity of demand (YED).",
+          "p) Calculate YED from % change in QD and income.",
+          "q) Interpret YED: luxury, normal, inferior goods.",
+          "r) Significance of PED and YED for businesses and governments."
+        ],
+        "1.1.5 The Mixed Economy": [
+          "a) Definition of mixed economy.",
+          "b) Definitions of public and private sectors.",
+          "c) Differences in ownership, control, aims.",
+          "d) Solutions to basic economic questions in a mixed economy.",
+          "e) Concept of market failure.",
+          "f) Reasons for government intervention due to market failure.",
+          "g) Public goods: non-excludability, non-rivalry, free rider problem.",
+          "h) Roles of public and private sectors.",
+          "i) Public vs private sector importance in different countries.",
+          "j) Definition of privatisation.",
+          "k) Effects of privatisation on consumers, workers, businesses, government."
+        ],
+        "1.1.6 Externalities": [
+          "a) Definition and examples of external costs.",
+          "b) Definition and examples of external benefits.",
+          "c) Formulae: social costs = private + external costs; social benefits = private + external benefits."
+        ]
+      },
+      "1.2 Business Economics": {
+        "1.2.1 Production": [
+          "a) Factors of production: land, labour, capital, enterprise.",
+          "b) Sectors: primary, secondary, tertiary.",
+          "c) Changes in sector importance in developed/developing countries."
+        ],
+        "1.2.2 Productivity and Division of Labour": [
+          "a) Definition of productivity.",
+          "b) Factors affecting productivity: land (fertiliser, irrigation), labour (skills, migration), capital (quantity, tech).",
+          "c) Definition of division of labour.",
+          "d) Advantages/disadvantages of division of labour for workers and businesses."
+        ],
+        "1.2.3 Business Costs, Revenues and Profit": [
+          "a) Definitions and formulae: total revenue, total/fixed/variable/average costs, profit.",
+          "b) Economies of scale: internal (purchasing, marketing, technical, financial, managerial, risk-bearing); external (labour, infrastructure, suppliers, business cluster).",
+          "c) Diseconomies of scale: bureaucracy, communication, control, management distance; LRAC curve."
+        ],
+        "1.2.4 Business Competition": [
+          "a) Competition pros/cons: efficiency, choice, quality, innovation, price.",
+          "b) Pros/cons of large and small firms.",
+          "c) Factors influencing growth: regulation, finance, economies of scale, risk, competition.",
+          "d) Reasons for staying small: market size, niche, finance, entrepreneur aims.",
+          "e) Monopoly: definition, features (dominance, unique, price-maker, barriers).",
+          "f) Monopoly pros/cons: efficiency, choice, quality, price, economies of scale.",
+          "g) Oligopoly: definition, features (few large firms, differentiated products, collusion, competition).",
+          "h) Oligopoly pros/cons: choice, quality, innovation, collusion, price wars."
+        ],
+        "1.2.5 The Labour Market": [
+          "a) Demand for labour: final product demand, substitutes, productivity.",
+          "b) Labour supply: population, migration, age, retirement, participation, skills, mobility.",
+          "c) Importance of labour quantity and quality to business.",
+          "d) Education/training and human capital.",
+          "e) Labour market diagrams: demand, supply, equilibrium wage and employment.",
+          "f) Trade union role: improving conditions and wages."
+        ],
+        "1.2.6 Government Intervention": [
+          "a) Policies for externalities: tax, subsidy, fines, regulation, permits.",
+          "b) Pros/cons of each policy.",
+          "c) Regulation of competition: promote competition, limit monopolies, protect consumers, mergers.",
+          "d) Labour market intervention: minimum wage, pros/cons, diagrams."
+        ]
+      },
+      "2.1 Government and the Economy": {
+        "2.1.1 Macroeconomic Objectives": [
+          "a) Economic growth: GDP, limitations, economic cycle (boom, recession), impacts (jobs, living standards, poverty, inflation, environment).",
+          "b) Inflation: definition, CPI, types (demand-pull, cost-push), interest rates, effects (prices, wages, exports, confidence, investment).",
+          "c) Unemployment: definition, ILO measure, types (cyclical, structural, seasonal, voluntary, frictional), impacts (output, resources, poverty, confidence, tax/revenue).",
+          "d) Balance of payments: current account, trade in goods/services, exchange rates, surplus/deficit causes and impacts.",
+          "e) Environment: pollution types, business impacts, government responses.",
+          "f) Redistribution of income: inequality, poverty (absolute/relative), policies (tax, benefits, education, health)."
+        ],
+        "2.1.2 Government Policies": [
+          "a) Fiscal policy: taxes, spending, surplus/deficit, macroeconomic impacts.",
+          "b) Monetary policy: interest rates, central bank, impacts on consumers/businesses.",
+          "c) Supply-side policy: aims, productivity, total output, examples (privatisation, deregulation, education, tax incentives).",
+          "d) Government controls: regulation, fines, pollution permits."
+        ],
+        "2.1.3 Relationships between objectives and policies": [
+          "a) Conflicts: unemployment vs inflation, growth vs inflation, growth vs environment, inflation vs current account."
+        ]
+      },
+      "2.2 The Global Economy": {
+        "2.2.1 Globalisation": [
+          "a) Definition: integration/interdependence.",
+          "b) Causes: trade liberalisation, transport/communication cost reduction, MNCs.",
+          "c) Impacts: standards, choice, prices, traditional industries, environment.",
+          "d) MNCs/FDI: motives, advantages/disadvantages for host countries."
+        ],
+        "2.2.2 International Trade": [
+          "a) Free trade pros/cons: prices, competition, jobs.",
+          "b) Protectionism: dumping, jobs, infant industries, unsafe products, tariffs, deficits.",
+          "c) Methods: tariffs, quotas, subsidies; diagrams and evaluations.",
+          "d) Trading blocs: impact, examples.",
+          "e) WTO: role.",
+          "f) Trade patterns: developed vs developing."
+        ],
+        "2.2.3 Exchange rates": [
+          "a) Definition of exchange rates.",
+          "b) Factors affecting supply and demand of currencies: interest rates, currency speculators, imports and exports of goods and services; supply and demand diagrams to show determination of exchange rates.",
+          "c) Definition of appreciation: definition of revaluation; impact of appreciation of exchange rate on import and export prices, demand for imports and exports, current account on balance of payments.",
+          "d) Definition of depreciation: definition of devaluation; impact of depreciation of exchange rate on import and export prices, demand for imports and exports, current account on balance of payments."
+        ]
+      }
+    },
+    "Geography": {
+      "1. River environments": {
+        "1.1 The world\u2019s water supply is contained in a closed system \u2013 the hydrological cycle": [
+          "a) The hydrological cycle: characteristics, stores and transfers.",
+          "b) Features of a drainage basin: source, watershed, channel network, mouth.",
+          "c) Factors affecting river regimes: precipitation, including storm hydrographs, temperature, vegetation, land use, water abstraction, dams."
+        ],
+        "1.2 Physical processes give rise to characteristic river landforms": [
+          "a) Fluvial processes involved in river valley and river channel formation: erosion (vertical and lateral), weathering and mass movement, transportation and deposition, and factors affecting these processes (climate, slope, geology, altitude and aspect).",
+          "b) How channel shape (width, depth), valley profile (long and cross profiles), gradient, velocity, discharge, and sediment size and shape change along the course of a named river.",
+          "c) How river landscapes change over the course of a river, with distinctive upland and lowland landforms, including the formation of valleys, interlocking spurs, waterfalls, meanders, oxbow lakes, flood plains and levees."
+        ],
+        "1.3 River environments are of great importance to people and need to be sustainably managed": [
+          "a) Uses of water, including agriculture, industry, human hygiene and leisure, and the rising demand for and supply of water: areas of water shortage and water surplus.",
+          "b) Reasons for variations in water quality, including pollution (sewage, industrial waste, agriculture) and the storage and supply of clean water (dams and reservoirs, pipelines, treatment works).",
+          "c) Causes of river flooding, including rainfall intensity, seasonal variations in discharge due to monsoons or snowmelt, relief, urbanisation, and the prediction and prevention of flooding."
+        ]
+      },
+      "2. Coastal environments": {
+        "2.1 Physical processes and human intervention give rise to characteristic coastal landforms": [
+          "a) Physical processes at work on the coast: marine processes (wave action, erosion, deposition and transportation, including longshore drift), weathering (mechanical, chemical and biological) and mass movement (sliding and slumping).",
+          "b) Influence of geology, vegetation, people and sea-level changes on coastal environments.",
+          "c) Role of erosional and depositional processes in the development of landforms: headlands and bays, cliffs, wave-cut platforms, caves, arches, stacks and stumps, beaches, spits and bars."
+        ],
+        "2.2 Distinctive ecosystems develop along particular stretches of coastline": [
+          "a) Distributions and features of the world\u2019s coastal ecosystems (coral reefs, mangroves, sand dunes and salt marshes).",
+          "b) Abiotic and biotic characteristics of one named coastal ecosystem.",
+          "c) How small- and large-scale coastal ecosystems are threatened by people and their activities (industrialisation, agricultural practices, tourism and deforestation)."
+        ],
+        "2.3 Coastal environments are of great importance to people and need to be sustainably managed": [
+          "a) Conflicts between different users of the coast, with different views on coastal management (conservation or development).",
+          "b) Causes of coastal flooding (storm surges, tsunamis, climate change) and the prediction and prevention of flooding (forecasting, building design, planning and education).",
+          "c) Different coastal management strategies: soft engineering and hard engineering methods, shoreline management plans."
+        ]
+      },
+      "3. Hazardous environments": {
+        "3.1 Some places are more hazardous than others": [
+          "a) Characteristics, distribution and measurement of different types of natural hazards including tropical cyclones, earthquakes and volcanoes.",
+          "b) Causes of tropical cyclone hazards, including ocean temperature, atmospheric pressure, wind shear and Coriolis force.",
+          "c) Causes of volcanic and earthquake hazards, including the role of plate boundaries and hotspots."
+        ],
+        "3.2 Hazards have an impact on people and the environment": [
+          "a) Reasons why people continue to live in areas at risk from hazard events.",
+          "b) Some countries are more vulnerable (physically, socially and economically) than others to the impacts of natural hazards.",
+          "c) The shorter-term and longer-term impacts of one earthquake, one volcano and one tropical cyclone hazard."
+        ],
+        "3.3 Earthquakes present a hazard to many people and need to be managed carefully": [
+          "a) Preparation for earthquakes (warning and evacuation, building design, remote sensing and GIS).",
+          "b) Short-term responses and relief (emergency aid, shelter and supplies).",
+          "c) Longer-term planning (risk assessment, hazard mapping and rebuilding programmes)."
+        ]
+      },
+      "4. Economic activity and energy": {
+        "4.1 The relative importance of different economic sectors and the location of economic activity varies spatially, and changes over time": [
+          "a) Classification of employment by economic sector (primary, secondary, tertiary and quaternary) and the reasons for the differences in the employment structures in countries at different levels of development (Clark Fisher Model).",
+          "b) Factors affecting the location of economic activity in each economic sector and how these factors can change over time.",
+          "c) Reasons for the changes in the numbers of people employed in each economic sector, including the availability of raw materials, globalisation, mechanisation, demographic changes and government policies."
+        ],
+        "4.2 The growth and decline of different economic sectors has resulted in a range of impacts and possible resource issues": [
+          "a) Positive and negative impacts of economic sector shifts in a named developed and a named developing or emerging country.",
+          "b) Informal employment: causes (economic development, rural-urban migration) and characteristics (advantages and disadvantages) in a named megacity.",
+          "c) Different theories (Malthus and Boserup) are used to explain the relationship between population and resources."
+        ],
+        "4.3 Countries increasingly experience an energy gap and therefore seek energy security by developing a balanced energy mix and sustainable energy use": [
+          "a) Energy demand and production varies globally and is affected by a range of factors: population growth, increased wealth and technological advances.",
+          "b) Non-renewable (coal, oil, natural gas, uranium and shale gas/oil) and renewable sources of energy (solar, wind, hydroelectric power, geothermal, biomass) have advantages and disadvantages for people and the environment.",
+          "c) Energy can be managed in a sustainable way through education, efficiency and conservation (within industry, transport and the home)."
+        ]
+      },
+      "5. Rural environments": {
+        "5.1 Rural environments are natural ecosystems that are exploited by human activities": [
+          "a) Distributions and characteristics of the world\u2019s biomes (tropical, temperate and boreal forests, tropical and temperate grasslands, deserts and tundra).",
+          "b) Examples of goods and services provided for people by natural ecosystems (timber, tourism, food, energy, water resources, health services, natural protection, and climate regulation).",
+          "c) How humans use, modify and change ecosystems and rural environments to obtain food through farming systems (arable/pastoral, commercial/subsistence, intensive/extensive)."
+        ],
+        "5.2 Rural environments have contrasting physical, social and economic characteristics and are experiencing significant changes": [
+          "a) Characteristics of a rural environment: landscape, climate, settlement, population, land use, employment, accessibility, management (development or conservation).",
+          "b) Factors leading to rural changes in a named developed country: rural isolation, decline in farm employment, tourist pressures, suburbanisation, counter-urbanisation, and the negative multiplier effect.",
+          "c) Factors leading to rural changes in a named developing country or emerging country: population growth, changing farm economy and landholdings, natural hazards, and rural-urban migration."
+        ],
+        "5.3 Rural environments need to adapt to be socially, economically and environmentally sustainable": [
+          "a) The diversification of farming to generate new income streams: GM crops, specialist crops and food, organic farming, recreation and leisure.",
+          "b) The range of possible strategies aimed at making rural living more sustainable and improving the quality of life (soil and air quality, water supplies, crop yields, health, employment and housing).",
+          "c) Role of different groups of people (national and local government, IGOs, NGOs and local communities) in managing the social, economic and environmental challenges."
+        ]
+      },
+      "6. Urban environments": {
+        "6.1 A growing percentage of the world\u2019s population lives in urban areas": [
+          "a) Contrasting trends in urbanisation over the last 50 years in different parts of the world, including the processes of suburbanisation and counter-urbanisation.",
+          "b) Factors affecting the rate of urbanisation and the emergence of megacities.",
+          "c) Problems associated with rapid urbanisation: congestion, transport, employment, crime and environmental issues."
+        ],
+        "6.2 Cities face a range of social and environmental challenges resulting from rapid growth and resource demands": [
+          "a) Factors affecting urban land use patterns: locational needs, accessibility, land values.",
+          "b) Urban challenges in a named developed country: food, energy, transport and waste disposal demands, concentrated resource consumption, segregation.",
+          "c) Urban challenges in a named developing country or emerging country: squatter settlements, informal economy, urban pollution, and low quality of life."
+        ],
+        "6.3 Different strategies can be used to manage social, economic and environmental challenges in a sustainable manner": [
+          "a) Development of the rural-urban fringe: housing estates, retail, business and science parks, industrial estates, and the greenfield versus brownfield debate.",
+          "b) The range of possible strategies aimed at making urban living more sustainable and improving the quality of life (waste disposal, transport, education, health, employment and housing).",
+          "c) Role of different groups of people (planners, politicians, property developers and industrialists) in managing the social, economic and environmental challenges."
+        ]
+      },
+      "7. Fragile environments and climate change": {
+        "7.1 Fragile environments are under threat from desertification, deforestation and global climate change": [
+          "a) Distributions and characteristics of the world\u2019s fragile environments.",
+          "b) Causes of desertification (drought, population pressure, fuel supply, overgrazing, migration) and deforestation (commercial timber extraction, agriculture, mining, transport; settlement and HEP).",
+          "c) Causes of natural climate change (Milankovitch cycles, solar variation and volcanism) and how human activities (industry, transport, energy, and farming) can cause the enhanced greenhouse effect."
+        ],
+        "7.2 There are various impacts of desertification, deforestation and climate change on fragile environments": [
+          "a) Social, economic and environmental impacts of desertification (reduced agricultural output, malnutrition, famine, migration).",
+          "b) Social, economic and environmental impacts of deforestation (loss of biodiversity, contribution to climate change, economic development and increased soil erosion).",
+          "c) Negative effects that climate change is having on fragile environments and people (rising sea levels, more hazards, ecosystem changes, reduced employment opportunities, changing settlement patterns, health and wellbeing challenges, including food supply)."
+        ],
+        "7.3 The responses to desertification, deforestation and climate change vary depending on a country\u2019s level of development": [
+          "a) How technology can resolve water-resource shortages in fragile environments under threat from desertification.",
+          "b) Different approaches to the sustainable use and management of a rainforest in a named region to limit the extent of deforestation.",
+          "c) Different responses to global warming and climate change from individuals, organisations and governments in a named developed and a named emerging or developing country."
+        ]
+      },
+      "8. Globalisation and migration": {
+        "8.1 Globalisation is creating a more connected world, with increased movements of goods (trade) and people (migration and tourism) worldwide": [
+          "a) Rise of the global economy (growth of production and commodity chains) and the factors encouraging it (trade, foreign investment, aid, labour, modern transport and information technologies).",
+          "b) Role of global institutions, including the World Trade Organization (WTO), the International Monetary Fund (IMF) and TNCs in creating a more globalised economy.",
+          "c) Push and pull factors (social, economic and political) that have influenced rates of different types of migration over the last 50 years, including medical, sport, tourism and economic."
+        ],
+        "8.2 The impacts of globalisation vary on a global scale": [
+          "a) Impacts of globalisation on different groups of people, including the benefits and costs to countries hosting TNCs.",
+          "b) Impacts of migration (voluntary, forced, national, international, and rural-urban) on different groups of people.",
+          "c) Positive and negative impacts of the growth of global tourism, including mass tourism, on the environment, economy and people of destination areas."
+        ],
+        "8.3 The responses to increased migration and tourism vary depending on a country\u2019s level of development": [
+          "a) How geopolitical relationships between countries are important in managing trade, migration and tourism.",
+          "b) Different approaches to the management of long-term migration in a named country.",
+          "c) Different approaches to make tourism more sustainable from individuals, organisations and governments in a named developed and a named emerging or developing country."
+        ]
+      },
+      "9. Development and human welfare": {
+        "9.1 Definitions of development and human welfare vary, as do attempts to measure it": [
+          "a) The different ways of defining development, using economic criteria and broader social and political measures.",
+          "b) Different factors contribute to the development and human welfare of a country: economic, social, technological, cultural, as well as food and water security.",
+          "c) Development is measured in different ways: GDP per capita, the Human Development Index, measures of inequality and indices of political corruption."
+        ],
+        "9.2 The level of development and human welfare varies globally and has had a range of consequences": [
+          "a) Global pattern of the uneven development between and within countries and the factors (social, historic and economic) that have led to these spatial variations.",
+          "b) Impact of uneven development on welfare and quality of life within one named country: poverty, unemployment, inadequate housing and physical infrastructure.",
+          "c) How countries at different levels of development have differences in their demographic data (fertility rates, death rates, natural increase, population structures, maternal and infant mortality rates)."
+        ],
+        "9.3 A range of sustainable strategies is required to address uneven levels of development and human welfare": [
+          "a) The range of international strategies (international aid and intergovernmental agreements) that attempt to reduce uneven development.",
+          "b) Different views held by individuals, organisations and governments on tackling the development gap.",
+          "c) Advantages and disadvantages of top-down and bottom-up development projects used to promote development in a named developed and a named emerging or developing country."
+        ]
+      }
+    },
+    "History": {
+      "1. The French Revolution, c1780\u201399": [
+        "1. The origins of the Revolution, c1780\u201387",
+        "2. Short-term causes of the Revolution: from Assembly of Notables to Estates General, 1787\u201389",
+        "3. Developments 1789\u201392",
+        "4. Convention and Terror, 1792\u201394",
+        "5. Directory and First Consul \u2013 the fall of Robespierre to the rise of Napoleon, 1794\u201399"
+      ],
+      "2. Development of a nation: unification of Italy, 1848\u201370": [
+        "1. The 1848 Revolutions in the Italian states",
+        "2. Developments in Piedmont, 1849\u201354",
+        "3. The defeat of Austria, 1854\u201359",
+        "4. Garibaldi and the Papal States",
+        "5. Venice and Rome and the extent of unification by 1870"
+      ],
+      "3. Germany: development of dictatorship, 1918\u201345": [
+        "1. The establishment of the Weimar Republic and its early problems",
+        "2. The recovery of Germany, 1924\u201329",
+        "3. The rise of Hitler and the Nazis to January 1933",
+        "4. Nazi Germany 1933\u201339",
+        "5. Germany and the occupied territories during the Second World War"
+      ],
+      "4. Colonial rule and the nationalist challenge in India, 1919\u201347": [
+        "1. The Rowlatt Acts, Amritsar and the Government of India Act, 1919",
+        "2. Gandhi and Congress, 1919\u201327",
+        "3. Key developments, 1927\u201339",
+        "4. The impact of the Second World War on India",
+        "5. Communal violence, independence and partition, 1945\u201347"
+      ],
+      "5. Dictatorship and conflict in the USSR, 1924\u201353": [
+        "1. The leadership struggle, 1924\u201329",
+        "2. Five-year Plans and collectivisation",
+        "3. Purges, show trials, the cult of Stalin and the revision of history",
+        "4. Life in the Soviet Union, 1924\u201341",
+        "5. The Second World War and after, 1941\u201353"
+      ],
+      "6. A world divided: superpower relations, 1943\u201372": [
+        "1. Reasons for the Cold War",
+        "2. Early developments in the Cold War, 1945\u201349",
+        "3. The Cold War in the 1950s",
+        "4. Three crises: Berlin, Cuba and Czechoslovakia",
+        "5. The Thaw and moves towards D\u00e9tente, 1963\u201372"
+      ],
+      "7. A divided union: civil rights in the USA, 1945\u201374": [
+        "1. The Red Scare and McCarthyism",
+        "2. Civil rights in the 1950s",
+        "3. The impact of civil rights protests, 1960\u201374",
+        "4. Other protest movements: students, women, anti\u2013Vietnam",
+        "5. Nixon and Watergate"
+      ],
+      "8. South Africa: from union to the end of apartheid, 1948\u201394": [
+        "1. Setting up apartheid, 1948\u201354",
+        "2. The growth of apartheid, 1955\u201359",
+        "3. Resisting apartheid, 1955\u201378",
+        "4. PW Botha \u2013 response to resistance, 1978\u201390",
+        "5. Dismantling Apartheid, 1990\u201394"
+      ],
+      "A1. The origins and course of the First World War, 1905\u201318": [
+        "1. The alliance system and international rivalry, 1905\u201314",
+        "2. The growth of tension in Europe, 1905\u201314",
+        "3. The Schlieffen Plan and deadlock on the Western Front",
+        "4. The war at sea and Gallipoli",
+        "5. The defeat of Germany"
+      ],
+      "A2. Russia and the Soviet Union, 1905\u201324": [
+        "1. Tsarist rule in Russia, 1905\u201314",
+        "2. Opposition to Tsarist rule 1914\u201317: the impact of war and the February Revolution",
+        "3. Provisional Government and the Bolshevik Revolution",
+        "4. The Bolshevik consolidation of power and the Civil War",
+        "5. War Communism and the New Economic Policy (NEP)"
+      ],
+      "A3. The USA, 1918\u201341": [
+        "1. The Roaring Twenties",
+        "2. Increased social tensions in the 1920s",
+        "3. The USA in Depression, 1929\u201333",
+        "4. Roosevelt and the New Deal, 1933\u201341",
+        "5. The Opposition to the New Deal"
+      ],
+      "A4. The Vietnam Conflict, 1945\u201375": [
+        "1. The struggle against France for independence, 1945\u201354",
+        "2. US policy and intervention, 1954\u201364",
+        "3. Confrontation in the Vietnam War, escalation 1964\u201368",
+        "4. Nixon and Ford\u2019s policies \u2013 Vietnamisation, peace and Communist victory, 1969\u201375",
+        "5. The impact of conflict on civilians in Vietnam and attitudes in the USA"
+      ],
+      "A5. East Germany, 1958\u201390": [
+        "1. The Berlin Wall crisis, 1958\u201363",
+        "2. Stabilisation and control: the GDR, 1962\u201387",
+        "3. Life in the GDR \u2013 social change, 1962\u201387",
+        "4. Ostpolitik \u2013 relations with the Federal Republic, 1969\u201387",
+        "5. The Peaceful Revolution, 1987\u201390"
+      ],
+      "B1. America: from new nation to divided union, 1783\u20131877": [
+        "1. Building a new nation, 1783\u20131809",
+        "2. Westward expansion and Native American removal, 1803\u201349",
+        "3. Slavery, the South and the causes of secession, 1850\u201361",
+        "4. Civil War and the end of slavery, 1861\u201365",
+        "5. A More Perfect Union? 1865\u201377"
+      ],
+      "B2. Changes in medicine, c1848\u2013c1948": [
+        "1. Progress in the mid-19th century; Nightingale, Chadwick, Snow and Simpson",
+        "2. Discovery and development, 1860\u201375; Lister and Pasteur",
+        "3. Accelerating change, 1875\u20131905; Ehrlich, Koch and chemistry",
+        "4. Government action and war, 1905\u201320",
+        "5. Advances in medicine, surgery and public health 1920\u201348; the NHS"
+      ],
+      "B3. Japan in transformation, 1853\u20131945": [
+        "1. Japan opening up to China and the West, 1853\u201367",
+        "2. Transformation, 1867\u20131895",
+        "3. An emerging power, 1895\u20131919",
+        "4. Political and economic challenges, 1919\u201331",
+        "5. Depression, empire and collapse, 1931\u201345"
+      ],
+      "B4. China: conflict, crisis and change, 1900\u201389": [
+        "1. The fall of the Qing, Warlordism and chaos, 1900\u201334",
+        "2. The triumph of Mao and the CCP, 1934\u201349",
+        "3. Change under Mao, 1949\u201363",
+        "4. The Cultural Revolution and its impact, 1965\u201376",
+        "5. China, 1976\u201389"
+      ],
+      "B5. The changing role of international organisations: the League and the UN, 1919\u2013c2011": [
+        "1. The creation and successes of the League, 1919\u201329",
+        "2. The League challenged, 1930\u201339",
+        "3. Setting up the United Nations Organisation and its work to 1964",
+        "4. The UN challenged, 1967\u201389",
+        "5. The UN at bay, 1990\u20132011"
+      ],
+      "B6. The changing nature of warfare and international conflict, 1919\u20132011": [
+        "1. The changing nature of warfare, 1919\u201339",
+        "2. Changing methods of warfare by land, air and sea, 1939\u201345",
+        "3. New forms of conflict \u2013 nuclear and guerrilla war versus conventional war, 1945\u201375",
+        "4. Conventional war and the development of \u2018new\u2019 wars, 1976\u20132000",
+        "5. Changing methods of warfare at the beginning of the 21st century, 2000\u20132011"
+      ],
+      "B7. The Middle East: conflict, crisis and change, 1917\u20132012": [
+        "1. Build up of tension in Palestine, 1917\u201346",
+        "2. The creation of Israel, the war of 1948\u201349 and the Suez Crisis of 1956",
+        "3. Tension and conflict, 1956\u201373",
+        "4. Diplomacy, peace then wider war, 1973\u201383",
+        "5. The attempts to find a lasting peace, 1987\u20132012"
+      ],
+      "B8. Diversity, rights and equality in Britain, 1914\u20132010": [
+        "1. The fight for recognition, 1914\u20131928",
+        "2. The impact of Depression and war, 1928\u201345",
+        "3. Consequences of war and the end of empire, 1944\u201362",
+        "4. Changes in civil rights, c1962\u20131986",
+        "5. Changes in opportunity and culture, 1986\u20132010"
+      ]
+    },
+    "Information and Communication Technology": {
+      "1. Digital Devices": {
+        "1.1 Types of digital devices": [
+          "Be aware that mainframe computers are used for complex processing tasks and microprocessors are embedded in products such as washing machines.",
+          "Understand that laptop and desktop computers are types of personal computers. Some laptops are used as desktop replacements.",
+          "Know about types of mobile phones; smartphones and specialist phones and how they connect to the network (SIM).",
+          "Know about tablet devices.",
+          "Be able to describe the purpose and use of other digital devices such as: cameras and camcorders, games consoles, home entertainment systems, media players.",
+          "Know about navigation aids and how they are used.",
+          "Understand the terms \u2018multifunctional\u2019 and \u2018convergence\u2019 in the context of digital devices."
+        ],
+        "1.2 Features of digital devices": [
+          "Understand features of digital devices: portability, performance, storage, user interface, connectivity, media support, energy consumption, expansion capability, security features.",
+          "Be able to discuss the features of identified digital devices."
+        ],
+        "1.3 Software": [
+          "Be able to identify the purpose of systems software and applications software.",
+          "Know about operating systems and system software tools such as utilities.",
+          "Know about the role/function of the operating system.",
+          "Know about software applications (apps).",
+          "Know about software licensing types.",
+          "Understand the purpose of communication software.",
+          "Know why software is updated, how it is done and possible risks to data/systems."
+        ],
+        "1.4 Types of peripheral devices \u2013 input and output": [
+          "Know about types of output peripheral such as monitor, printer, plotter, data projector, speaker, control device.",
+          "Know about types of input peripheral such as keyboard, mouse, tracker ball, joystick, graphics tablet, scanner, digital camera, webcam, microphone, etc."
+        ],
+        "1.5 Types of peripheral devices \u2013 storage": [
+          "Be able to differentiate between storage devices and media.",
+          "Know the characteristics of HDD, SSD, optical drives.",
+          "Know that storage devices can be internal or external.",
+          "Know about types of storage media.",
+          "Know that storage media can be recordable / write once (R) and rewritable (R/W).",
+          "Understand capacity terms like bit, byte, kibibyte, mebibyte, gibibyte, tebibyte."
+        ],
+        "1.6 Memory": [
+          "Know that RAM stands for Random Access Memory and ROM stands for Read Only Memory.",
+          "Be able to describe the characteristics of RAM and ROM.",
+          "Be able to describe the characteristics and uses of flash memory."
+        ],
+        "1.7 Processors": [
+          "Understand the function of the processing unit (CPU).",
+          "Know how the speed of a processor is measured."
+        ],
+        "1.8 ICT systems to meet specified needs": [
+          "Be able to identify digital devices and associated peripherals to meet needs.",
+          "Be able to identify appropriate software to meet specified needs.",
+          "Understand accessibility settings.",
+          "Be able to justify hardware and software choices."
+        ]
+      },
+      "2. Connectivity": {
+        "2.1 Types of digital communications": [
+          "Know how digital devices communicate: satellite, broadcast, wired, wireless.",
+          "Know network types: LAN, WAN, PAN, tethering.",
+          "Know wireless communication types: Wi-Fi, Bluetooth, GPS, 3G, 4G, IR, NFC.",
+          "Know differences between Wi-Fi and Bluetooth and when to use each."
+        ],
+        "2.2 Factors influencing the choice of digital communication in a network": [
+          "Understand factors affecting speed and volume of data transfer.",
+          "Understand wired vs wireless communication.",
+          "Understand bandwidth and latency.",
+          "Understand broadband and mobile broadband features."
+        ],
+        "2.3 Requirements for connecting to a network, including the internet": [
+          "Know about network operating systems and how devices are identified (name, IP, MAC).",
+          "Understand function of network components: cable, WAP, router, gateway, booster, server.",
+          "Know roles of web browser, ISP, search engine, filter software."
+        ],
+        "2.4 Benefits of using a LAN/home network": [
+          "Know peer-to-peer and client-server network differences.",
+          "Understand role of servers.",
+          "Understand benefits of LAN.",
+          "Understand benefits of client-server networks."
+        ],
+        "2.5 Securing data on a network, including the internet": [
+          "Know about log-ins, firewalls, WEP/WPA, encryption, VPN, file access rights, logs, backups.",
+          "Select suitable data protection methods for a context."
+        ]
+      },
+      "3. Operating Online": {
+        "3.1 Potential risks to data and personal information": [
+          "Be aware of risks: unauthorised access, malware, accidental deletion, theft (phishing, pharming).",
+          "Know how to secure data online.",
+          "Know about online payment systems and protection methods."
+        ],
+        "3.2 Impact of the internet on individuals": [
+          "Know about job changes, skill needs, job loss.",
+          "Understand flexible working, collaborative working.",
+          "Access to services, learning and entertainment.",
+          "Know social impacts: cyberbullying, physical inactivity.",
+          "Know how to stay safe online."
+        ],
+        "3.3 Online working from home": [
+          "Understand remote working benefits and drawbacks for individuals and organisations."
+        ],
+        "3.4 Impact of the internet on organisations": [
+          "Understand positive and negative impacts of the internet on business."
+        ],
+        "3.5 Impact of the internet on society": [
+          "Understand less-restricted access to networks.",
+          "Know information inequality causes and effects.",
+          "Understand access limitations and community impact."
+        ],
+        "3.6 Types of online communities": [
+          "Understand features of online communities: social networking, gaming, VLEs, wikis, blogs, bookmarking."
+        ],
+        "3.7 Use of online communities": [
+          "Know audience and functions of communities.",
+          "Understand global collaboration.",
+          "Understand responsible use policies.",
+          "Online safety issues."
+        ],
+        "3.8 Implications of digital technologies": [
+          "Know about data protection laws, copyright, monitoring, sustainability and health and safety."
+        ],
+        "3.9 Availability and use of online information": [
+          "Understand sources, search engine use, information quality, copyright, plagiarism."
+        ]
+      },
+      "4. Online Goods and Services": {
+        "4.1 Types of services": [
+          "Understand features of shopping, booking, banking, education, gaming, news, auction, entertainment services."
+        ],
+        "4.2 Impact of online services": [
+          "Understand personal lifestyle and business impacts.",
+          "Know about data tracking, cookies, transaction logs.",
+          "Understand marketing and personalisation techniques.",
+          "Understand local vs online service features."
+        ],
+        "4.3 Online software": [
+          "Understand cloud services, hosted vs local software and storage."
+        ]
+      },
+      "5. Applying ICT": {
+        "5.1 Software applications": [
+          "Use word processing, database, spreadsheet, web, presentation, graphics.",
+          "Choose software for a task."
+        ],
+        "5.2 Data and information": [
+          "Understand data vs information.",
+          "Use text, numbers, images, animation.",
+          "Format and combine information for purpose."
+        ],
+        "5.3 Using software applications": [
+          "Produce audience-fit documents using layout, style, proofing tools."
+        ],
+        "5.4 Reviewing outcomes": [
+          "Compare products to needs, identify improvements, evaluate tool use."
+        ]
+      },
+      "6. Software Skills": {
+        "6.1 Word processing": [
+          "Enter, format and merge text, use templates and standard documents."
+        ],
+        "6.2 Database management": [
+          "Use database types, structures, validation, search and output data."
+        ],
+        "6.3 Spreadsheet": [
+          "Format data, use formulas/functions, sort/filter, create and format charts."
+        ],
+        "6.4 Web authoring": [
+          "Create and format web pages using templates and HTML."
+        ],
+        "6.5 Presentation": [
+          "Create slides with templates, add content, use transitions and print options."
+        ],
+        "6.6 Graphics": [
+          "Create and edit vector/bitmap images using shapes and text."
+        ],
+        "6.7 File management": [
+          "Save securely, use sensible names, manage folder structure."
+        ]
+      }
+    },
+    "Mathematics A": {
+      "1. Numbers and algebra": {
+        "1.1 Integers": [
+          "Understand and use integers, including place value and directed numbers.",
+          "Use four rules (addition, subtraction, multiplication, division) and brackets with hierarchy of operations.",
+          "Understand terms: odd, even, prime numbers, factors, multiples.",
+          "Identify prime factors, common factors, and common multiples."
+        ],
+        "1.2 Fractions": [
+          "Understand equivalent fractions and simplification.",
+          "Use mixed numbers and vulgar fractions, identify common denominators.",
+          "Order fractions and calculate fractions of quantities.",
+          "Convert between fractions, decimals and percentages.",
+          "Multiply and divide fractions and mixed numbers.",
+          "Understand unit fractions as multiplicative inverses."
+        ],
+        "1.3 Decimals": [
+          "Use decimal notation and understand place value.",
+          "Order decimals and convert between decimals, fractions and percentages.",
+          "Recognise terminating decimals as fractions."
+        ],
+        "1.4 Powers and roots": [
+          "Identify and calculate square and cube numbers and their roots.",
+          "Use index notation and laws for integer powers, including zero.",
+          "Express numbers as product of prime powers and find HCF/LCM."
+        ],
+        "1.5 Set language and notation": [
+          "Understand sets, universal set, empty set, and use set notation \u222a, \u2229, \u2208, \u2209.",
+          "Use Venn diagrams and complement notation."
+        ],
+        "1.6 Percentages": [
+          "Understand percentages and express as fractions/decimals.",
+          "Calculate percentage change, reverse percentages, compound interest and depreciation."
+        ],
+        "1.7 Ratio and proportion": [
+          "Use ratio notation and relate to fractions.",
+          "Divide quantities in a given ratio.",
+          "Use proportional reasoning to find unknowns and solve problems."
+        ],
+        "1.8 Degree of accuracy": [
+          "Round numbers and identify bounds.",
+          "Estimate calculations using rounding."
+        ],
+        "1.9 Standard form": [
+          "Calculate with and interpret numbers in standard form."
+        ],
+        "1.10 Applying number": [
+          "Apply number in real-life contexts including time and money."
+        ],
+        "1.11 Electronic calculators": [
+          "Use scientific calculator to perform accurate calculations."
+        ]
+      },
+      "2. Equations, formulae and identities": {
+        "2.1 Use of symbols": [
+          "Understand use of symbols in equations and formulae.",
+          "Use index notation for positive, negative, and zero powers.",
+          "Apply index laws."
+        ],
+        "2.2 Algebraic manipulation": [
+          "Evaluate expressions, collect like terms, multiply out brackets.",
+          "Factorise expressions and expand products of linear expressions.",
+          "Factorise quadratics and manipulate algebraic fractions.",
+          "Complete the square and construct algebraic proofs."
+        ],
+        "2.3 Expressions and formulae": [
+          "Substitute values into expressions and formulae.",
+          "Change the subject of a formula.",
+          "Derive and manipulate formulae."
+        ],
+        "2.4 Linear equations": [
+          "Solve linear equations including unknowns on both sides.",
+          "Set up equations from contextual problems."
+        ],
+        "2.5 Proportion": [
+          "Set up and solve problems involving direct and inverse proportion."
+        ],
+        "2.6 Simultaneous linear equations": [
+          "Solve simultaneous equations algebraically and graphically."
+        ],
+        "2.7 Quadratic equations": [
+          "Solve quadratic equations by factorisation, completing the square, and using the formula.",
+          "Form and solve quadratic equations from real-life data.",
+          "Solve simultaneous linear and quadratic equations."
+        ],
+        "2.8 Inequalities": [
+          "Solve and represent linear and quadratic inequalities.",
+          "Identify and represent inequality regions on graphs."
+        ]
+      },
+      "3. Sequences, functions and graphs": {
+        "3.1 Sequences": [
+          "Generate terms of sequences and find nth term.",
+          "Use linear expressions for arithmetic sequences.",
+          "Find sum of arithmetic series."
+        ],
+        "3.2 Function notation": [
+          "Understand and use function notation.",
+          "Work with domain, range, composite and inverse functions."
+        ],
+        "3.3 Graphs": [
+          "Plot and interpret linear, quadratic, cubic, trigonometric graphs.",
+          "Apply transformations and find gradients.",
+          "Find equations of lines and intersection points of graphs."
+        ],
+        "3.4 Calculus": [
+          "Differentiate polynomial functions.",
+          "Use derivatives to find gradients and turning points.",
+          "Apply calculus to kinematics and real-world problems."
+        ]
+      },
+      "4. Geometry and trigonometry": {
+        "4.1 Angles, lines and triangles": [
+          "See Foundation Tier."
+        ],
+        "4.2 Polygons": [
+          "See Foundation Tier."
+        ],
+        "4.3 Symmetry": [
+          "See Foundation Tier."
+        ],
+        "4.4 Measures": [
+          "See Foundation Tier."
+        ],
+        "4.5 Construction": [
+          "See Foundation Tier."
+        ],
+        "4.6 Circle properties": [
+          "Use properties of chords, tangents and cyclic quadrilaterals.",
+          "Apply circle theorems involving angles and segments."
+        ],
+        "4.7 Geometrical reasoning": [
+          "Provide reasons in geometrical problems involving lines, polygons and circles."
+        ],
+        "4.8 Trigonometry and Pythagoras\u2019 theorem": [
+          "Use sine, cosine, tangent for any angle.",
+          "Apply sine and cosine rules.",
+          "Use trigonometry in 3D problems."
+        ],
+        "4.9 Mensuration": [
+          "Calculate areas of sectors, surface area and volume of spheres and cones."
+        ],
+        "4.10 3D shapes and volume": [
+          "Calculate surface area and volume of 3D solids."
+        ],
+        "4.11 Similarity": [
+          "Use properties of similar shapes to solve problems involving area and volume."
+        ]
+      },
+      "5. Vectors and transformation geometry": {
+        "5.1 Vectors": [
+          "Use vector notation, add/subtract vectors, scalar multiplication.",
+          "Calculate magnitudes and perform geometrical proofs using vectors."
+        ],
+        "5.2 Transformation geometry": [
+          "See Foundation Tier."
+        ]
+      },
+      "6. Statistics and probability": {
+        "6.1 Graphical representation of data": [
+          "Construct and interpret histograms and cumulative frequency diagrams."
+        ],
+        "6.2 Statistical measures": [
+          "Estimate median and interquartile range from diagrams and data.",
+          "Understand measures of spread."
+        ],
+        "6.3 Probability": [
+          "Draw and use tree diagrams.",
+          "Calculate probabilities of compound and conditional events.",
+          "Apply the addition rule and use expected frequency."
+        ]
+      }
+    },
+    "Mathematics B": {
+      "1. Number": {
+        "1A": [
+          "The ordinary processes of number manipulation (the \u2018four operations\u2019 and combination of them using brackets)"
+        ],
+        "1B": [
+          "Prime numbers, factors, multiples including finding HCF and LCM in simple cases"
+        ],
+        "1C": [
+          "Use of indices, powers and roots including integer, fractional and negative powers"
+        ],
+        "1D": [
+          "Simple manipulation of surds for exact answers"
+        ],
+        "1E": [
+          "Rationalising the denominator"
+        ],
+        "1F": [
+          "Recognition of natural numbers, integers, rational and irrational numbers"
+        ],
+        "1G": [
+          "Carry out calculations using standard metric units and money, including currency conversions"
+        ],
+        "1H": [
+          "Interchange and apply fractions, decimals, ratio, proportion and percentage"
+        ],
+        "1I": [
+          "Expressing numbers to a given degree of accuracy (decimal places or significant figures)"
+        ],
+        "1J": [
+          "Solve problems using upper and lower bounds"
+        ],
+        "1K": [
+          "Solve problems involving standard form a \u00d7 10^n"
+        ]
+      },
+      "2. Sets": {
+        "2A": [
+          "The idea of a set"
+        ],
+        "2B": [
+          "Set language and notation"
+        ],
+        "2C": [
+          "Union and intersection of sets"
+        ],
+        "2D": [
+          "Number of elements in a set using n(A) notation"
+        ],
+        "2E": [
+          "Complementary sets using A\u2032"
+        ],
+        "2F": [
+          "Subsets"
+        ],
+        "2G": [
+          "Universal set, null set"
+        ],
+        "2H": [
+          "Venn diagrams and their use in simple logical problems"
+        ],
+        "2I": [
+          "Use of symbols to represent sets"
+        ]
+      },
+      "3. Algebra": {
+        "3A": [
+          "Basic processes of algebra including collecting like terms, four operations, rules of indices"
+        ],
+        "3B": [
+          "Construction, interpretation and manipulation of formulae (including change of subject and substitution)"
+        ],
+        "3C": [
+          "Factorisation of simple algebraic expressions"
+        ],
+        "3D": [
+          "Use of the factor theorem including application to cubics"
+        ],
+        "3E": [
+          "Algebraic division of a cubic by a linear factor"
+        ],
+        "3F": [
+          "Manipulation of simple algebraic fractions with numerical, linear or quadratic denominators"
+        ],
+        "3G": [
+          "Solution of equations of 1st, 2nd, and 3rd degree"
+        ],
+        "3H": [
+          "Solution of linear simultaneous equations in two unknowns"
+        ],
+        "3I": [
+          "Solution of simultaneous equations where one is linear and one is quadratic"
+        ],
+        "3J": [
+          "Solution of linear inequalities and representation on number lines and 2D space"
+        ],
+        "3K": [
+          "Solution of quadratic inequalities and representation on number lines"
+        ],
+        "3L": [
+          "The idea and recognition of sequences"
+        ]
+      },
+      "4. Functions": {
+        "4A": [
+          "The idea of a function of a variable"
+        ],
+        "4B": [
+          "Function as mapping or correspondence between sets"
+        ],
+        "4C": [
+          "Use of functional notations such as f(x) = ..."
+        ],
+        "4D": [
+          "Domain and range of functions"
+        ],
+        "4E": [
+          "Composite functions"
+        ],
+        "4F": [
+          "Inverse functions"
+        ],
+        "4G": [
+          "Variation, direct and indirect proportion"
+        ],
+        "4H": [
+          "Rectangular Cartesian coordinates"
+        ],
+        "4I": [
+          "Recognise equations of straight lines y = mx + c"
+        ],
+        "4J": [
+          "Draw and interpret graphs from equations including cubics and rationals"
+        ],
+        "4K": [
+          "Determine gradients of graphs by drawing tangents"
+        ],
+        "4L": [
+          "Differentiation of integer powers of x"
+        ],
+        "4M": [
+          "Determine gradients, stationary points and turning points via differentiation"
+        ],
+        "4N": [
+          "Applications to kinematics and other practical problems"
+        ]
+      },
+      "5. Matrices": {
+        "5A": [
+          "Representation of data by a matrix"
+        ],
+        "5B": [
+          "Addition and multiplication of matrices (up to 3x3)"
+        ],
+        "5C": [
+          "Multiplication of a matrix by a scalar"
+        ],
+        "5D": [
+          "Unit (identity) and zero (null) matrix"
+        ],
+        "5E": [
+          "Determinants and inverses of 2x2 non-singular matrices"
+        ],
+        "5F": [
+          "Transformations of the plane using 2x2 matrices"
+        ],
+        "5G": [
+          "Combination of transformations"
+        ]
+      },
+      "6. Geometry": {
+        "6A": [
+          "Geometrical properties of Euclidean space"
+        ],
+        "6B": [
+          "Geometrical reasoning"
+        ],
+        "6C": [
+          "Angle properties of parallel lines, triangles and polygons"
+        ],
+        "6D": [
+          "Properties of basic quadrilaterals"
+        ],
+        "6E": [
+          "Symmetry (line, rotational)"
+        ],
+        "6F": [
+          "Use of Pythagoras\u2019 theorem in 2D and 3D"
+        ],
+        "6G": [
+          "Similarity including areas and volumes"
+        ],
+        "6H": [
+          "Prove similarity of triangles"
+        ],
+        "6I": [
+          "Congruent shapes"
+        ],
+        "6J": [
+          "SSS, SAS, ASA, RHS congruence of triangles"
+        ],
+        "6K": [
+          "Chord, angle and tangent properties of circles"
+        ],
+        "6L": [
+          "Properties of cyclic quadrilateral"
+        ],
+        "6M": [
+          "Loci in two dimensions"
+        ],
+        "6N": [
+          "Constructions using ruler and compasses"
+        ]
+      },
+      "7. Mensuration": {
+        "7A": [
+          "Length, area, and volume"
+        ],
+        "7B": [
+          "Mensuration of 2D shapes including compound areas"
+        ],
+        "7C": [
+          "Mensuration of 3D shapes including compound volumes"
+        ],
+        "7D": [
+          "Length of arc and area of a sector (degrees only)"
+        ]
+      },
+      "8. Vectors and transformation geometry": {
+        "8A": [
+          "Scalar and vector quantities in 2D"
+        ],
+        "8B": [
+          "Use of vector notation including column vectors"
+        ],
+        "8C": [
+          "Representation of a vector by a directed line segment"
+        ],
+        "8D": [
+          "Parallel vectors, unit vectors and position vectors"
+        ],
+        "8E": [
+          "Sum and difference of two vectors"
+        ],
+        "8F": [
+          "Modulus (magnitude) of a vector"
+        ],
+        "8G": [
+          "Multiplication of a vector by a scalar"
+        ],
+        "8H": [
+          "Find the resultant of multiple vectors"
+        ],
+        "8I": [
+          "Apply vector methods to simple geometrical problems"
+        ],
+        "8J": [
+          "Transformations of the plane (reflections, rotations, translations, enlargements)"
+        ],
+        "8K": [
+          "Combination of transformations"
+        ],
+        "8L": [
+          "Multiplication of a vector by a matrix"
+        ]
+      },
+      "9. Trigonometry": {
+        "9A": [
+          "Use sine, cosine and tangent for angles up to 180\u00b0"
+        ],
+        "9B": [
+          "Solve 2D and 3D problems using calculation or drawing, including sine/cosine rules"
+        ],
+        "9C": [
+          "Use angles of elevation and depression"
+        ],
+        "9D": [
+          "Understand and use bearings"
+        ]
+      },
+      "10. Statistics and probability": {
+        "10A": [
+          "Graphical representation of numerical data including bar charts, pie charts, histograms"
+        ],
+        "10B": [
+          "Determine mean, median, and mode for discrete data"
+        ],
+        "10C": [
+          "Estimate mean from grouped frequencies"
+        ],
+        "10D": [
+          "Determine modal class and class containing the median"
+        ],
+        "10E": [
+          "Understand the language and concepts of probability"
+        ],
+        "10F": [
+          "Use the addition rule for mutually exclusive events"
+        ],
+        "10G": [
+          "Use the product rule for independent events"
+        ],
+        "10H": [
+          "Determine probability of independent events using tree diagrams"
+        ],
+        "10I": [
+          "Use simple conditional probability for combined events"
+        ],
+        "10J": [
+          "Find very simple conditional probabilities (no P(A|B) notation)"
+        ],
+        "10K": [
+          "Understand and use the term 'expected frequency'"
+        ]
+      }
+    },
+    "Physics": {
+      "1. Forces and motion": {
+        "(a) Units": [
+          "Use units: kg, m, m/s, m/s\u00b2, N, s, N/kg",
+          "Use additional units: Nm, kg\u00b7m/s (1.2P)"
+        ],
+        "(b) Movement and position": [
+          "Plot and explain distance\u2013time graphs",
+          "Know and use: speed = distance / time",
+          "Practical: investigate motion of objects",
+          "Know and use: acceleration = (v - u) / t",
+          "Plot and explain velocity\u2013time graphs",
+          "Determine acceleration from v\u2013t graph gradient",
+          "Determine distance from v\u2013t graph area",
+          "Know and use: v\u00b2 = u\u00b2 + 2as"
+        ],
+        "(c) Forces, movement, shape and momentum": [
+          "Describe effects of forces on bodies",
+          "Identify different types of forces",
+          "Understand vector vs scalar quantities",
+          "Understand that force is a vector",
+          "Calculate resultant forces",
+          "Know friction opposes motion",
+          "Know and use: F = m \u00d7 a",
+          "Know and use: W = m \u00d7 g",
+          "Know stopping distance = thinking + braking distance",
+          "Factors affecting stopping distance",
+          "Describe forces on falling objects and terminal velocity",
+          "Practical: investigate extension with force for springs etc.",
+          "Initial linear region = Hooke\u2019s law",
+          "Elastic behaviour: return to original shape",
+          "Know and use: momentum = mass \u00d7 velocity (1.25P)",
+          "Use momentum in safety contexts (1.26P)",
+          "Use conservation of momentum (1.27P)",
+          "Know and use: F = (mv - mu) / t (1.28P)",
+          "Understand Newton\u2019s third law (1.29P)",
+          "Know and use: moment = force \u00d7 distance from pivot (1.30P)",
+          "Weight acts through centre of gravity (1.31P)",
+          "Use principle of moments (1.32P)",
+          "Understand support forces on beam (1.33P)"
+        ]
+      },
+      "2. Electricity": {
+        "(a) Units": [
+          "Use units: A, C, J, \u03a9, s, V, W"
+        ],
+        "(b) Mains electricity": [
+          "Understand safety features in domestic appliances",
+          "Energy transfer in resistors increases temperature",
+          "Know and use: P = I \u00d7 V",
+          "Know and use: E = I \u00d7 V \u00d7 t",
+          "AC vs DC current sources"
+        ],
+        "(c) Energy and voltage in circuits": [
+          "Series vs parallel circuit applications",
+          "Current in series circuits and component effects",
+          "Current-voltage relationships and investigation",
+          "Changing resistance effects",
+          "LDR and thermistor behaviour",
+          "Lamps and LEDs indicate current",
+          "Know and use: V = I \u00d7 R",
+          "Current = rate of flow of charge",
+          "Know and use: Q = I \u00d7 t",
+          "Electrons flow in metallic conductors",
+          "Current conservation at a junction",
+          "Voltage across parallel components is the same",
+          "Calculate values in series circuits",
+          "Voltage = energy per unit charge",
+          "Volt = joule/coulomb",
+          "Know and use: E = Q \u00d7 V"
+        ],
+        "(d) Electric charge": [
+          "Identify conductors and insulators",
+          "Practical: charge insulating materials by friction",
+          "Electrons cause positive/negative charges",
+          "Attraction/repulsion of charges",
+          "Explain electrostatic effects via electron transfer",
+          "Dangers of electrostatics (e.g. refueling)",
+          "Uses of electrostatics (e.g. printers)"
+        ]
+      },
+      "3. Waves": {
+        "3.1 Units": [
+          "Use units: degree (\u00b0), hertz (Hz), metre (m), metre/second (m/s), second (s)."
+        ],
+        "3.2 Properties of waves": [
+          "Explain the difference between longitudinal and transverse waves.",
+          "Know the definitions of amplitude, wavefront, frequency, wavelength and period of a wave.",
+          "Know that waves transfer energy and information without transferring matter.",
+          "Use the relationship: wave speed = frequency \u00d7 wavelength (v = f \u00d7 \u03bb).",
+          "Use the relationship: frequency = 1 / time period (f = 1 / T).",
+          "Use these relationships in different contexts including sound and EM waves.",
+          "Explain the Doppler effect and how motion affects frequency and wavelength.",
+          "Explain reflection and refraction of waves."
+        ],
+        "3.3 The electromagnetic spectrum": [
+          "Know light is part of a continuous EM spectrum including radio, microwave, IR, visible, UV, x-ray and gamma rays, all traveling at the same speed in free space.",
+          "Know the order of EM waves in terms of decreasing wavelength and increasing frequency.",
+          "Explain uses of EM waves (e.g. radio waves for broadcasting, microwaves for cooking).",
+          "Explain detrimental effects of overexposure to EM radiation and describe protection measures."
+        ],
+        "3.4 Light and sound": [
+          "Know that light waves are transverse and can be reflected and refracted.",
+          "Use the law of reflection: angle of incidence equals angle of reflection.",
+          "Draw ray diagrams for reflection and refraction.",
+          "Practical: investigate refraction with blocks and prisms.",
+          "Use the relationship: n = sin(i)/sin(r).",
+          "Practical: measure refractive index of glass.",
+          "Describe total internal reflection and its uses in fibres and prisms.",
+          "Know and use the relationship: sin(c) = 1/n.",
+          "Know that sound waves are longitudinal and can be reflected and refracted.",
+          "Know human hearing range is 20\u201320,000 Hz.",
+          "Practical: measure speed of sound in air.",
+          "Use oscilloscope and microphone to display sound waves.",
+          "Practical: use oscilloscope to find frequency of sound.",
+          "Understand how pitch relates to frequency and loudness to amplitude."
+        ]
+      },
+      "4. Energy resources and energy transfers": {
+        "4.1 Units": [
+          "Use units: kilogram (kg), joule (J), metre (m), metre/second (m/s), metre/second\u00b2 (m/s\u00b2), newton (N), second (s), watt (W)."
+        ],
+        "4.2 Energy transfers": [
+          "Describe energy transfers and energy stores (chemical, kinetic, thermal, etc.).",
+          "Use principle of conservation of energy.",
+          "Use and apply: efficiency = (useful energy output / total energy output) \u00d7 100%.",
+          "Describe and interpret Sankey diagrams.",
+          "Explain conduction, convection, radiation.",
+          "Practical: investigate energy transfer via these methods.",
+          "Explain how to reduce unwanted energy transfer."
+        ],
+        "4.3 Work and power": [
+          "Use: work done = force \u00d7 distance (W = F \u00d7 d).",
+          "Know work done equals energy transferred.",
+          "Use: GPE = m \u00d7 g \u00d7 h.",
+          "Use: KE = 0.5 \u00d7 m \u00d7 v\u00b2.",
+          "Understand conservation of energy links KE, GPE, work.",
+          "Use: power = work done / time (P = W / t)."
+        ],
+        "4.4 Energy resources and electricity generation": [
+          "Describe energy transfers in generating electricity using wind, water, geothermal, solar, fossil fuels, and nuclear.",
+          "Describe pros and cons of renewable and non-renewable energy sources."
+        ]
+      },
+      "5. Solids, liquids and gases": {
+        "5.1 Units": [
+          "Use units: degree Celsius (\u00b0C), Kelvin (K), joule (J), kilogram (kg), kg/m\u00b3, m\u00b2, m\u00b3, m/s, m/s\u00b2, N, Pa.",
+          "Use unit: J/kg\u00b0C."
+        ],
+        "5.2 Density and pressure": [
+          "Use: density = mass / volume (\u03c1 = m / V).",
+          "Practical: investigate density of solids and liquids.",
+          "Use: pressure = force / area (p = F / A).",
+          "Understand pressure acts equally in all directions in fluids.",
+          "Use: pressure difference = h \u00d7 \u03c1 \u00d7 g."
+        ],
+        "5.3 Change of state": [
+          "Explain how heating changes internal energy or state.",
+          "Describe melting, evaporation, boiling processes.",
+          "Describe particle arrangements in solids, liquids, gases.",
+          "Practical: temperature-time graph showing constant temp during change of state.",
+          "Know definition of specific heat capacity.",
+          "Use: \u0394Q = m \u00d7 c \u00d7 \u0394T.",
+          "Practical: investigate SHC of materials."
+        ],
+        "5.4 Ideal gas molecules": [
+          "Explain random motion and pressure from particles.",
+          "Understand absolute zero as \u2013273\u00b0C.",
+          "Convert between Kelvin and Celsius.",
+          "Explain how temperature affects molecular speed.",
+          "Know average KE \u221d Kelvin temp.",
+          "Qualitative relationship: pressure vs. volume and temperature.",
+          "Use: P1 / T1 = P2 / T2 and P1 \u00d7 V1 = P2 \u00d7 V2."
+        ]
+      },
+      "6. Magnetism and electromagnetism": {
+        "6.1 Units": [
+          "Use units: ampere (A), volt (V), watt (W)."
+        ],
+        "6.2 Magnetism": [
+          "Know that magnets attract/repel and attract magnetic materials.",
+          "Describe magnetic hard and soft materials.",
+          "Understand and draw magnetic field lines.",
+          "Know that magnetism is induced by fields.",
+          "Practical: investigate magnetic field patterns.",
+          "Use magnets to produce uniform field patterns."
+        ],
+        "6.3 Electromagnetism": [
+          "Know current in conductor produces a magnetic field.",
+          "Describe how electromagnets are constructed.",
+          "Draw magnetic field patterns around wires and solenoids.",
+          "Know that charged particles moving in magnetic fields experience a force.",
+          "Understand the motor effect and applications in motors/loudspeakers.",
+          "Use Fleming\u2019s left-hand rule.",
+          "Describe how force depends on field and current direction and magnitude."
+        ],
+        "6.4 Electromagnetic induction": [
+          "Know voltage is induced when a conductor moves through a magnetic field.",
+          "Describe electricity generation by magnets and coils.",
+          "Describe transformer structure and operation.",
+          "Explain use of step-up and step-down transformers.",
+          "Use: Vp / Vs = Np / Ns.",
+          "Use: Vp \u00d7 Ip = Vs \u00d7 Is (100% efficiency)."
+        ]
+      },
+      "7. Radioactivity and particles": {
+        "7.1 Units": [
+          "Use units: becquerel (Bq), cm, hour, min, s."
+        ],
+        "7.2 Radioactivity": [
+          "Describe atom structure with protons, neutrons, electrons.",
+          "Know atomic number, mass number, isotopes.",
+          "Know properties and effects of alpha, beta, gamma radiation.",
+          "Practical: investigate penetration of different radiations.",
+          "Know radiation changes atomic/mass numbers.",
+          "Balance nuclear equations.",
+          "Detect radiation with film or GM tube.",
+          "Know sources of background radiation.",
+          "Define and calculate half-life.",
+          "Describe uses of radiation in industry and medicine.",
+          "Describe contamination vs. irradiation.",
+          "Describe dangers of radiation and safety precautions."
+        ],
+        "7.3 Fission and fusion": [
+          "Know nuclear reactions release energy.",
+          "Describe U-235 fission and its products.",
+          "Explain chain reactions and reactor control.",
+          "Describe fusion and how it powers stars.",
+          "Explain why fusion requires high temps and pressures."
+        ]
+      },
+      "8. Astrophysics": {
+        "8.1 Units": [
+          "Use units: kg, m, m/s, m/s\u00b2, N, s, N/kg."
+        ],
+        "8.2 Motion in the universe": [
+          "Know the universe is made of billions of galaxies.",
+          "Know galaxies have billions of stars; our solar system is in the Milky Way.",
+          "Know gravitational field strength varies by planet.",
+          "Understand gravitational force and orbits.",
+          "Describe orbits of comets, moons, planets.",
+          "Use: v = 2\u03c0r / T."
+        ],
+        "8.3 Stellar evolution": [
+          "Classify stars by colour and relate to temperature.",
+          "Describe life cycle of Sun-like stars.",
+          "Describe life cycle of stars larger than the Sun.",
+          "Understand and use absolute magnitude and HR diagram."
+        ],
+        "8.4 Cosmology": [
+          "Describe Big Bang theory and supporting evidence.",
+          "Explain red-shift and CMB radiation.",
+          "Use: \u0394\u03bb / \u03bb\u2080 = v / c.",
+          "Explain how red-shift implies universe expansion."
+        ]
+      }
+    }
+  }
+}

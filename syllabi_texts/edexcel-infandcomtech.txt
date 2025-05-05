@@ -1,0 +1,1798 @@
+INTERNATIONAL 
+GCSE
+Information and Communication 
+Technology (ICT) (9-1)
+SPECIFICATION
+Pearson Edexcel International GCSE in Information and Communication Technology (ICT) (4IT1)
+For first teaching September 2017
+First examination June 2019
+Issue 2
+ 
+ 
+Edexcel, BTEC and LCCI qualifications 
+Edexcel, BTEC and LCCI qualifications are awarded by Pearson, the UK’s largest awarding 
+body offering academic and vocational qualifications that are globally recognised and 
+benchmarked. For further information, please visit our qualifications website at 
+qualifications.pearson.com. Alternatively, you can get in touch with us using the details on 
+our contact us page at qualifications.pearson.com/contactus 
+About Pearson 
+Pearson is the world's leading learning company, with 35,000 employees in more than 
+70 countries working to help people of all ages to make measurable progress in their lives 
+through learning. We put the learner at the centre of everything we do, because wherever 
+learning flourishes, so do people. Find out more about how we can help you and your 
+learners at qualifications.pearson.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Acknowledgements 
+This specification has been produced by Pearson on the basis of consultation with teachers, 
+examiners, consultants and other interested parties. Pearson would like to thank all those 
+who contributed their time and expertise to the specification’s development. 
+ 
+ 
+References to third party material made in this specification are made in good faith. Pearson 
+does not endorse, approve or accept responsibility for the content of materials, which may 
+be subject to change, or any opinions expressed therein. (Material may include textbooks, 
+journals, magazines and other publications and websites.) 
+ 
+All information in this specification is correct at time of going to publication. 
+ 
+ISBN 978 1 446 93881 2 
+All the material in this publication is copyright 
+© Pearson Education Limited 2018 
+ 
+ 
+ 
+Summary of Pearson Edexcel International GCSE in 
+Information and Communication Technology (4IT1) 
+specification Issue 2 changes 
+ 
+Summary of changes made between previous issue and this 
+current issue  
+ 
+Page 
+number  
+For clarity, some technical language has been corrected and a number of 
+changes applied throughout the specification. 
+Throughout 
+ 
+If you need further information on these changes or what they mean, contact us via our 
+website at: qualifications.pearson.com/en/support/contact-us.html. 
+ 
+ 
+ 
+Contents 
+1 
+About this specification 
+1 
+Specification updates 
+1 
+Using this specification 
+1 
+Qualification aims and objectives 
+2 
+Why choose Edexcel qualifications? 
+3 
+Why choose Edexcel International GCSE in Information and 
+Communication Technology (ICT)? 
+4 
+Supporting you in planning and implementing this qualification 
+6 
+Qualification at a glance 
+7 
+Paper overview 
+7 
+2 
+Information and Communication Technology  
+(ICT) content 
+9 
+Course structure 
+10 
+Topic 1: Digital Devices 
+11 
+Topic 2: Connectivity 
+14 
+Topic 3: Operating Online 
+16 
+Topic 4: Online Goods and Services 
+20 
+Topic 5: Applying Information and Communication Technology 21 
+Topic 6: Software Skills 
+23 
+3 
+Assessment information 
+27 
+Assessment requirements 
+27 
+Sample assessment materials 
+27 
+Assessment Objectives and weightings 
+28 
+Relationship of Assessment Objectives to units 
+28 
+4 
+Administration and general information 
+29 
+Entries 
+29 
+Access arrangements, reasonable adjustments, special  
+consideration and malpractice 
+29 
+Language of assessment 
+29 
+Access arrangements 
+30 
+Reasonable adjustments 
+30 
+Special consideration 
+30 
+ 
+ 
+Further information 
+30 
+Malpractice 
+31 
+Candidate malpractice 
+31 
+Staff/centre malpractice 
+31 
+Awarding and reporting 
+31 
+Student recruitment and progression 
+32 
+Prior learning and other requirements 
+32 
+Progression 
+32 
+Appendices 
+33 
+Appendix 1: Codes 
+35 
+Appendix 2: Pearson World Class Qualification Design Principles 36 
+Appendix 3: Transferable skills 
+38 
+Appendix 4: Glossary 
+40 
+ 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+1 
+1 About this specification 
+The Pearson Edexcel International GCSE in Information and Communication Technology 
+(ICT) is part of a suite of International GCSE qualifications offered by Pearson. 
+This qualification is not accredited or regulated by any UK regulatory body. 
+This specification includes the following key features. 
+Structure: the Pearson Edexcel International GCSE in Information and Communication 
+Technology (ICT) is a linear qualification. All papers must be taken at the end of the course 
+of study. 
+Content: features a relevant and engaging body of content that has been updated to 
+current standards. 
+Assessment: comprises both written and practical papers, allowing students to 
+demonstrate and apply their knowledge and understanding of ICT. 
+Approach: building a foundation for students wishing to progress to the Pearson Edexcel 
+International Advanced Level Applied ICT, or equivalent qualifications. 
+Specification updates 
+This specification is Issue 2 and is valid for the Edexcel International GCSE examination from 
+2019. If there are any significant changes to the specification, we will inform centres to let 
+them know. Changes will also be posted on our website. 
+For more information please visit qualifications.pearson.com 
+Using this specification 
+This specification has been designed to give guidance to teachers and to encourage effective 
+delivery of the qualification. The following information will help you get the most out of the 
+content and guidance. 
+Compulsory content: as a minimum, all the bullet points in the content must be taught. 
+The word ‘including’ in content specifies the detail of what must be covered. 
+Assessments: use a range of material and are not limited to the examples given. Teachers 
+should deliver the qualification using a good range of examples to support the assessment of 
+the content. 
+Depth and breadth of content: teachers should use the full range of content and all the 
+Assessment Objectives given in Section 2: Information and Communication Technology 
+(ICT) content. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+2
+Qualification aims and objectives 
+The aims and objectives of this qualification are to enable students to:  
+• 
+explore how digital technology impacts on the lives of individuals, organisations 
+and society 
+• 
+learn about current and emerging digital technologies and the issues raised by their use 
+in a range of contexts by individuals and organisations 
+• 
+develop awareness of the risks that are inherent in using ICT and the features of safe, 
+secure and responsible practice 
+• 
+broaden and enhance their ICT skills and capability 
+• 
+work with a range of digital tools and techniques to produce effective ICT solutions in a 
+range of contexts 
+• 
+learn how to reflect critically on their own and others’ use of ICT and how to adopt safe, 
+secure and responsible practice. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+3 
+Why choose Edexcel qualifications? 
+Pearson – the world’s largest education company 
+Edexcel academic qualifications are from Pearson, the UK’s largest awarding organisation. 
+With over 3.4 million students studying our academic and vocational qualifications 
+worldwide, we offer internationally recognised qualifications to schools, colleges and 
+employers globally. 
+Pearson is recognised as the world’s largest education company, allowing us to drive 
+innovation and provide comprehensive support for our students to acquire the knowledge 
+and skills they need for progression in study, work and life.  
+A heritage you can trust 
+The background to Pearson becoming the UK’s largest awarding organisation began in 1836, 
+when a royal charter gave the University of London its first powers to conduct exams and 
+confer degrees on its students. With over 150 years of international education experience, 
+Edexcel qualifications have firm academic foundations, built on the traditions and rigour 
+associated with Britain’s educational system. 
+Results you can trust 
+Pearson’s leading online marking technology has been shown to produce exceptionally 
+reliable results, demonstrating that at every stage Edexcel qualifications maintain the 
+highest standards. 
+Developed to Pearson’s world-class qualifications standards 
+Pearson’s world-class standards mean that all Edexcel qualifications are developed to be 
+rigorous, demanding, inclusive and empowering. We work collaboratively with a panel of 
+educational thought leaders and assessment experts, to ensure that Edexcel qualifications 
+are globally relevant, represent world-class best practice and maintain a consistent 
+standard. 
+For more information on the World Class Qualification process and principles please go to 
+Appendix 2: Pearson World Class Qualification Design Principles or visit our website: 
+uk.pearson.com/world-class-qualifications  
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+4
+Why choose Edexcel International GCSE in 
+Information and Communication Technology (ICT)? 
+We’ve listened to feedback from all parts of the international school and UK independent 
+school subject community, including a large number of teachers. We’ve made changes that 
+will engage students and give them skills that will support progression to the further study of 
+ICT, Computing and a range of other subjects. 
+We believe ICT and Computer Science are unique and complementary subjects serving 
+different purposes and meeting different student needs, and therefore we are offering both 
+subjects as International GCSEs. We think that ICT develops important skills in students, 
+such as data handling, which are transferable and useful for a wide range of jobs. In an 
+increasingly digital world, we want to provide students with every opportunity to learn skills 
+that will enable them to thrive. 
+The content and assessment approach for this qualification has been designed to meet 
+student needs in the following ways: 
+Developing confident and competent ICT users – This qualification provides students 
+with the opportunity of operating confidently in today’s digital world. It is a useful, practical 
+qualification which will provide skills needed in further education and work. 
+Providing students with relevant and transferable skills – Students will learn about 
+topics ranging from digital devices and connectivity, safe and responsible practice, and 
+understand the impact of internet on the way that organisations do business. They will be 
+also be encouraged to practice using software applications effectively. A CBI and Pearson 
+report on employability and skills in 2012 said that ‘ Many employers are also keen to see 
+the government encouraging schools and colleges to strengthen technology skills amongst 
+young people’ 
+(http://www.cbi.org.uk/media/1514978/cbi_education_and_skills_survey_2012.pdf)  
+A similar report in 2015 said that ‘..close to half of businesses.. report having IT skills 
+problems in their current workforces.’ 
+(http://news.cbi.org.uk/reports/educationandskillssurvey2015/educationandskillssurvey2015) 
+Clear and straightforward question papers – Our question papers are clear and 
+accessible for all students of all ability ranges and learning styles. Our mark schemes are 
+straightforward, so that the assessment requirements are clear. 
+Broad and deep development of students’ skills – The design of the revised 
+International GCSE aims to extend students’ knowledge and understanding by broadening 
+and deepening skills, for example students develop the ability to: 
+• 
+apply knowledge and understanding to produce Information and Communication 
+Technology-based solutions 
+• 
+develop skills of analysis and evaluation, making reasoned judgements and presenting 
+conclusions 
+• 
+reflect critically on their own and others’ use of Information and Communication 
+Technology and to adopt safe, secure and responsible practice. 
+Progression to A Level – International GCSEs enable successful progression onto A level and 
+beyond. Through our world class qualification development process we have consulted with 
+teachers as well university professors to validate the appropriateness of this qualification for 
+progression, including its content, opportunities for skills development and assessment 
+structure. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+5 
+Centres wishing to teach students how computers work or how to program them can use our 
+Pearson Edexcel International GCSE in Computer Science. We offer both ICT and Computer 
+Science, which can be taken in combination, to enable our centres to choose the most 
+appropriate qualification for each student. More information about all of our qualifications 
+can be found on our Edexcel International GCSE pages at: qualifications.pearson.com 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+6
+Supporting you in planning and implementing this 
+qualification 
+Planning 
+• 
+Our Getting Started Guide gives you an overview of the Pearson Edexcel International 
+GCSE in Information and Communication Technology (ICT) to help you understand the 
+changes to content and assessment, and what these changes mean for you and your 
+students. 
+• 
+We will give you a course planner and schemes of work. 
+• 
+Our mapping documents highlight key differences between the new and legacy 
+qualifications. 
+Teaching and learning 
+• 
+Our skills maps highlight opportunities for students to develop skills that are directly and 
+indirectly assessed. 
+• 
+Print and digital learning and teaching resources – promote ‘any time, any place’ learning 
+to improve student motivation and encourage new ways of working. 
+Preparing for exams 
+We will also provide a range of resources to help you prepare your students for the 
+assessments, including: 
+• 
+specimen papers to support formative assessments and mock exams 
+• 
+examiner commentaries following each examination series. 
+ResultsPlus 
+ResultsPlus provides the most detailed analysis available of your students’ exam 
+performance. It can help you to identify the topics and skills where further learning would 
+benefit your students. 
+examWizard 
+A free online resource designed to support students and teachers with exam preparation 
+and assessment. 
+Training events 
+In addition to online training, we host a series of training events each year for teachers to 
+deepen their understanding of our qualifications. 
+Get help and support 
+Our subject advisor service will ensure you receive help and guidance from us. You can sign 
+up to receive emails to keep up to date with qualification updates and product and service 
+news. Sign up by emailing: teachingICT@pearson.com 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+7 
+Qualification at a glance 
+Paper overview 
+Paper 1: Written Paper 
+Paper code 4IT1/01* 
+• 
+Externally assessed 
+• 
+Availability: June 
+• 
+First assessment: May/June 2019 
+50% of the total 
+International GCSE 
+Content summary 
+Students must study all of the following topics: 
+Topic 1: Digital Devices 
+Topic 2: Connectivity 
+Topic 3: Operating Online 
+Topic 4: Online Goods and Services. 
+Students will: 
+• 
+gain knowledge and understanding of Information and Communication Technology 
+• 
+develop skills to apply knowledge and understanding to produce ICT-based solutions 
+• 
+develop skills of analysis and evaluation, making reasoned judgements and 
+presenting conclusions. 
+Assessment 
+• 
+Students are assessed through a 1-hour and 30-minute written examination, set and 
+marked by Pearson. 
+• 
+The examination comprises a mixture of multiple-choice, short- and 
+long-answer questions. 
+• 
+The total number of marks available for the examination paper is 100. 
+• 
+The examination addresses all three Assessment Objectives.** 
+ 
+*See Appendix 1 for a description of this code and all the other codes relevant to this 
+qualification. 
+**See page 28 for details of the Assessment Objectives. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+8
+ 
+Paper 2: Practical Paper 
+Paper code 4IT1/02* 
+• 
+Externally assessed 
+• 
+Availability: June 
+• 
+First assessment: May/June 2019 
+50% of the total 
+International GCSE 
+Content summary 
+Students must study both of the following topics: 
+Topic 5: Applying Information and Communication Technology 
+Topic 6: Software Skills 
+Students will: 
+• 
+gain knowledge and understanding of Information and Communication Technology 
+• 
+develop skills to apply the knowledge and understanding they acquire in all topics (1–6) 
+to produce ICT-based solutions 
+• 
+develop skills of analysis and evaluation, making reasoned judgements and 
+presenting conclusions. 
+Assessment 
+• 
+Students are assessed through a three-hour practical examination, set and marked by 
+Pearson (includes printing time). 
+• 
+The examination window takes place during one week in May/June. 
+• 
+The total number of marks available for the examination paper is 100. 
+• 
+The examination addresses all three Assessment Objectives.** 
+ 
+* 
+See Appendix 1 for a description of this code and all the other codes relevant to this 
+qualification. 
+** See page 28 for details of the Assessment Objectives. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+9 
+2 Information and Communication 
+Technology (ICT) content 
+Topic 1: Digital Devices 
+11 
+Topic 2: Connectivity 
+14 
+Topic 3: Operating Online 
+16 
+Topic 4: Online Goods and Services 
+20 
+Topic 5: Applying Information and Communication Technology 21 
+Topic 6: Software Skills 
+23 
+ 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+10
+ 
+Course structure 
+• 
+The Pearson Edexcel International GCSE in Information and Communication Technology 
+(ICT) comprises six topics assessed through two examination papers. 
+• 
+The Pearson Edexcel International GCSE in Information and Communication Technology 
+(ICT) is a linear qualification. All units must be taken in the terminal series at the end of 
+the course of study. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+11 
+ 
+Topic 1: Digital Devices 
+Students need to know about the range of digital devices available. Developments in the 
+features and functionality of digital devices are rapid and this impacts on the way that 
+they are used by individuals, organisations and society. Students need to understand the 
+principles of these devices and to be able to select suitable devices and associated 
+hardware and software to use used in particular situations. 
+ 
+1 
+Digital Devices 
+Students should: 
+1.1 
+Types of digital devices 
+Students need to know about 
+computers and other digital 
+devices. They need to understand 
+how each type of device is used 
+but not the technology behind their 
+operation. 
+1.1.1 Be aware that mainframe computers are 
+used for complex processing tasks and 
+microprocessors are embedded in products 
+such as washing machines. 
+1.1.2 Understand that laptop and desktop 
+computers are types of personal computers. 
+Some laptops are used as desktop 
+replacements. 
+1.1.3 Know about types of mobile phones; 
+smartphones and specialist phones and how 
+they connect to the network (SIM). 
+1.1.4 Know about tablet devices. 
+1.1.5 Be able to describe the purpose and use of 
+other digital devices such as: 
+• 
+cameras and camcorders 
+• 
+games consoles 
+• 
+home entertainment systems 
+• 
+media players. 
+1.1.6 Know about navigation aids and how they 
+are used. 
+1.1.7 Understand the terms ‘multifunctional’ (e.g. 
+mobile phones that include a camera, have 
+limited game playing functionality and GPS) 
+and ‘convergence’ (e.g. functionality of 
+smartphones and tablet devices becomes 
+more similar) in the context of digital 
+devices. 
+1.2 
+Features of digital 
+devices 
+1.2.1 Understand features of digital devices: 
+portability, performance, storage, user 
+interface, connectivity, media support, 
+energy consumption, expansion capability, 
+security features. 
+1.2.2 Be able to discuss the features of identified 
+digital devices. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+12
+ 
+1 
+Digital Devices 
+Students should: 
+1.3 
+Software 
+Students need to know the types of 
+software used in digital devices. 
+They need to be able to identify the 
+differences between system 
+software and application software. 
+They need to know the types of 
+software applications that are 
+available. 
+1.3.1 Be able to identify the purpose of systems 
+software and applications software. 
+1.3.2 Know about operating systems and system 
+software tools such as utilities. 
+1.3.3 Know about the role/function of the 
+operating system, including basic knowledge 
+of: 
+• 
+single user and network 
+• 
+memory management 
+• 
+resource management 
+• 
+security 
+• 
+print spooling. 
+1.3.4 Know about software applications (apps), 
+including office-productivity tools, web 
+authoring, image and sound editing, 
+presentation software, control software, 
+project management software. 
+1.3.5 Know about software licensing types 
+(free/open source and proprietary software). 
+1.3.6 Understand that the purpose of 
+communication software is to provide remote 
+access to systems and to exchange files and 
+messages in text, images, audio and/or 
+video formats between different computers 
+or users. 
+1.3.7 Know why software is updated, how it is 
+done and possible risks to data/systems. 
+1.4 
+Types of peripheral 
+devices – input and 
+output 
+1.4.1 Know about types of output peripheral such 
+as monitor (screen size, resolution), printer 
+(laser, inkjet, 3D), plotter, data projector, 
+speaker, control device and when they would 
+be used. 
+1.4.2 Know about types of input peripheral such as 
+keyboard, mouse, tracker ball, joystick, 
+graphics tablet, scanner, digital camera, 
+webcam, microphone, touch screen, OMR 
+reader, OCR reader, bar code scanner, 
+biometric scanner, magnetic stripe reader, 
+chip and pin, sensor and when they would be 
+used. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+13 
+ 
+1 
+Digital Devices 
+Students should: 
+1.5 
+Types of peripheral 
+devices – storage 
+1.5.1 Be able to differentiate between storage 
+devices and the media used to store data. 
+1.5.2 Know the characteristics of hard disk drives 
+(HDD), solid state drives (SSD), optical disk 
+drives. 
+1.5.3 Know that storage devices can be internal or 
+external. 
+1.5.4 Know about types of storage media such as 
+hard disks, optical disks (CD, DVD, Blu-ray), 
+flash memory devices, magnetic tape  
+1.5.5 Know that storage media can be recordable / 
+write once (R) and rewritable (R/W) 
+1.5.6 Understand the terms describing the capacity 
+of storage such as bit, byte and multiples of 
+these (kibibytes, mebibytes, gibibytes, 
+tebibytes) (using 1KiB = 1024 bytes). 
+1.6 
+Memory 
+1.6.1 Know that RAM stands for Random Access 
+Memory and that ROM stands for Read Only 
+Memory. 
+1.6.2 Be able to describe the characteristics of 
+RAM and ROM, the differences between them 
+and the impact on the user of the size of 
+ROM/RAM. 
+1.6.3 Be able to describe the characteristics and 
+uses of flash memory. 
+1.7 
+Processors 
+1.7.1 Understand the function of the processing 
+unit (CPU). 
+1.7.2 Know how the speed of a processor is 
+measured. 
+1.8 
+ICT systems to meet 
+specified needs 
+1.8.1 Be able to identify digital devices and 
+associated peripheral devices that meets 
+particular needs, including accessibility. 
+1.8.2 Be able to identify appropriate software that 
+meets specified needs. 
+1.8.3 Understand that settings of ICT systems can 
+be configured to meet the accessibility needs 
+of individuals. 
+1.8.4 Be able to justify choices made in identifying 
+and configuring hardware and software. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+14
+ 
+Topic 2: Connectivity 
+Students need to know and understand the ways in which digital devices exchange data 
+and communicate with each other and with the larger systems supporting online 
+organisations. They should also be aware of the increasing importance of ‘access 
+everywhere’ developments. 
+Students’ understanding is not expected to be based on the details of the technology but 
+should focus on the selection of the most appropriate digital communications for a 
+particular context and the impact of this on the quality of connection. 
+ 
+2 
+Connectivity 
+Students should: 
+2.1 
+Types of digital 
+communications 
+2.1.1 Know the range of ways that digital devices 
+communicate: satellite, broadcast 
+(TV, radio), wired (cable), wireless. 
+2.1.2 Know that digital devices can communicate 
+device to device and by using networks: 
+local area network (LAN), wide area network 
+(WAN), personal area network (PAN), 
+tethering. 
+2.1.3 Know the types of wireless communication: 
+Wi-Fi, Bluetooth, GPS, 3G, 4G, infra-red 
+(IR), near-field communication (NFC). 
+2.1.4 Know the differences between Wi-Fi and 
+Bluetooth and when each is best used. 
+2.2 
+Factors influencing the 
+choice of digital 
+communication in a 
+network 
+2.2.1 Understand factors influencing the speed 
+and volume of data transfer. 
+2.2.2 Understand the benefits and drawbacks of 
+wired versus wireless communication in local 
+networks. 
+2.2.3 Understand the significance of bandwidth 
+and latency, and their impact on the ‘user 
+experience’. 
+2.2.4 Understand the features of broadband, 
+mobile broadband and cellular networks. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+15 
+ 
+2 
+Connectivity 
+Students should: 
+2.3 
+Requirements for 
+connecting to a network, 
+including the internet 
+2.3.1 Know about network operating systems and 
+how devices are identified on a network: 
+device name, internet protocol (IP) and 
+Media Access Control (MAC). 
+2.3.2 Understand the function of components of 
+wired and wireless systems: cable, wireless 
+access point, router, gateway, booster, 
+server. 
+2.3.3 Know the role of these for connecting to and 
+using the internet: 
+• 
+web browser 
+• 
+ISP 
+• 
+search engine 
+• 
+filter software. 
+2.4 
+Benefits of using a 
+LAN/home network 
+2.4.1 Know about peer-to-peer and client-server 
+networks. 
+2.4.2 Know about the role of servers in a client-
+server network. 
+2.4.3 Understand the benefits of using local area 
+network: 
+• 
+shared peripherals 
+• 
+shared data 
+• 
+flexible access 
+• 
+media streaming 
+• 
+communication 
+• 
+shared access to the internet. 
+2.4.4 Understand the benefits of using a client-
+server network: 
+• 
+control of user access rights  
+• 
+centralised administration 
+• 
+centralised backup 
+• 
+shared software 
+• 
+shared storage and file access 
+• 
+roaming profiles (hotdesk). 
+2.5 
+Securing data on a 
+network, including the 
+internet 
+2.5.1 Know about and understand the use of 
+log-ins and passwords, firewalls, WEP/WPA, 
+encryption, VPN, file access rights, 
+transaction logs and backups. 
+2.5.2 Be able to select suitable methods of 
+securing data for a particular context. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+16
+ 
+Topic 3: Operating Online 
+Students need to understand the risks to individuals and organisations of operating 
+online. They also need to understand the way in which risks can be managed by both the 
+individual and organisations. They need to be aware of the impact on individuals, 
+organisations and society of the use of digital devices. 
+ 
+3 
+Operating Online 
+Students should: 
+3.1 
+Potential risks to data 
+and personal information 
+when information is 
+transmitted and stored 
+digitally 
+3.1.1 Be aware of risks to data and information: 
+• 
+unauthorised access 
+• 
+deliberate damage by malware 
+• 
+accidental deletion 
+• 
+theft of personal data: phishing, 
+pharming. 
+3.1.2 Know about methods available to secure 
+data and personal information online: 
+• 
+firewalls 
+• 
+encryption 
+• 
+passwords, PIN, biometrics, CAPTCHA 
+tests, security questions 
+• 
+anti-malware, anti-virus, anti-adware, 
+anti-spyware  
+• 
+access rights, file permissions 
+• 
+secure websites 
+• 
+not opening email attachments or 
+following web links 
+• 
+backup procedures. 
+3.1.3 Know about online payment systems, third 
+party payment systems, bank cards, 
+contactless payment using NFC and how 
+payments are protected. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+17 
+ 
+3 
+Operating Online 
+Students should: 
+3.2 
+Impact of the internet on 
+individuals 
+3.2.1 Know about the impact on employment, 
+such as new job opportunities as the nature 
+of a job changes, new skills requirements, 
+potential job loss. 
+3.2.2 Understand the impact on working practices, 
+including collaborative working and flexible 
+or mobile working. 
+3.2.3 Know about better access to information and 
+services, new ways of learning, and the 
+wider range of entertainment and leisure 
+opportunities. 
+3.2.4 Know about social impacts such as: 
+• 
+reduced social interaction 
+• 
+increases in cyberbullying 
+• 
+reduced physical activity. 
+3.2.5 Understand how to stay safe online. 
+3.3 
+Online working from 
+home 
+3.3.1 Understand how the availability of digital 
+devices and the internet enables individuals 
+to work from home. 
+3.3.2 Know the benefits and drawbacks of working 
+from home for individuals and organisations. 
+3.4 
+Impact of the internet on 
+organisations 
+3.4.1 Understand positive impacts: improved 
+communication, access to global markets 
+and workforce, changes in the way 
+information is managed and used. 
+3.4.2 Understand negative impacts: security 
+issues, risk of hacking, greater competition. 
+3.5 
+Impact of the internet on 
+society 
+3.5.1 Understand the impact on society of the 
+ability of individuals to have less-restricted 
+access to networks at any time. 
+3.5.2 Know about the gap between information 
+rich and information poor. 
+3.5.3 Understand the causes and implications of 
+unequal access to ICT (locally, globally). 
+3.5.4 Know about the impact on individuals and 
+communities of limited or no access to digital 
+technologies. 
+3.5.5 Understand the impact of changes in ways of 
+socialising. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+18
+ 
+3 
+Operating Online 
+Students should: 
+3.6 
+Types of online 
+communities 
+3.6.1 Understand key features of online 
+communities: 
+• 
+social networking 
+• 
+online gaming 
+• 
+online work spaces 
+• 
+virtual learning environments (VLE) 
+• 
+user-generated reference sites: wikis, 
+websites, forums 
+• 
+user-generated content: video sharing 
+sites, blogs, websites 
+• 
+social bookmarking. 
+3.7 
+Use of online 
+communities 
+3.7.1 Know the functions and target audience of 
+different forms of online communities. 
+3.7.2 Understand the ways in which online 
+communities are used to communicate and 
+collaborate on a global scale. 
+3.7.3 Be aware of the purpose of responsible use 
+and acceptable behaviour policies. 
+3.7.4 Understand how to stay safe online: cyber 
+bullying, anonymity of others 
+(misrepresentation), disclosure of personal 
+information/location. 
+3.8 
+Implications of the use 
+of digital technologies 
+3.8.1 Know about data protection, the legal 
+requirements of those storing data about 
+individuals and an individual’s legal rights. 
+3.8.2 Understand how copyright legislation affects 
+the use of digital information and media. 
+3.8.3 Understand that individuals’ movements and 
+communications can be monitored. 
+3.8.4 Be aware of safe and responsible practice 
+when using ICT. 
+3.8.5 Understand sustainability issues and ways of 
+mitigating the environmental impact of 
+digital devices. 
+3.8.6 Understand the health and safety issues that 
+arise from individuals’ use of ICT and know 
+how they can be minimised. 
+ 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+19 
+ 
+3 
+Operating Online 
+Students should: 
+3.9 
+Availability of 
+information online and 
+the use of online 
+information 
+3.9.1 Understand that information can be gathered 
+from a wide range of sources. 
+3.9.2 Be able to select and use appropriate 
+sources of information. 
+3.9.3 Know how to use search engines effectively. 
+3.9.4 Be able to evaluate the fitness for purpose of 
+available information in terms of accuracy, 
+age, relevance, reliability, bias. 
+3.9.5 Understand issues related to copyright: 
+permission to use, acknowledgement of 
+source. 
+3.9.6 Understand issues related to plagiarism: 
+copy and paste, rewriting, paraphrasing. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+20
+ 
+Topic 4: Online Goods and Services 
+In addition to understanding how standalone and local area networks are used students 
+need to know about the increasing use of the online systems using dedicated links and 
+the internet. 
+ 
+4 
+Online Goods and 
+Services 
+Students should: 
+4.1 
+Types of services 
+4.1.1 Understand what online services are 
+offered by: 
+• 
+shopping sites – basket, checkout, 
+secure payment, product catalogue 
+• 
+booking systems for travel, leisure and 
+entertainment 
+• 
+banks 
+• 
+education and training providers – VLE, 
+online support, online training courses, 
+remote access 
+• 
+gaming sites 
+• 
+news and other information providers 
+• 
+auction sites 
+• 
+entertainment providers – on demand, 
+streaming, downloads. 
+4.2 
+Impact of online services 
+4.2.1 Understand the impact on an individual’s 
+lifestyle and behaviour of the availability of 
+goods and services online. 
+4.2.2 Understand the impact of the internet on the 
+ways that organisations do business. 
+4.2.3 Understand how transactional data is 
+collected and used: what is collected, 
+cookies, transaction tracking. 
+4.2.4 Know about targeted marketing and 
+personalisation techniques. 
+4.2.5 Understand the features and characteristics 
+of online services and local services. 
+4.3 
+Online software 
+4.3.1 Understand the impact of cloud-based 
+services: hosted applications, storage. 
+4.3.2 Understand the features and characteristics 
+of hosted applications software and locally 
+installed software. 
+4.3.3 Understand the features and characteristics 
+of online data storage and local storage. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+21 
+ 
+Topic 5: Applying Information and Communication 
+Technology 
+Students need to be able to use a range of software applications effectively and 
+appropriately. 
+ 
+5 
+Applying ICT 
+Students should: 
+5.1 
+Software applications 
+5.1.1 Use the following software effectively: 
+• 
+word processing 
+• 
+database management 
+• 
+spreadsheet 
+• 
+web authoring 
+• 
+presentation (multimedia) 
+• 
+graphics. 
+5.1.2 Select appropriate software applications to 
+meet needs. 
+5.2 
+Data and information 
+5.2.1 Understand the difference between data and 
+information 
+5.2.2 Use: 
+• 
+text 
+• 
+numbers 
+• 
+images 
+• 
+animation. 
+5.2.3 Enter, organise, develop, refine and format 
+information, applying editing techniques to 
+meet needs. 
+5.2.4 Bring together and organise different types 
+of information to achieve a purpose. 
+5.3 
+Using software 
+applications 
+5.3.1 Produce information that is fit for purpose 
+and audience, using accepted layouts and 
+house styles. 
+5.3.2 Use styles appropriately, including serif and 
+sans serif fonts, colour choice. 
+5.3.3 Work accurately and proofread, using 
+software facilities where appropriate for 
+the task. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+22
+ 
+5 
+Applying ICT 
+Students should: 
+5.4 
+Reviewing outcomes 
+5.4.1 Review the outcomes of the use of software 
+applications by comparing the digital product 
+with the original requirements. 
+5.4.2 Identify strengths and weaknesses in a 
+digital product and suggest possible 
+improvements. 
+5.4.3 Make modifications to improve the 
+outcomes. 
+5.4.4 Evaluate the selection, use and effectiveness 
+of ICT tools and facilities used. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+23 
+ 
+Topic 6: Software Skills 
+Students need to demonstrate skills in using the software applications identified in 5.1.1. 
+6 
+Software Skills 
+Students should be able to: 
+6.1 
+Word processing 
+6.1.1 Enter or edit text that is appropriate for a 
+given context using accurate spelling, 
+punctuation and grammar. 
+6.1.2 Enter, edit and format text using: bullets, 
+numbering, sub-numbering, alignment, tabs, 
+line spacing, colour, font size and style, text 
+wrap, text boxes. 
+6.1.3 Use columns and/or tables: horizontal and 
+vertical text alignment, merge and split cells, 
+gridlines, borders, shading. 
+6.1.4 Use page layout: headings, sub-headings, 
+lists, templates, header, footer, portrait, 
+landscape, page breaks, page numbering. 
+6.1.5 Integrate in a single document: charts, 
+tables, images, callouts/autoshapes, text 
+from different files, text boxes, grouping, 
+layering (in front of/behind), values from 
+spreadsheets. 
+6.1.6 Produce documents in these document 
+types: letter, report, newsletter, poster, 
+leaflet, information sheet (fact sheet), 
+memo. 
+6.1.7 Use standard conventions: salutation, 
+complimentary close, date, subject, logo. 
+6.1.8 Use mail merge: mail merge from word 
+processed, spreadsheet and database 
+documents. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+24
+ 
+6 
+Software Skills 
+Students should be able to: 
+6.2 
+Database management 
+6.2.1 Identify data types: alphanumeric/text, 
+numeric/number, date, currency, 
+logical/Boolean. 
+6.2.2 Explain the structure of a given database, 
+including: record, field, table, primary 
+key/field, foreign key/field, relationships 
+between tables. 
+6.2.3 Explain the need for validation and identify 
+validation checks such as range check, 
+presence check, type check, length check. 
+6.2.4 Sort using a single field, multiple fields, 
+ascending/descending order. 
+6.2.5 Input information to given tables or forms 
+applying format consistently. 
+6.2.6 Use search/query using single criterion, 
+multiple criteria, search within results, 
+relational operators, logical operators. 
+6.2.7 Produce outputs: reports, mail merge 
+documents, specified fields, design view 
+(table structure, searches/queries, forms, 
+relationships), data view (table, 
+search/query results, forms). 
+ 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+25 
+ 
+6 
+Software Skills 
+Students should be able to: 
+6.3 
+Spreadsheet 
+6.3.1 Know data types, number, text. 
+6.3.2 Format a worksheet: currency, percentage, 
+decimal places, date, time, text wrap, row 
+height, column width, gridlines, merge/split 
+cells, cell borders, cell shading, hiding rows 
+and columns. 
+6.3.3 Use formulae: arithmetic operators (plus, 
+minus, multiply, divide), percentage, single 
+operators, multiple operators, absolute and 
+relative cell referencing, named cells/ranges. 
+Replicate effectively. 
+6.3.4 Use functions: SUM, AVERAGE, IF, VLOOKUP 
+/LOOKUP, MAXIMUM, MINIMUM, COUNT 
+(COUNTA, COUNTIF), LENGTH, PRODUCT. 
+6.3.5 Use other features: multiple worksheets, 
+sorting, filtering. 
+6.3.6 Add graphs and charts: pie chart, line chart, 
+bar/column chart, scattergram. 
+6.3.7 Select an appropriate graph/chart and format 
+it effectively adding title, axis labels, 
+legends, axis, scale, trend line as 
+appropriate. 
+6.3.8 Print selected columns/rows from a 
+worksheet formula view or data view in 
+landscape or portrait format, adding headers 
+and footers, row and column headers. 
+6.4 
+Web authoring 
+6.4.1 Use a template: tables/frames, standard 
+page features, banners, menu/navigation. 
+6.4.2 Insert text, images, buttons, animation. 
+6.4.3 Format a web page: headings, subheadings, 
+body text, alignment. 
+6.4.4 Use HTML code: insert hyperlinks, insert 
+images, font enhancements. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+26
+ 
+6 
+Software Skills 
+Students should be able to: 
+6.5 
+Presentation 
+6.5.1 Create a template/master slide: 
+placeholders, footer, slide number, 
+background, font enhancements (bold, italic, 
+underline). 
+6.5.2 Create slides: insert text, images, action 
+buttons, hyperlinks; add animation, 
+transition effects. 
+6.5.3 Print: handouts (two to a page, three to a 
+page), notes pages, full page, headers and 
+footers. 
+6.6 
+Graphics 
+6.6.1 Explain features of image types: bitmap, 
+vector. 
+6.6.2 Create images: combining basic shapes and 
+text, rectangles (including square), circles 
+(including ovals), lines, triangles, arrows, 
+text boxes. 
+6.6.3 Edit images: image editing, cropping, adding 
+captions/text, editing/deletion of unwanted 
+aspects. 
+6.7 
+File management 
+6.7.1 Save work regularly and keep information 
+secure. 
+6.7.2 Use sensible filenames and formats. 
+6.7.3 Create and manage files and folder 
+structures. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+27 
+3 Assessment information 
+Assessment requirements 
+Component/paper 
+number and unit title  
+Level Assessment information 
+Number of marks 
+allocated in the 
+component/paper 
+Paper 1: 
+Written Paper 
+1/2 
+One-hour and 30-minute written 
+examination, set and marked by 
+Pearson, comprising a mixture of 
+multiple-choice, short- and long- 
+answer questions. 
+100 marks 
+Paper 2: 
+Practical Paper 
+1/2 
+Three-hour practical examination, 
+set and marked by Pearson, 
+comprising two sections. The 
+examination contains series of 
+scenario-based tasks. 
+100 marks 
+ 
+Sample assessment materials 
+Sample papers and mark schemes can be found in the Pearson Edexcel International GCSE 
+in Information and Communication Technology (ICT) Sample Assessment Materials (SAMs) 
+document. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+28
+Assessment Objectives and weightings 
+ 
+ 
+% in 
+International 
+GCSE 
+AO1 
+Demonstrate knowledge and understanding of Information 
+and Communication Technology (ICT) 
+25-27% 
+AO2 
+Apply knowledge, understanding and skills to produce ICT-
+based solutions 
+46-52% 
+AO3 
+Analyse, evaluate, make reasoned judgements and present 
+conclusions* 
+24-26% 
+* Students will be required to demonstrate approximately 15% of analysis and 10% 
+evaluation. 
+Relationship of Assessment Objectives to units 
+Unit number 
+Assessment Objective 
+AO1 
+AO2 
+AO3 
+Paper 1 
+20-23% 
+14-16% 
+13-14% 
+Paper 2 
+5-6% 
+34-36% 
+10-11% 
+Total for 
+International GCSE 
+25-27% 
+46-52% 
+24-26% 
+All components will be available for assessment from May/June 2019. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+29 
+4 Administration and general information 
+Entries 
+Details of how to enter students for the examinations for this qualification can be found in 
+our International Information Manual. A copy is made available to all examinations officers 
+and it is also available on our website. 
+Students should be advised that, if they take two qualifications in the same subject, 
+colleges, universities and employers are very likely to take the view that they have achieved 
+only one of the two GCSEs/International GCSEs. Students or their advisers who have any 
+doubts about subject combinations should check with the institution to which they wish to 
+progress before embarking on their programmes. 
+Access arrangements, reasonable adjustments, special consideration 
+and malpractice 
+Equality and fairness are central to our work. Our equality policy requires all students to 
+have equal opportunity to access our qualifications and assessments, and our qualifications 
+to be awarded in a way that is fair to every student. 
+We are committed to making sure that: 
+• 
+students with a protected characteristic (as defined by the UK Equality Act 2010) are not, 
+when they are undertaking one of our qualifications, disadvantaged in comparison to 
+students who do not share that characteristic 
+• 
+all students achieve the recognition they deserve for undertaking a qualification and that 
+this achievement can be compared fairly to the achievement of their peers. 
+Language of assessment 
+Assessment of this qualification will only be available in English. All student work must be 
+in English. 
+We recommend that students are able to read and write in English at Level B2 of the 
+Common European Framework of Reference for Languages. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+30
+Access arrangements 
+Access arrangements are agreed before an assessment. They allow students with special 
+educational needs, disabilities or temporary injuries to: 
+• 
+access the assessment 
+• 
+show what they know and can do without changing the demands of the assessment.  
+The intention behind an access arrangement is to meet the particular needs of an individual 
+student with a disability without affecting the integrity of the assessment. Access 
+arrangements are the principal way in which awarding bodies comply with the duty under 
+the Equality Act 2010 to make ‘reasonable adjustments’. 
+Access arrangements should always be processed at the start of the course. Students will 
+then know what is available and have the access arrangement(s) in place for assessment.  
+Reasonable adjustments 
+The Equality Act 2010 requires an awarding organisation to make reasonable adjustments 
+where a student with a disability would be at a substantial disadvantage in undertaking an 
+assessment. The awarding organisation is required to take reasonable steps to overcome 
+that disadvantage. 
+A reasonable adjustment for a particular student may be unique to that individual and 
+therefore might not be in the list of available access arrangements. 
+Whether an adjustment will be considered reasonable will depend on a number of factors, 
+including: 
+• 
+the needs of the student with the disability 
+• 
+the effectiveness of the adjustment 
+• 
+the cost of the adjustment; and 
+• 
+the likely impact of the adjustment on the student with the disability and other students. 
+An adjustment will not be approved if it involves unreasonable costs to the awarding 
+organisation, timeframes or affects the security or integrity of the assessment. This is 
+because the adjustment is not ‘reasonable’. 
+Special consideration 
+Special consideration is a post-examination adjustment to a student's mark or grade to 
+reflect temporary injury, illness or other indisposition at the time of the 
+examination/assessment, which has had, or is reasonably likely to have had, a material 
+effect on a candidate’s ability to take an assessment or demonstrate their level of attainment 
+in an assessment. 
+Further information 
+Please see our website for further information about how to apply for access arrangements 
+and special consideration. 
+For further information about access arrangements, reasonable adjustments and special 
+consideration please go to the Joint Council for Qualifications (JCQ) website: 
+www.jcq.org.uk. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+31 
+Malpractice 
+Candidate malpractice 
+Candidate malpractice refers to any act by a candidate that compromises or seeks to 
+compromise the process of assessment or which undermines the integrity of the 
+qualifications or the validity of results/certificates. 
+Candidate malpractice in examinations must be reported to Pearson using a JCQ Form M1 
+(available at www.jcq.org.uk/exams-office/malpractice). The form can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson, 190 High 
+Holborn, London, WC1V 7BH. Please provide as much information and supporting 
+documentation as possible. Note that the final decision regarding appropriate sanctions lies 
+with Pearson. 
+Failure to report malpractice constitutes staff or centre malpractice. 
+Staff/centre malpractice 
+Staff and centre malpractice includes both deliberate malpractice and maladministration of 
+our qualifications. As with candidate malpractice, staff and centre malpractice is any act that 
+compromises or seeks to compromise the process of assessment or which undermines the 
+integrity of the qualifications or the validity of results/certificates. The security of 
+assessment materials, including secure data files, must be maintained at all times prior to 
+and throughout the examination window. Failure to do so may constitute maladministration 
+or malpractice. Any breach must be reported to Pearson immediately at mail to: 
+pqsmalpractice@pearson.com. 
+All cases of suspected staff malpractice and maladministration must be reported 
+immediately, before any investigation is undertaken by the centre, to Pearson on  
+a JCQ Form M2(a) (available at www.jcq.org.uk/exams-office/malpractice).  
+The form, supporting documentation and as much information as possible can be emailed to 
+pqsmalpractice@pearson.com or posted to: Investigations Team, Pearson,  
+190 High Holborn, London, WC1V 7BH. Note that the final decision regarding  
+appropriate sanctions lies with Pearson. 
+Failure to report malpractice itself constitutes malpractice. 
+More-detailed guidance on malpractice can be found in the latest version of the document 
+JCQ General and vocational qualifications Suspected Malpractice in Examinations and 
+Assessments, available at www.jcq.org.uk/exams-office/malpractice. 
+Awarding and reporting 
+The International GCSE qualification will be graded and certificated on a nine-grade scale 
+from 9 to 1 using the total subject mark where 9 is the highest grade. Individual 
+components are not graded. The first certification opportunity for the Pearson Edexcel 
+International GCSE in Information and Communication Technology (ICT) will be in 2019. 
+Students whose level of achievement is below the minimum judged by Pearson to be of 
+sufficient standard to be recorded on a certificate will receive an unclassified U result. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+32
+Student recruitment and progression 
+Pearson’s policy concerning recruitment to our qualifications is that: 
+• 
+they must be available to anyone who is capable of reaching the required standard 
+• 
+they must be free from barriers that restrict access and progression 
+• 
+equal opportunities exist for all students. 
+Prior learning and other requirements 
+There are no prior learning or other requirements for this qualification. 
+Progression 
+This qualification supports progress to further study, including International A Levels, GCEs, 
+BTECs and Diplomas in IT, Computing and related subjects.  
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+33 
+Appendices 
+Appendix 1: Codes 
+35 
+Appendix 2: Pearson World Class Qualification Design Principles 36 
+Appendix 3: Transferable skills 
+38 
+Appendix 4: Glossary 
+40 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+34
+ 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+35 
+Appendix 1: Codes 
+ 
+Type of code 
+Use of code 
+Code 
+Subject codes 
+The subject code is used by centres to 
+cash in the entry for a qualification. 
+International GCSE – 
+4IT1 
+Paper codes 
+These codes are provided for 
+information. Students may need to be 
+entered for individual papers. 
+Paper 1: 4IT1/01 
+Paper 2: 4IT1/02 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+36
+Appendix 2: Pearson World Class Qualification 
+Design Principles 
+Pearson’s World Class Qualification design principles mean that all Edexcel qualifications are 
+developed to be rigorous, demanding, inclusive and empowering. 
+ 
+We work collaboratively to gain approval from an external panel of educational  
+thought leaders and assessment experts from across the globe. This is to ensure that 
+Edexcel qualifications are globally relevant, represent world-class best practice in 
+qualification and assessment design, maintain a consistent standard and support learner 
+progression in today’s fast-changing world. 
+Pearson’s Expert Panel for World-Class Qualifications is chaired by Sir Michael Barber, a 
+leading authority on education systems and reform. He is joined by a wide range of key 
+influencers with expertise in education and employability. 
+“I’m excited to be in a position to work with the global leaders in curriculum and assessment 
+to take a fresh look at what young people need to know and be able to do in the 21st 
+century, and to consider how we can give them the opportunity to access that sort of 
+education.” Sir Michael Barber. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+37 
+Endorsement from Pearson’s Expert Panel for World Class 
+Qualifications for the International GCSE development process 
+December 2015 
+“We were chosen, either because of our expertise in the UK education system, or because of 
+our experience in reforming qualifications in other systems around the world as diverse as 
+Singapore, Hong Kong, Australia and a number of countries across Europe.  
+We have guided Pearson through what we judge to be a rigorous world class qualification 
+development process that has included, where appropriate: 
+• extensive international comparability of subject content against the highest-performing 
+jurisdictions in the world 
+• benchmarking assessments against UK and overseas providers to ensure that they are at 
+the right level of demand 
+• establishing External Subject Advisory Groups, drawing on independent subject-specific 
+expertise to challenge and validate our qualifications. 
+Importantly, we have worked to ensure that the content and learning is future oriented, and 
+that the design has been guided by Pearson’s Efficacy Framework. This is a structured, 
+evidenced process which means that learner outcomes have been at the heart of this 
+development throughout. 
+We understand that ultimately it is excellent teaching that is the key factor to a learner’s 
+success in education but as a result of our work as a panel we are confident that we have 
+supported the development of Edexcel International GCSE qualifications that are outstanding 
+for their coherence, thoroughness and attention to detail and can be regarded as 
+representing world-class best practice.” 
+ 
+Sir Michael Barber (Chair)  
+Chief Education Advisor, Pearson plc 
+Professor Lee Sing Kong  
+Dean and Managing Director, National 
+Institute of Education International, 
+Singapore  
+Dr Peter Hill  
+Former Chief Executive ACARA 
+Bahram Bekhradnia  
+President, Higher Education Policy Institute 
+Professor Jonathan Osborne  
+Stanford University 
+Dame Sally Coates  
+Director of Academies (South), United 
+Learning Trust 
+Professor Dr Ursula Renold  
+Federal Institute of Technology, Switzerland 
+Professor Bob Schwartz  
+Harvard Graduate School of Education 
+Professor Janice Kay  
+Provost, University of Exeter 
+Jane Beine  
+Head of Partner Development, John Lewis 
+Partnership 
+Jason Holt  
+CEO, Holts Group 
+ 
+ 
+All titles correct as at December 2015. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+38
+Appendix 3: Transferable skills 
+The need for transferable skills 
+In recent years, higher-education institutions and employers have consistently flagged the 
+need for students to develop a range of transferable skills to enable them to respond with 
+confidence to the demands of undergraduate study and the world of work. 
+The Organisation for Economic Co-operation and Development (OECD) defines skills, or 
+competencies, as ‘the bundle of knowledge, attributes and capacities that can be learned 
+and that enable individuals to successfully and consistently perform an activity or task and 
+can be built upon and extended through learning.’[1] 
+To support the design of our qualifications, the Pearson Research Team selected and 
+evaluated seven global 21st-century skills frameworks. Following on from this process, we 
+identified the National Research Council’s (NRC) framework [2] as the most evidence-based 
+and robust skills framework, and have used this as a basis for our adapted skills framework. 
+The framework includes cognitive, intrapersonal skills and interpersonal skills. The NRC 
+framework is included alongside literacy and numeracy skills. 
+ 
+ 
+The skills have been interpreted for this specification to ensure they are appropriate for the 
+subject. All of the skills listed are evident or accessible in the teaching, learning and/or 
+assessment of the qualification. Some skills are directly assessed. Pearson materials will 
+support you in identifying these skills and developing these skills in students. 
+The table overleaf sets out the framework and gives an indication of the skills that can be 
+found in Information and Communication Technology (ICT) and indicates the interpretation 
+of the skill in this area. A full subject interpretation of each skill, with mapping to show 
+opportunities for student development is given on the subject pages of our website: 
+qualifications.pearson.com 
+                                           
+ 
+ 
+1 OECD – Better Skills, Better Jobs, Better Lives (OECD Publishing, 2012) 
+2 Koenig, J. A. (2011) Assessing 21st Century Skills: Summary of a Workshop (National Academies Press, 2011) 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+39 
+ 
+Cognitive skills 
+Cognitive 
+processes and 
+strategies 
+• 
+Critical thinking 
+• 
+Problem solving 
+• 
+Analysis 
+• 
+Reasoning/argumentation 
+• 
+Interpretation 
+• 
+Decision making 
+• 
+Adaptive learning 
+• 
+Executive function 
+Creativity 
+• 
+Creativity 
+• 
+Innovation 
+Intrapersonal skills 
+Intellectual 
+openness 
+• 
+Adaptability 
+• 
+Personal and social 
+responsibility 
+• 
+Continuous learning 
+• 
+Intellectual interest and 
+curiosity 
+Work ethic/ 
+conscientiousness 
+• 
+Initiative 
+• 
+Self-direction 
+• 
+Responsibility 
+• 
+Perseverance 
+• 
+Productivity 
+• 
+Self-regulation 
+(metacognition, forethought, 
+reflection) 
+• 
+Ethics 
+• 
+Integrity 
+Positive core  
+self-evaluation 
+• 
+Self-monitoring/ 
+self-evaluation/ 
+self-reinforcement 
+Interpersonal skills 
+Teamwork and 
+collaboration 
+• 
+Communication 
+• 
+Collaboration 
+• 
+Teamwork 
+• 
+Co-operation 
+• 
+Empathy/perspective taking 
+• 
+Negotiation 
+Leadership 
+• 
+Responsibility 
+• 
+Assertive communication 
+• 
+Self-presentation 
+Using skills, knowledge and 
+understanding acquired to 
+respond to new and innovative 
+technologies and methods of 
+communication. 
+Developing and refining a 
+strategy over time for 
+applications of ICT, to different 
+contexts reflecting on the success 
+or otherwise of the strategy. 
+Using verbal and non-verbal 
+communication skills in 
+discussions about ICT issues. 
+ 
+Pearson Edexcel International GCSE in Information and Communication Technology 
+Specification – Issue 2 – May 2018 © Pearson Education Limited 2018 
+40
+Appendix 4: Glossary 
+ 
+Term 
+Definition 
+Assessment 
+Objectives 
+The requirements that students need to meet to succeed in the 
+qualification. Each assessment objective has a unique focus, which 
+is then targeted in examinations or coursework. Assessment 
+Objectives may be assessed individually or in combination. 
+External 
+assessment 
+An examination that is held at the same time and place in a 
+global region.  
+Linear 
+Qualifications that are linear have all assessments at the end of a 
+course of study. It is not possible to take one assessment earlier in 
+the course of study. 
+ 
+Db260418V:\LT\PD\INTERNATIONAL_GCSES_2017\9781446938812_INT_GCSE_ICT\9781446938812_INT_GCSE_ICT_ISS2\ 
+9781446938812_INT_GCSE_ICT_ISS2.DOC.1–47/3 
+For information about Edexcel, BTEC or LCCI qualifications  
+visit qualifications.pearson.com
+Edexcel is a registered trademark of Pearson Education Limited
+Pearson Education Limited. Registered in England and Wales No. 872828 
+Registered Office: 80 Strand, London WC2R 0RL 
+VAT Reg No GB 278 537121
+Getty Images: Alex Belmonlinsky

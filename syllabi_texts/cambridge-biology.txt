@@ -1,0 +1,3273 @@
+Syllabus
+Cambridge IGCSE™ (9–1)
+Biology 0970
+Use this syllabus for exams in 2023, 2024 and 2025.
+Exams are available in the June and November series.
+Version 1
+Please check the syllabus page at www.cambridgeinternational.org/0970  
+to see if this syllabus is available in your administrative zone.
+Why choose Cambridge International?
+Cambridge International prepares school students for life, helping them develop an informed curiosity and a lasting 
+passion for learning. We are part of the University of Cambridge.
+Our Cambridge Pathway gives students a clear path for educational success from age 5 to 19. Schools can shape 
+the curriculum around how they want students to learn – with a wide range of subjects and flexible ways to offer 
+them. It helps students discover new abilities and a wider world, and gives them the skills they need for life, so they 
+can achieve at school, university and work.
+Our programmes and qualifications set the global standard for international education. They are created by subject 
+experts, rooted in academic rigour and reflect the latest educational research. They provide a strong platform for 
+learners to progress from one stage to the next, and are well supported by teaching and learning resources.
+Our mission is to provide educational benefit through provision of international programmes and qualifications for 
+school education and to be the world leader in this field. Together with schools, we develop Cambridge learners 
+who are confident, responsible, reflective, innovative and engaged – equipped for success in the modern world.
+Every year, nearly a million Cambridge students from 10 000 schools in 160 countries prepare for their future with 
+the Cambridge Pathway. 
+‘We think the Cambridge curriculum is superb preparation for university.’
+Christoph Guttentag, Dean of Undergraduate Admissions, Duke University, USA
+Quality management
+Cambridge International is committed to providing exceptional quality. In line with this commitment, our 
+quality management system for the provision of international qualifications and education programmes  
+for students aged 5 to 19 is independently certified as meeting the internationally recognised standard,  
+ISO 9001:2015. Learn more at www.cambridgeinternational.org/ISO9001
+Copyright © UCLES September 2020
+Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of 
+the University of Cambridge Local Examinations Syndicate (UCLES), which itself is a department of the University of Cambridge. 
+UCLES retains the copyright on all its publications. Registered centres are permitted to copy material from this booklet for their own 
+internal use. However, we cannot give permission to centres to photocopy any material that is acknowledged to a third party even for 
+internal use within a centre.
+Contents
+1  Why choose this syllabus? .....................................................................................................2
+2  Syllabus overview ....................................................................................................................5
+Aims		
+5
+Content overview	
+6
+Assessment overview	
+7
+Assessment objectives	
+8
+3  Subject content .......................................................................................................................10
+4  Details of the assessment ................................................................................................... 45
+Core assessment	
+45
+Extended assessment	
+45
+Practical assessment	
+46
+Apparatus, materials and reagents	
+48
+Safety in the laboratory	
+50
+Mathematical requirements	
+50
+Presentation of data 	
+51
+Conventions (e.g. signs, symbols, terminology and nomenclature) 	
+53
+Command words	
+54
+5  What else you need to know ...............................................................................................55
+Before you start	
+55
+Making entries	
+56
+After the exam	
+57
+How students and teachers can use the grades	
+57
+Grade descriptions	
+57
+Changes to this syllabus for 2023, 2024 and 2025	
+58
+Important: Changes to this syllabus
+For information about changes to this syllabus for 2023, 2024 and 2025, go to page 58
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025. 
+2
+www.cambridgeinternational.org/igcse
+Back to contents page
+1  Why choose this syllabus? 
+Key benefits
+Cambridge IGCSE is the world’s most popular international 
+qualification for 14 to 16 year olds, although it can be taken by 
+students of other ages. It is tried, tested and trusted. 
+Students can choose from 70 subjects in any combination – it is 
+taught by over 4800 schools in over 150 countries.
+Our programmes balance a thorough knowledge and understanding 
+of a subject and help to develop the skills learners need for their 
+next steps in education or employment. 
+Cambridge IGCSE (9–1) Biology develops a set of transferable skills 
+including handling data, practical problem-solving and applying 
+the scientific method. Learners develop relevant attitudes, such as 
+concern for accuracy and precision, objectivity, integrity, enquiry, initiative and inventiveness. They acquire the 
+essential scientific skills required for progression to further studies or employment.
+Our approach in Cambridge IGCSE (9–1) Biology encourages learners to be:
+confident, interested in learning about science, questioning ideas and using scientific language to communicate 
+their views and opinions
+responsible, working methodically and safely when working alone or collaboratively with others 
+reflective, learning from their experiences and interested in scientific issues that affect the individual, the 
+community and the environment  
+innovative, solving unfamiliar problems confidently and creatively
+engaged, keen to develop scientific skills, being curious about scientific principles and their application in the world.
+‘The strength of Cambridge IGCSE qualifications is internationally recognised and has provided 
+an international pathway for our students to continue their studies around the world.’
+Gary Tan, Head of Schools and CEO, Raffles International Group of Schools, Indonesia
+Cambridge
+learner
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Why choose this syllabus? 
+3
+www.cambridgeinternational.org/igcse
+Back to contents page
+International recognition and acceptance
+Our expertise in curriculum, teaching and learning, and assessment is the basis for the recognition of our 
+programmes and qualifications around the world. The combination of knowledge and skills in Cambridge IGCSE 
+Biology gives learners a solid foundation for further study. Candidates who achieve grades 9 to 4 are well prepared 
+to follow a wide range of courses including Cambridge International AS & A Level Biology or Marine Science.
+Cambridge IGCSEs are accepted and valued by leading universities and employers around the world as evidence of  
+academic achievement. Many universities require a combination of Cambridge International AS & A Levels and 
+Cambridge IGCSEs or equivalent to meet their entry requirements.
+UK NARIC, the national agency in the UK for the recognition and comparison of international qualifications and 
+skills, has carried out an independent benchmarking study of Cambridge IGCSE and found it to be comparable to 
+the standard of the reformed GCSE in the UK. This means students can be confident that their Cambridge IGCSE 
+qualifications are accepted as equivalent to UK GCSEs by leading universities worldwide.
+Learn more at www.cambridgeinternational.org/recognition
+‘Cambridge IGCSE is one of the most sought-after and recognised qualifications in the world. It 
+is very popular in Egypt because it provides the perfect preparation for success at advanced level 
+programmes.’
+Managing Director of British School in Egypt BSE
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Why choose this syllabus? 
+4
+www.cambridgeinternational.org/igcse
+Back to contents page
+Supporting teachers
+We provide a wide range of resources, detailed guidance and innovative training and professional development so 
+that you can give your students the best possible preparation for Cambridge IGCSE. To find out which resources are 
+available for each syllabus go to our School Support Hub. 
+The School Support Hub is our secure online site for Cambridge teachers where you can find the resources you need 
+to deliver our programmes. You can also keep up to date with your subject and the global Cambridge community 
+through our online discussion forums.  
+Find out more at www.cambridgeinternational.org/support
+Teaching and assessment
+•  Endorsed resources
+•  Online forums
+•  Support for coursework and speaking tests
+  Results
+•  Candidate Results Service
+•  Principal examiner reports for teachers
+•  Results Analysis
+Learning and revision
+•  Example candidate responses
+•  Learner guides
+•  Past papers and mark schemes
+•  Specimen paper answers
+Planning and preparation
+•  Next step guides
+•  Schemes of work
+•  Specimen papers
+•  Syllabuses
+•  Teacher guides
+Support 
+for Cambridge 
+IGCSE
+Sign up for email notifications about changes to syllabuses, including new and revised products and services at 
+www.cambridgeinternational.org/syllabusupdates
+Professional development
+We support teachers through:
+	•
+Introductory Training – face-to-face or online
+	•
+Extension Training – face-to-face or online
+	•
+Enrichment Professional Development – face-to-face or online
+Find out more at www.cambridgeinternational.org/events
+	•
+Cambridge Professional Development Qualifications
+Find out more at www.cambridgeinternational.org/profdev
+Supporting exams officers
+We provide comprehensive support and guidance for all Cambridge exams officers. Find out more at: 
+www.cambridgeinternational.org/eoguide
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.
+5
+www.cambridgeinternational.org/igcse
+Back to contents page
+2  Syllabus overview 
+Aims
+The aims describe the purposes of a course based on this syllabus. 
+You can deliver some of the aims using suitable local, international or historical examples and applications, or 
+through collaborative practical work.
+The aims are to enable students to:
+	•
+acquire scientific knowledge and understanding of scientific theories and practice
+	•
+develop a range of experimental skills, including handling variables and working safely
+	•
+use scientific data and evidence to solve problems and discuss the limitations of scientific methods 
+	•
+communicate effectively and clearly, using scientific terminology, notation and conventions
+	•
+understand that the application of scientific knowledge can benefit people and the environment
+	•
+enjoy science and develop an informed interest in scientific matters which support further study.
+Cambridge Assessment International Education is an education organisation and politically neutral.  
+The contents of this syllabus, examination papers and associated materials do not endorse any political  
+view. We endeavour to treat all aspects of the exam process neutrally.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Syllabus overview  
+6
+www.cambridgeinternational.org/igcse
+Back to contents page
+Content overview
+Candidates study the following topics:
+1	
+Characteristics and classification of living organisms
+2	
+Organisation of the organism
+3	
+Movement into and out of cells
+4	
+Biological molecules
+5	
+Enzymes
+6	
+Plant nutrition
+7	
+Human nutrition
+8	
+Transport in plants
+9	
+Transport in animals
+10	 Diseases and immunity
+11	 Gas exchange in humans
+12	 Respiration
+13	 Excretion in humans
+14	 Coordination and response
+15	 Drugs
+16	 Reproduction
+17	 Inheritance
+18	 Variation and selection
+19	 Organisms and their environment
+20	 Human influences on ecosystems
+21	 Biotechnology and genetic modification
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Syllabus overview 
+7
+www.cambridgeinternational.org/igcse
+Back to contents page
+Assessment overview
+All candidates take three papers. 
+Candidates who have studied the Core syllabus content, or who are expected to achieve a grade 3 or below, should 
+be entered for Paper 1, Paper 3 and either Paper 5 or Paper 6. These candidates will be eligible for grades 5 to 1, 
+where 5 is the highest grade.
+Candidates who have studied the Extended syllabus content (Core and Supplement), and who are expected to 
+achieve a grade 4 or above, should be entered for Paper 2, Paper 4 and either Paper 5 or Paper 6. These candidates 
+will be eligible for grades 9 to 1, where 9 is the highest grade.
+Core assessment
+Core candidates take Paper 1 and Paper 3. The questions are based on the Core subject content only: 
+Paper 1: Multiple Choice (Core)
+Paper 3: Theory (Core)
+45 minutes
+40 marks	
+30%
+40 four-option multiple-choice questions 
+Externally assessed
+1 hour 15 minutes
+80 marks	
+50%
+Short-answer and structured questions 
+Externally assessed
+Extended assessment
+Extended candidates take Paper 2 and Paper 4. The questions are based on the Core and Supplement subject 
+content: 
+Paper 2: Multiple Choice (Extended)
+Paper 4: Theory (Extended)
+45 minutes
+40 marks	
+30%
+40 four-option multiple-choice questions 
+Externally assessed
+1 hour 15 minutes
+80 marks	
+50%
+Short-answer and structured questions 
+Externally assessed
+Practical assessment
+All candidates take one practical paper from a choice of two: 
+Paper 5: Practical Test
+Paper 6: Alternative to Practical
+1 hour 15 minutes
+40 marks	
+20%
+Questions will be based on the experimental 
+skills in Section 4
+Externally assessed
+OR
+1 hour
+40 marks	
+20%
+Questions will be based on the experimental 
+skills in Section 4
+Externally assessed
+Information on availability is in the Before you start section. 
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Syllabus overview  
+8
+www.cambridgeinternational.org/igcse
+Back to contents page
+Assessment objectives
+The assessment objectives (AOs) are:
+AO1 Knowledge with understanding 
+Candidates should be able to demonstrate knowledge and understanding of:
+	•
+scientific phenomena, facts, laws, definitions, concepts and theories
+	•
+scientific vocabulary, terminology and conventions (including symbols, quantities and units)
+	•
+scientific instruments and apparatus, including techniques of operation and aspects of safety
+	•
+scientific and technological applications with their social, economic and environmental implications. 
+Subject content defines the factual material that candidates may be required to recall and explain. 
+Candidates will also be asked questions which require them to apply this material to unfamiliar contexts and to 
+apply knowledge from one area of the syllabus to another.
+AO2 Handling information and problem-solving
+Candidates should be able, in words or using other written forms of presentation (i.e. symbolic, graphical and 
+numerical), to: 
+	•
+locate, select, organise and present information from a variety of sources 
+	•
+translate information from one form to another 
+	•
+manipulate numerical and other data 
+	•
+use information to identify patterns, report trends and form conclusions
+	•
+present reasoned explanations for phenomena, patterns and relationships 
+	•
+make predictions based on relationships and patterns
+	•
+solve problems, including some of a quantitative nature. 
+Questions testing these skills may be based on information that is unfamiliar to candidates, requiring them to apply 
+the principles and concepts from the syllabus to a new situation, in a logical, deductive way.
+AO3 Experimental skills and investigations
+Candidates should be able to: 
+	•
+demonstrate knowledge of how to select and safely use techniques, apparatus and materials (including 
+following a sequence of instructions where appropriate)
+	•
+plan experiments and investigations
+	•
+make and record observations, measurements and estimates 
+	•
+interpret and evaluate experimental observations and data 
+	•
+evaluate methods and suggest possible improvements.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Syllabus overview 
+9
+www.cambridgeinternational.org/igcse
+Back to contents page
+Weighting for assessment objectives
+The approximate weightings allocated to each of the assessment objectives (AOs) are summarised below.
+Assessment objectives as a percentage of the qualification
+Assessment objective
+Weighting in IGCSE %
+AO1 Knowledge with understanding
+50
+AO2 Handling information and problem-solving
+30
+AO3 Experimental skills and investigations
+20
+Total
+100
+Assessment objectives as a percentage of each component
+Assessment objective
+Weighting in components %
+Papers 1 and 2
+Papers 3 and 4
+Papers 5 and 6
+AO1 Knowledge with understanding
+63
+63
+–
+AO2 Handling information and problem-solving
+37
+37
+–
+AO3 Experimental skills and investigations
+–
+–
+100
+Total
+100
+100
+100
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025. 
+10
+www.cambridgeinternational.org/igcse
+Back to contents page
+3  Subject content 
+This syllabus gives you the flexibility to design a course that will interest, challenge and engage your learners. 
+Where appropriate you are responsible for selecting resources and examples to support your learners’ study. These 
+should be appropriate for the learners’ age, cultural background and learning context as well as complying with 
+your school policies and local legal requirements.
+All candidates should be taught the Core subject content. Candidates who are only taught the Core subject content 
+can achieve a maximum of grade 5. Candidates aiming for grades 9 to 4 should be taught the Extended subject 
+content. The Extended subject content includes both the Core and the Supplement. 
+Scientific subjects are, by their nature, experimental. Learners should pursue a fully integrated course which allows 
+them to develop their experimental skills by doing practical work and investigations across a range of topics.  
+Practical work helps students to:
+	•
+use equipment and materials accurately and safely 
+	•
+develop observational and problem-solving skills
+	•
+develop a deeper understanding of the syllabus topics and the scientific approach
+	•
+appreciate how scientific theories are developed and tested
+	•
+transfer the experimental skills acquired to unfamiliar contexts
+	•
+develop positive scientific attitudes such as objectivity, integrity, cooperation, enquiry and inventiveness
+	•
+develop an interest and enjoyment in science.
+1	
+Characteristics and classification of living organisms
+1.1	 Characteristics of living organisms
+Core
+1	
+Describe the characteristics of living organisms 
+by describing:
+(a)	 movement as an action by an organism or 
+part of an organism causing a change of 
+position or place 
+(b)	 respiration as the chemical reactions in cells 
+that break down nutrient molecules and 
+release energy for metabolism
+(c)	 sensitivity as the ability to detect and 
+respond to changes in the internal or external 
+environment
+(d)	 growth as a permanent increase in size and 
+dry mass
+(e)	 reproduction as the processes that make 
+more of the same kind of organism
+(f)	 excretion as the removal of the waste 
+products of metabolism and substances in 
+excess of requirements
+(g)	 nutrition as the taking in of materials for 
+energy, growth and development
+Supplement
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+11
+www.cambridgeinternational.org/igcse
+Back to contents page
+1.2	 Concept and uses of classification systems
+Core
+1	
+State that organisms can be classified into groups 
+by the features that they share
+2	
+Describe a species as a group of organisms that 
+can reproduce to produce fertile offspring
+3	
+Describe the binomial system of naming species 
+as an internationally agreed system in which the 
+scientiﬁc name of an organism is made up of two 
+parts showing the genus and species
+4	
+Construct and use dichotomous keys based on 
+identifiable features
+Supplement
+5	
+Explain that classiﬁcation systems aim to reﬂect 
+evolutionary relationships
+6	
+Explain that the sequences of bases in DNA are 
+used as a means of classiﬁcation
+7	
+Explain that groups of organisms which share a 
+more recent ancestor (are more closely related) 
+have base sequences in DNA that are more 
+similar than those that share only a distant 
+ancestor
+1.3	 Features of organisms
+Core
+1	
+State the main features used to place animals 
+and plants into the appropriate kingdoms 
+2	
+State the main features used to place organisms 
+into groups within the animal kingdom, limited 
+to: 
+(a)	 the main groups of vertebrates: mammals, 
+birds, reptiles, amphibians, fish
+(b)	 the main groups of arthropods: myriapods, 
+insects, arachnids, crustaceans
+3	
+Classify organisms using the features identified in 
+1.3.1 and 1.3.2
+Supplement
+4	
+State the main features used to place all 
+organisms into one of the five kingdoms: animal, 
+plant, fungus, prokaryote, protoctist
+5	
+State the main features used to place organisms 
+into groups within the plant kingdom, limited 
+to ferns and flowering plants (dicotyledons and 
+monocotyledons)
+6	
+Classify organisms using the features identified in 
+1.3.4 and 1.3.5
+7	
+State the features of viruses, limited to a protein 
+coat and genetic material
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+12
+www.cambridgeinternational.org/igcse
+Back to contents page
+2	
+Organisation of the organism
+2.1	 Cell structure
+Core
+1	
+Describe and compare the structure of a plant 
+cell with an animal cell, limited to: cell wall, cell 
+membrane, nucleus, cytoplasm, chloroplasts, 
+ribosomes, mitochondria, vacuoles
+2	
+Describe the structure of a bacterial cell, 
+limited to: cell wall, cell membrane, cytoplasm, 
+ribosomes, circular DNA, plasmids
+3	
+Identify the cell structures listed in 2.1.1 and 2.1.2 
+in diagrams and images of plant, animal and 
+bacterial cells 
+4	
+Describe the functions of the structures listed in 
+2.1.1 and 2.1.2 in plant, animal and bacterial cells
+5	
+State that new cells are produced by division of 
+existing cells
+6	
+State that specialised cells have specific 
+functions, limited to: 
+(a)	 ciliated cells – movement of mucus in the 
+trachea and bronchi
+(b)	 root hair cells – absorption
+(c)	 palisade mesophyll cells – photosynthesis
+(d)	 neurones – conduction of electrical impulses
+(e)	 red blood cells – transport of oxygen
+(f)	 sperm and egg cells (gametes) – reproduction
+7	
+Describe the meaning of the terms: cell, tissue, 
+organ, organ system and organism as illustrated 
+by examples given in the syllabus
+Supplement
+2.2	 Size of specimens
+Core
+1	
+State and use the formula:  
+magnification = image size ÷ actual size
+2	
+Calculate magnification and size of biological 
+specimens using millimetres as units
+Supplement
+3	
+Convert measurements between millimetres (mm) 
+and micrometres (μm)
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+13
+www.cambridgeinternational.org/igcse
+Back to contents page
+3	
+Movement into and out of cells
+3.1	 Diffusion
+Core
+1	
+Describe diffusion as the net movement 
+of particles from a region of their higher 
+concentration to a region of their lower 
+concentration (i.e. down a concentration 
+gradient), as a result of their random movement
+2	
+State that the energy for diffusion comes from 
+the kinetic energy of random movement of 
+molecules and ions
+3	
+State that some substances move into and out of 
+cells by diffusion through the cell membrane
+4	
+Describe the importance of diffusion of gases and 
+solutes in living organisms  
+5	
+Investigate the factors that influence diffusion, 
+limited to: surface area, temperature, 
+concentration gradient and distance
+Supplement
+3.2	 Osmosis
+Core
+1	
+Describe the role of water as a solvent in 
+organisms with reference to digestion, excretion 
+and transport
+2	
+State that water diffuses through partially 
+permeable membranes by osmosis
+3	
+State that water moves into and out of cells by 
+osmosis through the cell membrane
+4	
+Investigate osmosis using materials such as 
+dialysis tubing
+5	
+Investigate and describe the effects on plant 
+tissues of immersing them in solutions of 
+different concentrations
+	
+6	
+State that plants are supported by the pressure 
+of water inside the cells pressing outwards on the 
+cell wall
+Supplement
+7	
+Describe osmosis as the net movement of 
+water molecules from a region of higher water 
+potential (dilute solution) to a region of lower 
+water potential (concentrated solution), through 
+a partially permeable membrane
+	
+8	
+Explain the effects on plant cells of immersing 
+them in solutions of different concentrations 
+by using the terms: turgid, turgor pressure, 
+plasmolysis, flaccid
+9	
+Explain the importance of water potential and 
+osmosis in the uptake and loss of water by 
+organisms
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+14
+www.cambridgeinternational.org/igcse
+Back to contents page
+3.3	 Active transport
+Core
+1	
+Describe active transport as the movement of 
+particles through a cell membrane from a region 
+of lower concentration to a region of higher 
+concentration (i.e. against a concentration 
+gradient), using energy from respiration
+Supplement
+2	
+Explain the importance of active transport as 
+a process for movement of molecules or ions 
+across membranes, including ion uptake by root 
+hairs 
+3	
+State that protein carriers move molecules or 
+ions across a membrane during active transport
+4	
+Biological molecules
+4.1	 Biological molecules
+Core
+1	
+List the chemical elements that make up: 
+carbohydrates, fats and proteins
+2	
+State that large molecules are made from smaller 
+molecules, limited to:
+(a)	 starch, glycogen and cellulose from glucose
+(b)	 proteins from amino acids 
+(c)	 fats and oils from fatty acids and glycerol
+3	
+Describe the use of:
+(a)	 iodine solution test for starch 
+(b)	 Benedict’s solution test for reducing sugars 
+(c)	 biuret test for proteins 
+(d)	 ethanol emulsion test for fats and oils
+(e)	 DCPIP test for vitamin C
+Supplement
+4	
+Describe the structure of a DNA molecule:
+(a)	 two strands coiled together to form a double 
+helix
+(b)	 each strand contains chemicals called bases
+(c)	 bonds between pairs of bases hold the 
+strands together
+(d)	 the bases always pair up in the same way: 
+A with T, and C with G (full names are not 
+required)
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+15
+www.cambridgeinternational.org/igcse
+Back to contents page
+5	
+Enzymes
+5.1	 Enzymes
+Core
+1	
+Describe a catalyst as a substance that increases 
+the rate of a chemical reaction and is not 
+changed by the reaction
+2	
+Describe enzymes as proteins that are involved 
+in all metabolic reactions, where they function as 
+biological catalysts
+3	
+Describe why enzymes are important in all living 
+organisms in terms of a reaction rate necessary 
+to sustain life
+4	
+Describe enzyme action with reference to 
+the shape of the active site of an enzyme 
+being complementary to its substrate and the 
+formation of products
+	
+5	
+Investigate and describe the effect of changes 
+in temperature and pH on enzyme activity 
+with reference to optimum temperature and 
+denaturation
+Supplement
+6	
+Explain enzyme action with reference to: active 
+site, enzyme-substrate complex, substrate and 
+product
+7	
+Explain the specificity of enzymes in terms of the 
+complementary shape and fit of the active site 
+with the substrate
+8	
+Explain the effect of changes in temperature on 
+enzyme activity in terms of kinetic energy, shape 
+and fit, frequency of effective collisions and 
+denaturation
+9	
+Explain the effect of changes in pH on 
+enzyme activity in terms of shape and fit and 
+denaturation
+6	
+Plant nutrition
+6.1	 Photosynthesis
+Core
+1	
+Describe photosynthesis as the process by 
+which plants synthesise carbohydrates from raw 
+materials using energy from light
+2	
+State the word equation for photosynthesis as: 
+	
+carbon dioxide + water → glucose + oxygen 
+	
+in the presence of light and chlorophyll
+3	
+State that chlorophyll is a green pigment that is 
+found in chloroplasts
+4	
+State that chlorophyll transfers energy from light 
+into energy in chemicals, for the synthesis of 
+carbohydrates
+Supplement
+10	 State the balanced chemical equation for 
+photosynthesis as:
+	
+6CO2 + 6H2O → C6H12O6 + 6O2
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+16
+www.cambridgeinternational.org/igcse
+Back to contents page
+6.1	 Photosynthesis continued
+Core
+5	
+Outline the subsequent use and storage of the 
+carbohydrates made in photosynthesis, limited 
+to:
+(a)	 starch as an energy store
+(b)	 cellulose to build cell walls
+(c)	 glucose used in respiration to provide energy
+(d)	 sucrose for transport in the phloem
+(e)	 nectar to attract insects for pollination 
+6	
+Explain the importance of:
+(a)	 nitrate ions for making amino acids
+(b)	 magnesium ions for making chlorophyll
+7	
+Investigate the need for chlorophyll, light 
+and carbon dioxide for photosynthesis, using 
+appropriate controls
+8	
+Investigate and describe the effects of varying 
+light intensity, carbon dioxide concentration and 
+temperature on the rate of photosynthesis
+9	
+Investigate and describe the effect of light and 
+dark conditions on gas exchange in an aquatic 
+plant using hydrogencarbonate indicator solution
+Supplement
+11	 Identify and explain the limiting factors of 
+photosynthesis in different environmental 
+conditions
+6.2	 Leaf structure
+Core
+1	
+State that most leaves have a large surface area 
+and are thin, and explain how these features are 
+adaptations for photosynthesis
+2	
+Identify in diagrams and images the following 
+structures in the leaf of a dicotyledonous plant: 
+chloroplasts, cuticle, guard cells and stomata, 
+upper and lower epidermis, palisade mesophyll, 
+spongy mesophyll, air spaces, vascular bundles, 
+xylem and phloem
+3	
+Explain how the structures listed in 6.2.2 adapt 
+leaves for photosynthesis
+Supplement
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+17
+www.cambridgeinternational.org/igcse
+Back to contents page
+7	
+Human nutrition
+7.1	 Diet
+Core
+1	
+Describe what is meant by a balanced diet 
+2	
+State the principal dietary sources and describe 
+the importance of:
+(a)	 carbohydrates
+(b)	 fats and oils 
+(c)	 proteins
+(d)	 vitamins, limited to C and D
+(e)	 mineral ions, limited to calcium and iron
+(f)	 fibre (roughage)
+(g)	 water
+3	
+State the causes of scurvy and rickets 
+Supplement
+7.2	 Digestive system
+Core
+1	
+Identify in diagrams and images the main organs 
+of the digestive system, limited to:  
+(a)	 alimentary canal: mouth, oesophagus, 
+stomach, small intestine (duodenum and 
+ileum) and large intestine (colon, rectum, 
+anus) 
+(b)	 associated organs: salivary glands, pancreas, 
+liver and gall bladder 
+2	
+Describe the functions of the organs of the 
+digestive system listed in 7.2.1, in relation to: 
+(a)	 ingestion – the taking of substances, e.g. food 
+and drink, into the body
+(b)	 digestion – the breakdown of food
+(c)	 absorption – the movement of nutrients from 
+the intestines into the blood
+(d)	 assimilation – uptake and use of nutrients by 
+cells
+(e)	 egestion – the removal of undigested food 
+from the body as faeces
+Supplement
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+18
+www.cambridgeinternational.org/igcse
+Back to contents page
+7.3	 Physical digestion
+Core
+1	
+Describe physical digestion as the breakdown of 
+food into smaller pieces without chemical change 
+to the food molecules
+2	
+State that physical digestion increases the 
+surface area of food for the action of enzymes in 
+chemical digestion
+3	
+Identify in diagrams and images the types of 
+human teeth: incisors, canines, premolars and 
+molars
+4	
+Describe the structure of human teeth, limited 
+to: enamel, dentine, pulp, nerves, blood vessels 
+and cement, and understand that teeth are 
+embedded in bone and the gums
+5	
+Describe the functions of the types of human 
+teeth in physical digestion of food
+6	
+Describe the function of the stomach in physical 
+digestion
+Supplement
+7	
+Outline the role of bile in emulsifying fats and 
+oils to increase the surface area for chemical 
+digestion
+7.4	 Chemical digestion
+Core
+1	
+Describe chemical digestion as the break down 
+of large insoluble molecules into small soluble 
+molecules
+2	
+State the role of chemical digestion in producing 
+small soluble molecules that can be absorbed
+3	
+Describe the functions of enzymes as follows:
+(a)	 amylase breaks down starch to simple 
+reducing sugars
+(b)	 proteases break down protein to amino acids
+(c)	 lipase breaks down fats and oils to fatty acids 
+and glycerol
+4	
+State where, in the digestive system, amylase, 
+protease and lipase are secreted and where they 
+act
+5	
+Describe the functions of hydrochloric acid 
+in gastric juice, limited to killing harmful 
+microorganisms in food and providing an acidic 
+pH for optimum enzyme activity
+Supplement
+6	
+Describe the digestion of starch in the digestive 
+system:
+(a)	 amylase breaks down starch to maltose
+(b)	 maltase breaks down maltose to glucose on 
+the membranes of the epithelium lining the 
+small intestine
+7	
+Describe the digestion of protein by proteases in 
+the digestive system:
+(a)	 pepsin breaks down protein in the acidic 
+conditions of the stomach
+(b)	 trypsin breaks down protein in the alkaline 
+conditions of the small intestine
+8	
+Explain that bile is an alkaline mixture that 
+neutralises the acidic mixture of food and gastric 
+juices entering the duodenum from the stomach, 
+to provide a suitable pH for enzyme action
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+19
+www.cambridgeinternational.org/igcse
+Back to contents page
+7.5	 Absorption
+Core
+1	
+State that the small intestine is the region where 
+nutrients are absorbed
+	
+	
+	
+2	
+State that most water is absorbed from the small 
+intestine but that some is also absorbed from the 
+colon
+Supplement
+3	
+Explain the significance of villi and microvilli in 
+increasing the internal surface area of the small 
+intestine
+4	
+Describe the structure of a villus
+5	
+Describe the roles of capillaries and lacteals in 
+villi
+8	
+Transport in plants
+8.1	 Xylem and phloem
+Core
+1	
+State the functions of xylem and phloem: 
+(a)	 xylem – transport of water and mineral ions, 
+and support
+(b)	 phloem – transport of sucrose and amino 
+acids
+2	
+Identify in diagrams and images the position of 
+xylem and phloem as seen in sections of roots, 
+stems and leaves of non-woody dicotyledonous 
+plants
+Supplement
+3	
+Relate the structure of xylem vessels to their 
+function, limited to: 
+(a)	 thick walls with lignin (details of lignification 
+are not required)
+(b)	 no cell contents
+(c)	 cells joined end to end with no cross walls to 
+form a long continuous tube
+8.2	 Water uptake
+Core
+1	
+Identify in diagrams and images root hair cells 
+and state their functions
+2	
+State that the large surface area of root hairs 
+increases the uptake of water and mineral ions 
+3	
+Outline the pathway taken by water through the 
+root, stem and leaf as: root hair cells, root cortex 
+cells, xylem, mesophyll cells
+4	
+Investigate, using a suitable stain, the pathway of 
+water through the above-ground parts of a plant
+Supplement
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+20
+www.cambridgeinternational.org/igcse
+Back to contents page
+8.3	 Transpiration
+Core
+1	
+Describe transpiration as the loss of water vapour 
+from leaves
+2	
+State that water evaporates from the surfaces of 
+the mesophyll cells into the air spaces and then 
+diffuses out of the leaves through the stomata as 
+water vapour
+	
+3	
+Investigate and describe the effects of variation 
+of temperature and wind speed on transpiration 
+rate
+Supplement
+4	
+Explain how water vapour loss is related to: 
+the large internal surface area provided by the 
+interconnecting air spaces between mesophyll 
+cells and the size and number of stomata
+5	
+Explain the mechanism by which water moves 
+upwards in the xylem in terms of a transpiration 
+pull that draws up a column of water molecules, 
+held together by forces of attraction between 
+water molecules
+6	
+Explain the effects on the rate of transpiration of 
+varying the following factors: temperature, wind 
+speed and humidity 
+7	
+Explain how and why wilting occurs
+8.4	 Translocation
+Core
+Supplement
+1	
+Describe translocation as the movement of 
+sucrose and amino acids in phloem from sources 
+to sinks 
+2	
+Describe:
+(a)	 sources as the parts of plants that release 
+sucrose or amino acids  
+(b)	 sinks as the parts of plants that use or store 
+sucrose or amino acids
+3	
+Explain why some parts of a plant may act as a 
+source and a sink at different times
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+21
+www.cambridgeinternational.org/igcse
+Back to contents page
+9	
+Transport in animals
+9.1	 Circulatory systems
+Core
+1	
+Describe the circulatory system as a system of 
+blood vessels with a pump and valves to ensure 
+one-way flow of blood
+Supplement
+2	
+Describe the single circulation of a fish
+3	
+Describe the double circulation of a mammal
+4	
+Explain the advantages of a double circulation
+9.2	 Heart
+Core
+1	
+Identify in diagrams and images the structures of 
+the mammalian heart, limited to: muscular wall, 
+septum, left and right ventricles, left and right 
+atria, one-way valves and coronary arteries
+	
+	
+	
+2	
+State that blood is pumped away from the heart 
+in arteries and returns to the heart in veins
+3	
+State that the activity of the heart may be 
+monitored by: ECG, pulse rate and listening to 
+sounds of valves closing
+4	
+Investigate and describe the effect of physical 
+activity on the heart rate
+5	
+Describe coronary heart disease in terms of 
+the blockage of coronary arteries and state 
+the possible risk factors including: diet, lack of 
+exercise, stress, smoking, genetic predisposition, 
+age and sex
+6	
+Discuss the roles of diet and exercise in reducing 
+the risk of coronary heart disease
+Supplement
+7	
+Identify in diagrams and images the 
+atrioventricular and semilunar valves in the 
+mammalian heart
+8	
+Explain the relative thickness of:
+(a)	 the muscle walls of the left and right 
+ventricles 
+(b)	 the muscle walls of the atria compared to 
+those of the ventricles
+9	
+Explain the importance of the septum in 
+separating oxygenated and deoxygenated blood 
+10	 Describe the functioning of the heart in terms 
+of the contraction of muscles of the atria and 
+ventricles and the action of the valves
+	
+	
+11	 Explain the effect of physical activity on the heart 
+rate
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+22
+www.cambridgeinternational.org/igcse
+Back to contents page
+9.3	 Blood vessels
+Core
+1	
+Describe the structure of arteries, veins and 
+capillaries, limited to: relative thickness of wall, 
+diameter of the lumen and the presence of valves 
+in veins
+2	
+State the functions of capillaries 
+3	
+Identify in diagrams and images the main blood 
+vessels to and from the:
+(a)	 heart, limited to: vena cava, aorta, pulmonary 
+artery and pulmonary vein 
+(b)	 lungs, limited to: pulmonary artery and 
+pulmonary vein
+(c)	 kidney, limited to: renal artery and renal vein
+Supplement
+4	
+Explain how the structure of arteries and veins 
+is related to the pressure of the blood that they 
+transport  
+ 
+5	
+Explain how the structure of capillaries is related 
+to their functions
+6	
+Identify, in diagrams and images, the main blood 
+vessels to and from the liver as: hepatic artery, 
+hepatic veins and hepatic portal vein
+9.4	 Blood
+Core
+1	
+List the components of blood as: red blood cells, 
+white blood cells, platelets and plasma
+2	
+Identify red and white blood cells in 
+photomicrographs and diagrams
+3	
+State the functions of the following components 
+of blood:
+(a)	 red blood cells in transporting oxygen, 
+including the role of haemoglobin
+(b)	 white blood cells in phagocytosis and 
+antibody production
+(c)	 platelets in clotting (details are not required)
+(d)	 plasma in the transport of blood cells, ions, 
+nutrients, urea, hormones and carbon dioxide
+4	
+State the roles of blood clotting as preventing 
+blood loss and the entry of pathogens
+Supplement
+5	
+Identify lymphocytes and phagocytes in 
+photomicrographs and diagrams
+6	
+State the functions of:
+(a)	 lymphocytes – antibody production
+(b)	 phagocytes – engulfing pathogens by 
+phagocytosis
+7	
+Describe the process of clotting as the conversion 
+of fibrinogen to fibrin to form a mesh
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+23
+www.cambridgeinternational.org/igcse
+Back to contents page
+10	 Diseases and immunity
+10.1	 Diseases and immunity
+Core
+1	
+Describe a pathogen as a disease-causing 
+organism
+2	
+Describe a transmissible disease as a disease in 
+which the pathogen can be passed from one host 
+to another
+3	
+State that a pathogen is transmitted: 
+(a)	 by direct contact, including through blood 
+and other body fluids
+(b)	 indirectly, including from contaminated 
+surfaces, food, animals and air
+4	
+Describe the body defences, limited to: skin, 
+hairs in the nose, mucus, stomach acid and white 
+blood cells
+5	
+Explain the importance of the following in 
+controlling the spread of disease: 
+(a)	 a clean water supply
+(b)	 hygienic food preparation
+(c)	 good personal hygiene
+(d)	 waste disposal
+(e)	 sewage treatment (details of the stages of 
+sewage treatment are not required)
+Supplement
+6	
+Describe active immunity as defence against a 
+pathogen by antibody production in the body
+7	
+State that each pathogen has its own antigens, 
+which have specific shapes
+8	
+Describe antibodies as proteins that bind 
+to antigens leading to direct destruction 
+of pathogens or marking of pathogens for 
+destruction by phagocytes
+9	
+State that specific antibodies have 
+complementary shapes which fit specific antigens 
+10	 Explain that active immunity is gained after an 
+infection by a pathogen or by vaccination
+11	 Outline the process of vaccination:
+(a)	 weakened pathogens or their antigens are 
+put into the body 
+(b)	 the antigens stimulate an immune response 
+by lymphocytes which produce antibodies
+(c)	 memory cells are produced that give  
+long-term immunity
+12	 Explain the role of vaccination in controlling the 
+spread of diseases
+13	 Explain that passive immunity is a short-term 
+defence against a pathogen by antibodies 
+acquired from another individual, including 
+across the placenta and in breast milk
+14	 Explain the importance of breast-feeding for the 
+development of passive immunity in infants
+15	 State that memory cells are not produced in 
+passive immunity
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+24
+www.cambridgeinternational.org/igcse
+Back to contents page
+10.1	 Diseases and immunity continued
+Core
+Supplement
+16	 Describe cholera as a disease caused by a 
+bacterium which is transmitted in contaminated 
+water
+17	 Explain that the cholera bacterium produces a 
+toxin that causes secretion of chloride ions into 
+the small intestine, causing osmotic movement 
+of water into the gut, causing diarrhoea, 
+dehydration and loss of ions from the blood
+11	 Gas exchange in humans
+11.1	 Gas exchange in humans
+Core
+1	
+Describe the features of gas exchange surfaces 
+in humans, limited to: large surface area, thin 
+surface, good blood supply and good ventilation 
+with air
+2	
+Identify in diagrams and images the following 
+parts of the breathing system: lungs, diaphragm, 
+ribs, intercostal muscles, larynx, trachea, bronchi, 
+bronchioles, alveoli and associated capillaries 
+	
+3	
+Investigate the differences in composition 
+between inspired and expired air using limewater 
+as a test for carbon dioxide
+4	
+Describe the differences in composition between 
+inspired and expired air, limited to: oxygen, 
+carbon dioxide and water vapour
+5	
+Investigate and describe the effects of physical 
+activity on the rate and depth of breathing
+Supplement
+6	
+Identify in diagrams and images the internal and 
+external intercostal muscles  
+7	
+State the function of cartilage in the trachea
+8	
+Explain the role of the ribs, the internal and 
+external intercostal muscles and the diaphragm 
+in producing volume and pressure changes in the 
+thorax leading to the ventilation of the lungs
+9	
+Explain the differences in composition between 
+inspired and expired air
+	
+10	 Explain the link between physical activity and 
+the rate and depth of breathing in terms of: an 
+increased carbon dioxide concentration in the 
+blood, which is detected by the brain, leading to 
+an increased rate and greater depth of breathing
+11	 Explain the role of goblet cells, mucus and 
+ciliated cells in protecting the breathing system 
+from pathogens and particles
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+25
+www.cambridgeinternational.org/igcse
+Back to contents page
+12	 Respiration
+12.1	 Respiration
+Core
+1	
+State the uses of energy in living organisms, 
+including:  muscle contraction, protein synthesis, 
+cell division, active transport, growth, the 
+passage of nerve impulses and the maintenance 
+of a constant body temperature
+2	
+Investigate and describe the effect of 
+temperature on respiration in yeast
+Supplement
+12.2	 Aerobic respiration
+Core
+1	
+Describe aerobic respiration as the chemical 
+reactions in cells that use oxygen to break down 
+nutrient molecules to release energy
+2	
+State the word equation for aerobic respiration as: 
+	
+glucose + oxygen → carbon dioxide + water
+Supplement
+3	
+State the balanced chemical equation for aerobic 
+respiration as: 
+	
+C6H12O6 + 6O2 → 6CO2 + 6H2O
+12.3	Anaerobic respiration
+Core
+1	
+Describe anaerobic respiration as the chemical 
+reactions in cells that break down nutrient 
+molecules to release energy without using 
+oxygen
+2	
+State that anaerobic respiration releases much 
+less energy per glucose molecule than aerobic 
+respiration
+3	
+State the word equation for anaerobic respiration 
+in yeast as:
+	
+glucose → alcohol + carbon dioxide
+4	
+State the word equation for anaerobic respiration 
+in muscles during vigorous exercise as:
+	
+glucose → lactic acid
+Supplement
+5	
+State the balanced chemical equation for 
+anaerobic respiration in yeast as:
+	
+C6H12O6 → 2C2H5OH + 2CO2
+6	
+State that lactic acid builds up in muscles and 
+blood during vigorous exercise causing an oxygen 
+debt
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+26
+www.cambridgeinternational.org/igcse
+Back to contents page
+12.3	Anaerobic respiration continued
+Core
+Supplement
+7	
+Outline how the oxygen debt is removed after 
+exercise, limited to:
+(a)	 continuation of fast heart rate to transport 
+lactic acid in the blood from the muscles to 
+the liver
+(b)	 continuation of deeper and faster breathing 
+to supply oxygen for aerobic respiration of 
+lactic acid 
+(c)	 aerobic respiration of lactic acid in the liver
+13	 Excretion in humans
+13.1	 Excretion in humans
+Core
+1	
+State that carbon dioxide is excreted through the 
+lungs
+2	
+State that the kidneys excrete urea and excess 
+water and ions
+3	
+Identify in diagrams and images the kidneys, 
+ureters, bladder and urethra 
+Supplement
+4	
+Identify in diagrams and images the structure of 
+the kidney, limited to the cortex and medulla
+5	
+Outline the structure and function of a nephron 
+and its associated blood vessels, limited to:
+(a)	 the role of the glomerulus in the filtration 
+from the blood of water, glucose, urea and 
+ions
+(b)	 the role of the nephron in the reabsorption of 
+all of the glucose, some of the ions and most 
+of the water back into the blood
+(c)	 the formation of urine containing urea, 
+excess water and excess ions 
+(details of these processes are not required)
+6	
+Describe the role of the liver in the assimilation 
+of amino acids by converting them to proteins
+7	
+State that urea is formed in the liver from excess 
+amino acids
+8	
+Describe deamination as the removal of the 
+nitrogen-containing part of amino acids to form 
+urea
+9	
+Explain the importance of excretion, limited to 
+toxicity of urea
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+27
+www.cambridgeinternational.org/igcse
+Back to contents page
+14	 Coordination and response
+14.1	 Coordination and response
+Core
+1	
+State that electrical impulses travel along 
+neurones
+2	
+Describe the mammalian nervous system in 
+terms of:
+(a)	 the central nervous system (CNS) consisting 
+of the brain and the spinal cord
+(b)	 the peripheral nervous system (PNS) 
+consisting of the nerves outside of the brain 
+and spinal cord
+3	
+Describe the role of the nervous system as 
+coordination and regulation of body functions
+4	
+Identify in diagrams and images sensory, relay 
+and motor neurones 
+5	
+Describe a simple reflex arc in terms of: receptor, 
+sensory neurone, relay neurone, motor neurone 
+and effector
+6	
+Describe a reflex action as a means of 
+automatically and rapidly integrating and 
+coordinating stimuli with the responses of 
+effectors (muscles and glands)
+7	
+Describe a synapse as a junction between two 
+neurones
+Supplement
+8	
+Describe the structure of a synapse, including the 
+presence of vesicles containing neurotransmitter 
+molecules, the synaptic gap and receptor 
+proteins
+9	
+Describe the events at a synapse as: 
+(a)	 an impulse stimulates the release of 
+neurotransmitter molecules from vesicles 
+into the synaptic gap
+(b)	 the neurotransmitter molecules diffuse 
+across the gap
+(c)	 neurotransmitter molecules bind with 
+receptor proteins on the next neurone
+(d)	 an impulse is then stimulated in the next 
+neurone
+10	 State that synapses ensure that impulses travel in 
+one direction only
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+28
+www.cambridgeinternational.org/igcse
+Back to contents page
+14.2	Sense organs
+Core
+1	
+Describe sense organs as groups of receptor cells 
+responding to specific stimuli: light, sound, touch, 
+temperature and chemicals
+2	
+Identify in diagrams and images the structures of 
+the eye, limited to: cornea, iris, pupil, lens, retina, 
+optic nerve and blind spot
+3	
+Describe the function of each part of the eye, 
+limited to: 
+(a)	 cornea – refracts light 
+(b)	 iris – controls how much light enters the 
+pupil 
+(c)	 lens – focuses light on to the retina
+(d)	 retina – contains light receptors, some 
+sensitive to light of different colours 
+(e)	 optic nerve – carries impulses to the brain
+4	
+Explain the pupil reflex, limited to changes in 
+light intensity and pupil diameter 
+Supplement
+5	
+Explain the pupil reflex in terms of the 
+antagonistic action of circular and radial muscles 
+in the iris
+6	
+Explain accommodation to view near and distant 
+objects in terms of the contraction and relaxation 
+of the ciliary muscles, tension in the suspensory 
+ligaments, shape of the lens and refraction of 
+light
+7	
+Describe the distribution of rods and cones in the 
+retina of a human
+8	
+Outline the function of rods and cones, limited 
+to:
+(a)	 greater sensitivity of rods for night vision 
+(b)	 three different kinds of cones, absorbing light 
+of different colours, for colour vision
+9	
+Identify in diagrams and images the position of 
+the fovea and state its function
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+29
+www.cambridgeinternational.org/igcse
+Back to contents page
+14.3	Hormones
+Core
+1	
+Describe a hormone as a chemical substance, 
+produced by a gland and carried by the blood, 
+which alters the activity of one or more specific 
+target organs   
+2	
+Identify in diagrams and images specific 
+endocrine glands and state the hormones they 
+secrete, limited to:
+(a)	 adrenal glands and adrenaline
+(b)	 pancreas and insulin
+(c)	 testes and testosterone
+(d)	 ovaries and oestrogen
+3	
+Describe adrenaline as the hormone secreted in 
+‘fight or flight’ situations and its effects, limited 
+to:
+(a)	 increased breathing rate
+(b)	 increased heart rate
+(c)	 increased pupil diameter
+4	
+Compare nervous and hormonal control, limited 
+to speed of action and duration of effect 
+Supplement
+5	
+State that glucagon is secreted by the pancreas  
+6	
+Describe the role of adrenaline in the control of 
+metabolic activity, limited to:
+(a)	 increasing the blood glucose concentration
+(b)	 increasing heart rate
+14.4	Homeostasis
+Core
+1	
+Describe homeostasis as the maintenance of a 
+constant internal environment
+2	
+State that insulin decreases blood glucose 
+concentration
+Supplement
+3	
+Explain the concept of homeostatic control by 
+negative feedback with reference to a set point
+4	
+Describe the control of blood glucose 
+concentration by the liver and the roles of insulin 
+and glucagon 
+5	
+Outline the treatment of Type 1 diabetes 
+6	
+Identify in diagrams and images of the skin: hairs, 
+hair erector muscles, sweat glands, receptors, 
+sensory neurones, blood vessels and fatty tissue
+7	
+Describe the maintenance of a constant internal 
+body temperature in mammals in terms of: 
+insulation, sweating, shivering and the role of the 
+brain
+8	
+Describe the maintenance of a constant internal 
+body temperature in mammals in terms of 
+vasodilation and vasoconstriction of arterioles 
+supplying skin surface capillaries
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+30
+www.cambridgeinternational.org/igcse
+Back to contents page
+14.5	Tropic responses
+Core
+1	
+Describe gravitropism as a response in which 
+parts of a plant grow towards or away from 
+gravity  
+2	
+Describe phototropism as a response in which 
+parts of a plant grow towards or away from the 
+direction of the light source
+3	
+Investigate and describe gravitropism and 
+phototropism in shoots and roots
+Supplement
+4	
+Explain phototropism and gravitropism of a shoot 
+as examples of the chemical control of plant 
+growth
+5	
+Explain the role of auxin in controlling shoot 
+growth, limited to:
+(a)	 auxin is made in the shoot tip 
+(b)	 auxin diffuses through the plant from the 
+shoot tip 
+(c)	 auxin is unequally distributed in response to 
+light and gravity 
+(d)	 auxin stimulates cell elongation
+15	 Drugs
+15.1	 Drugs
+Core
+1	
+Describe a drug as any substance taken into the 
+body that modifies or affects chemical reactions 
+in the body
+2	
+Describe the use of antibiotics for the treatment 
+of bacterial infections
+3	
+State that some bacteria are resistant to 
+antibiotics which reduces the effectiveness of 
+antibiotics
+4	
+State that antibiotics kill bacteria but do not 
+affect viruses
+Supplement
+5	
+Explain how using antibiotics only when essential 
+can limit the development of resistant bacteria 
+such as MRSA
+16	 Reproduction
+16.1	 Asexual reproduction
+Core
+1	
+Describe asexual reproduction as a process 
+resulting in the production of genetically 
+identical offspring from one parent
+2	
+Identify examples of asexual reproduction in 
+diagrams, images and information provided
+Supplement
+3	
+Discuss the advantages and disadvantages of 
+asexual reproduction: 
+(a)	 to a population of a species in the wild 
+(b)	 to crop production
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+31
+www.cambridgeinternational.org/igcse
+Back to contents page
+16.2	Sexual reproduction
+Core
+1	
+Describe sexual reproduction as a process 
+involving the fusion of the nuclei of two gametes 
+to form a zygote and the production of offspring 
+that are genetically different from each other
+2	
+Describe fertilisation as the fusion of the nuclei of 
+gametes 
+Supplement
+3	
+State that nuclei of gametes are haploid and that 
+the nucleus of a zygote is diploid 
+	
+4	
+Discuss the advantages and disadvantages of 
+sexual reproduction: 
+(a)	 to a population of a species in the wild
+(b)	 to crop production
+16.3	Sexual reproduction in plants
+Core
+1	
+Identify in diagrams and images and draw the 
+following parts of an insect-pollinated flower: 
+sepals, petals, stamens, filaments, anthers, 
+carpels, style, stigma, ovary and ovules 
+2	
+State the functions of the structures listed in 
+16.3.1 
+3	
+Identify in diagrams and images and describe the 
+anthers and stigmas of a wind-pollinated flower  
+4	
+Distinguish between the pollen grains of  
+insect-pollinated and wind-pollinated flowers  
+5	
+Describe pollination as the transfer of pollen 
+grains from an anther to a stigma 
+Supplement
+9	
+Describe self-pollination as the transfer of pollen 
+grains from the anther of a flower to the stigma 
+of the same flower or a different flower on the 
+same plant
+10	 Describe cross-pollination as the transfer of 
+pollen grains from the anther of a flower to the 
+stigma of a flower on a different plant of the 
+same species
+11	 Discuss the potential effects of self-pollination 
+and cross-pollination on a population, in terms of 
+variation, capacity to respond to changes in the 
+environment and reliance on pollinators
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+32
+www.cambridgeinternational.org/igcse
+Back to contents page
+16.3	Sexual reproduction in plants continued
+Core
+6	
+State that fertilisation occurs when a pollen 
+nucleus fuses with a nucleus in an ovule
+7	
+Describe the structural adaptations of  
+insect-pollinated and wind-pollinated flowers
+8	
+Investigate and describe the environmental 
+conditions that affect germination of seeds, 
+limited to the requirement for: water, oxygen and 
+a suitable temperature
+Supplement
+12	 Describe the growth of the pollen tube and its 
+entry into the ovule followed by fertilisation 
+(details of production of endosperm and 
+development are not required)
+16.4	Sexual reproduction in humans
+Core
+1	
+Identify on diagrams and state the functions 
+of the following parts of the male reproductive 
+system: testes, scrotum, sperm ducts, prostate 
+gland, urethra and penis 
+2	
+Identify on diagrams and state the functions of 
+the following parts of the female reproductive 
+system: ovaries, oviducts, uterus, cervix and 
+vagina 
+3	
+Describe fertilisation as the fusion of the nuclei 
+from a male gamete (sperm) and a female 
+gamete (egg cell)
+4	
+Explain the adaptive features of sperm, limited 
+to: flagellum, mitochondria and enzymes in the 
+acrosome
+5	
+Explain the adaptive features of egg cells, limited 
+to: energy stores and the jelly coat that changes 
+at fertilisation
+6	
+Compare male and female gametes in terms of: 
+size, structure, motility and numbers
+7	
+State that in early development, the zygote 
+forms an embryo which is a ball of cells that 
+implants into the lining of the uterus
+8	
+Identify on diagrams and state the functions of 
+the following in the development of the fetus: 
+umbilical cord, placenta, amniotic sac and 
+amniotic fluid
+Supplement
+9	
+Describe the function of the placenta and 
+umbilical cord in relation to the exchange of 
+dissolved nutrients, gases and excretory products 
+between the blood of the mother and the blood 
+of the fetus
+10	 State that some pathogens and toxins can pass 
+across the placenta and affect the fetus
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+33
+www.cambridgeinternational.org/igcse
+Back to contents page
+16.5	Sexual hormones in humans
+Core
+1	
+Describe the roles of testosterone and oestrogen 
+in the development and regulation of secondary 
+sexual characteristics during puberty
+2	
+Describe the menstrual cycle in terms of changes 
+in the ovaries and in the lining of the uterus
+Supplement
+3	
+Describe the sites of production of oestrogen 
+and progesterone in the menstrual cycle and in 
+pregnancy
+4	
+Explain the role of hormones in controlling the 
+menstrual cycle and pregnancy, limited to FSH, 
+LH, progesterone and oestrogen 
+16.6	Sexually transmitted infections
+Core
+1	
+Describe a sexually transmitted infection (STI) as 
+an infection that is transmitted through sexual 
+contact
+2	
+State that human immunodeficiency virus (HIV) 
+is a pathogen that causes an STI
+3	
+State that HIV infection may lead to AIDS  
+4	
+Describe the methods of transmission of HIV
+5	
+Explain how the spread of STIs is controlled
+Supplement
+17	 Inheritance
+17.1	 Chromosomes, genes and proteins
+Core
+1	
+State that chromosomes are made of DNA, 
+which contains genetic information in the form 
+of genes  
+2	
+Define a gene as a length of DNA that codes for a 
+protein  
+3	
+Define an allele as an alternative form of a gene
+4	
+Describe the inheritance of sex in humans with 
+reference to X and Y chromosomes
+Supplement
+5	
+State that the sequence of bases in a gene 
+determines the sequence of amino acids used to 
+make a specific protein (knowledge of the details 
+of nucleotide structure is not required)  
+6	
+Explain that different sequences of amino acids 
+give different shapes to protein molecules
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+34
+www.cambridgeinternational.org/igcse
+Back to contents page
+17.1	 Chromosomes, genes and proteins continued
+Core
+Supplement
+7	
+Explain that DNA controls cell function by 
+controlling the production of proteins, including 
+enzymes, membrane carriers and receptors for 
+neurotransmitters
+8	
+Explain how a protein is made, limited to: 
+	•
+the gene coding for the protein remains in 
+the nucleus
+	•
+messenger RNA (mRNA) is a copy of a gene
+	•
+mRNA molecules are made in the nucleus 
+and move to the cytoplasm
+	•
+the mRNA passes through ribosomes
+	•
+the ribosome assembles amino acids into 
+protein molecules
+	•
+the specific sequence of amino acids is 
+determined by the sequence of bases in the 
+mRNA 
+	
+(knowledge of the details of transcription or 
+translation is not required)
+9	
+Explain that most body cells in an organism 
+contain the same genes, but many genes in a 
+particular cell are not expressed because the cell 
+only makes the specific proteins it needs
+10	 Describe a haploid nucleus as a nucleus 
+containing a single set of chromosomes
+11	 Describe a diploid nucleus as a nucleus containing 
+two sets of chromosomes
+12	 State that in a diploid cell, there is a pair of each 
+type of chromosome and in a human diploid cell 
+there are 23 pairs
+17.2	 Mitosis
+Core
+Supplement
+1	
+Describe mitosis as nuclear division giving rise to 
+genetically identical cells (details of the stages of 
+mitosis are not required)
+2	
+State the role of mitosis in growth, repair of 
+damaged tissues, replacement of cells and 
+asexual reproduction
+3	
+State that the exact replication of chromosomes 
+occurs before mitosis
+4	
+State that during mitosis, the copies of 
+chromosomes separate, maintaining the 
+chromosome number in each daughter cell
+5	
+Describe stem cells as unspecialised cells that 
+divide by mitosis to produce daughter cells that 
+can become specialised for specific functions
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+35
+www.cambridgeinternational.org/igcse
+Back to contents page
+17.3	 Meiosis
+Core
+Supplement
+1	
+State that meiosis is involved in the production 
+of gametes
+2	
+Describe meiosis as a reduction division in which 
+the chromosome number is halved from diploid 
+to haploid resulting in genetically different cells 
+(details of the stages of meiosis are not required)
+17.4	Monohybrid inheritance
+Core
+1	
+Describe inheritance as the transmission 
+of genetic information from generation to 
+generation
+2	
+Describe genotype as the genetic make-up of an 
+organism and in terms of the alleles present  
+3	
+Describe phenotype as the observable features of 
+an organism  
+4	
+Describe homozygous as having two identical 
+alleles of a particular gene  
+5	
+State that two identical homozygous individuals 
+that breed together will be pure-breeding
+6	
+Describe heterozygous as having two different 
+alleles of a particular gene  
+7	
+State that a heterozygous individual will not be 
+pure-breeding
+8	
+Describe a dominant allele as an allele that is 
+expressed if it is present in the genotype
+9	
+Describe a recessive allele as an allele that is only 
+expressed when there is no dominant allele of 
+the gene present in the genotype
+10	 Interpret pedigree diagrams for the inheritance of 
+a given characteristic
+11	 Use genetic diagrams to predict the results of 
+monohybrid crosses and calculate phenotypic 
+ratios, limited to 1 : 1 and 3 : 1 ratios
+12	 Use Punnett squares in crosses which result in 
+more than one genotype to work out and show 
+the possible different genotypes
+Supplement
+13	 Explain how to use a test cross to identify an 
+unknown genotype 
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+36
+www.cambridgeinternational.org/igcse
+Back to contents page
+17.4	Monohybrid inheritance continued
+Core
+Supplement
+14	 Describe codominance as a situation in 
+which both alleles in heterozygous organisms 
+contribute to the phenotype
+15	 Explain the inheritance of ABO blood groups: 
+phenotypes are A, B, AB and O blood groups and 
+alleles are IA, IB and Io
+16	 Describe a sex-linked characteristic as a feature 
+in which the gene responsible is located on 
+a sex chromosome and that this makes the 
+characteristic more common in one sex than in 
+the other
+17	 Describe red-green colour blindness as an 
+example of sex linkage
+18	 Use genetic diagrams to predict the results of 
+monohybrid crosses involving codominance or 
+sex linkage and calculate phenotypic ratios
+18	 Variation and selection
+18.1	 Variation
+Core
+1	
+Describe variation as differences between 
+individuals of the same species  
+2	
+State that continuous variation results in a range 
+of phenotypes between two extremes; examples 
+include body length and body mass
+3	
+State that discontinuous variation results 
+in a limited number of phenotypes with no 
+intermediates; examples include ABO blood 
+groups, seed shape in peas and seed colour in 
+peas
+4	
+State that discontinuous variation is usually 
+caused by genes only and continuous variation is 
+caused by both genes and the environment 
+5	
+Investigate and describe examples of continuous 
+and discontinuous variation  
+6	
+Describe mutation as genetic change   
+7	
+State that mutation is the way in which new 
+alleles are formed   
+8	
+State that ionising radiation and some chemicals 
+increase the rate of mutation
+Supplement
+9	
+Describe gene mutation as a random change in 
+the base sequence of DNA  
+10	 State that mutation, meiosis, random mating 
+and random fertilisation are sources of genetic 
+variation in populations
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+37
+www.cambridgeinternational.org/igcse
+Back to contents page
+18.2	Adaptive features
+Core
+1	
+Describe an adaptive feature as an inherited 
+feature that helps an organism to survive and 
+reproduce in its environment
+2	
+Interpret images or other information about a 
+species to describe its adaptive features
+Supplement
+3	
+Explain the adaptive features of hydrophytes and 
+xerophytes to their environments
+18.3	Selection
+Core
+1	
+Describe natural selection with reference to: 
+(a)	 genetic variation within populations
+(b)	 production of many offspring
+(c)	 struggle for survival, including competition 
+for resources
+(d)	 a greater chance of reproduction by 
+individuals that are better adapted to the 
+environment than others
+(e)	 these individuals pass on their alleles to the 
+next generation  
+	
+2	
+Describe selective breeding with reference to: 
+(a)	 selection by humans of individuals with 
+desirable features 
+(b)	 crossing these individuals to produce the 
+next generation
+(c)	 selection of offspring showing the desirable 
+features
+3	
+Outline how selective breeding by artificial 
+selection is carried out over many generations to 
+improve crop plants and domesticated animals 
+and apply this to given contexts
+Supplement
+4	
+Describe adaptation as the process, resulting 
+from natural selection, by which populations 
+become more suited to their environment over 
+many generations 
+5	
+Describe the development of strains of antibiotic 
+resistant bacteria as an example of natural 
+selection
+	
+6	
+Outline the differences between natural and 
+artificial selection
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+38
+www.cambridgeinternational.org/igcse
+Back to contents page
+19	 Organisms and their environment
+19.1	 Energy flow
+Core
+1	
+State that the Sun is the principal source of 
+energy input to biological systems
+2	
+Describe the flow of energy through living 
+organisms, including light energy from the 
+Sun and chemical energy in organisms, and its 
+eventual transfer to the environment
+Supplement
+19.2	Food chains and food webs
+Core
+1	
+Describe a food chain as showing the transfer of 
+energy from one organism to the next, beginning 
+with a producer  
+2	
+Construct and interpret simple food chains
+3	
+Describe a food web as a network of 
+interconnected food chains and interpret food 
+webs
+4	
+Describe a producer as an organism that makes 
+its own organic nutrients, usually using energy 
+from sunlight, through photosynthesis
+5	
+Describe a consumer as an organism that gets its 
+energy by feeding on other organisms
+6	
+State that consumers may be classed as primary, 
+secondary, tertiary and quaternary according to 
+their position in a food chain
+7	
+Describe a herbivore as an animal that gets its 
+energy by eating plants
+8	
+Describe a carnivore as an animal that gets its 
+energy by eating other animals
+9	
+Describe a decomposer as an organism that gets 
+its energy from dead or waste organic material
+10	 Use food chains and food webs to describe the 
+impact humans have through overharvesting of 
+food species and through introducing foreign 
+species to a habitat
+11	 Draw, describe and interpret pyramids of 
+numbers and pyramids of biomass
+12	 Discuss the advantages of using a pyramid of 
+biomass rather than a pyramid of numbers to 
+represent a food chain
+13	 Describe a trophic level as the position of an 
+organism in a food chain, food web or ecological 
+pyramid
+Supplement
+15	 Draw, describe and interpret pyramids of energy 
+16	 Discuss the advantages of using a pyramid of 
+energy rather than pyramids of numbers or 
+biomass to represent a food chain
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+39
+www.cambridgeinternational.org/igcse
+Back to contents page
+19.2	Food chains and food webs continued
+Core
+14	 Identify the following as the trophic levels in 
+food webs, food chains and ecological pyramids: 
+producers, primary consumers, secondary 
+consumers, tertiary consumers and quaternary 
+consumers
+Supplement
+17	 Explain why the transfer of energy from one 
+trophic level to another is often not efficient
+18	 Explain, in terms of energy loss,  why food chains 
+usually have fewer than five trophic levels
+19	 Explain why it is more energy efficient for 
+humans to eat crop plants than to eat livestock 
+that have been fed on crop plants
+19.3	Nutrient cycles
+Core
+1	
+Describe the carbon cycle, limited to: 
+photosynthesis, respiration, feeding, 
+decomposition, formation of fossil fuels and 
+combustion
+Supplement
+2	
+Describe the nitrogen cycle with reference to: 
+	•
+decomposition of plant and animal protein to 
+ammonium ions
+	•
+nitrification 
+	•
+nitrogen fixation by lightning and bacteria 
+	•
+absorption of nitrate ions by plants 
+	•
+production of amino acids and proteins 
+	•
+feeding and digestion of proteins
+	•
+deamination 
+	•
+denitrification
+3	
+State the roles of microorganisms in the nitrogen 
+cycle, limited to: decomposition, nitrification, 
+nitrogen fixation and denitrification (generic 
+names of individual bacteria, e.g. Rhizobium, are 
+not required)
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+40
+www.cambridgeinternational.org/igcse
+Back to contents page
+19.4	Populations
+Core
+1	
+Describe a population as a group of organisms of 
+one species, living in the same area, at the same 
+time
+2	
+Describe a community as all of the populations 
+of different species in an ecosystem  
+3	
+Describe an ecosystem as a unit containing the 
+community of organisms and their environment, 
+interacting together 
+4	
+Identify and state the factors affecting the rate 
+of population growth for a population of an 
+organism, limited to food supply, competition, 
+predation and disease
+5	
+Identify the lag, exponential (log), stationary 
+and death phases in the sigmoid curve of 
+population growth for a population growing in an 
+environment with limited resources
+6	
+Interpret graphs and diagrams of population 
+growth
+Supplement
+7	
+Explain the factors that lead to each phase in 
+the sigmoid curve of population growth, making 
+reference, where appropriate, to the role of 
+limiting factors
+20	 Human influences on ecosystems
+20.1	Food supply
+Core
+1	
+Describe how humans have increased food 
+production, limited to: 
+(a)	 agricultural machinery to use larger areas of 
+land and improve efficiency
+(b)	 chemical fertilisers to improve yields 
+(c)	 insecticides to improve quality and yield 
+(d)	 herbicides to reduce competition with weeds
+(e)	 selective breeding to improve production by 
+crop plants and livestock
+2	
+Describe the advantages and disadvantages of 
+large-scale monocultures of crop plants
+3	
+Describe the advantages and disadvantages of 
+intensive livestock production
+Supplement
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+41
+www.cambridgeinternational.org/igcse
+Back to contents page
+20.2	Habitat destruction
+Core
+1	
+Describe biodiversity as the number of different 
+species that live in an area
+2	
+Describe the reasons for habitat destruction, 
+including: 
+(a)	 increased area for housing, crop plant 
+production and livestock production 
+(b)	 extraction of natural resources
+(c)	 freshwater and marine pollution
+3	
+State that through altering food webs and food 
+chains, humans can have a negative impact on 
+habitats
+4	
+Explain the undesirable effects of deforestation 
+as an example of habitat destruction, to include: 
+reducing biodiversity, extinction, loss of soil, 
+flooding and increase of carbon dioxide in the 
+atmosphere
+Supplement
+20.3	Pollution
+Core
+1	
+Describe the effects of untreated sewage and 
+excess fertiliser on aquatic ecosystems
+2	
+Describe the effects of non-biodegradable 
+plastics, in both aquatic and terrestrial 
+ecosystems
+3	
+Describe the sources and effects of pollution of 
+the air by methane and carbon dioxide, limited 
+to: the enhanced greenhouse effect and climate 
+change
+Supplement
+4	
+Explain the process of eutrophication of water, 
+limited to: 
+	•
+increased availability of nitrate and other 
+ions 
+	•
+increased growth of producers
+	•
+increased decomposition after death of 
+producers 
+	•
+increased aerobic respiration by decomposers 
+	•
+reduction in dissolved oxygen
+	•
+death of organisms requiring dissolved 
+oxygen in water
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+42
+www.cambridgeinternational.org/igcse
+Back to contents page
+20.4	Conservation
+Core
+1	
+Describe a sustainable resource as one which is 
+produced as rapidly as it is removed from the 
+environment so that it does not run out 
+2	
+State that some resources can be conserved and 
+managed sustainably, limited to forests and fish 
+stocks
+	
+3	
+Explain why organisms become endangered 
+or extinct, including: climate change, habitat 
+destruction, hunting, overharvesting, pollution 
+and introduced species
+4	
+Describe how endangered species can be 
+conserved, limited to: 
+(a)	 monitoring and protecting species and 
+habitats
+(b)	 education
+(c)	 captive breeding programmes 
+(d)	 seed banks
+Supplement
+5	
+Explain how forests can be conserved using: 
+education, protected areas, quotas and replanting
+6	
+Explain how fish stocks can be conserved using: 
+education, closed seasons, protected areas, 
+controlled net types and mesh size, quotas and 
+monitoring
+7	
+Describe the reasons for conservation 
+programmes, limited to: 
+(a)	 maintaining or increasing biodiversity 
+(b)	 reducing extinction
+(c)	 protecting vulnerable ecosystems
+(d)	 maintaining ecosystem functions, limited 
+to nutrient cycling and resource provision, 
+including food, drugs, fuel and genes
+8	
+Describe the use of artificial insemination (AI) 
+and in vitro fertilisation (IVF) in captive breeding 
+programmes 
+9	
+Explain the risks to a species if its population size 
+decreases, reducing genetic variation (knowledge 
+of genetic drift is not required) 
+21	 Biotechnology and genetic modification
+21.1	 Biotechnology and genetic modification
+Core
+1	
+State that bacteria are useful in biotechnology 
+and genetic modification due to their rapid 
+reproduction rate and their ability to make 
+complex molecules
+Supplement
+2	
+Discuss why bacteria are useful in biotechnology 
+and genetic modification, limited to:
+(a)	 few ethical concerns over their manipulation 
+and growth 
+(b)	 the presence of plasmids
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+43
+www.cambridgeinternational.org/igcse
+Back to contents page
+21.2	 Biotechnology
+Core
+1	
+Describe the role of anaerobic respiration in yeast 
+during the production of ethanol for biofuels  
+2	
+Describe the role of anaerobic respiration in yeast 
+during bread-making
+3	
+Describe the use of pectinase in fruit juice 
+production
+4	
+Investigate and describe the use of biological 
+washing powders that contain enzymes
+Supplement
+5	
+Explain the use of lactase to produce lactose-free 
+milk
+6	
+Describe how fermenters can be used for the 
+large-scale production of useful products by 
+bacteria and fungi, including insulin, penicillin and 
+mycoprotein
+7	
+Describe and explain the conditions that need to be  
+controlled in a fermenter, including: temperature, 
+pH, oxygen, nutrient supply and waste products
+21.3	Genetic modification
+Core
+1	
+Describe genetic modification as changing the 
+genetic material of an organism by removing, 
+changing or inserting individual genes  
+Supplement
+3	
+Outline the process of genetic modification using 
+bacterial production of a human protein as an 
+example, limited to: 
+(a)	 isolation of the DNA making up a human 
+gene using restriction enzymes, forming 
+sticky ends 
+(b)	 cutting of bacterial plasmid DNA with 
+the same restriction enzymes, forming 
+complementary sticky ends 
+(c)	 insertion of human DNA into bacterial 
+plasmid DNA using DNA ligase to form a 
+recombinant plasmid 
+(d)	 insertion of recombinant plasmids into 
+bacteria (specific details are not required)
+(e)	 multiplication of bacteria containing 
+recombinant plasmids
+(f)	 expression in bacteria of the human gene to 
+make the human protein
+continued
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Subject content 
+44
+www.cambridgeinternational.org/igcse
+Back to contents page
+21.3	Genetic modification continued
+Core
+2	
+Outline examples of genetic modification: 
+(a)	 the insertion of human genes into bacteria to 
+produce human proteins
+(b)	 the insertion of genes into crop plants to 
+confer resistance to herbicides 
+(c)	 the insertion of genes into crop plants to 
+confer resistance to insect pests 
+(d)	 the insertion of genes into crop plants to 
+improve nutritional qualities
+Supplement
+4	
+Discuss the advantages and disadvantages of 
+genetically modifying crops, including soya, 
+maize and rice
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.
+45
+www.cambridgeinternational.org/igcse
+Back to contents page
+4  Details of the assessment 
+All candidates take three papers.
+Candidates who have studied the Core subject content, or who are expected to achieve a grade 3 or below should 
+be entered for Paper 1, Paper 3 and either Paper 5 or Paper 6. These candidates will be eligible for grades 5 to 1, 
+where 5 is  the highest grade.
+Candidates who have studied the Extended subject content (Core and Supplement), and who are expected to 
+achieve a grade 4 or above should be entered for Paper 2, Paper 4 and either Paper 5 or Paper 6. These candidates 
+will be eligible for grades 9 to 1, where 9 is the highest grade.
+Core assessment
+Core candidates take the following papers. The questions are based on the Core subject content only.
+Paper 1: Multiple Choice (Core) 
+Paper 3: Theory (Core)
+45 minutes
+40 marks
+Forty compulsory multiple-choice items of the 
+four-choice type.
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 5 to 1
+Externally assessed
+AND
+1 hour 15 minutes
+80 marks
+Compulsory short-answer and structured 
+questions
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 5 to 1
+Externally assessed
+Extended assessment
+Extended candidates take the following papers. The questions are based on the Core and Supplement subject 
+content.
+Paper 2: Multiple Choice (Extended)  
+Paper 4: Theory (Extended)
+45 minutes
+40 marks
+Forty compulsory multiple-choice items of the 
+four-choice type.
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 9 to 1
+Externally assessed
+AND
+1 hour 15 minutes
+80 marks
+Compulsory short-answer and structured 
+questions
+This paper tests assessment objectives AO1 and 
+AO2
+This paper assesses grades 9 to 1
+Externally assessed
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+46
+www.cambridgeinternational.org/igcse
+Back to contents page
+Practical assessment
+All candidates take one practical component from a choice of two:
+Paper 5: Practical Test
+Paper 6: Alternative to Practical
+1 hour 15 minutes
+40 marks
+This paper tests assessment objective AO3
+This paper assesses grades 9 to 1
+Candidates will be required to do experiments in a 
+laboratory as part of this test
+OR
+1 hour
+40 marks
+This paper tests assessment objective AO3
+This paper assesses grades 9 to 1
+Candidates will not be required to do experiments 
+as part of this test
+Questions in the practical papers are structured to assess performance across the full grade range.
+The Practical Test and Alternative to Practical:
+	•
+require the same experimental skills to be developed and learned 
+	•
+require an understanding of the same experimental contexts 
+	•
+test the same assessment objective, AO3.
+Candidates are expected to be familiar with and may be asked questions on the following experimental contexts:
+	•
+simple quantitative experiments, including the measurement of: 
+–	
+volumes of gases and liquids
+–	
+masses
+–	
+temperatures
+–	
+times
+–	
+lengths
+	•
+diffusion
+	•
+osmosis 
+	•
+food tests
+	•
+rates of enzyme-catalysed reactions, including judging end-points, e.g. colour changes
+	•
+pH and the use of hydrogencarbonate indicator, litmus and universal indicator
+	•
+photosynthesis (rate and limiting factors)
+	•
+transpiration
+	•
+heart rate and breathing rate 
+	•
+respiration 
+	•
+tropic responses
+	•
+observation and dissection of seeds and flowers 
+	•
+germination
+	•
+continuous and discontinuous variation
+	•
+use methods of sampling that are representative and avoid bias, e.g. consideration of sample size and simple 
+random sampling
+	•
+observe, record and measure images of familiar and unfamiliar biological specimens
+	•
+make clear line drawings of biological specimens, calculating the magnification or actual size and adding labels 
+as required
+	•
+use simple apparatus in situations where the method may not be familiar to the candidate.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+47
+www.cambridgeinternational.org/igcse
+Back to contents page
+Candidates may be required to do the following: 
+	•
+demonstrate knowledge of how to select and safely use techniques, apparatus and materials (including 
+following a sequence of instructions where appropriate):
+–	
+identify apparatus from diagrams or descriptions
+–	
+draw, complete or label diagrams of apparatus and biological specimens
+–	
+use, or explain the use of, common techniques, apparatus and materials
+–	
+select the most appropriate apparatus or method for the task and justify the choice made
+–	
+describe food tests
+–	
+describe how the pH of a solution or substance can be tested
+–	
+describe and explain hazards and safety precautions 
+–	
+describe and explain techniques used to ensure the accuracy of observations and data 
+	•
+plan experiments and investigations: 
+–	
+identify the independent variable and dependent variable
+–	
+describe how and explain why variables should be kept constant
+–	
+suggest an appropriate number and range of values for the independent variable
+–	
+suggest the most appropriate apparatus or technique and justify the choice made
+–	
+describe experimental procedures, including a suitable control experiment
+–	
+identify risks and suggest safety precautions
+–	
+describe how to record the results of an experiment
+–	
+describe how to process the results of an experiment to form a conclusion or to evaluate a prediction
+–	
+make reasoned predictions of expected results
+	•
+make and record observations, measurements and estimates: 
+–	
+take readings from apparatus (analogue and digital) or from diagrams of apparatus with appropriate 
+precision
+–	
+take sufficient observations or measurements, including repeats and replicates where appropriate
+–	
+record qualitative observations from food and other tests
+–	
+record observations and measurements systematically, for example in a suitable table, to an appropriate 
+degree of precision and using appropriate units
+	•
+interpret and evaluate experimental observations and data: 
+–	
+process data, including for use in further calculations or for graph plotting, using a calculator as appropriate
+–	
+present data graphically
+–	
+analyse and interpret observations and data, including data presented graphically
+–	
+use interpolation and extrapolation graphically to determine a gradient or intercept
+–	
+form conclusions justified by reference to observations and data and with appropriate explanation
+–	
+evaluate the quality of observations and data, identifying any anomalous results and taking appropriate 
+action
+	•
+evaluate methods and suggest possible improvements:
+–	
+evaluate experimental arrangements, methods and techniques, including the use of a control 
+–	
+identify sources of error 
+–	
+suggest possible improvements to the apparatus, experimental arrangements, methods and techniques.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+48
+www.cambridgeinternational.org/igcse
+Back to contents page
+Apparatus, materials and reagents
+These lists give items candidates should be familiar with using, whether they are taking the Practical Test or the 
+Alternative to Practical. 
+These items should be available for use in the Practical Test. These lists are not exhaustive and we may also require 
+other items to be sourced for specific exams. The Confidential Instructions we send before the Practical Test will 
+give the detailed requirements for the exam. 
+Every effort is made to limit the resources required by centres and so minimise the costs. Experiments will be 
+designed around basic apparatus and materials which should be available in most school laboratories or are easily 
+obtainable.
+Hazard codes are used where relevant and in accordance with information provided by CLEAPSS 
+(www.cleapss.org.uk). Candidates should be familiar with the meanings of these codes and terms but will  
+not be assessed on them.
+C	
+corrosive	
+MH	 moderate hazard
+HH	 health hazard 	
+T	
+acutely toxic
+F	
+flammable	
+O	
+oxidising
+N	
+hazardous to the aquatic environment
+The attention of centres is drawn to any local regulations relating to safety, first aid and disposal of chemicals. 
+‘Hazard Data Sheets’ should be available from your chemical supplier.
+Candidates must be provided with appropriate safety equipment, such as suitable eye protection and gloves, during 
+practical work. 
+The Confidential Instructions will indicate which hazard symbols are applicable for the materials required for each 
+Practical Test exam.
+Chemicals, reagents and indicators
+The list below is not intended to be comprehensive but shows the types of chemicals, reagents and indicators that 
+candidates should be familiar with. 
+	•
+Benedict’s solution
+	•
+biuret reagent 
+	•
+carbohydrates (starch, glucose, sucrose), proteins, lipids
+	•
+DCPIP
+	•
+dilute acid
+	•
+dilute alkali
+	•
+distilled or deionised water
+	•
+enzymes (e.g. amylase, a protease, lipase) 
+	•
+ethanol
+	•
+indicators (universal indicator solution, hydrogencarbonate indicator, litmus solution)
+	•
+hydrogen peroxide solution 
+	•
+iodine in potassium iodide solution (iodine solution)  
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+49
+www.cambridgeinternational.org/igcse
+Back to contents page
+	•
+limewater
+	•
+methylene blue dye
+	•
+petroleum jelly (Vaseline® or similar)
+	•
+sodium chloride
+	•
+sodium hydrogencarbonate (sodium bicarbonate)
+Apparatus
+Other materials may be required for examinations.
+	•
+balance to measure up to 500 g, with precision of at least 0.1 g 
+	•
+beakers (various sizes, 100 cm3, 250 cm3)
+	•
+bungs to fit small test-tubes and large test-tubes
+	•
+bungs with delivery tubes to fit small test-tubes and large test-tubes
+	•
+filter funnels
+	•
+filter paper
+	•
+forceps
+	•
+glass rods
+	•
+hand lenses (at least ×6 magnification)
+	•
+lamps for photosynthesis experiments
+	•
+means of cutting biological materials (e.g. scalpels or sharp knives)
+	•
+means of writing on glassware (e.g. wax pencils or water-resistant markers)
+	•
+measuring cylinders (e.g. 10, 25 and 100 cm3)
+	•
+mounted needles or seekers or long pins with large heads
+	•
+rulers, graduated in mm
+	•
+scissors
+	•
+partially permeable membrane (e.g. Visking® or dialysis tubing)
+	•
+Pasteur or dropping pipette
+	•
+Petri dishes 
+	•
+spotting tiles 
+	•
+stop-clocks, reading to 1 s or better
+	•
+syringes (various sizes, 1 cm3, 5 cm3, 1 0cm3)
+	•
+test-tubes – small (125 mm × 15 mm) and large (150 mm × 25 mm)
+	•
+test-tube racks and test-tube holders
+	•
+thermometers, –10 °C to +110 °C, with 1 °C graduations
+	•
+wash bottles
+	•
+white tiles or other suitable cutting surfaces
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+50
+www.cambridgeinternational.org/igcse
+Back to contents page
+Safety in the laboratory
+Teachers should make sure they do not contravene any school, education authority or government regulation. 
+Responsibility for safety matters rests with centres. Further information can be found from the following UK 
+associations, publications and regulations.
+Associations 
+CLEAPSS is an advisory service providing support in practical science and technology.  
+www.cleapss.org.uk 
+Publications 
+CLEAPSS Laboratory Handbook, updated 2015 (available to CLEAPSS members only) 
+CLEAPSS Hazcards, 2019 update of 2016 edition (available to CLEAPSS members only) 
+UK regulations 
+Control of Substances Hazardous to Health Regulations (COSHH) 2002 and subsequent amendment in 2004 
+www.legislation.gov.uk/uksi/2002/2677/contents/made 
+www.legislation.gov.uk/uksi/2004/3386/contents/made 
+A brief guide may be found at www.hse.gov.uk/pubns/indg136.pdf
+Mathematical requirements
+It is expected that these requirements will be covered as part of a mathematics curriculum at this level of study.
+Calculators may be used in all parts of the exam.
+Number
+	•
+add, subtract, multiply and divide 
+	•
+use decimals, fractions, ratios and reciprocals 
+	•
+calculate and use percentages and percentage change 
+	•
+use standard form 
+	•
+express answers to an appropriate or given number of significant figures
+	•
+express answers to an appropriate or given number of decimal places
+	•
+round answers appropriately
+Algebra
+	•
+recognise and use direct and inverse proportion
+	•
+solve simple algebraic equations for any one term when the other terms are known
+	•
+substitute physical quantities into a formula
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+51
+www.cambridgeinternational.org/igcse
+Back to contents page
+Geometry and measurements
+	•
+convert between units, including cm3 and dm3, mg, g and kg, μm, mm, cm and m 
+	•
+understand the meaning of angle, curve, circle, radius, diameter, circumference, square, rectangle and diagonal
+	•
+recall and use equations for the area of a rectangle, the area of a triangle and the area of a circle 
+	•
+recall and use equations for the volume of a rectangular block and the volume of a cylinder
+	•
+use a ruler
+	•
+make estimates of numbers, quantities and lengths
+	•
+understand surface area and use surface area : volume ratio
+	•
+use scale diagrams
+	•
+select and use the most appropriate units for recording data and the results of calculations
+Graphs, charts and statistics
+	•
+draw charts and graphs from data
+	•
+interpret line graphs, bar charts, pie charts and histograms with equal intervals 
+	•
+interpolate and extrapolate from data
+	•
+determine the gradient and intercept of a graph, including units where appropriate
+	•
+select suitable scales and axes for graphs
+	•
+recognise direct and inverse proportionality from a graph
+	•
+calculate the mean and range of a set of values
+	•
+use simple probability
+Presentation of data 
+Taking and recording readings
+	•
+Data should be recorded so as to reflect the precision of the measuring instrument, i.e. the smallest difference 
+that can reliably be detected on the measuring instrument scale should be reflected by the number of decimal 
+places given in the measurement.
+	•
+A measurement or calculated quantity must be accompanied by a correct unit, where appropriate.
+	•
+Each column of a table should be headed with the observation or physical quantity and the unit where 
+appropriate, e.g. time / s. The solidus (/) is to be used for separating the quantity and the unit in tables, graphs 
+and charts.
+	•
+Units should not be included with data in the body of a table.
+	•
+Data should be recorded to the appropriate number of significant figures.
+Graphs
+	•
+The column headings of a correctly headed table can be directly transferred to the axes of a constructed graph.
+	•
+A graph should be drawn with a sharp pencil.
+	•
+Each axis should be labelled with the observation or physical quantity and the unit where appropriate, e.g. 
+time / s.
+	•
+Unless instructed otherwise, the independent variable should be plotted on the x-axis (horizontal axis) and the 
+dependent variable plotted on the y-axis (vertical axis).
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+52
+www.cambridgeinternational.org/igcse
+Back to contents page
+	•
+Unless instructed otherwise, the scales for the axes should allow more than half of the graph grid to be used in 
+both directions, and be based on sensible ratios, e.g. 2 cm on the graph grid representing 1, 2 or 5 units of the 
+variable. The axes do not have to include (0,0).
+	•
+Points on the graph should be clearly marked as crosses (×) or encircled dots (⊙) of appropriate size.
+	•
+Each data point should be plotted to an accuracy of one half of one of the smallest squares on the grid. 
+	•
+A best-fit line (trend line) should be a single, thin, smooth straight line or curve. The line does not need to 
+coincide exactly with any of the points; where there is scatter evident in the data, examiners would expect 
+a roughly even distribution of points either side of the line over its entire length. Points that are clearly 
+anomalous should be ignored when drawing the best-fit line. 
+	•
+A best-fit line or curve should only be drawn if there is good reason to believe that the intermediate values can 
+be predicted.
+	•
+Candidates should be able to take readings from the graph by extrapolation or interpolation and indicate on 
+the graph how they determined the reading.
+	•
+Data values should be read from a graph to an accuracy of one half of the smallest square on the grid.
+Drawings
+	•
+Drawings should be drawn using a sharp pencil to give fine lines that are clear and unbroken. 
+	•
+Drawings should use most of the available space and show all the features observed in the specimen, with no 
+shading or use of colour.
+	•
+Label lines should be drawn with a ruler and touch the object or feature labelled.
+Charts
+	•
+Pie charts are generally used to show percentage or proportionality. 
+	•
+Bar charts should be drawn for categorical or discrete data. They should be made up of bars of equal width that 
+do not touch. 
+	•
+Histograms should be drawn for continuous data. They should have bars that touch. 
+Further guidance can be found in the following publications:
+ASE, The Language of Mathematics in Science: A Guide for Teachers of 11–16 Science (2016).
+ASE, The Language of Mathematics in Science: Teaching Approaches (2016).
+www.ase.org.uk/mathsinscience
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+53
+www.cambridgeinternational.org/igcse
+Back to contents page
+Conventions (e.g. signs, symbols, terminology and nomenclature) 
+Candidates are expected to be familiar with the nomenclature used in the syllabus.  
+The syllabus and question papers conform with accepted international practice. In particular, the following 
+document, produced by the Association for Science Education (ASE), should be used as a guideline. 
+Signs, Symbols and Systematics: The ASE Companion to 16–19 Science (2000).  
+Decimal markers
+In accordance with current ASE convention, decimal markers in examination papers will be a single dot on the line. 
+Candidates are expected to follow this convention in their answers.  
+Numbers
+Numbers from 1000 to 9999 will be printed without commas or spaces. Numbers greater than or equal to 10 000 
+will be printed without commas. A space will be left between each group of three digits, e.g. 4 256 789. 
+Variables
+Independent variables are the variables that are changed in a scientific experiment by the scientist. Changing an 
+independent variable may cause a change in the dependent variable. 
+Dependent variables are the variables that are observed or measured in a scientific experiment. Dependent 
+variables may change based on changes made to the independent variables. 
+Units
+To avoid any confusion concerning the symbol for litre, the equivalent quantity, the cubic decimetre (dm3) will be 
+used in place of l or litre.
+In practical work, candidates will be expected to use SI units or, where appropriate, units approved for use with the 
+SI (e.g. minute). 
+In all examinations, where data is supplied for use in questions, candidates will be expected to use units that are 
+consistent with the units supplied and should not attempt conversion to other systems of units unless this is a 
+requirement of the question. 
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  Details of the assessment 
+54
+www.cambridgeinternational.org/igcse
+Back to contents page
+Command words
+Command words and their meanings help candidates know what is expected from them in the exams. The table 
+below includes command words used in the assessment for this syllabus. The use of the command word will relate 
+to the subject context. 
+Command word
+What it means
+Calculate
+work out from given facts, figures or information
+Compare
+identify/comment on similarities and/or differences
+Define
+give precise meaning
+Describe
+state the points of a topic / give characteristics and main features
+Determine
+establish an answer using the information available
+Evaluate
+judge or calculate the quality, importance, amount, or value of something
+Explain
+set out purposes or reasons / make the relationships between things evident / provide why 
+and/or how and support with relevant evidence
+Give
+produce an answer from a given source or recall/memory
+Identify
+name/select/recognise
+Outline
+set out main points
+Predict
+suggest what may happen based on available information
+Sketch
+make a simple freehand drawing showing the key features, taking care over proportions
+State
+express in clear terms
+Suggest
+apply knowledge and understanding to situations where there are a range of valid 
+responses in order to make proposals / put forward considerations
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.
+55
+www.cambridgeinternational.org/igcse
+Back to contents page
+5  What else you need to know 
+This section is an overview of other information you need to know about this syllabus. It will help to share the 
+administrative information with your exams officer so they know when you will need their support. Find more 
+information about our administrative processes at www.cambridgeinternational.org/eoguide
+Before you start
+Previous study
+We recommend that learners starting this course should have studied a biology curriculum such as the Cambridge 
+Lower Secondary programme or equivalent national educational framework.
+Guided learning hours
+We design Cambridge IGCSE syllabuses based on learners having about 130 guided learning hours for each subject 
+during the course but this is for guidance only. The number of hours a learner needs to achieve the qualification 
+may vary according to local practice and their previous experience of the subject.
+Availability and timetables 
+All Cambridge schools are allocated to one of six administrative zones. Each zone has a specific timetable. This 
+syllabus is not available in all administrative zones. To find out about availability, check the syllabus page at 
+www.cambridgeinternational.org/0970
+You can view the timetable for your administrative zone at www.cambridgeinternational.org/timetables
+You can enter candidates in the June and November exam series. 
+Check you are using the syllabus for the year the candidate is taking the exam. 
+Private candidates can enter for this syllabus. For more information, please refer to the Cambridge Guide to Making 
+Entries. 
+Combining with other syllabuses
+Candidates can take this syllabus alongside other Cambridge International syllabuses in a single exam series. The 
+only exceptions are:
+	•
+Cambridge O Level Biology (5090)
+	•
+Cambridge IGCSE Biology (0610)
+	•
+Cambridge IGCSE Combined Science (0653)
+	•
+Cambridge IGCSE Co-ordinated Sciences (Double Award) (0654)
+	•
+Cambridge IGCSE (9–1) Co-ordinated Sciences (Double Award) (0973)
+	•
+Cambridge O Level Combined Science (5129)
+	•
+syllabuses with the same title at the same level.
+Cambridge IGCSE, Cambridge IGCSE (9–1) and Cambridge O Level syllabuses are at the same level.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  What else you need to know  
+56
+www.cambridgeinternational.org/igcse
+Back to contents page
+Making entries
+Exams officers are responsible for submitting entries to Cambridge International. We encourage them to work 
+closely with you to make sure they enter the right number of candidates for the right combination of syllabus 
+components. Entry option codes and instructions for submitting entries are in the Cambridge Guide to Making 
+Entries. Your exams officer has a copy of this guide.
+Exam administration
+To keep our exams secure, we produce question papers for different areas of the world, known as administrative 
+zones. We allocate all Cambridge schools to one administrative zone determined by their location. Each zone has 
+a specific timetable. Some of our syllabuses offer candidates different assessment options. An entry option code 
+is used to identify the components the candidate will take relevant to the administrative zone and the available 
+assessment options.
+Support for exams officers
+We know how important exams officers are to the successful running of exams. We provide them with the support 
+they need to make your entries on time. Your exams officer will find this support, and guidance for all other phases 
+of the Cambridge Exams Cycle, at www.cambridgeinternational.org/eoguide
+Retakes
+Candidates can retake the whole qualification as many times as they want to. Information on retake entries is at 
+www.cambridgeinternational.org/entries 
+Equality and inclusion
+We have taken great care to avoid bias of any kind in the preparation of this syllabus and related assessment 
+materials. In our effort to comply with the UK Equality Act (2010) we have taken all reasonable steps to avoid any 
+direct and indirect discrimination.
+The standard assessment arrangements may present barriers for candidates with impairments. Where a candidate 
+is eligible, we may be able to make arrangements to enable that candidate to access assessments and receive 
+recognition of their attainment. We do not agree access arrangements if they give candidates an unfair advantage 
+over others or if they compromise the standards being assessed.
+Candidates who cannot access the assessment of any component may be able to receive an award based on the 
+parts of the assessment they have completed.
+Information on access arrangements is in the Cambridge Handbook at www.cambridgeinternational.org/eoguide 
+Language
+This syllabus and the related assessment materials are available in English only.
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  What else you need to know 
+57
+www.cambridgeinternational.org/igcse
+Back to contents page
+After the exam
+Grading and reporting
+Grades 9, 8, 7, 6, 5, 4, 3, 2 or 1 indicate the standard a candidate achieved at Cambridge IGCSE (9–1). 
+9 is the highest and 1 is the lowest. ‘Ungraded’ means that the candidate’s performance did not meet the standard 
+required for grade 1. ‘Ungraded’ is reported on the statement of results but not on the certificate. 
+In specific circumstances your candidates may see one of the following letters on their statement of results:
+	•
+Q (PENDING)
+	•
+X (NO RESULT).
+These letters do not appear on the certificate.
+On the statement of results and certificates, Cambridge IGCSE is shown as INTERNATIONAL GENERAL 
+CERTIFICATE OF SECONDARY EDUCATION (IGCSE).
+How students and teachers can use the grades
+Assessment at Cambridge IGCSE has two purposes:
+	•
+to measure learning and achievement
+	
+The assessment:
+–	
+confirms achievement and performance in relation to the knowledge, understanding and skills specified in 
+the syllabus, to the levels described in the grade descriptions.
+	•
+to show likely future success
+	
+The outcomes:
+–	
+help predict which students are well prepared for a particular course or career and/or which students are 
+more likely to be successful
+–	
+help students choose the most suitable course or career.
+Grade descriptions
+Grade descriptions are provided to give an indication of the standards of achievement candidates awarded 
+particular grades are likely to show. Weakness in one aspect of the examination may be balanced by a better 
+performance in some other aspect.
+Grade descriptions for Cambridge IGCSE (9–1) Biology will be published after the first assessment of the syllabus in 
+2023. Find more information at www.cambridgeinternational.org/0970
+Cambridge IGCSE (9–1) Biology 0970 syllabus for 2023, 2024 and 2025.  What else you need to know  
+58
+www.cambridgeinternational.org/igcse
+Back to contents page
+Changes to this syllabus for 2023, 2024 and 2025
+The syllabus has been reviewed and revised for first examination in 2023.
+You must read the whole syllabus before planning your teaching programme.
+Changes to syllabus content
+	•
+The learner attributes have been included in the key benefits section. 
+	•
+The structure of the subject content has changed to ensure a coherent 
+topic structure.  
+	•
+The wording in the learning objectives has been updated to provide 
+clarity on the depth to which each topic should be taught. Although 
+the wording will look different in many places, the content to teach 
+remains largely the same. Some content has been updated and 
+expanded. Some examples are shown below.
+	•
+Sub-topics moved in the content:
+–	
+1.4 Dichotomous keys
+–	
+6.3 Mineral requirements
+–	
+15.2 Medicinal drugs
+–	
+17.1 Inheritance
+	•
+Sub-topics removed from the content:
+–	
+15.3 Misused drugs 
+–	
+16.6 Methods of birth control in humans
+	•
+The teaching time still falls within the recommended guided learning 
+hours.
+	•
+The learning objectives have been numbered, rather than listed by 
+bullet points. 
+	•
+The Details of the assessment section has been updated and 
+further explanation has been provided. This includes revisions to the 
+apparatus list, the mathematical requirements and the information on 
+the presentation of data.
+	•
+A list of command words has been provided and replaces the previous 
+glossary of terms.
+Changes to assessment 
+(including changes to specimen 
+papers)
+	•
+The syllabus aims have been updated to improve the clarity of wording 
+and the consistency between IGCSE (9–1) Biology, Chemistry and 
+Physics.  
+	•
+The wording of the assessment objectives (AOs) has been updated to 
+ensure consistency across IGCSE (9–1) Biology, Chemistry and Physics. 
+The assessment objectives still test the same knowledge and skills as 
+previously.  
+In addition to reading the syllabus, you should refer to the updated specimen assessment materials. The specimen 
+papers will help your students become familiar with exam requirements and command words in questions. The 
+specimen mark schemes explain how students should answer questions to meet the assessment objectives.
+Any textbooks endorsed to support the syllabus for examination from 2023 are suitable for use with 
+this syllabus.   
+Cambridge Assessment International Education
+The Triangle Building, Shaftesbury Road, Cambridge, CB2 8EA, United Kingdom
+Tel: +44 (0)1223 553554  Fax: +44 (0)1223 553558
+Email: info@cambridgeinternational.org    www.cambridgeinternational.org
+Copyright © UCLES September 2020
+‘While studying Cambridge IGCSE and Cambridge International A Levels, students broaden their horizons 
+through a global perspective and develop a lasting passion for learning.’
+Zhai Xiaoning, Deputy Principal, The High School Affiliated to Renmin University of China
