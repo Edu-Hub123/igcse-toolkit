@@ -162,18 +162,15 @@ Rules:
 """
 
     def stream_notes():
-        yield '{"notes": "'
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
             stream=True
         )
         for chunk in response:
-            delta = chunk.choices[0].delta.get("content", "")
-            yield delta.replace('"', '\\"')
-        yield '"}'
+            yield chunk.choices[0].delta.get("content", "")
 
-    return Response(stream_with_context(stream_notes()), mimetype='application/json')
+    return Response(stream_with_context(stream_notes()), mimetype="text/plain")
 
 @app.route("/generate_paper", methods=["POST"])
 def generate_paper():
@@ -264,18 +261,15 @@ Instructions:
 """
 
     def stream_paper():
-        yield '{"paper": "'
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": paper_prompt}],
             stream=True
         )
         for chunk in response:
-            delta = chunk.choices[0].delta.get("content", "")
-            yield delta.replace('"', '\\"')
-        yield '", "markscheme": ""}'
+            yield chunk.choices[0].delta.get("content", "")
 
-    return Response(stream_with_context(stream_paper()), mimetype='application/json')
+    return Response(stream_with_context(stream_paper()), mimetype="text/plain")
 
 @app.route("/chat_refine_notes", methods=["POST"])
 def chat_refine_notes():
