@@ -40,7 +40,7 @@ def clean_mermaid_code(raw):
             continue
         if line.startswith("```") or line.lower().startswith("mermaid"):
             continue
-        if ":::" in line or ";" in line or "classDef" in line:
+        if ":": in line or ";" in line or "classDef" in line:
             continue
         cleaned.append(line)
     return "\n".join(cleaned)
@@ -85,8 +85,7 @@ def get_topics():
 
     board = data.get("board")
     subject = data.get("subject")
-    
-    # Debug what the server actually sees
+
     print(f"Board received: '{board}'")
     print(f"Subject received: '{subject}'")
     print(f"Available boards: {list(syllabus_data.keys())}")
@@ -150,6 +149,7 @@ def generate_notes():
             points = syllabus_data[board][subject][topic][subtopic]
     except KeyError:
         return jsonify({"error": "Invalid syllabus selection"}), 404
+
     syllabus_str = "\n".join(f"- {p}" for p in points)
     if learner_type == "reading_and_writing":
         prompt = f"""
@@ -184,9 +184,11 @@ Rules:
 - Keep it clear, simple, and structured.
 - Do not wrap in triple backticks or include commentary.
 """
+
     try:
+        model = "gpt-3.5-turbo" if learner_type == "visual" else "gpt-4"
         response = client.chat.completions.create(
-            model="gpt-4",
+            model=model,
             messages=[
                 {"role": "system", "content": "You are a helpful and precise IGCSE tutor."},
                 {"role": "user", "content": prompt}
@@ -337,7 +339,7 @@ Instructions:
 
     try:
         resp = client.chat.completions.create(
-            model="gpt-4",
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are a helpful, precise IGCSE revision assistant."},
                 {"role": "user", "content": prompt}
