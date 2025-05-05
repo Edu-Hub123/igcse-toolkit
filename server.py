@@ -40,7 +40,7 @@ def clean_mermaid_code(raw):
             continue
         if line.startswith("```") or line.lower().startswith("mermaid"):
             continue
-        if ":": in line or ";" in line or "classDef" in line:
+        if ":" in line or ";" in line or "classDef" in line:
             continue
         cleaned.append(line)
     return "\n".join(cleaned)
