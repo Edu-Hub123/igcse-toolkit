@@ -8,7 +8,7 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from datetime import datetime
-from flask import Flask, request, jsonify
+from flask import send_from_directory
 
 load_dotenv()
 
@@ -56,11 +56,6 @@ EDEXCEL_SUBJECTS = sorted([
     "Information and Communication Technology", "Mathematics A", "Mathematics B",
     "Physics"
 ])
-
-from flask import Flask, request, jsonify
-from datetime import datetime
-
-app = Flask(__name__)
 
 @app.before_request
 def restrict_time_window():
@@ -362,6 +357,14 @@ def add_cors_headers(response):
     response.headers["Access-Control-Allow-Headers"] = "Content-Type,Authorization"
     response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
     return response
+
+@app.route("/")
+def serve_homepage():
+    return send_from_directory("BETA", "index-1.html")
+
+@app.route("/assets/<path:filename>")
+def serve_assets(filename):
+    return send_from_directory(os.path.join("BETA", "assets"), filename)
 
 if __name__ == "__main__":
     app.run(port=5000, debug=True)
