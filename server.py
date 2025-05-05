@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_from_directory, Response, stream_with_context
 from flask_cors import CORS
 import re
 import openai
@@ -8,22 +8,17 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from datetime import datetime
-from flask import send_from_directory
 
 load_dotenv()
 
-# Initialize Flask app
 app = Flask(__name__)
 CORS(app, supports_credentials=True, resources={r"/*": {"origins": "*"}})
 
-# Setup OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Load syllabus data
 with open("IGCSE Syllabi.json", "r") as f:
     syllabus_data = json.load(f)
 
-# --- Helpers ---
 def strip_markdown(text):
     text = re.sub(r"\*\*(.*?)\*\*", r"\1", text)
     text = re.sub(r"\*(.*?)\*", r"\1", text)
@@ -45,7 +40,6 @@ def clean_mermaid_code(raw):
         cleaned.append(line)
     return "\n".join(cleaned)
 
-# --- Subject Lists ---
 CAMBRIDGE_SUBJECTS = sorted([
     "Biology", "Business Studies", "Chemistry", "Computer Science", "Economics",
     "Geography", "History", "Mathematics", "Physics"
@@ -62,7 +56,6 @@ def restrict_time_window():
     now = datetime.utcnow()
     start_time = datetime(2025, 5, 3)
     end_time = datetime(2025, 5, 12)
-
     if not (start_time <= now <= end_time):
         return jsonify({"error": "Access to the prototype has expired."}), 403
 
@@ -79,37 +72,23 @@ def get_subjects(board):
 def get_topics():
     if request.method == "OPTIONS":
         return '', 204
-
     data = request.json
-    print("DEBUG /get_topics input:", data)
-
     board = data.get("board")
     subject = data.get("subject")
-
-    print(f"Board received: '{board}'")
-    print(f"Subject received: '{subject}'")
-    print(f"Available boards: {list(syllabus_data.keys())}")
-    print(f"Available subjects in {board}: {list(syllabus_data.get(board, {}).keys())}")
-
     if not board or not subject:
         return jsonify({"error": "Missing board or subject"}), 400
-
     try:
         topics = list(syllabus_data[board][subject].keys())
-        print("DEBUG /get_topics output:", topics)
         return jsonify({"topics": topics})
     except Exception as e:
-        print("DEBUG /get_topics error:", str(e))
         return jsonify({"error": f"Server error: {str(e)}"}), 500
 
 @app.route("/get_topics/<board>/<subject>", methods=["GET"])
 def get_topics_get(board, subject):
-    print(f"DEBUG GET /get_topics | board: {board} | subject: {subject}")
     try:
         topics = list(syllabus_data[board][subject].keys())
         return jsonify({"topics": topics})
     except Exception as e:
-        print("DEBUG GET /get_topics error:", str(e))
         return jsonify({"error": f"Server error: {str(e)}"}), 500
 
 @app.route("/get_subtopics", methods=["POST"])
@@ -122,23 +101,20 @@ def get_subtopics():
         subs = syllabus_data[board][subject][topic]
         return jsonify({"subtopics": list(subs.keys())})
     except KeyError:
-        return jsonify({
-            "error": "Board, subject, or topic not found. Check for exact matches.",
-            "subtopics": []
-        }), 404
+        return jsonify({"error": "Board, subject, or topic not found.", "subtopics": []}), 404
 
 @app.route("/generate_notes", methods=["POST"])
 def generate_notes():
-    data = request.json
-    board = data.get("board")
-    subject = data.get("subject")
-    topic = data.get("topic")
-    subtopic = data.get("subtopic")
-    learner_type = data.get("learner_type")
-    if not all([board, subject, topic, subtopic, learner_type]):
-        return jsonify({"error": "Missing input data"}), 400
+    data = request.get_json()
+    board = data.get('board')
+    subject = data.get('subject')
+    topic = data.get('topic')
+    subtopic = data.get('subtopic')
+    learner_type = data.get('learner_type')
+
     if learner_type not in ["reading_and_writing", "visual"]:
         return jsonify({"notes": "This learner type is not supported yet."})
+
     try:
         if subtopic == "full":
             topic_data = syllabus_data[board][subject][topic]
@@ -185,51 +161,48 @@ Rules:
 - Do not wrap in triple backticks or include commentary.
 """
 
-    try:
-        model = "gpt-3.5-turbo" if learner_type == "visual" else "gpt-4"
+    def stream_notes():
+        yield '{"notes": "'
         response = client.chat.completions.create(
-            model=model,
-            messages=[
-                {"role": "system", "content": "You are a helpful and precise IGCSE tutor."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.5
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            stream=True
         )
-        raw = response.choices[0].message.content.strip()
-        notes = clean_mermaid_code(raw) if learner_type == "visual" else strip_markdown(raw)
-        return jsonify({"notes": notes})
-    except Exception as e:
-        import traceback; traceback.print_exc()
-        return jsonify({"error": f"Server error: {str(e)}"}), 500
+        for chunk in response:
+            delta = chunk.choices[0].delta.get("content", "")
+            yield delta.replace('"', '\\"')
+        yield '"}'
+
+    return Response(stream_with_context(stream_notes()), mimetype='application/json')
 
 @app.route("/generate_paper", methods=["POST"])
 def generate_paper():
-    data = request.json
-    subtopic = data.get("subtopic")
-    board = data.get("board")
-    subject = data.get("subject")
-    topic = data.get("topic")
-    if not all([board, subject, topic]):
-        return jsonify({"error": "Missing input data"}), 400
-    # Retrieve syllabus points for paper generation
+    data = request.get_json()
+    board = data.get('board')
+    subject = data.get('subject')
+    topic = data.get('topic')
+    subtopic = data.get('subtopic')
+
     try:
         if topic == "all":
-            subj = syllabus_data[board][subject]
-            pts = []
-            for tdata in subj.values():
-                for p in tdata.values(): pts.extend(p)
+            topic_data = syllabus_data[board][subject]
+            points = []
+            for topic_section in topic_data.values():
+                for pt in topic_section.values():
+                    points.extend(pt)
         else:
             if subtopic == "full":
-                tdata = syllabus_data[board][subject][topic]
-                pts = []
-                for p in tdata.values():
-                    pts.extend(p)
+                topic_data = syllabus_data[board][subject][topic]
+                points = []
+                for pt in topic_data.values():
+                    points.extend(pt)
             else:
-                pts = syllabus_data[board][subject][topic][subtopic]
+                points = syllabus_data[board][subject][topic][subtopic]
     except KeyError:
         return jsonify({"error": "Invalid syllabus selection"}), 404
-    syllabus_str = "\n".join(f"- {p}" for p in pts)
-    # Construct prompts
+
+    syllabus_str = "\n".join(f"- {p}" for p in points)
+
     if topic == "all":
         paper_prompt = f"""
 You are an experienced IGCSE examiner.
@@ -289,29 +262,20 @@ Instructions:
 4. ALWAYS deliver the mark scheme for ALL questions in the question paper. Every single question must be dealt with in the mark scheme without fail. 
 5. Do NOT write any text that is not directly related to the mark scheme, including intros or warning messages.
 """
-    try:
-        paper_resp = client.chat.completions.create(
+
+    def stream_paper():
+        yield '{"paper": "'
+        response = client.chat.completions.create(
             model="gpt-4",
-            messages=[
-                {"role": "system", "content": "You are a helpful IGCSE examiner."},
-                {"role": "user", "content": paper_prompt}
-            ],
-            temperature=0.7
+            messages=[{"role": "user", "content": paper_prompt}],
+            stream=True
         )
-        paper_text = paper_resp.choices[0].message.content.strip()
-        mark_resp = client.chat.completions.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": "You are a helpful IGCSE examiner."},
-                {"role": "assistant", "content": paper_text},
-                {"role": "user", "content": markscheme_prompt}
-            ],
-            temperature=0.7
-        )
-        return jsonify({"paper": paper_text, "markscheme": mark_resp.choices[0].message.content.strip()})
-    except Exception as e:
-        import traceback; traceback.print_exc()
-        return jsonify({"error": f"Server error: {str(e)}"}), 500
+        for chunk in response:
+            delta = chunk.choices[0].delta.get("content", "")
+            yield delta.replace('"', '\\"')
+        yield '", "markscheme": ""}'
+
+    return Response(stream_with_context(stream_paper()), mimetype='application/json')
 
 @app.route("/chat_refine_notes", methods=["POST"])
 def chat_refine_notes():
@@ -336,7 +300,6 @@ Instructions:
 - Always return the full revised notes, not just a snippet.
 - Preserve structure, headings, and formatting.
 """
-
     try:
         resp = client.chat.completions.create(
             model="gpt-3.5-turbo",
