@@ -306,7 +306,7 @@ Original Notes:
 Student Request: {user_message}
 
 Instructions:
-- Modify only the parts of the notes the student refers to, unless they explicitly ask for full regeneration.
+- Modify the relevant sections based on the student's request, but always return the full revised notes — not just the edited parts.
 - Keep all other sections unchanged.
 - Always return the full revised notes, not just a snippet.
 - Preserve structure, headings, and formatting.
