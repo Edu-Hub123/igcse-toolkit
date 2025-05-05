@@ -1,6 +1,9 @@
-
-// script.js (GET-based /get_topics endpoint fix with paper button state control)
+// script.js (Updated to work with Render deployment)
 document.addEventListener("DOMContentLoaded", () => {
+  const BASE_URL = window.location.hostname === "localhost"
+    ? "http://127.0.0.1:5000"
+    : "https://igcse-toolkit.onrender.com;"
+
   const tabs = {
     home: document.getElementById("tab-home"),
     notes: document.getElementById("tab-notes"),
@@ -51,23 +54,13 @@ document.addEventListener("DOMContentLoaded", () => {
     dropdown.innerHTML = `<option value="">-- ${defaultText} --</option>`;
   }
 
-  
-  function updateGeneratePaperButtonState() {
-    const board = paperBoardDropdown.value;
-    const subject = paperSubjectDropdown.value;
-    const topic = paperTopicDropdown.value;
-    const subtopic = paperSubtopicDropdown.value;
-    const isReady = board && subject && topic && subtopic && topic !== "all";
-    document.getElementById("generate-paper-btn").disabled = !isReady;
-  }
-function updateGenerateButtonState() {
+  function updateGenerateButtonState() {
     const board = boardDropdown.value;
     const subject = subjectDropdown.value;
     const topic = topicDropdown.value;
     const subtopic = subtopicDropdown.value;
     const learnerType = learnerDropdown.value;
-    const isSupported = learnerType === "reading_and_writing";
-    generateBtn.disabled = !(board && subject && topic && subtopic && learnerType === "reading_and_writing");
+    generateBtn.disabled = !(board && subject && topic && subtopic && learnerType);
   }
 
   function updateGeneratePaperButtonState() {
@@ -93,7 +86,7 @@ function updateGenerateButtonState() {
     const board = boardDropdown.value;
     if (!board) return;
 
-    fetch(`http://127.0.0.1:5000/get_subjects/${board}`)
+    fetch(`${BASE_URL}/get_subjects/${board}`)
       .then(res => res.json())
       .then(data => {
         data.subjects?.forEach(subject => {
@@ -115,7 +108,7 @@ function updateGenerateButtonState() {
     const subject = subjectDropdown.value;
     if (!board || !subject) return;
 
-    fetch(`http://127.0.0.1:5000/get_topics/${board}/${subject}`)
+    fetch(`${BASE_URL}/get_topics/${board}/${subject}`)
       .then(res => res.json())
       .then(data => {
         data.topics?.forEach(topic => {
@@ -137,7 +130,7 @@ function updateGenerateButtonState() {
     const topic = topicDropdown.value;
     if (!board || !subject || !topic) return;
 
-    fetch("http://127.0.0.1:5000/get_subtopics", {
+    fetch(`${BASE_URL}/get_subtopics`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic })
@@ -172,7 +165,7 @@ function updateGenerateButtonState() {
     flowchartContainer.innerHTML = "";
     chatContainer.style.display = "none";
 
-    fetch("http://127.0.0.1:5000/generate_notes", {
+    fetch(`${BASE_URL}/generate_notes`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic, subtopic, learner_type: learnerType })
@@ -184,8 +177,7 @@ function updateGenerateButtonState() {
       if (learnerType === "visual") {
         const mermaidElement = document.createElement("div");
         mermaidElement.classList.add("mermaid");
-        mermaidElement.textContent = `flowchart TD
-${currentNotes}`;
+        mermaidElement.textContent = `flowchart TD\n${currentNotes}`;
         flowchartContainer.innerHTML = "";
         flowchartContainer.appendChild(mermaidElement);
         try { window.mermaid.run(); } catch (err) {
@@ -208,7 +200,7 @@ ${currentNotes}`;
 
     outputDiv.innerHTML = "<p><em>Updating notes... please wait.</em></p>";
 
-    fetch("http://127.0.0.1:5000/chat_refine_notes", {
+    fetch(`${BASE_URL}/chat_refine_notes`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ original_notes: currentNotes, message })
@@ -225,7 +217,7 @@ ${currentNotes}`;
     chatInput.value = "";
   });
 
-  // Paper Generator Logic with state updates
+  // Paper Generator Dropdown Logic
   [paperBoardDropdown, paperSubjectDropdown, paperTopicDropdown, paperSubtopicDropdown].forEach(el => {
     el.addEventListener("change", updateGeneratePaperButtonState);
   });
@@ -238,7 +230,7 @@ ${currentNotes}`;
     const board = paperBoardDropdown.value;
     if (!board) return;
 
-    fetch(`http://127.0.0.1:5000/get_subjects/${board}`)
+    fetch(`${BASE_URL}/get_subjects/${board}`)
       .then(res => res.json())
       .then(data => {
         data.subjects?.forEach(subject => {
@@ -258,7 +250,7 @@ ${currentNotes}`;
     const subject = paperSubjectDropdown.value;
     if (!board || !subject) return;
 
-    fetch("http://127.0.0.1:5000/get_topics", {
+    fetch(`${BASE_URL}/get_topics`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject })
@@ -282,7 +274,7 @@ ${currentNotes}`;
     const topic = paperTopicDropdown.value;
     if (!board || !subject || !topic || topic === "all") return;
 
-    fetch("http://127.0.0.1:5000/get_subtopics", {
+    fetch(`${BASE_URL}/get_subtopics`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic })
@@ -312,7 +304,7 @@ ${currentNotes}`;
     paperOutput.innerHTML = "<p><em>Generating paper... please wait.</em></p>";
     markschemeOutput.innerHTML = "";
 
-    fetch("http://127.0.0.1:5000/generate_paper", {
+    fetch(`${BASE_URL}/generate_paper`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic, subtopic })
@@ -326,9 +318,4 @@ ${currentNotes}`;
       paperOutput.innerHTML = `<p class='text-danger'>${err.message || "Error."}</p>`;
     });
   });
-
-  paperBoardDropdown.addEventListener("change", updateGeneratePaperButtonState);
-  paperSubjectDropdown.addEventListener("change", updateGeneratePaperButtonState);
-  paperTopicDropdown.addEventListener("change", updateGeneratePaperButtonState);
-  paperSubtopicDropdown.addEventListener("change", updateGeneratePaperButtonState);
 });
