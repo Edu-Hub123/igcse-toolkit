@@ -333,19 +333,26 @@ document.addEventListener("DOMContentLoaded", () => {
               headers: { "Content-Type": "application/json" },
               body: JSON.stringify({ paper_text: currentPaperText })
             })
-            .then(res => res.json())
-            .then(data => {
-              if (data.error) {
-                markschemeOutput.innerHTML = `<p class='text-danger'>${data.error}</p>`;
-              } else if (data.markscheme) {
-                markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
-              } else {
-                markschemeOutput.innerHTML = `<p class='text-danger'>No mark scheme received.</p>`;
+            .then(async res => {
+              if (!res.ok || !res.body) {
+                throw new Error("Failed to stream mark scheme.");
               }
+            
+              const reader = res.body.getReader();
+              const decoder = new TextDecoder("utf-8");
+              let result = "";
+            
+              while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                result += decoder.decode(value, { stream: true });
+              }
+            
+              markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${result}</pre>`;
             })
             .catch(err => {
               markschemeOutput.innerHTML = `<p class='text-danger'>Failed to fetch mark scheme: ${err.message}</p>`;
-            });
+            });            
             return;
           }
           result += decoder.decode(value, { stream: true });
