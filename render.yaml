@@ -2,9 +2,9 @@ services:
   - type: web
     name: igcse-toolkit
     env: python
-    plan: free
+    plan: standard
     buildCommand: ""
-    startCommand: gunicorn server:app
+    startCommand: gunicorn server:app --worker-class gevent --timeout 180
     envVars:
       - key: OPENAI_API_KEY
         sync: false
