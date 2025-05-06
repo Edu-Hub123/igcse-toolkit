@@ -165,8 +165,11 @@ Rules:
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
-            stream=True
+            stream=True,
+            max_tokens=6000,
+            temperature=0.5
         )
+
         for chunk in response:
             yield chunk.choices[0].delta.content or ""
 
