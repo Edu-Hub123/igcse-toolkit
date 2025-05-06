@@ -335,7 +335,16 @@ document.addEventListener("DOMContentLoaded", () => {
             })
             .then(res => res.json())
             .then(data => {
-              markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
+              if (data.error) {
+                markschemeOutput.innerHTML = `<p class='text-danger'>${data.error}</p>`;
+              } else if (data.markscheme) {
+                markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
+              } else {
+                markschemeOutput.innerHTML = `<p class='text-danger'>No mark scheme received.</p>`;
+              }
+            })
+            .catch(err => {
+              markschemeOutput.innerHTML = `<p class='text-danger'>Failed to fetch mark scheme: ${err.message}</p>`;
             });
             return;
           }
