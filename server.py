@@ -137,13 +137,9 @@ Syllabus points:
 {syllabus_str}
 
 Guidelines:
-- The notes should be as long and detailed as possible, while remaining strictly relevant to the content above. 
-- Write each point in STRICT accordance with the syllabus points under each sub-topic in {syllabus_str}. 
+- Write each point in STRICT accordance with the syllabus points under each sub-topic in {syllabus_str}, using real-world examples and definitions where relevant.
 - Where relevant, ALWAYS include real-world examples. 
-- Do not include any content that is not explicitly mentioned above.
-- Use bold headings that state which topic/sub-topic is being discussed. 
-- Under each heading, explain clearly using short paragraphs or bullet points.
-- Include definitions, diagrams, and examples ONLY if directly relevant to the points.
+- Use bold headings that state which topic/sub-topic is being discussed, and explain the content below each heading using bullet points an short paragraphs.
 - Make each point as detailed as possible: don't just state what something is, explain it, provide context, give examples if relevant etc. 
 - When writing each point, try and achieve the goal of maximising learner understanding as if they were learning each concept for the first time. 
 - Do not include intros, summaries, or disclaimers.
@@ -164,6 +160,7 @@ Rules:
 """
 
     def stream_notes():
+        yield " " * 256
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
@@ -255,6 +252,7 @@ Return only the questions.
 """
 
     def stream_paper():
+        yield " " * 256
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": paper_prompt}],
@@ -300,6 +298,7 @@ Instructions:
 """
 
     def stream_markscheme():
+        yield " " * 256
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
