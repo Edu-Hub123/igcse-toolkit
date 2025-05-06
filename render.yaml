@@ -4,7 +4,7 @@ services:
     env: python
     plan: standard
     buildCommand: ""
-    startCommand: gunicorn server:app --worker-class gevent --timeout 180
+    startCommand: gunicorn server:app --worker-class gevent --timeout 300
     envVars:
       - key: OPENAI_API_KEY
         sync: false
