@@ -59,8 +59,12 @@ document.addEventListener("DOMContentLoaded", () => {
     const topic = topicDropdown.value;
     const subtopic = subtopicDropdown.value;
     const learnerType = learnerDropdown.value;
-    generateBtn.disabled = !(board && subject && topic && subtopic && learnerType);
-  }
+  
+    const allSelected = board && subject && topic && subtopic && learnerType;
+    const isVisual = learnerType === "visual";
+  
+    generateBtn.disabled = !(allSelected && !isVisual);
+  }  
 
   function updateGeneratePaperButtonState() {
     const board = paperBoardDropdown.value;

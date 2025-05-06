@@ -227,7 +227,7 @@ Instructions:
 5. Do NOT include answers.
 6. Be formal and concise.
 7. Do NOT include any hints or state any suggestions for answers within the question. 
-8. Do NOT write more questions than you have the scope to provide a mark scheme for. 
+8. Do NOT write more than 10 questions
 9. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
 Return only the paper content.
 """
