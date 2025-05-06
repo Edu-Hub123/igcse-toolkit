@@ -8,7 +8,8 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from datetime import datetime
-import time 
+import time
+import sys
 
 load_dotenv()
 
@@ -177,7 +178,8 @@ Rules:
                 yield content
                 last_yield_time = time.time()
             elif time.time() - last_yield_time > 5:
-                yield " "  # keep-alive ping
+                yield "[ping]\n"
+                sys.stdout.flush()
                 last_yield_time = time.time()
 
     return Response(stream_with_context(stream_notes()), mimetype="text/plain")
@@ -267,7 +269,8 @@ Return only the questions.
                 yield content
                 last_yield_time = time.time()
             elif time.time() - last_yield_time > 5:
-                yield " "  # keep-alive ping
+                yield "[ping]\n"
+                sys.stdout.flush()
                 last_yield_time = time.time()
 
     return Response(stream_with_context(stream_paper()), mimetype="text/plain")
@@ -315,7 +318,8 @@ Instructions:
                 yield content
                 last_yield_time = time.time()
             elif time.time() - last_yield_time > 5:
-                yield " "  # keep-alive ping
+                yield "[ping]\n"
+                sys.stdout.flush()
                 last_yield_time = time.time()
 
     return Response(stream_with_context(stream_markscheme()), mimetype="text/plain")
