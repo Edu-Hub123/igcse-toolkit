@@ -8,6 +8,7 @@ from openai import OpenAI
 import os
 from dotenv import load_dotenv
 from datetime import datetime
+import time 
 
 load_dotenv()
 
@@ -127,6 +128,7 @@ def generate_notes():
         return jsonify({"error": "Invalid syllabus selection"}), 404
 
     syllabus_str = "\n".join(f"- {p}" for p in points)
+    
     if learner_type == "reading_and_writing":
         prompt = f"""
 You are an expert IGCSE {subject} tutor. Generate comprehensive revision notes strictly based on the syllabus points below.
@@ -170,8 +172,16 @@ Rules:
             temperature=0.5
         )
 
+        last_yield_time = time.time()
+
         for chunk in response:
-            yield chunk.choices[0].delta.content or ""
+            content = chunk.choices[0].delta.content or ""
+            if content:
+                yield content
+                last_yield_time = time.time()
+            elif time.time() - last_yield_time > 5:
+                yield " "  # keep-alive ping
+                last_yield_time = time.time()
 
     return Response(stream_with_context(stream_notes()), mimetype="text/plain")
 
@@ -250,8 +260,17 @@ Return only the questions.
             messages=[{"role": "user", "content": paper_prompt}],
             stream=True
         )
+
+        last_yield_time = time.time()
+
         for chunk in response:
-            yield chunk.choices[0].delta.content or ""
+            content = chunk.choices[0].delta.content or ""
+            if content:
+                yield content
+                last_yield_time = time.time()
+            elif time.time() - last_yield_time > 5:
+                yield " "  # keep-alive ping
+                last_yield_time = time.time()
 
     return Response(stream_with_context(stream_paper()), mimetype="text/plain")
 
@@ -280,16 +299,28 @@ Instructions:
 6. Do NOT write any text that is not directly related to the mark scheme, including intros or warning messages.
 """
 
-    try:
+    def stream_markscheme():
         response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.5,
-            max_tokens=3000
+            stream=True,
+            max_tokens=6000,
+            temperature=0.5
         )
-        return jsonify({"markscheme": response.choices[0].message.content.strip()})
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+
+        last_yield_time = time.time()
+
+        for chunk in response:
+            content = chunk.choices[0].delta.content or ""
+            if content:
+                yield content
+                last_yield_time = time.time()
+            elif time.time() - last_yield_time > 5:
+                yield " "  # keep-alive ping
+                last_yield_time = time.time()
+
+    return Response(stream_with_context(stream_markscheme()), mimetype="text/plain")
+
 
 @app.route("/chat_refine_notes", methods=["POST"])
 def chat_refine_notes():

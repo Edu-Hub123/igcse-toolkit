@@ -1,8 +1,8 @@
-// script.js (Updated to work with Render deployment)
+// script.js (Updated to stream /generate_notes and /generate_paper and fetch markscheme afterward)
 document.addEventListener("DOMContentLoaded", () => {
   const BASE_URL = window.location.hostname === "localhost"
     ? "http://127.0.0.1:5000"
-    : "https://igcse-toolkit.onrender.com"
+    : "https://igcse-toolkit.onrender.com";
 
   const tabs = {
     home: document.getElementById("tab-home"),
@@ -37,6 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const generatePaperBtn = document.getElementById("generate-paper-btn");
 
   let currentNotes = "";
+  let currentPaperText = "";
 
   function showTab(name) {
     Object.keys(tabs).forEach(key => {
@@ -45,9 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
     tabs[name].classList.add("active");
     tabContents[name].style.display = "block";
-    if (chatContainer) {
-      chatContainer.style.display = (name === "notes") ? "block" : "none";
-    }
+    chatContainer.style.display = name === "notes" ? "block" : "none";
   }
 
   function resetDropdown(dropdown, defaultText) {
@@ -164,31 +163,43 @@ document.addEventListener("DOMContentLoaded", () => {
     outputDiv.innerHTML = "<p><em>Generating notes... please wait.</em></p>";
     flowchartContainer.innerHTML = "";
     chatContainer.style.display = "none";
+    currentNotes = "";
 
     fetch(`${BASE_URL}/generate_notes`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic, subtopic, learner_type: learnerType })
-    })
-    .then(res => res.json())
-    .then(data => {
-      currentNotes = data.notes;
-      chatContainer.style.display = "block";
-      if (learnerType === "visual") {
-        const mermaidElement = document.createElement("div");
-        mermaidElement.classList.add("mermaid");
-        mermaidElement.textContent = `flowchart TD\n${currentNotes}`;
-        flowchartContainer.innerHTML = "";
-        flowchartContainer.appendChild(mermaidElement);
-        try { window.mermaid.run(); } catch (err) {
-          console.error("Mermaid render failed:", err);
-        }
-      } else {
-        flowchartContainer.innerHTML = "";
-        outputDiv.innerHTML = marked.parse(currentNotes);
+    }).then(response => {
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder("utf-8");
+      let result = "";
+
+      function read() {
+        reader.read().then(({ done, value }) => {
+          if (done) {
+            currentNotes = result;
+            chatContainer.style.display = "block";
+            if (learnerType === "visual") {
+              const mermaidElement = document.createElement("div");
+              mermaidElement.classList.add("mermaid");
+              mermaidElement.textContent = `flowchart TD\n${currentNotes}`;
+              flowchartContainer.innerHTML = "";
+              flowchartContainer.appendChild(mermaidElement);
+              try { window.mermaid.run(); } catch (err) {
+                console.error("Mermaid render failed:", err);
+              }
+            } else {
+              flowchartContainer.innerHTML = "";
+              outputDiv.innerHTML = marked.parse(currentNotes);
+            }
+            return;
+          }
+          result += decoder.decode(value, { stream: true });
+          read();
+        });
       }
-    })
-    .catch(err => {
+      read();
+    }).catch(err => {
       outputDiv.innerHTML = `<p class='text-danger'>${err.message || "Error."}</p>`;
     });
   });
@@ -217,7 +228,6 @@ document.addEventListener("DOMContentLoaded", () => {
     chatInput.value = "";
   });
 
-  // Paper Generator Dropdown Logic
   [paperBoardDropdown, paperSubjectDropdown, paperTopicDropdown, paperSubtopicDropdown].forEach(el => {
     el.addEventListener("change", updateGeneratePaperButtonState);
   });
@@ -303,16 +313,46 @@ document.addEventListener("DOMContentLoaded", () => {
 
     paperOutput.innerHTML = "<p><em>Generating paper... please wait.</em></p>";
     markschemeOutput.innerHTML = "";
+    let result = "";
 
     fetch(`${BASE_URL}/generate_paper`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ board, subject, topic, subtopic })
     })
-    .then(res => res.json())
-    .then(data => {
-      paperOutput.innerHTML = `<h4>Paper</h4><pre>${data.paper}</pre>`;
-      markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
+    .then(response => {
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder("utf-8");
+      function read() {
+        reader.read().then(({ done, value }) => {
+          if (done) {
+            currentPaperText = result;
+            paperOutput.innerHTML = `<h4>Paper</h4><pre>${currentPaperText}</pre>`;
+            fetch(`${BASE_URL}/generate_markscheme`, {
+              method: "POST",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ paper_text: currentPaperText })
+            })
+            .then(res => res.json())
+            .then(data => {
+              if (data.error) {
+                markschemeOutput.innerHTML = `<p class='text-danger'>${data.error}</p>`;
+              } else if (data.markscheme) {
+                markschemeOutput.innerHTML = `<h4>Mark Scheme</h4><pre>${data.markscheme}</pre>`;
+              } else {
+                markschemeOutput.innerHTML = `<p class='text-danger'>No mark scheme received.</p>`;
+              }
+            })
+            .catch(err => {
+              markschemeOutput.innerHTML = `<p class='text-danger'>Failed to fetch mark scheme: ${err.message}</p>`;
+            });
+            return;
+          }
+          result += decoder.decode(value, { stream: true });
+          read();
+        });
+      }
+      read();
     })
     .catch(err => {
       paperOutput.innerHTML = `<p class='text-danger'>${err.message || "Error."}</p>`;
