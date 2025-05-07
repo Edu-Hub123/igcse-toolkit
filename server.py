@@ -140,9 +140,9 @@ Syllabus points:
 
 Guidelines:
 - Important: You must ensure that the generated notes fully and completely cover every syllabus point listed below. Do not omit or skip any point. All syllabus content must be addressed in detail, with no gaps.
-- Write each point in STRICT accordance with the syllabus points under each sub-topic in {syllabus_str}, using real-world examples and definitions where relevant.
+- Write each point in STRICT accordance with the given syllabus points, using real-world examples and definitions where relevant.
 - Where relevant, ALWAYS include real-world examples. 
-- Use bold headings that state which topic/sub-topic is being discussed, and explain the content below each heading using bullet points an short paragraphs.
+- Use bold headings that state which topic/sub-topic is being discussed, and explain the content below each heading using bullet points and short paragraphs.
 - Make each point as detailed as possible: don't just state what something is, explain it, provide context, give examples if relevant etc. 
 - When writing each point, try and achieve the goal of maximising learner understanding as if they were learning each concept for the first time. 
 - Do not include intros, summaries, or disclaimers.
