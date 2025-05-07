@@ -147,7 +147,7 @@ Guidelines:
 - When writing each point, try and achieve the goal of maximising learner understanding as if they were learning each concept for the first time. 
 - Do not include intros, summaries, or disclaimers.
 - Your notes must be exam-focused and syllabus-aligned.
-- You response must not exceed {word_limit} words in total, while ensuring that every single syllabus point is still fully covered and explained.
+- Your response must not exceed {word_limit} words in total, while ensuring that every single syllabus point is still fully covered and explained.
 """
     else:
         prompt = f"""
@@ -165,25 +165,32 @@ Rules:
 
     def stream_notes():
         yield " " * 256
-        response = client.chat.completions.create(
-            model="gpt-4",
-            messages=[{"role": "user", "content": prompt}],
-            stream=True,
-            max_tokens=6000,
-            temperature=0.5
-        )
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4",
+                messages=[{"role": "user", "content": prompt}],
+                stream=True,
+                max_tokens=6000,
+                temperature=0.5
+            )
 
-        last_yield_time = time.time()
+            last_yield_time = time.time()
 
-        for chunk in response:
-            content = chunk.choices[0].delta.content or ""
-            if content:
-                yield content
-                last_yield_time = time.time()
-            elif time.time() - last_yield_time > 5:
-                yield "[ping]\n"
-                sys.stdout.flush()
-                last_yield_time = time.time()
+            for chunk in response:
+                content = chunk.choices[0].delta.content or ""
+                print("STREAM CHUNK:", repr(content))  # Debug output
+                if content:
+                    yield content
+                    last_yield_time = time.time()
+                elif time.time() - last_yield_time > 3:
+                    print("[Ping emitted]")
+                    yield "[ping]\n"
+                    sys.stdout.flush()
+                    last_yield_time = time.time()
+            print("[Stream ended]")
+        except Exception as e:
+            print("[Stream error]:", str(e))
+            yield "\n[ERROR OCCURRED: {}]\n".format(str(e))
 
     return Response(stream_with_context(stream_notes()), mimetype="text/plain")
 
