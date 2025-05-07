@@ -232,13 +232,14 @@ Generate a full-length IGCSE {subject} exam paper for {board}, using ONLY the sy
 Instructions:
 1. Match the exact format and style of official past papers.
 2. Include paper number, sections, question numbering, and instructions.
-3. Use a variety of question types appropriate for IGCSE.
-4. Show marks for each question (e.g., [3 marks]).
-5. Do NOT include answers.
-6. Be formal and concise.
-7. Do NOT include any hints or state any suggestions for answers within the question. 
-8. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
-9. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
+3. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
+4. Use a variety of question types appropriate for the subject, exam board and IGCSE.
+5. Show marks for each question (e.g., [3 marks]).
+6. Do NOT include answers.
+7. Be formal and concise.
+8. Do NOT include any hints or state any suggestions for answers within the question. 
+9. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
+10. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
 Return only the paper content.
 """
     else:
@@ -250,15 +251,15 @@ Generate exam-style practice questions on the topic '{topic}' in {subject} for {
 
 Instructions:
 1. Include paper number, sections, question numbering, and instructions.
-2. Use a variety of question types appropriate for IGCSE.
-3. Show marks for each question (e.g., [3 marks]).
-4. Do NOT include answers.
-5. Be formal and concise.
-6. Do NOT include any hints or state any suggestions for answers within the question.
-7. Do NOT hallucinate information about the paper number (e.g, don't say 'Paper 2 ....' at the top of the questions).
-8. Do NOT split the questions up into 'sections'. 
-9. State the total number of marks available for the paper at the start of it. 
-10. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
+2. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
+3. Use a variety of question types appropriate for the subject, exam board and IGCSE.
+4. Show marks for each question (e.g., [3 marks]).
+5. Do NOT include answers.
+6. Be formal and concise.
+7. Do NOT include any hints or state any suggestions for answers within the question.
+8. Do NOT hallucinate information about the paper number (e.g, don't say 'Paper 2 ....' at the top of the questions).
+9. Do NOT split the questions up into 'sections'. 
+10. State the total number of marks available for the paper at the start of it. 
 11. Do NOT write any text that is not directly related to the paper, including intros or warning messages etc.
 Return only the questions.
 """
