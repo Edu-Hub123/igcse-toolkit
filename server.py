@@ -230,7 +230,7 @@ Generate a full-length IGCSE {subject} exam paper for {board}, using ONLY the sy
 {syllabus_str}
 
 Instructions:
-IMPORTANT: You must not write more than 6 total question components (e.g., 1a, 2b, etc.). This includes all sub-parts. Do not exceed this limit under any circumstances.
+IMPORTANT: You must not write more than 7 total questions. This includes all sub-parts. Do not exceed this limit under any circumstances.
 1. Match the exact format and style of official past papers.
 2. Include paper number, sections, question numbering, and instructions.
 3. Use a variety of question types appropriate for the subject, exam board and IGCSE.
@@ -249,7 +249,7 @@ Generate exam-style practice questions on the topic '{topic}' in {subject} for {
 {syllabus_str}
 
 Instructions:
-IMPORTANT: You must not write more than 7 total question components (e.g., 1a, 2b, etc.). This includes all sub-parts. Do not exceed this limit under any circumstances.
+IMPORTANT: You must not write more than 7 total questions. This includes all sub-parts. Do not exceed this limit under any circumstances.
 1. Include paper number, sections, question numbering, and instructions.
 2. Use a variety of question types appropriate for the subject, exam board and IGCSE.
 3. Show marks for each question (e.g., [3 marks]).
@@ -303,7 +303,7 @@ Paper:
 
 Instructions: 
 Instructions:
-1. Provide accurate, concise model answers with full mark allocation.
+1. Provide accurate, concise model answers with clear mark allocation next to each point.
 2. Use bullet points where appropriate for clarity.
 3. For each question part, clearly show how marks are earned, but avoid repeating the full question unless needed.
 4. Keep the total length of the mark scheme under 1200 words.
