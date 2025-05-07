@@ -304,6 +304,7 @@ Paper:
 ---
 
 Instructions: 
+IMPORTANT: A full mark scheme must be delivered for ALL the questions in the paper. Modify the length of answer you print for each question accordingly. If you fo not fulfil this, the task has failed. 
 1. Use the same numbering and format. 
 2. Provide correct answers in as much detail as possible. 
 3. Provide exact mark allocations for every single mark within each question so that the user has complete clarity on how to score full marks.
