@@ -129,8 +129,9 @@ def generate_notes():
         return jsonify({"error": "Invalid syllabus selection"}), 404
 
     syllabus_str = "\n".join(f"- {p}" for p in points)
-    
+
     if learner_type == "reading_and_writing":
+        word_limit = max(1000, len(points) * 40)
         prompt = f"""
 You are an expert IGCSE {subject} tutor. Generate comprehensive revision notes strictly based on the syllabus points below.
 
@@ -146,6 +147,7 @@ Guidelines:
 - When writing each point, try and achieve the goal of maximising learner understanding as if they were learning each concept for the first time. 
 - Do not include intros, summaries, or disclaimers.
 - Your notes must be exam-focused and syllabus-aligned.
+- You must aim to stay within approximately {word_limit} words in total, while ensuring that every single syllabus point is still fully covered and explained.
 """
     else:
         prompt = f"""
@@ -228,7 +230,7 @@ Instructions:
 5. Do NOT include answers.
 6. Be formal and concise.
 7. Do NOT include any hints or state any suggestions for answers within the question. 
-8. Do NOT write more than 7 questions.
+8. Do NOT write more than 7 questions, including sub-parts to questions (a, b, c etc.)
 9. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
 Return only the paper content.
 """
@@ -249,7 +251,7 @@ Instructions:
 7. Do NOT hallucinate information about the paper number (e.g, don't say 'Paper 2 ....' at the top of the questions).
 8. Do NOT split the questions up into 'sections'. 
 9. State the total number of marks available for the paper at the start of it. 
-10. Do NOT write more than 7 questions. 
+10. Do NOT write more than 7 questions, including sub-parts to questions (a, b, c etc.)
 11. Do NOT write any text that is not directly related to the paper, including intros or warning messages etc.
 Return only the questions.
 """
