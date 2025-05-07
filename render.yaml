@@ -4,7 +4,7 @@ services:
     env: python
     plan: standard
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn server:app --worker-class uvicorn.workers.UvicornWorker --timeout 300
+    startCommand: gunicorn server:app --worker-class uvicorn.workers.UvicornWorker --timeout 600
     envVars:
       - key: OPENAI_API_KEY
         sync: false
