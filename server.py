@@ -147,7 +147,7 @@ Guidelines:
 - When writing each point, try and achieve the goal of maximising learner understanding as if they were learning each concept for the first time. 
 - Do not include intros, summaries, or disclaimers.
 - Your notes must be exam-focused and syllabus-aligned.
-- You must aim to stay within approximately {word_limit} words in total, while ensuring that every single syllabus point is still fully covered and explained.
+- You response must not exceed {word_limit} words in total, while ensuring that every single syllabus point is still fully covered and explained.
 """
     else:
         prompt = f"""
