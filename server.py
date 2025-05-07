@@ -237,7 +237,7 @@ Instructions:
 5. Do NOT include answers.
 6. Be formal and concise.
 7. Do NOT include any hints or state any suggestions for answers within the question. 
-8. Do NOT write more than 7 questions, including sub-parts to questions (a, b, c etc.)
+8. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
 9. Do NOT write any text that is not directly related to the paper, including intros, warning messages etc.
 Return only the paper content.
 """
@@ -258,7 +258,7 @@ Instructions:
 7. Do NOT hallucinate information about the paper number (e.g, don't say 'Paper 2 ....' at the top of the questions).
 8. Do NOT split the questions up into 'sections'. 
 9. State the total number of marks available for the paper at the start of it. 
-10. Do NOT write more than 7 questions, including sub-parts to questions (a, b, c etc.)
+10. You must include no more than 7 total question components, where each lettered sub-part (e.g., 1a, 1b, 2a) counts as one full question. For example, if you write Q1a, Q1b, and Q2, that counts as 3 total questions already. The total number of question components (questions and sub-parts combined) must never exceed 7.
 11. Do NOT write any text that is not directly related to the paper, including intros or warning messages etc.
 Return only the questions.
 """
