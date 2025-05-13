@@ -57,7 +57,7 @@ EDEXCEL_SUBJECTS = sorted([
 def restrict_time_window():
     now = datetime.utcnow()
     start_time = datetime(2025, 5, 3)
-    end_time = datetime(2025, 5, 12)
+    end_time = datetime(2025, 5, 20)
     if not (start_time <= now <= end_time):
         return jsonify({"error": "Access to the prototype has expired."}), 403
 
